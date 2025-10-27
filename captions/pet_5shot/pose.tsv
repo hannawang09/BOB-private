@@ -1,0 +1,186 @@
+image	response
+../dataset/datasets/pet/5shot/train/Abyssinian/2.jpg	A pet is resting on a green surface, looking forward.
+../dataset/datasets/pet/5shot/train/Abyssinian/0.jpg	A pet sits upright, front paws extended forward.
+../dataset/datasets/pet/5shot/train/Abyssinian/4.jpg	A pet is being held upright.
+../dataset/datasets/pet/5shot/train/Abyssinian/3.jpg	A pet is lying down, relaxed.
+../dataset/datasets/pet/5shot/train/Abyssinian/1.jpg	A pet is sitting on a red striped surface, leaning slightly forward with its tail curled around itself.
+../dataset/datasets/pet/5shot/train/american_bulldog/61.jpg	A pet is looking upwards.
+../dataset/datasets/pet/5shot/train/american_bulldog/60.jpg	A pet stands on grass, looking forward.
+../dataset/datasets/pet/5shot/train/american_bulldog/62.jpg	A pet is lying on grass, tongue out.
+../dataset/datasets/pet/5shot/train/american_bulldog/63.jpg	The pet is lying down with its head slightly raised.
+../dataset/datasets/pet/5shot/train/american_bulldog/64.jpg	a pet is resting on a surface.
+../dataset/datasets/pet/5shot/train/american_pit_bull_terrier/66.jpg	A pet stands alert, tongue out.
+../dataset/datasets/pet/5shot/train/american_pit_bull_terrier/69.jpg	A pet is sitting on grass.
+../dataset/datasets/pet/5shot/train/american_pit_bull_terrier/68.jpg	A pet stands alert, head slightly tilted.
+../dataset/datasets/pet/5shot/train/american_pit_bull_terrier/67.jpg	A pet is lying on its back with legs spread out.
+../dataset/datasets/pet/5shot/train/american_pit_bull_terrier/65.jpg	A pet is sitting upright, looking forward.
+../dataset/datasets/pet/5shot/train/basset_hound/70.jpg	A pet stands alert, tail raised.
+../dataset/datasets/pet/5shot/train/basset_hound/72.jpg	A pet is lying on grass, looking up.
+../dataset/datasets/pet/5shot/train/basset_hound/71.jpg	A pet is lying down, resting its head on a couch.
+../dataset/datasets/pet/5shot/train/basset_hound/73.jpg	A pet stands alert, head slightly tilted.
+../dataset/datasets/pet/5shot/train/basset_hound/74.jpg	A pet is yawning widely.
+../dataset/datasets/pet/5shot/train/beagle/78.jpg	A pet is sitting, looking down.
+../dataset/datasets/pet/5shot/train/beagle/77.jpg	A pet is lying on its side with its head resting on the floor.
+../dataset/datasets/pet/5shot/train/beagle/76.jpg	A pet stands on grass, looking slightly to side.
+../dataset/datasets/pet/5shot/train/beagle/75.jpg	A pet is standing on red bricks, looking up.
+../dataset/datasets/pet/5shot/train/beagle/79.jpg	A pet is sitting on a wooden floor, looking to the side.
+../dataset/datasets/pet/5shot/train/Bengal/5.jpg	A pet is curled up sleeping.
+../dataset/datasets/pet/5shot/train/Bengal/7.jpg	A pet is sitting upright on a rug.
+../dataset/datasets/pet/5shot/train/Bengal/8.jpg	A pet is lying on grass, relaxed.
+../dataset/datasets/pet/5shot/train/Bengal/9.jpg	A pet is lying on its back with legs stretched out.
+../dataset/datasets/pet/5shot/train/Bengal/6.jpg	A pet is lying on its side with one paw extended and mouth open.
+../dataset/datasets/pet/5shot/train/Birman/10.jpg	A pet is sitting upright on a speaker.
+../dataset/datasets/pet/5shot/train/Birman/12.jpg	A pet is sitting upright with its front paws extended forward and mouth open, appearing relaxed or yawning.
+../dataset/datasets/pet/5shot/train/Birman/13.jpg	A pet is lying on its back, legs up in the air.
+../dataset/datasets/pet/5shot/train/Birman/14.jpg	A pet is lying on its back with legs stretched out.
+../dataset/datasets/pet/5shot/train/Birman/11.jpg	A pet is lounging, tongue out.
+../dataset/datasets/pet/5shot/train/Bombay/17.jpg	A pet is lying down with front paws extended forward.
+../dataset/datasets/pet/5shot/train/Bombay/18.jpg	A pet is lounging on a laptop.
+../dataset/datasets/pet/5shot/train/Bombay/15.jpg	A pet is lying on its side, relaxed.
+../dataset/datasets/pet/5shot/train/Bombay/16.jpg	A pet is lounging comfortably in a box, legs stretched out.
+../dataset/datasets/pet/5shot/train/Bombay/19.jpg	A pet is sitting upright, looking slightly to its left.
+../dataset/datasets/pet/5shot/train/boxer/84.jpg	A pet is lying down on a cushioned chair.
+../dataset/datasets/pet/5shot/train/boxer/82.jpg	A pet is sitting with head tilted back, hands gently holding its head.
+../dataset/datasets/pet/5shot/train/boxer/83.jpg	A pet stands alert, front legs slightly bent.
+../dataset/datasets/pet/5shot/train/boxer/81.jpg	A pet is sitting on a counter, being petted by a person.
+../dataset/datasets/pet/5shot/train/boxer/80.jpg	A pet is sitting with its head slightly tilted, holding a napkin in its mouth.
+../dataset/datasets/pet/5shot/train/British_Shorthair/22.jpg	A pet is resting its paws on an object, leaning forward with a curious expression.
+../dataset/datasets/pet/5shot/train/British_Shorthair/24.jpg	A pet is lounging on a green cat tree.
+../dataset/datasets/pet/5shot/train/British_Shorthair/21.jpg	A pet is sitting calmly.
+../dataset/datasets/pet/5shot/train/British_Shorthair/23.jpg	A pet is lying down with front paws stretched out.
+../dataset/datasets/pet/5shot/train/British_Shorthair/20.jpg	A pet is lying down on a chair.
+../dataset/datasets/pet/5shot/train/chihuahua/87.jpg	A pet sits on rocks, leaning against a person's leg.
+../dataset/datasets/pet/5shot/train/chihuahua/85.jpg	A pet sits upright, front paws extended forward.
+../dataset/datasets/pet/5shot/train/chihuahua/88.jpg	A pet is sitting with front paws crossed.
+../dataset/datasets/pet/5shot/train/chihuahua/86.jpg	A pet is sitting upright on a couch.
+../dataset/datasets/pet/5shot/train/chihuahua/89.jpg	A pet sits calmly, front paws extended forward.
+../dataset/datasets/pet/5shot/train/Egyptian_Mau/26.jpg	A pet is sitting on a towel, looking forward.
+../dataset/datasets/pet/5shot/train/Egyptian_Mau/27.jpg	A pet is sitting upright with front paws tucked under its body.
+../dataset/datasets/pet/5shot/train/Egyptian_Mau/29.jpg	A pet is lying on its side, relaxed and comfortable.
+../dataset/datasets/pet/5shot/train/Egyptian_Mau/28.jpg	A pet is standing on a table, being gently held by a person's hand.
+../dataset/datasets/pet/5shot/train/Egyptian_Mau/25.jpg	A pet is sitting upright, looking alert.
+../dataset/datasets/pet/5shot/train/english_cocker_spaniel/90.jpg	A pet is running.
+../dataset/datasets/pet/5shot/train/english_cocker_spaniel/91.jpg	A pet is lying down with its tongue out.
+../dataset/datasets/pet/5shot/train/english_cocker_spaniel/93.jpg	The pet is lying down with its tongue out.
+../dataset/datasets/pet/5shot/train/english_cocker_spaniel/92.jpg	A pet sits upright in a basket.
+../dataset/datasets/pet/5shot/train/english_cocker_spaniel/94.jpg	A pet is lying down.
+../dataset/datasets/pet/5shot/train/english_setter/97.jpg	A pet is standing still, looking forward.
+../dataset/datasets/pet/5shot/train/english_setter/99.jpg	A pet is running with a stick in its mouth.
+../dataset/datasets/pet/5shot/train/english_setter/96.jpg	A pet stands on a deck, looking up.
+../dataset/datasets/pet/5shot/train/english_setter/98.jpg	A pet is lying down with its head raised, gazing forward.
+../dataset/datasets/pet/5shot/train/english_setter/95.jpg	A pet is lounging on an armchair.
+../dataset/datasets/pet/5shot/train/german_shorthaired/102.jpg	A pet is sitting on snow, facing slightly to the right.
+../dataset/datasets/pet/5shot/train/german_shorthaired/103.jpg	A pet is sitting with one leg raised.
+../dataset/datasets/pet/5shot/train/german_shorthaired/101.jpg	A pet stands on a rug, looking forward.
+../dataset/datasets/pet/5shot/train/german_shorthaired/104.jpg	A pet stands alert, front paws slightly apart.
+../dataset/datasets/pet/5shot/train/german_shorthaired/100.jpg	A pet is sitting on grass, looking up.
+../dataset/datasets/pet/5shot/train/great_pyrenees/108.jpg	A pet is curled up on grass, holding a toy.
+../dataset/datasets/pet/5shot/train/great_pyrenees/106.jpg	A pet stands alert, front paws slightly apart.
+../dataset/datasets/pet/5shot/train/great_pyrenees/107.jpg	A pet is lying down on grass.
+../dataset/datasets/pet/5shot/train/great_pyrenees/105.jpg	A pet is lying down with its front paw extended.
+../dataset/datasets/pet/5shot/train/great_pyrenees/109.jpg	A pet is standing outdoors, looking to the side.
+../dataset/datasets/pet/5shot/train/havanese/110.jpg	A pet is lying down on a blanket, looking out the window.
+../dataset/datasets/pet/5shot/train/havanese/114.jpg	A pet is lying on a bed, partially covered by a blanket.
+../dataset/datasets/pet/5shot/train/havanese/112.jpg	A pet stands upright, tongue out.
+../dataset/datasets/pet/5shot/train/havanese/111.jpg	A pet sits near curtains, looking forward.
+../dataset/datasets/pet/5shot/train/havanese/113.jpg	A pet is sitting with its tongue out.
+../dataset/datasets/pet/5shot/train/japanese_chin/116.jpg	A pet is sitting with its head slightly tilted.
+../dataset/datasets/pet/5shot/train/japanese_chin/118.jpg	A pet is lounging on a green metal table.
+../dataset/datasets/pet/5shot/train/japanese_chin/119.jpg	A pet is lying on its side, looking up.
+../dataset/datasets/pet/5shot/train/japanese_chin/117.jpg	A pet is lying down.
+../dataset/datasets/pet/5shot/train/japanese_chin/115.jpg	A pet is lying on a blanket, holding a toy in its mouth.
+../dataset/datasets/pet/5shot/train/keeshond/121.jpg	A pet is lying down with its head slightly raised.
+../dataset/datasets/pet/5shot/train/keeshond/122.jpg	A pet is lying down on its side.
+../dataset/datasets/pet/5shot/train/keeshond/124.jpg	A pet is sitting on a rock, looking to the side.
+../dataset/datasets/pet/5shot/train/keeshond/123.jpg	A pet stands on grass, looking up.
+../dataset/datasets/pet/5shot/train/keeshond/120.jpg	A pet is standing still, looking downward.
+../dataset/datasets/pet/5shot/train/leonberger/127.jpg	A pet is standing with its head slightly tilted, mouth open, and tongue visible.
+../dataset/datasets/pet/5shot/train/leonberger/125.jpg	A pet is lying down with a stick in its mouth.
+../dataset/datasets/pet/5shot/train/leonberger/129.jpg	A pet sits with one leg bandaged.
+../dataset/datasets/pet/5shot/train/leonberger/128.jpg	A pet stands with tongue out, looking alert.
+../dataset/datasets/pet/5shot/train/leonberger/126.jpg	A pet stands on a blue tarp, looking forward.
+../dataset/datasets/pet/5shot/train/Maine_Coon/31.jpg	A pet is sitting, looking forward.
+../dataset/datasets/pet/5shot/train/Maine_Coon/33.jpg	A pet is sitting upright on a surface.
+../dataset/datasets/pet/5shot/train/Maine_Coon/32.jpg	A pet is lying down on grass.
+../dataset/datasets/pet/5shot/train/Maine_Coon/30.jpg	A pet sits upright, facing forward.
+../dataset/datasets/pet/5shot/train/Maine_Coon/34.jpg	A pet is sitting on a windowsill, looking outside.
+../dataset/datasets/pet/5shot/train/miniature_pinscher/134.jpg	A pet is sitting upright, looking directly at the camera.
+../dataset/datasets/pet/5shot/train/miniature_pinscher/132.jpg	A pet sits upright on a barrel, front paws resting on the edge.
+../dataset/datasets/pet/5shot/train/miniature_pinscher/130.jpg	A pet is sitting on its hind legs with front paws extended forward.
+../dataset/datasets/pet/5shot/train/miniature_pinscher/133.jpg	A pet is sitting upright, looking forward.
+../dataset/datasets/pet/5shot/train/miniature_pinscher/131.jpg	A pet stands on hind legs, front paws raised.
+../dataset/datasets/pet/5shot/train/newfoundland/139.jpg	A pet is sitting on grass.
+../dataset/datasets/pet/5shot/train/newfoundland/135.jpg	A pet stands alert, tail raised.
+../dataset/datasets/pet/5shot/train/newfoundland/136.jpg	A pet stands on grass, facing forward.
+../dataset/datasets/pet/5shot/train/newfoundland/138.jpg	A pet is lying on an orange cushion.
+../dataset/datasets/pet/5shot/train/newfoundland/137.jpg	A pet stands in snow, looking up.
+../dataset/datasets/pet/5shot/train/Persian/35.jpg	A pet is sitting with its front paws extended forward and back legs slightly apart, tail curled around.
+../dataset/datasets/pet/5shot/train/Persian/36.jpg	A pet is sitting upright in a box.
+../dataset/datasets/pet/5shot/train/Persian/39.jpg	A pet is lounging on its side, leaning over a dark surface.
+../dataset/datasets/pet/5shot/train/Persian/37.jpg	A pet sits upright on wooden floor.
+../dataset/datasets/pet/5shot/train/Persian/38.jpg	A pet is lounging on a scratching post.
+../dataset/datasets/pet/5shot/train/pomeranian/143.jpg	A pet is sitting upright, looking directly at the camera.
+../dataset/datasets/pet/5shot/train/pomeranian/141.jpg	A pet stands on all fours, looking up.
+../dataset/datasets/pet/5shot/train/pomeranian/144.jpg	A pet is sitting upright, looking forward.
+../dataset/datasets/pet/5shot/train/pomeranian/140.jpg	A pet is sitting on a wooden floor, looking forward.
+../dataset/datasets/pet/5shot/train/pomeranian/142.jpg	A pet is lying on its side with one paw resting on a red ball.
+../dataset/datasets/pet/5shot/train/pug/147.jpg	A pet stands alert, front paws apart, back legs slightly bent.
+../dataset/datasets/pet/5shot/train/pug/148.jpg	A pet is sitting on a cushion, legs extended.
+../dataset/datasets/pet/5shot/train/pug/145.jpg	A pet is lying down with its front paws stretched out.
+../dataset/datasets/pet/5shot/train/pug/146.jpg	A pet is lying on its side with one paw extended forward.
+../dataset/datasets/pet/5shot/train/pug/149.jpg	A pet is sitting upright on a wooden floor.
+../dataset/datasets/pet/5shot/train/Ragdoll/40.jpg	A pet sits upright, facing forward.
+../dataset/datasets/pet/5shot/train/Ragdoll/41.jpg	A pet is hanging off a table edge.
+../dataset/datasets/pet/5shot/train/Ragdoll/42.jpg	A pet is sitting upright, looking forward.
+../dataset/datasets/pet/5shot/train/Ragdoll/43.jpg	A pet is lying on its side with one paw extended.
+../dataset/datasets/pet/5shot/train/Ragdoll/44.jpg	A pet is sitting on a surface, looking up.
+../dataset/datasets/pet/5shot/train/Russian_Blue/48.jpg	A pet is lying down with its front paws crossed.
+../dataset/datasets/pet/5shot/train/Russian_Blue/49.jpg	A pet is sitting with head slightly tilted.
+../dataset/datasets/pet/5shot/train/Russian_Blue/47.jpg	A pet is lying down, licking its paw.
+../dataset/datasets/pet/5shot/train/Russian_Blue/46.jpg	A pet is sitting upright, looking upwards.
+../dataset/datasets/pet/5shot/train/Russian_Blue/45.jpg	A pet is standing on its hind legs.
+../dataset/datasets/pet/5shot/train/saint_bernard/154.jpg	A pet is lying on its side with one paw stretched out.
+../dataset/datasets/pet/5shot/train/saint_bernard/152.jpg	A pet is running with tongue out.
+../dataset/datasets/pet/5shot/train/saint_bernard/151.jpg	A pet is lying on its side, partially covered by a blanket.
+../dataset/datasets/pet/5shot/train/saint_bernard/150.jpg	A pet is looking upwards.
+../dataset/datasets/pet/5shot/train/saint_bernard/153.jpg	A pet stands alert, tongue out.
+../dataset/datasets/pet/5shot/train/samoyed/156.jpg	A pet is sitting on grass, looking forward.
+../dataset/datasets/pet/5shot/train/samoyed/158.jpg	A pet is standing with its tongue out, looking alert.
+../dataset/datasets/pet/5shot/train/samoyed/159.jpg	A pet is lying down.
+../dataset/datasets/pet/5shot/train/samoyed/155.jpg	A pet is lying down.
+../dataset/datasets/pet/5shot/train/samoyed/157.jpg	A pet is sitting on the beach.
+../dataset/datasets/pet/5shot/train/scottish_terrier/163.jpg	A pet is standing on a tiled floor, looking up.
+../dataset/datasets/pet/5shot/train/scottish_terrier/161.jpg	A pet is sitting on the floor.
+../dataset/datasets/pet/5shot/train/scottish_terrier/160.jpg	A pet is sitting upright, looking directly at the camera.
+../dataset/datasets/pet/5shot/train/scottish_terrier/162.jpg	A pet is lying down with its paws stretched out.
+../dataset/datasets/pet/5shot/train/scottish_terrier/164.jpg	A pet is running on all fours.
+../dataset/datasets/pet/5shot/train/shiba_inu/168.jpg	A pet is sitting upright, looking up.
+../dataset/datasets/pet/5shot/train/shiba_inu/166.jpg	A pet stands alert, tail slightly raised.
+../dataset/datasets/pet/5shot/train/shiba_inu/167.jpg	A pet stands alert, facing left.
+../dataset/datasets/pet/5shot/train/shiba_inu/169.jpg	A pet stands on hind legs, tongue out.
+../dataset/datasets/pet/5shot/train/shiba_inu/165.jpg	A pet is resting, head slightly tilted.
+../dataset/datasets/pet/5shot/train/Siamese/51.jpg	A pet is sitting upright, facing forward.
+../dataset/datasets/pet/5shot/train/Siamese/53.jpg	A pet is sitting upright, facing forward.
+../dataset/datasets/pet/5shot/train/Siamese/54.jpg	A pet is sitting upright, looking forward.
+../dataset/datasets/pet/5shot/train/Siamese/52.jpg	A pet is curled up in a blanket.
+../dataset/datasets/pet/5shot/train/Siamese/50.jpg	A pet is sitting with its eyes closed.
+../dataset/datasets/pet/5shot/train/Sphynx/55.jpg	A pet is crouching on a wooden floor.
+../dataset/datasets/pet/5shot/train/Sphynx/59.jpg	A pet sits with head slightly tilted, ears perked up.
+../dataset/datasets/pet/5shot/train/Sphynx/57.jpg	A pet is sitting upright on a surface, looking forward.
+../dataset/datasets/pet/5shot/train/Sphynx/58.jpg	A pet is lying on its side, relaxed and comfortable.
+../dataset/datasets/pet/5shot/train/Sphynx/56.jpg	A pet is sitting on a rug, looking forward.
+../dataset/datasets/pet/5shot/train/staffordshire_bull_terrier/172.jpg	A pet is lying on grass, holding a ball with its paws.
+../dataset/datasets/pet/5shot/train/staffordshire_bull_terrier/170.jpg	A pet stands alert on grass, head slightly tilted.
+../dataset/datasets/pet/5shot/train/staffordshire_bull_terrier/174.jpg	A pet is lying on its side, tongue out.
+../dataset/datasets/pet/5shot/train/staffordshire_bull_terrier/171.jpg	A pet is lying on grass, mouth open.
+../dataset/datasets/pet/5shot/train/staffordshire_bull_terrier/173.jpg	A pet stands alert, head turned sideways.
+../dataset/datasets/pet/5shot/train/wheaten_terrier/175.jpg	A pet is lying on its back, legs spread out.
+../dataset/datasets/pet/5shot/train/wheaten_terrier/176.jpg	A pet is lying down on grass.
+../dataset/datasets/pet/5shot/train/wheaten_terrier/179.jpg	A pet stands on a deck, facing slightly right.
+../dataset/datasets/pet/5shot/train/wheaten_terrier/177.jpg	A pet is being held, looking forward.
+../dataset/datasets/pet/5shot/train/wheaten_terrier/178.jpg	A pet is standing upright, leaning forward with its head near the person's face.
+../dataset/datasets/pet/5shot/train/yorkshire_terrier/181.jpg	A pet stands on gravel, looking up.
+../dataset/datasets/pet/5shot/train/yorkshire_terrier/184.jpg	A pet is sitting upright.
+../dataset/datasets/pet/5shot/train/yorkshire_terrier/182.jpg	A pet is lying down with its head slightly tilted and eyes closed.
+../dataset/datasets/pet/5shot/train/yorkshire_terrier/180.jpg	A pet sits upright, facing forward.
+../dataset/datasets/pet/5shot/train/yorkshire_terrier/183.jpg	A pet is sitting.

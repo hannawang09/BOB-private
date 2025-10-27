@@ -1,0 +1,848 @@
+image	response
+../dataset/datasets/imb_flower_0.01/train/pink_primrose/835.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/hard-leaved_pocket_orchid/794.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/hard-leaved_pocket_orchid/795.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/canterbury_bells/836.jpg	A flower stands upright, slightly leaning forward.
+../dataset/datasets/imb_flower_0.01/train/sweet_pea/808.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/sweet_pea/809.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/english_marigold/781.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/english_marigold/780.jpg	A flower stands upright amidst greenery.
+../dataset/datasets/imb_flower_0.01/train/english_marigold/779.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/tiger_lily/829.jpg	A flower hangs upside down.
+../dataset/datasets/imb_flower_0.01/train/moon_orchid/837.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/673.jpg	A flower stands upright with vibrant petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/668.jpg	A flower stands gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/674.jpg	A flower stands upright, vibrant and proud.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/667.jpg	A flower stands upright with vibrant petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/671.jpg	A flower stands upright, petals spread.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/669.jpg	A flower stands upright, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/672.jpg	A flower stands upright, petals spread.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/675.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/670.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/monkshood/826.jpg	A flower stands upright, slightly drooping at the edges.
+../dataset/datasets/imb_flower_0.01/train/globe_thistle/830.jpg	A flower stands upright with its petals spread.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/645.jpg	A flower is slightly tilted, showcasing its vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/647.jpg	A flower stands upright, slightly curved.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/641.jpg	A flower stands upright, slightly drooping at the edges.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/642.jpg	A flower stands upright with petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/646.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/639.jpg	A flower stands upright, droplets cling to its petals.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/644.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/643.jpg	A flower stands upright, slightly leaning forward.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/640.jpg	A flower stands upright with petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/638.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/648.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/649.jpg	A flower stands upright with petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/654.jpg	A flower stands upright with its petals spread open.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/651.jpg	A flower stands upright with its petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/655.jpg	A flower stands upright, displaying vibrant yellow petals and a central cluster.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/657.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/652.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/650.jpg	A flower stands upright with its petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/653.jpg	A flower stands upright with vibrant yellow petals.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/656.jpg	A flower stands upright with its petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/king_protea/819.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/spear_thistle/820.jpg	A flower stands upright with spiky green base and vibrant purple bloom.
+../dataset/datasets/imb_flower_0.01/train/yellow_iris/821.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/globe-flower/838.jpg	A flower stands upright, petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/682.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/677.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/679.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/676.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/681.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/683.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/680.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/678.jpg	A flower is leaning slightly to the left.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/705.jpg	A flower is fully bloomed, facing forward.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/699.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/703.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/704.jpg	A flower stands upright, petals spread open.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/700.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/701.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/702.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/balloon_flower/822.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/giant_white_arum_lily/810.jpg	A flower leans slightly to the side.
+../dataset/datasets/imb_flower_0.01/train/fire_lily/839.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/pincushion_flower/800.jpg	A flower stands upright, slightly leaning forward.
+../dataset/datasets/imb_flower_0.01/train/pincushion_flower/801.jpg	A flower stands upright, petals spread open.
+../dataset/datasets/imb_flower_0.01/train/fritillary/620.jpg	A flower droops downward.
+../dataset/datasets/imb_flower_0.01/train/fritillary/626.jpg	A flower hangs downward, slightly curved.
+../dataset/datasets/imb_flower_0.01/train/fritillary/622.jpg	A flower droops downward.
+../dataset/datasets/imb_flower_0.01/train/fritillary/621.jpg	A flower hangs downward.
+../dataset/datasets/imb_flower_0.01/train/fritillary/625.jpg	A flower hangs downward, drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/fritillary/627.jpg	A flower droops downward.
+../dataset/datasets/imb_flower_0.01/train/fritillary/619.jpg	A flower hangs downward, drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/fritillary/624.jpg	A flower hangs downward.
+../dataset/datasets/imb_flower_0.01/train/fritillary/623.jpg	A flower droops downward.
+../dataset/datasets/imb_flower_0.01/train/fritillary/618.jpg	A flower droops downward.
+../dataset/datasets/imb_flower_0.01/train/fritillary/617.jpg	A flower hangs downward, drooping.
+../dataset/datasets/imb_flower_0.01/train/red_ginger/832.jpg	A flower stands upright, vibrant red.
+../dataset/datasets/imb_flower_0.01/train/grape_hyacinth/840.jpg	A flower stands upright with blue bell-shaped blooms clustered at the top.
+../dataset/datasets/imb_flower_0.01/train/corn_poppy/841.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/prince_of_wales_feathers/842.jpg	A flower stands upright with vibrant red petals.
+../dataset/datasets/imb_flower_0.01/train/stemless_gentian/752.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/stemless_gentian/756.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/stemless_gentian/755.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/stemless_gentian/754.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/stemless_gentian/753.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/artichoke/720.jpg	A flower stands upright with its petals spread out.
+../dataset/datasets/imb_flower_0.01/train/artichoke/722.jpg	A flower stands upright with its petals spread outwards.
+../dataset/datasets/imb_flower_0.01/train/artichoke/719.jpg	A flower stands upright with its vibrant purple bloom facing forward.
+../dataset/datasets/imb_flower_0.01/train/artichoke/724.jpg	A flower stands upright with its petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/artichoke/721.jpg	A flower stands upright with its petals spread.
+../dataset/datasets/imb_flower_0.01/train/artichoke/723.jpg	A flower stands upright with spiky petals.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/689.jpg	A flower stands upright, displaying its vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/684.jpg	A flower is fully bloomed with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/687.jpg	A flower is fully bloomed with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/690.jpg	A flower is fully bloomed, displaying its petals outward.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/691.jpg	A flower is slightly tilted, showcasing its vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/685.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/686.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/688.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/carnation/816.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/garden_phlox/831.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/love_in_the_mist/827.jpg	A flower stands upright, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/mexican_aster/843.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/alpine_sea_holly/833.jpg	A flower stands upright with spiky petals.
+../dataset/datasets/imb_flower_0.01/train/ruby-lipped_cattleya/740.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/ruby-lipped_cattleya/741.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/ruby-lipped_cattleya/739.jpg	A flower lies horizontally with petals spread out.
+../dataset/datasets/imb_flower_0.01/train/ruby-lipped_cattleya/737.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/ruby-lipped_cattleya/738.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/480.jpg	A flower stands gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/479.jpg	A flower hangs gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/474.jpg	A flower leans gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/477.jpg	A flower leans slightly to the side.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/486.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/483.jpg	A flower hangs downward.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/476.jpg	A flower stands gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/475.jpg	A flower leans gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/488.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/478.jpg	A flower leans gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/481.jpg	A flower leans slightly to the side.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/473.jpg	A flower leans gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/489.jpg	A flower stands gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/487.jpg	A flower droops gracefully.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/482.jpg	A flower stands gracefully, petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/484.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/472.jpg	A flower stands gracefully, petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/485.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/great_masterwort/811.jpg	A flower stands upright, showcasing its delicate petals and central cluster.
+../dataset/datasets/imb_flower_0.01/train/siam_tulip/844.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/lenten_rose/760.jpg	A flower held gently in hand.
+../dataset/datasets/imb_flower_0.01/train/lenten_rose/758.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/lenten_rose/759.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/lenten_rose/757.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/405.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/394.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/413.jpg	A flower stands upright, petals fanned out.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/402.jpg	A flower stands upright with vibrant petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/407.jpg	A flower stands upright with petals fully spread.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/401.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/400.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/396.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/399.jpg	A flower stands fully open, displaying vibrant yellow petals and a central core.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/403.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/410.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/412.jpg	A flower stands upright with vibrant petals spread open.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/411.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/404.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/397.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/406.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/395.jpg	A flower is fully bloomed, displaying vibrant yellow petals and a central disc.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/408.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/409.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/393.jpg	A flower stands upright with vibrant petals spread open.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/398.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/daffodil/802.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/daffodil/803.jpg	A flower stands upright with petals slightly open.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/331.jpg	A flower stands upright, slightly leaning forward.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/346.jpg	A flower stands upright, slightly curved.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/325.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/335.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/324.jpg	A flower stands upright, petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/330.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/345.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/329.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/343.jpg	A flower is slightly tilted, with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/336.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/323.jpg	A flower stands upright with petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/322.jpg	A flower stands upright with petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/342.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/338.jpg	A flower stands upright with petals slightly curved.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/327.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/340.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/326.jpg	A flower is slightly open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/339.jpg	A flower stands upright, slightly leaning forward.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/344.jpg	A flower stands upright, slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/333.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/337.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/332.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/334.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/328.jpg	A flower stands upright, slightly leaning forward.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/341.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/587.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/588.jpg	A flower stands upright with vibrant pink petals and green center.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/584.jpg	A flower stands upright with vibrant red petals and dewdrops glistening on its surface.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/581.jpg	A flower stands upright with vibrant red petals and dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/592.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/585.jpg	A flower stands upright with vibrant red and white petals.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/582.jpg	A flower stands upright with vibrant red petals and green leaves.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/583.jpg	A flower stands upright with vibrant pink petals and green center.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/591.jpg	A flower stands upright with vibrant pink petals and green center.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/580.jpg	A flower stands upright with vibrant red petals and green center.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/590.jpg	A flower stands upright with vibrant pink petals and green leaves.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/589.jpg	A flower stands upright with vibrant red petals and green center.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/586.jpg	A flower stands upright with vibrant pink petals and green leaves.
+../dataset/datasets/imb_flower_0.01/train/bolero_deep_blue/845.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wallflower/102.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/wallflower/97.jpg	A flower stands upright with vibrant orange petals and a central cluster of buds.
+../dataset/datasets/imb_flower_0.01/train/wallflower/99.jpg	A flower stands upright with vibrant orange petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/96.jpg	A flower stands upright, slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/wallflower/110.jpg	A flower stands upright with vibrant petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wallflower/98.jpg	A flower stands upright with vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/108.jpg	A flower stands upright, slightly drooping at the edges.
+../dataset/datasets/imb_flower_0.01/train/wallflower/84.jpg	A flower stands upright with vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/87.jpg	A flower leans slightly to the left.
+../dataset/datasets/imb_flower_0.01/train/wallflower/103.jpg	A flower stands upright with vibrant yellow petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/78.jpg	A flower stands upright with vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/82.jpg	A flower stands upright with vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/83.jpg	A flower stands upright with vibrant petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wallflower/85.jpg	A flower stands upright with vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/106.jpg	A flower stands upright, vibrant and bold.
+../dataset/datasets/imb_flower_0.01/train/wallflower/101.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wallflower/88.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wallflower/107.jpg	A flower stands upright with vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/105.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wallflower/95.jpg	A flower stands upright with vibrant red petals and a central cluster of buds.
+../dataset/datasets/imb_flower_0.01/train/wallflower/104.jpg	A flower stands upright with vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/90.jpg	A flower stands upright with vibrant red petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/77.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/wallflower/91.jpg	A flower stands upright with vibrant petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wallflower/112.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wallflower/93.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/wallflower/92.jpg	A flower stands upright with vibrant yellow petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/94.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wallflower/81.jpg	A flower stands upright with vibrant red petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/109.jpg	A flower stands upright with vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/100.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wallflower/80.jpg	A flower stands upright with vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/111.jpg	A flower stands upright with vibrant red petals and a central cluster of buds.
+../dataset/datasets/imb_flower_0.01/train/wallflower/86.jpg	A flower stands upright with vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/wallflower/79.jpg	A flower stands upright, slightly leaning forward.
+../dataset/datasets/imb_flower_0.01/train/wallflower/89.jpg	A flower stands upright, slightly leaning forward.
+../dataset/datasets/imb_flower_0.01/train/marigold/762.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/marigold/763.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/marigold/761.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/marigold/764.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/buttercup/746.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/buttercup/743.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/buttercup/744.jpg	A flower stands upright with petals slightly open.
+../dataset/datasets/imb_flower_0.01/train/buttercup/745.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/buttercup/742.jpg	A flower is open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/oxeye_daisy/823.jpg	A flower stands upright with dew-covered petals.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/596.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/604.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/597.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/593.jpg	A flower stands upright with petals fully spread.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/601.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/594.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/595.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/603.jpg	A flower stands upright amidst greenery.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/602.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/599.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/598.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/600.jpg	A flower stands upright amidst grass.
+../dataset/datasets/imb_flower_0.01/train/petunia/5.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/petunia/7.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/petunia/17.jpg	A flower is open and facing slightly upwards.
+../dataset/datasets/imb_flower_0.01/train/petunia/10.jpg	A flower is fully bloomed, facing forward.
+../dataset/datasets/imb_flower_0.01/train/petunia/31.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/petunia/18.jpg	A flower is fully open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/petunia/26.jpg	A flower is fully open, displaying its petals.
+../dataset/datasets/imb_flower_0.01/train/petunia/15.jpg	A flower is slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/petunia/22.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/petunia/12.jpg	A flower is fully bloomed and facing forward.
+../dataset/datasets/imb_flower_0.01/train/petunia/13.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/petunia/33.jpg	A flower is fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/petunia/32.jpg	A flower is fully bloomed and upright.
+../dataset/datasets/imb_flower_0.01/train/petunia/35.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/petunia/36.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/petunia/27.jpg	A flower leans slightly to the side.
+../dataset/datasets/imb_flower_0.01/train/petunia/30.jpg	A flower is open and facing upwards.
+../dataset/datasets/imb_flower_0.01/train/petunia/2.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/petunia/8.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/petunia/0.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/petunia/29.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/petunia/34.jpg	A flower is open and facing upwards.
+../dataset/datasets/imb_flower_0.01/train/petunia/4.jpg	A flower is fully bloomed and facing forward.
+../dataset/datasets/imb_flower_0.01/train/petunia/3.jpg	A flower hangs downward.
+../dataset/datasets/imb_flower_0.01/train/petunia/28.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/petunia/16.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/petunia/25.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/petunia/9.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/petunia/6.jpg	A flower is slightly tilted upwards.
+../dataset/datasets/imb_flower_0.01/train/petunia/14.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/petunia/24.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/petunia/11.jpg	A flower is fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/petunia/19.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/petunia/21.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/petunia/1.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/petunia/23.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/petunia/37.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/petunia/38.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/petunia/20.jpg	A flower is fully bloomed and facing forward.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/695.jpg	A flower is slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/697.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/696.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/694.jpg	A flower is drooping downwards.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/698.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/692.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/693.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/primula/610.jpg	A flower is fully bloomed with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/primula/613.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/primula/614.jpg	A flower stands upright with vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/primula/607.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/primula/616.jpg	A flower is fully bloomed with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/primula/612.jpg	A flower stands upright, vibrant yellow petals spread open.
+../dataset/datasets/imb_flower_0.01/train/primula/611.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/primula/609.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/primula/608.jpg	A flower is fully bloomed, facing forward.
+../dataset/datasets/imb_flower_0.01/train/primula/615.jpg	A flower is fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/primula/606.jpg	A flower is fully bloomed with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/primula/605.jpg	A flower stands upright, vibrant red with yellow centers.
+../dataset/datasets/imb_flower_0.01/train/sunflower/797.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/sunflower/796.jpg	A flower stands upright, facing slightly left.
+../dataset/datasets/imb_flower_0.01/train/pelargonium/747.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/pelargonium/748.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/pelargonium/750.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/pelargonium/749.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/pelargonium/751.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/493.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/500.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/506.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/502.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/490.jpg	A flower stands upright with vibrant red petals and a yellow center.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/504.jpg	A flower stands upright with vibrant red petals and yellow center.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/492.jpg	A flower is fully bloomed, facing forward.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/494.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/499.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/505.jpg	A flower stands upright with vibrant red petals and a yellow center.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/491.jpg	A flower stands upright with vibrant red petals and yellow center.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/498.jpg	A flower stands upright with vibrant red petals and a yellow center.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/497.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/501.jpg	A flower stands upright, facing forward.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/495.jpg	A flower stands upright with vibrant red petals and a yellow center.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/503.jpg	A flower stands upright, slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/496.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/gaura/765.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/gaura/768.jpg	A flower hangs downward.
+../dataset/datasets/imb_flower_0.01/train/gaura/767.jpg	A flower stands gracefully, slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/gaura/766.jpg	A flower leans gracefully towards the right.
+../dataset/datasets/imb_flower_0.01/train/geranium/445.jpg	A flower is fully bloomed and upright.
+../dataset/datasets/imb_flower_0.01/train/geranium/444.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/geranium/438.jpg	A flower stands upright, slightly leaning forward.
+../dataset/datasets/imb_flower_0.01/train/geranium/440.jpg	A flower stands upright, slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/geranium/451.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/geranium/441.jpg	A flower stands upright, slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/geranium/443.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/geranium/435.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/geranium/434.jpg	A flower stands upright, vibrant red petals facing forward.
+../dataset/datasets/imb_flower_0.01/train/geranium/446.jpg	A flower stands upright, blooming.
+../dataset/datasets/imb_flower_0.01/train/geranium/450.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/geranium/437.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/geranium/439.jpg	A flower stands upright amidst green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/448.jpg	A flower stands upright, vibrant red petals spread open.
+../dataset/datasets/imb_flower_0.01/train/geranium/447.jpg	A flower stands upright, blooming vibrantly.
+../dataset/datasets/imb_flower_0.01/train/geranium/452.jpg	A flower stands upright, blooming.
+../dataset/datasets/imb_flower_0.01/train/geranium/436.jpg	A flower stands upright, slightly drooping at edges.
+../dataset/datasets/imb_flower_0.01/train/geranium/449.jpg	A flower stands upright, slightly drooping at edges.
+../dataset/datasets/imb_flower_0.01/train/geranium/442.jpg	A flower is drooping downwards.
+../dataset/datasets/imb_flower_0.01/train/orange_dahlia/771.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/orange_dahlia/770.jpg	A flower stands upright with vibrant petals and a bright yellow center.
+../dataset/datasets/imb_flower_0.01/train/orange_dahlia/772.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/orange_dahlia/769.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/508.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/516.jpg	A flower stands upright among green leaves.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/521.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/512.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/519.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/511.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/518.jpg	A flower hangs downward.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/514.jpg	A flower stands upright amidst greenery.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/513.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/517.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/509.jpg	A flower stands upright amidst green foliage.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/522.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/510.jpg	A flower stands upright among leaves.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/507.jpg	A flower stands upright among leaves.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/515.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/520.jpg	A flower stands upright amidst greenery.
+../dataset/datasets/imb_flower_0.01/train/cautleya_spicata/818.jpg	A flower droops downward.
+../dataset/datasets/imb_flower_0.01/train/japanese_anemone/812.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/black-eyed_susan/813.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/silverbush/817.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/557.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/563.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/559.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/562.jpg	A flower leans slightly to the right.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/556.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/554.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/564.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/561.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/565.jpg	A flower stands upright, facing forward.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/566.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/558.jpg	A flower stands upright with petals slightly open.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/553.jpg	A flower stands upright with petals slightly curved.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/560.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/555.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/osteospermum/798.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/osteospermum/799.jpg	A flower is fully bloomed, facing upwards.
+../dataset/datasets/imb_flower_0.01/train/spring_crocus/834.jpg	A flower stands upright amidst fallen leaves.
+../dataset/datasets/imb_flower_0.01/train/bearded_iris/814.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/windflower/815.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/tree_poppy/782.jpg	A flower is slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/tree_poppy/783.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/tree_poppy/784.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/gazania/725.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/gazania/728.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/gazania/727.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/gazania/726.jpg	A flower stands upright with vibrant petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/gazania/730.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/gazania/729.jpg	A flower stands upright with dew-covered petals.
+../dataset/datasets/imb_flower_0.01/train/azalea/567.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/azalea/570.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/azalea/576.jpg	A flower stands open, displaying vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/azalea/578.jpg	A flower stands open, dew-drenched petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/azalea/571.jpg	A flower is fully bloomed with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/azalea/569.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/azalea/575.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/azalea/574.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/azalea/572.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/azalea/573.jpg	A flower stands upright, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/azalea/577.jpg	A flower stands open, displaying vibrant petals and intricate stamens.
+../dataset/datasets/imb_flower_0.01/train/azalea/568.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/azalea/579.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/water_lily/134.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/127.jpg	A flower is fully bloomed, floating on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/132.jpg	A flower floats gracefully, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/water_lily/145.jpg	A flower stands open, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/water_lily/130.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/139.jpg	A flower stands open, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/water_lily/116.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/146.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/125.jpg	A flower is fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/water_lily/121.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/118.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/water_lily/133.jpg	A flower is fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/water_lily/122.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/143.jpg	A flower floats gracefully on water, surrounded by lily pads.
+../dataset/datasets/imb_flower_0.01/train/water_lily/141.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/119.jpg	A flower stands upright, petals fully open.
+../dataset/datasets/imb_flower_0.01/train/water_lily/144.jpg	A flower floats gracefully on water, surrounded by lily pads.
+../dataset/datasets/imb_flower_0.01/train/water_lily/124.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/135.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/water_lily/136.jpg	A flower floats gracefully on water, surrounded by lily pads.
+../dataset/datasets/imb_flower_0.01/train/water_lily/114.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/117.jpg	A flower floats gracefully on water, surrounded by lily pads.
+../dataset/datasets/imb_flower_0.01/train/water_lily/140.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/115.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/123.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/water_lily/120.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/water_lily/129.jpg	A flower stands open, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/water_lily/131.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/water_lily/128.jpg	A flower floats gracefully on water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/138.jpg	A flower is fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/water_lily/137.jpg	A flower stands upright, petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/water_lily/142.jpg	A flower stands open, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/water_lily/126.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/water_lily/113.jpg	A flower stands upright, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/rose/205.jpg	A flower stands upright, slightly open.
+../dataset/datasets/imb_flower_0.01/train/rose/185.jpg	A flower stands upright with petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/rose/209.jpg	A flower is fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/rose/200.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/rose/206.jpg	A flower is in full bloom, slightly open.
+../dataset/datasets/imb_flower_0.01/train/rose/210.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/rose/202.jpg	A flower is fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/rose/181.jpg	A flower stands upright, slightly open.
+../dataset/datasets/imb_flower_0.01/train/rose/192.jpg	A flower stands upright with petals slightly unfurled.
+../dataset/datasets/imb_flower_0.01/train/rose/194.jpg	A flower stands upright with petals slightly unfurled.
+../dataset/datasets/imb_flower_0.01/train/rose/208.jpg	A flower is fully bloomed with a bud next to it.
+../dataset/datasets/imb_flower_0.01/train/rose/188.jpg	A flower stands upright, slightly curved.
+../dataset/datasets/imb_flower_0.01/train/rose/187.jpg	A flower is in a closed bud state.
+../dataset/datasets/imb_flower_0.01/train/rose/199.jpg	A flower stands upright, slightly curved.
+../dataset/datasets/imb_flower_0.01/train/rose/184.jpg	A flower is fully bloomed, displaying its petals.
+../dataset/datasets/imb_flower_0.01/train/rose/182.jpg	A flower stands upright with petals slightly unfurled.
+../dataset/datasets/imb_flower_0.01/train/rose/191.jpg	A flower stands upright, slightly curved.
+../dataset/datasets/imb_flower_0.01/train/rose/201.jpg	A flower stands upright, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/rose/196.jpg	A flower stands gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/rose/204.jpg	A flower leans against a fence.
+../dataset/datasets/imb_flower_0.01/train/rose/193.jpg	A flower is in full bloom, slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/rose/189.jpg	A flower is in full bloom, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/rose/207.jpg	A flower stands upright, slightly curved.
+../dataset/datasets/imb_flower_0.01/train/rose/186.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/rose/180.jpg	A flower stands upright, petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/rose/183.jpg	A flower is slightly open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/rose/190.jpg	A flower is fully bloomed, upright.
+../dataset/datasets/imb_flower_0.01/train/rose/197.jpg	A flower stands upright with petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/rose/203.jpg	A flower is in full bloom.
+../dataset/datasets/imb_flower_0.01/train/rose/198.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/rose/195.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/419.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/420.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/426.jpg	A flower stands upright, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/421.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/425.jpg	A flower lies flat on the ground.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/422.jpg	A flower stands open, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/416.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/414.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/417.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/427.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/415.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/428.jpg	A flower is open and facing upwards.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/431.jpg	A flower stands upright, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/432.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/433.jpg	A flower stands upright with droplets.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/430.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/424.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/423.jpg	A flower is open and facing upwards.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/429.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/418.jpg	A flower is fully open, facing upwards.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/523.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/531.jpg	A flower is fully bloomed, facing forward.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/537.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/526.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/525.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/528.jpg	A flower lies horizontally with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/534.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/535.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/532.jpg	A flower stands upright amidst greenery.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/530.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/524.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/536.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/529.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/533.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/527.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/61.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/70.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/51.jpg	A flower is held gently, showcasing its intricate details.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/40.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/41.jpg	A flower is open with a bee on it.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/55.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/66.jpg	A flower stands open, displaying its vibrant petals and intricate center.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/53.jpg	A flower stands upright with its petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/54.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/52.jpg	A flower stands open, displaying its intricate center.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/69.jpg	A flower stands open, displaying its intricate structure.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/72.jpg	A flower stands open, displaying its intricate structure.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/59.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/68.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/60.jpg	A flower stands upright, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/39.jpg	A flower stands open, displaying vibrant purple petals and intricate stamens.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/67.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/48.jpg	A flower hangs downward, displaying its vibrant petals and intricate center.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/71.jpg	A flower stands upright with vibrant petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/57.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/49.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/62.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/42.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/47.jpg	A flower stands upright with delicate filaments extending outward.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/46.jpg	A flower stands upright among leaves.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/45.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/58.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/65.jpg	A flower with petals spread, showcasing its intricate structure.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/76.jpg	A flower stands open, displaying its intricate petals and center.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/43.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/44.jpg	A flower is held upright by a hand.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/50.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/75.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/63.jpg	A flower stands open, displaying its intricate structure.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/73.jpg	A flower stands open, displaying its intricate petals and center.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/74.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/64.jpg	A flower stands open, displaying its intricate petals and stamens.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/56.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/lotus/319.jpg	A flower stands open, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/lotus/320.jpg	A flower stands open, petals spread.
+../dataset/datasets/imb_flower_0.01/train/lotus/313.jpg	A flower is slightly open, facing right.
+../dataset/datasets/imb_flower_0.01/train/lotus/305.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/lotus/310.jpg	A flower is closed, upright.
+../dataset/datasets/imb_flower_0.01/train/lotus/311.jpg	A flower stands open, petals spread.
+../dataset/datasets/imb_flower_0.01/train/lotus/315.jpg	A flower stands upright, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/lotus/308.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/lotus/314.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/lotus/296.jpg	A flower stands open, petals spread.
+../dataset/datasets/imb_flower_0.01/train/lotus/306.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/lotus/299.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/lotus/302.jpg	A flower stands open, displaying its petals and center.
+../dataset/datasets/imb_flower_0.01/train/lotus/300.jpg	A flower stands upright, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/lotus/303.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/lotus/298.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/lotus/304.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/lotus/318.jpg	A flower stands open, displaying its petals and center.
+../dataset/datasets/imb_flower_0.01/train/lotus/321.jpg	A flower is open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/lotus/309.jpg	A flower stands open, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/lotus/316.jpg	A flower stands upright amidst greenery.
+../dataset/datasets/imb_flower_0.01/train/lotus/307.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/lotus/317.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/lotus/312.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/lotus/301.jpg	A flower stands open, petals spread.
+../dataset/datasets/imb_flower_0.01/train/lotus/297.jpg	A flower stands open, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/toad_lily/846.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/anthurium/540.jpg	A flower is open, displaying its petal and spadix.
+../dataset/datasets/imb_flower_0.01/train/anthurium/542.jpg	A flower stands upright with a prominent stem.
+../dataset/datasets/imb_flower_0.01/train/anthurium/549.jpg	A flower stands upright with a vibrant red spathe and a prominent spadix.
+../dataset/datasets/imb_flower_0.01/train/anthurium/543.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/anthurium/548.jpg	A flower stands upright, displaying its vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/anthurium/538.jpg	A flower leans gracefully, stem arched upwards.
+../dataset/datasets/imb_flower_0.01/train/anthurium/550.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/anthurium/552.jpg	A flower leans slightly downward.
+../dataset/datasets/imb_flower_0.01/train/anthurium/546.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/anthurium/541.jpg	A flower stands upright with its petals spread open.
+../dataset/datasets/imb_flower_0.01/train/anthurium/539.jpg	A flower stands upright with a prominent yellow spadix.
+../dataset/datasets/imb_flower_0.01/train/anthurium/547.jpg	A flower stands upright with a prominent spadix.
+../dataset/datasets/imb_flower_0.01/train/anthurium/551.jpg	A flower is upright and open.
+../dataset/datasets/imb_flower_0.01/train/anthurium/545.jpg	A flower leans gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/anthurium/544.jpg	A flower stands upright with a vibrant red spathe and green spadix.
+../dataset/datasets/imb_flower_0.01/train/frangipani/214.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/frangipani/234.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/frangipani/240.jpg	A flower is fully bloomed with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/frangipani/213.jpg	A flower is slightly tilted, leaning towards the right.
+../dataset/datasets/imb_flower_0.01/train/frangipani/224.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/frangipani/227.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/frangipani/219.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/frangipani/221.jpg	A flower is fully bloomed, facing forward.
+../dataset/datasets/imb_flower_0.01/train/frangipani/235.jpg	A flower is slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/frangipani/212.jpg	A flower stands open, displaying vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/frangipani/236.jpg	A flower is hanging from a branch.
+../dataset/datasets/imb_flower_0.01/train/frangipani/238.jpg	A flower stands upright, petals fully open.
+../dataset/datasets/imb_flower_0.01/train/frangipani/225.jpg	A flower is fully bloomed with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/frangipani/233.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/frangipani/215.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/frangipani/222.jpg	A flower is fully bloomed, displaying its vibrant petals.
+../dataset/datasets/imb_flower_0.01/train/frangipani/230.jpg	A flower is fully bloomed with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/frangipani/237.jpg	A flower is slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/frangipani/220.jpg	A flower stands upright, slightly leaning forward.
+../dataset/datasets/imb_flower_0.01/train/frangipani/231.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/frangipani/211.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/frangipani/223.jpg	A flower is slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/frangipani/217.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/frangipani/229.jpg	A flower is fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/frangipani/218.jpg	A flower lies flat, petals spread.
+../dataset/datasets/imb_flower_0.01/train/frangipani/216.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/frangipani/226.jpg	A flower is fully bloomed with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/frangipani/232.jpg	A flower stands upright, petals fully open.
+../dataset/datasets/imb_flower_0.01/train/frangipani/228.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/frangipani/239.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/clematis/461.jpg	A flower stands upright, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/clematis/468.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/clematis/458.jpg	A flower is fully bloomed, facing forward.
+../dataset/datasets/imb_flower_0.01/train/clematis/463.jpg	A flower stands open, displaying vibrant petals and intricate center.
+../dataset/datasets/imb_flower_0.01/train/clematis/459.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/clematis/471.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/clematis/465.jpg	A flower stands upright with petals fully open.
+../dataset/datasets/imb_flower_0.01/train/clematis/456.jpg	A flower is fully bloomed with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/clematis/466.jpg	A flower is hanging from a trellis.
+../dataset/datasets/imb_flower_0.01/train/clematis/453.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/clematis/469.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/clematis/460.jpg	A flower is slightly open, leaning forward.
+../dataset/datasets/imb_flower_0.01/train/clematis/462.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/clematis/455.jpg	A flower is fully bloomed with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/clematis/467.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/clematis/470.jpg	A flower stands upright, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/clematis/454.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/clematis/464.jpg	A flower stands upright amidst greenery.
+../dataset/datasets/imb_flower_0.01/train/clematis/457.jpg	A flower stands open, displaying its vibrant petals and intricate center.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/368.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/359.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/349.jpg	A flower stands open, displaying its vibrant petals and central stamen.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/356.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/360.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/366.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/355.jpg	A flower stands open, displaying its petals and stamen.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/347.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/352.jpg	A flower stands open, facing slightly downward.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/364.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/362.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/363.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/354.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/370.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/348.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/353.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/369.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/367.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/357.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/365.jpg	A flower stands upright, facing forward.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/361.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/358.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/350.jpg	A flower stands upright with vibrant petals spread open.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/351.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/columbine/661.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/columbine/659.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/columbine/666.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/columbine/662.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/columbine/665.jpg	A flower stands upright with petals slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/columbine/664.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/columbine/660.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/columbine/663.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/columbine/658.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/desert-rose/786.jpg	A flower stands upright, blooming vividly.
+../dataset/datasets/imb_flower_0.01/train/desert-rose/787.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/desert-rose/785.jpg	A flower is leaning slightly to the left.
+../dataset/datasets/imb_flower_0.01/train/tree_mallow/805.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/tree_mallow/804.jpg	A flower stands upright, slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/magnolia/789.jpg	A flower is partially open, revealing its delicate petals.
+../dataset/datasets/imb_flower_0.01/train/magnolia/788.jpg	A flower stands open, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/magnolia/790.jpg	A flower is slightly tilted upwards.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/272.jpg	A flower is slightly tilted upwards.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/294.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/269.jpg	A flower is slightly tilted, showcasing its delicate petals.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/283.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/279.jpg	A flower is slightly tilted, petals spread.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/290.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/293.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/282.jpg	A flower is leaning slightly to the left.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/295.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/281.jpg	A flower is slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/287.jpg	A flower hangs downward, petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/274.jpg	A flower stands upright with petals slightly curved.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/291.jpg	A flower droops downward.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/286.jpg	A flower is slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/278.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/271.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/289.jpg	A flower leans slightly to the side.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/277.jpg	A flower stands upright, petals slightly curved.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/284.jpg	A flower leans slightly to the left.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/273.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/275.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/270.jpg	A flower stands upright with petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/276.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/285.jpg	A flower stands upright, slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/280.jpg	A flower stands upright with petals slightly curved.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/288.jpg	A flower is slightly open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/292.jpg	A flower stands upright with petals slightly open.
+../dataset/datasets/imb_flower_0.01/train/watercress/147.jpg	A flower is open and facing upwards.
+../dataset/datasets/imb_flower_0.01/train/watercress/168.jpg	A flower stands upright, vibrant petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/172.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/166.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/163.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/watercress/170.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/148.jpg	A flower stands upright with vibrant petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/161.jpg	A flower is open and facing upwards.
+../dataset/datasets/imb_flower_0.01/train/watercress/167.jpg	A flower is open and facing upwards.
+../dataset/datasets/imb_flower_0.01/train/watercress/175.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/154.jpg	A flower is open and facing upwards.
+../dataset/datasets/imb_flower_0.01/train/watercress/160.jpg	A flower stands upright among leaves.
+../dataset/datasets/imb_flower_0.01/train/watercress/152.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/151.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/watercress/156.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/174.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/watercress/171.jpg	A flower stands upright with vibrant red petals and a yellow center.
+../dataset/datasets/imb_flower_0.01/train/watercress/176.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/watercress/179.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/169.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/149.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/watercress/150.jpg	A flower stands upright with vibrant petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/162.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/158.jpg	A flower stands upright with vibrant petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/159.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/watercress/173.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/165.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/164.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/177.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/153.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/178.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/watercress/155.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/watercress/157.jpg	A flower stands upright, facing forward.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/712.jpg	A flower stands upright, slightly tilted forward.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/710.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/708.jpg	A flower leans gracefully, petals unfurled.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/711.jpg	A flower stands upright, petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/706.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/707.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/709.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/731.jpg	A flower stands upright, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/732.jpg	A flower stands upright with petals slightly open.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/734.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/736.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/733.jpg	A flower stands upright, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/735.jpg	A flower stands upright, petals slightly spread.
+../dataset/datasets/imb_flower_0.01/train/bee_balm/773.jpg	A flower stands upright with petals spread.
+../dataset/datasets/imb_flower_0.01/train/bee_balm/774.jpg	A flower stands upright, radiating vibrant red petals.
+../dataset/datasets/imb_flower_0.01/train/bee_balm/775.jpg	A flower stands upright with vibrant red petals spread outward.
+../dataset/datasets/imb_flower_0.01/train/ball_moss/828.jpg	A flower stands upright with petals fanned out.
+../dataset/datasets/imb_flower_0.01/train/foxglove/251.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/foxglove/262.jpg	A flower stands upright, drooping slightly at the edges.
+../dataset/datasets/imb_flower_0.01/train/foxglove/264.jpg	A flower hangs downward, droplets glisten.
+../dataset/datasets/imb_flower_0.01/train/foxglove/248.jpg	A flower leans slightly to the side.
+../dataset/datasets/imb_flower_0.01/train/foxglove/245.jpg	A flower stands upright, drooping slightly at the tips.
+../dataset/datasets/imb_flower_0.01/train/foxglove/242.jpg	A flower stands upright, drooping slightly at the tips.
+../dataset/datasets/imb_flower_0.01/train/foxglove/266.jpg	A flower hangs downward.
+../dataset/datasets/imb_flower_0.01/train/foxglove/241.jpg	A flower hangs downward, drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/foxglove/253.jpg	A flower stands upright, drooping slightly at the edges.
+../dataset/datasets/imb_flower_0.01/train/foxglove/260.jpg	A flower stands upright, drooping slightly at the tips.
+../dataset/datasets/imb_flower_0.01/train/foxglove/258.jpg	A flower stands upright, drooping slightly at the bottom.
+../dataset/datasets/imb_flower_0.01/train/foxglove/263.jpg	A flower stands upright, drooping slightly at the tips.
+../dataset/datasets/imb_flower_0.01/train/foxglove/250.jpg	A flower stands upright, drooping slightly at the tips.
+../dataset/datasets/imb_flower_0.01/train/foxglove/244.jpg	A flower stands upright, petals spread open.
+../dataset/datasets/imb_flower_0.01/train/foxglove/268.jpg	A flower stands upright, drooping slightly at the tips.
+../dataset/datasets/imb_flower_0.01/train/foxglove/247.jpg	A flower stands upright, drooping slightly at the tips.
+../dataset/datasets/imb_flower_0.01/train/foxglove/255.jpg	A flower hangs downward, drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/foxglove/265.jpg	A flower stands upright, slightly drooping at the tips.
+../dataset/datasets/imb_flower_0.01/train/foxglove/243.jpg	A flower stands upright, drooping slightly at the edges.
+../dataset/datasets/imb_flower_0.01/train/foxglove/246.jpg	A flower stands upright, slightly drooping at the edges.
+../dataset/datasets/imb_flower_0.01/train/foxglove/256.jpg	A flower stands upright, drooping slightly at the bottom.
+../dataset/datasets/imb_flower_0.01/train/foxglove/261.jpg	A flower stands upright, drooping slightly at the tips.
+../dataset/datasets/imb_flower_0.01/train/foxglove/257.jpg	A flower stands upright with petals slightly curled.
+../dataset/datasets/imb_flower_0.01/train/foxglove/259.jpg	A flower stands upright, slightly leaning forward.
+../dataset/datasets/imb_flower_0.01/train/foxglove/254.jpg	A flower hangs downward, bell-shaped.
+../dataset/datasets/imb_flower_0.01/train/foxglove/252.jpg	A flower hangs downward.
+../dataset/datasets/imb_flower_0.01/train/foxglove/267.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/foxglove/249.jpg	A flower hangs gracefully, drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/373.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/390.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/371.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/378.jpg	A flower is leaning slightly to the left.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/377.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/392.jpg	A flower is leaning slightly to the right.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/376.jpg	A flower is leaning slightly to the left.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/389.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/383.jpg	A flower is open and vibrant, showcasing its petals fully.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/372.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/385.jpg	A flower leans slightly, petals spread.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/379.jpg	A flower hangs gracefully, slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/391.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/374.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/380.jpg	A flower leans gracefully.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/382.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/388.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/386.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/384.jpg	A flower stands upright, petals spread open.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/381.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/387.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/375.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/camellia/634.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/camellia/630.jpg	A flower is fully bloomed, facing forward.
+../dataset/datasets/imb_flower_0.01/train/camellia/628.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/camellia/637.jpg	A flower is drooping.
+../dataset/datasets/imb_flower_0.01/train/camellia/629.jpg	A flower stands upright with petals fully unfurled.
+../dataset/datasets/imb_flower_0.01/train/camellia/633.jpg	A flower stands open, facing forward.
+../dataset/datasets/imb_flower_0.01/train/camellia/632.jpg	A flower is open, displaying its petals and center.
+../dataset/datasets/imb_flower_0.01/train/camellia/635.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/camellia/631.jpg	A flower stands open, displaying its petals and center.
+../dataset/datasets/imb_flower_0.01/train/camellia/636.jpg	A flower stands upright, fully bloomed.
+../dataset/datasets/imb_flower_0.01/train/mallow/776.jpg	A flower hangs gracefully, slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/mallow/777.jpg	A flower is open and facing forward.
+../dataset/datasets/imb_flower_0.01/train/mallow/778.jpg	A flower is open, displaying its vibrant red petals and yellow center.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/713.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/717.jpg	A flower stands upright, slightly angled.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/714.jpg	A flower is drooping slightly.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/715.jpg	A flower stands upright.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/718.jpg	A flower is slightly drooping.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/716.jpg	A flower stands upright with petals spread open.
+../dataset/datasets/imb_flower_0.01/train/bromelia/792.jpg	A flower stands upright with petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/bromelia/791.jpg	A flower stands upright with vibrant red petals and green leaves.
+../dataset/datasets/imb_flower_0.01/train/bromelia/793.jpg	A flower stands upright, petals spread wide.
+../dataset/datasets/imb_flower_0.01/train/blanket_flower/824.jpg	A flower stands upright with vibrant petals spread open.
+../dataset/datasets/imb_flower_0.01/train/trumpet_creeper/806.jpg	A flower stands upright, slightly tilted.
+../dataset/datasets/imb_flower_0.01/train/trumpet_creeper/807.jpg	A flower hangs downward.
+../dataset/datasets/imb_flower_0.01/train/blackberry_lily/825.jpg	A flower stands upright with petals spread open.

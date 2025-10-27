@@ -1,0 +1,848 @@
+image	response
+../dataset/datasets/imb_flower_0.01/train/pink_primrose/835.jpg	Green, blurred grass.
+../dataset/datasets/imb_flower_0.01/train/hard-leaved_pocket_orchid/794.jpg	The background is black.
+../dataset/datasets/imb_flower_0.01/train/hard-leaved_pocket_orchid/795.jpg	The background is black.
+../dataset/datasets/imb_flower_0.01/train/canterbury_bells/836.jpg	A flower with purple bell-shaped blooms, green leaves, and birch trees in the background.
+../dataset/datasets/imb_flower_0.01/train/sweet_pea/808.jpg	Green leaves surround a flower.
+../dataset/datasets/imb_flower_0.01/train/sweet_pea/809.jpg	Blurred green and purple.
+../dataset/datasets/imb_flower_0.01/train/english_marigold/781.jpg	Green leaves and dark soil.
+../dataset/datasets/imb_flower_0.01/train/english_marigold/780.jpg	Green grass and blurred yellow flowers.
+../dataset/datasets/imb_flower_0.01/train/english_marigold/779.jpg	The background is green and blurred with other flowers.
+../dataset/datasets/imb_flower_0.01/train/tiger_lily/829.jpg	Clear blue sky.
+../dataset/datasets/imb_flower_0.01/train/moon_orchid/837.jpg	The background is a textured, light-colored fabric.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/673.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/668.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/674.jpg	Brick wall.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/667.jpg	Dark, blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/671.jpg	The background is dark.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/669.jpg	A flower against white wall, wooden stairs.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/672.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/675.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/bird_of_paradise/670.jpg	Dark, blurred leaves.
+../dataset/datasets/imb_flower_0.01/train/monkshood/826.jpg	Green, blurred background.
+../dataset/datasets/imb_flower_0.01/train/globe_thistle/830.jpg	Blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/645.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/647.jpg	Blurred green and brown.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/641.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/642.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/646.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/639.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/644.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/643.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/640.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/snapdragon/638.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/648.jpg	The background is rocky and earthy.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/649.jpg	Blurred green and brown.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/654.jpg	The background is blurred, dark, and out of focus.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/651.jpg	The background is dark.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/655.jpg	The background is blurred with green and brown tones.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/657.jpg	The background is blurred with earthy tones and greenery.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/652.jpg	Blurred green and brown.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/650.jpg	Blurred green and brown.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/653.jpg	The background is blurred with brown and green tones.
+../dataset/datasets/imb_flower_0.01/train/colt's_foot/656.jpg	The background is blurred, showing earthy tones and dried leaves.
+../dataset/datasets/imb_flower_0.01/train/king_protea/819.jpg	The background is green and blurred.
+../dataset/datasets/imb_flower_0.01/train/spear_thistle/820.jpg	Green, blurred.
+../dataset/datasets/imb_flower_0.01/train/yellow_iris/821.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/globe-flower/838.jpg	The background is green foliage and blurred dark areas.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/682.jpg	Blurred greenery and sunlight.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/677.jpg	Green leaves, fence, grass, dirt.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/679.jpg	Green grass and blurred leaves.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/676.jpg	Green leaves and buds.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/681.jpg	The background is blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/683.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/680.jpg	Green leaves, brown soil.
+../dataset/datasets/imb_flower_0.01/train/purple_coneflower/678.jpg	A flower with blurred greenery and sky.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/705.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/699.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/703.jpg	The background is blurred, with soft pink hues.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/704.jpg	The background is blurred with green leaves and pink flowers.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/700.jpg	The background is dark and blurred.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/701.jpg	The background is blurred with green leaves and red elements.
+../dataset/datasets/imb_flower_0.01/train/peruvian_lily/702.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/balloon_flower/822.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/giant_white_arum_lily/810.jpg	The background is dark and grassy.
+../dataset/datasets/imb_flower_0.01/train/fire_lily/839.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/pincushion_flower/800.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/pincushion_flower/801.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/fritillary/620.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/fritillary/626.jpg	The background is blurred with green and brown tones.
+../dataset/datasets/imb_flower_0.01/train/fritillary/622.jpg	Green grass.
+../dataset/datasets/imb_flower_0.01/train/fritillary/621.jpg	The background is dark and blurred, possibly a fence or wall.
+../dataset/datasets/imb_flower_0.01/train/fritillary/625.jpg	Green, blurred background.
+../dataset/datasets/imb_flower_0.01/train/fritillary/627.jpg	Green, blurred.
+../dataset/datasets/imb_flower_0.01/train/fritillary/619.jpg	Blurred green and purple.
+../dataset/datasets/imb_flower_0.01/train/fritillary/624.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/fritillary/623.jpg	The background is blurred greenery and rocks.
+../dataset/datasets/imb_flower_0.01/train/fritillary/618.jpg	The background is green foliage and soil.
+../dataset/datasets/imb_flower_0.01/train/fritillary/617.jpg	Blurred, earthy tones.
+../dataset/datasets/imb_flower_0.01/train/red_ginger/832.jpg	The background is lush green foliage.
+../dataset/datasets/imb_flower_0.01/train/grape_hyacinth/840.jpg	Green leaves, brown soil.
+../dataset/datasets/imb_flower_0.01/train/corn_poppy/841.jpg	Green grass.
+../dataset/datasets/imb_flower_0.01/train/prince_of_wales_feathers/842.jpg	Green leaves and blurred yellow flowers.
+../dataset/datasets/imb_flower_0.01/train/stemless_gentian/752.jpg	The background consists of rocks and grass.
+../dataset/datasets/imb_flower_0.01/train/stemless_gentian/756.jpg	The background is green and blurred with white flowers.
+../dataset/datasets/imb_flower_0.01/train/stemless_gentian/755.jpg	Green, blurred.
+../dataset/datasets/imb_flower_0.01/train/stemless_gentian/754.jpg	The background is blurred, showing greenery and earth tones.
+../dataset/datasets/imb_flower_0.01/train/stemless_gentian/753.jpg	Green foliage, rocky ground.
+../dataset/datasets/imb_flower_0.01/train/artichoke/720.jpg	Blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/artichoke/722.jpg	A flower with green foliage and red flowers behind it.
+../dataset/datasets/imb_flower_0.01/train/artichoke/719.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/artichoke/724.jpg	Green foliage and grass.
+../dataset/datasets/imb_flower_0.01/train/artichoke/721.jpg	Green foliage, blurred.
+../dataset/datasets/imb_flower_0.01/train/artichoke/723.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/689.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/684.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/687.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/690.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/691.jpg	The background is dark.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/685.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/686.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/sweet_william/688.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/carnation/816.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/garden_phlox/831.jpg	Dark green foliage.
+../dataset/datasets/imb_flower_0.01/train/love_in_the_mist/827.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/mexican_aster/843.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/alpine_sea_holly/833.jpg	Blurred green background.
+../dataset/datasets/imb_flower_0.01/train/ruby-lipped_cattleya/740.jpg	The background is dark.
+../dataset/datasets/imb_flower_0.01/train/ruby-lipped_cattleya/741.jpg	The background is blurred with greenery and pots.
+../dataset/datasets/imb_flower_0.01/train/ruby-lipped_cattleya/739.jpg	The background is dark.
+../dataset/datasets/imb_flower_0.01/train/ruby-lipped_cattleya/737.jpg	Dark, blurred.
+../dataset/datasets/imb_flower_0.01/train/ruby-lipped_cattleya/738.jpg	The background is dark.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/480.jpg	The background is blurred, with muted earth tones.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/479.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/474.jpg	The background is blurred, neutral-toned.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/477.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/486.jpg	Green, blurred background.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/483.jpg	The background is dark and blurred, with green foliage.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/476.jpg	The background is dark and blurred, with green leaves visible.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/475.jpg	The background is blurred green.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/488.jpg	The background is blurred stone.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/478.jpg	The background is blurred, with muted tones and out-of-focus flowers.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/481.jpg	The background consists of dried leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/473.jpg	The background is blurred, sandy.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/489.jpg	Blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/487.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/482.jpg	Blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/484.jpg	The background is a blurred, textured surface.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/472.jpg	The background is blurred, sandy.
+../dataset/datasets/imb_flower_0.01/train/cape_flower/485.jpg	The background is blurred, with earthy tones and dried leaves.
+../dataset/datasets/imb_flower_0.01/train/great_masterwort/811.jpg	Green, blurred.
+../dataset/datasets/imb_flower_0.01/train/siam_tulip/844.jpg	The background consists of dark soil and plant pots.
+../dataset/datasets/imb_flower_0.01/train/lenten_rose/760.jpg	The background consists of green leaves and brown soil.
+../dataset/datasets/imb_flower_0.01/train/lenten_rose/758.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/lenten_rose/759.jpg	The background is blurred green foliage and blue sky.
+../dataset/datasets/imb_flower_0.01/train/lenten_rose/757.jpg	The background is green foliage and soil.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/405.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/394.jpg	Green leaves and blurred yellow flowers.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/413.jpg	The background is blurred, suggesting a soft, out-of-focus setting.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/402.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/407.jpg	The background is blurred with green leaves and brown soil.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/401.jpg	The background is green with other flowers and leaves.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/400.jpg	The background is blurred with greenery and soil.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/396.jpg	Green leaves, mulch, blurred background.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/399.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/403.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/410.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/412.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/411.jpg	A flower with red petals and yellow center, set against a blurred green and white background.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/404.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/397.jpg	The background is a garden setting with wooden planks and other plants.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/406.jpg	The background is blurred with greenery and sunlight.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/395.jpg	A flower with green leaves and a yellow center.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/408.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/409.jpg	The background is green and blurred.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/393.jpg	The background is blurred with greenery and earth tones.
+../dataset/datasets/imb_flower_0.01/train/barbeton_daisy/398.jpg	Dark and blurred.
+../dataset/datasets/imb_flower_0.01/train/daffodil/802.jpg	The background is a textured, muted gray.
+../dataset/datasets/imb_flower_0.01/train/daffodil/803.jpg	Blurred, earthy tones.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/331.jpg	Green grass and fence.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/346.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/325.jpg	Green and blurred.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/335.jpg	Green foliage and red flowers.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/324.jpg	Dark, blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/330.jpg	The background is blurred with greenery and flowers.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/345.jpg	The background is black.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/329.jpg	The background is green and blurred.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/343.jpg	The background is blurred, with hints of green and gray tones.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/336.jpg	The background is black.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/323.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/322.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/342.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/338.jpg	A flower against a brick wall.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/327.jpg	The background consists of green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/340.jpg	Green foliage, blurred grass.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/326.jpg	Dark, blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/339.jpg	Green, blurred background.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/344.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/333.jpg	The background is soft and blurred, with light tones.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/337.jpg	The background is dark and blurred, emphasizing the flower.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/332.jpg	The background is a soft, blurred white.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/334.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/328.jpg	A flower against a textured wall.
+../dataset/datasets/imb_flower_0.01/train/sword_lily/341.jpg	A flower against a brick wall.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/587.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/588.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/584.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/581.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/592.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/585.jpg	The background is filled with red and green foliage.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/582.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/583.jpg	The background is filled with green leaves and other pink flowers.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/591.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/580.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/590.jpg	The background is filled with more pink flowers and green leaves.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/589.jpg	The background is blurred, with hints of green and brown.
+../dataset/datasets/imb_flower_0.01/train/poinsettia/586.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/bolero_deep_blue/845.jpg	The background is black.
+../dataset/datasets/imb_flower_0.01/train/wallflower/102.jpg	Green, blurred background.
+../dataset/datasets/imb_flower_0.01/train/wallflower/97.jpg	The background is blurred soil.
+../dataset/datasets/imb_flower_0.01/train/wallflower/99.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/wallflower/96.jpg	Blurred green leaves and orange flowers.
+../dataset/datasets/imb_flower_0.01/train/wallflower/110.jpg	Green leaves and blurred flowers.
+../dataset/datasets/imb_flower_0.01/train/wallflower/98.jpg	Green and blurred.
+../dataset/datasets/imb_flower_0.01/train/wallflower/108.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/wallflower/84.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/wallflower/87.jpg	Blurred green leaves and soft focus.
+../dataset/datasets/imb_flower_0.01/train/wallflower/103.jpg	The background is soil and grass.
+../dataset/datasets/imb_flower_0.01/train/wallflower/78.jpg	Blurred green and yellow.
+../dataset/datasets/imb_flower_0.01/train/wallflower/82.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/wallflower/83.jpg	Green leaves, blurred soil.
+../dataset/datasets/imb_flower_0.01/train/wallflower/85.jpg	Grass and soil.
+../dataset/datasets/imb_flower_0.01/train/wallflower/106.jpg	Green leaves and blurred flowers.
+../dataset/datasets/imb_flower_0.01/train/wallflower/101.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/wallflower/88.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/wallflower/107.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/wallflower/105.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/wallflower/95.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/wallflower/104.jpg	The background is soil and green leaves.
+../dataset/datasets/imb_flower_0.01/train/wallflower/90.jpg	The background is blurred, with green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/wallflower/77.jpg	Green, blurred background.
+../dataset/datasets/imb_flower_0.01/train/wallflower/91.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/wallflower/112.jpg	Blurred green leaves and grass.
+../dataset/datasets/imb_flower_0.01/train/wallflower/93.jpg	Blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/wallflower/92.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/wallflower/94.jpg	Blurred green and yellow.
+../dataset/datasets/imb_flower_0.01/train/wallflower/81.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/wallflower/109.jpg	Blurred green leaves and soft focus.
+../dataset/datasets/imb_flower_0.01/train/wallflower/100.jpg	Green leaves and blurred flowers.
+../dataset/datasets/imb_flower_0.01/train/wallflower/80.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/wallflower/111.jpg	Green leaves and blurred flowers.
+../dataset/datasets/imb_flower_0.01/train/wallflower/86.jpg	Green leaves, soil, grass.
+../dataset/datasets/imb_flower_0.01/train/wallflower/79.jpg	Green leaves and blurred red flowers.
+../dataset/datasets/imb_flower_0.01/train/wallflower/89.jpg	The background is green foliage with other flowers.
+../dataset/datasets/imb_flower_0.01/train/marigold/762.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/marigold/763.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/marigold/761.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/marigold/764.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/buttercup/746.jpg	Green grass.
+../dataset/datasets/imb_flower_0.01/train/buttercup/743.jpg	Green, blurred leaves.
+../dataset/datasets/imb_flower_0.01/train/buttercup/744.jpg	Green grassy field.
+../dataset/datasets/imb_flower_0.01/train/buttercup/745.jpg	Blurred green grass.
+../dataset/datasets/imb_flower_0.01/train/buttercup/742.jpg	The background is blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/oxeye_daisy/823.jpg	Blurred green and white.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/596.jpg	Green, blurred.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/604.jpg	Green grass and leaves.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/597.jpg	Green leaves and grass.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/593.jpg	The background is a mix of soil and dried leaves.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/601.jpg	Green, blurred grass.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/594.jpg	A flower on concrete.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/595.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/603.jpg	Green grass and leaves.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/602.jpg	The background is blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/599.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/598.jpg	Green grass.
+../dataset/datasets/imb_flower_0.01/train/common_dandelion/600.jpg	Green grass, blurred.
+../dataset/datasets/imb_flower_0.01/train/petunia/5.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/petunia/7.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/17.jpg	Green leaves and shadows.
+../dataset/datasets/imb_flower_0.01/train/petunia/10.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/petunia/31.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/petunia/18.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/26.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/15.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/petunia/22.jpg	The background is soil with scattered leaves.
+../dataset/datasets/imb_flower_0.01/train/petunia/12.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/13.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/petunia/33.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/32.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/35.jpg	Green leaves, soil.
+../dataset/datasets/imb_flower_0.01/train/petunia/36.jpg	The background is green and blurred.
+../dataset/datasets/imb_flower_0.01/train/petunia/27.jpg	Green grass, blue sky, trees.
+../dataset/datasets/imb_flower_0.01/train/petunia/30.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/petunia/2.jpg	The background is soil and greenery.
+../dataset/datasets/imb_flower_0.01/train/petunia/8.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/0.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/petunia/29.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/petunia/34.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/petunia/4.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/3.jpg	The background consists of green leaves and brown dried leaves.
+../dataset/datasets/imb_flower_0.01/train/petunia/28.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/16.jpg	The background is mulch and greenery.
+../dataset/datasets/imb_flower_0.01/train/petunia/25.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/9.jpg	Green leaves and petals.
+../dataset/datasets/imb_flower_0.01/train/petunia/6.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/petunia/14.jpg	Green leaves, soil.
+../dataset/datasets/imb_flower_0.01/train/petunia/24.jpg	The background is green and blurred.
+../dataset/datasets/imb_flower_0.01/train/petunia/11.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/19.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/petunia/21.jpg	Green leaves, wooden surface.
+../dataset/datasets/imb_flower_0.01/train/petunia/1.jpg	Green corrugated metal.
+../dataset/datasets/imb_flower_0.01/train/petunia/23.jpg	Green leaves and petals.
+../dataset/datasets/imb_flower_0.01/train/petunia/37.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/petunia/38.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/petunia/20.jpg	Green leaves and petals.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/695.jpg	The background is dark green.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/697.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/696.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/694.jpg	Blurred green.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/698.jpg	Blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/692.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/wild_pansy/693.jpg	The background is blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/primula/610.jpg	Green leaves and wooden surface.
+../dataset/datasets/imb_flower_0.01/train/primula/613.jpg	The background is green and red.
+../dataset/datasets/imb_flower_0.01/train/primula/614.jpg	The background is green and earthy.
+../dataset/datasets/imb_flower_0.01/train/primula/607.jpg	Green leaves and grass.
+../dataset/datasets/imb_flower_0.01/train/primula/616.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/primula/612.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/primula/611.jpg	Green leaves, brown soil.
+../dataset/datasets/imb_flower_0.01/train/primula/609.jpg	Green leaves, red berries.
+../dataset/datasets/imb_flower_0.01/train/primula/608.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/primula/615.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/primula/606.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/primula/605.jpg	The background is blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/sunflower/797.jpg	Green leaves and blurred flowers.
+../dataset/datasets/imb_flower_0.01/train/sunflower/796.jpg	A flower is set against a backdrop of blue sky with scattered white clouds and a field of green plants.
+../dataset/datasets/imb_flower_0.01/train/pelargonium/747.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/pelargonium/748.jpg	Green, blurred, natural setting.
+../dataset/datasets/imb_flower_0.01/train/pelargonium/750.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/pelargonium/749.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/pelargonium/751.jpg	The background is green foliage and soil.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/493.jpg	The background is blurred with green and brown tones.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/500.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/506.jpg	Dark, blurred leaves.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/502.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/490.jpg	The background is blurred with green and brown tones.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/504.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/492.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/494.jpg	Blurred, soft focus, muted colors.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/499.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/505.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/491.jpg	The background is blurred with green and yellow hues.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/498.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/497.jpg	The background is blurred with red and green hues.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/501.jpg	Dark, blurred leaves.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/495.jpg	Dark green leaves and buds.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/503.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/bishop_of_llandaff/496.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/gaura/765.jpg	The background is green and blurred.
+../dataset/datasets/imb_flower_0.01/train/gaura/768.jpg	Blurred green grass.
+../dataset/datasets/imb_flower_0.01/train/gaura/767.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/gaura/766.jpg	Blurred green field.
+../dataset/datasets/imb_flower_0.01/train/geranium/445.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/444.jpg	Dark green foliage.
+../dataset/datasets/imb_flower_0.01/train/geranium/438.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/440.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/451.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/441.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/443.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/435.jpg	Green leaves and dark background.
+../dataset/datasets/imb_flower_0.01/train/geranium/434.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/446.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/450.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/437.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/439.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/448.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/447.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/452.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/436.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/geranium/449.jpg	Dark green leaves surround 'a flower'.
+../dataset/datasets/imb_flower_0.01/train/geranium/442.jpg	Dark green leaves surround 'a flower'.
+../dataset/datasets/imb_flower_0.01/train/orange_dahlia/771.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/orange_dahlia/770.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/orange_dahlia/772.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/orange_dahlia/769.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/508.jpg	The background is dark green foliage.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/516.jpg	Green leaves and blurred flowers.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/521.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/512.jpg	Green leaves, brown dried leaf.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/519.jpg	Green leaves and buds surround 'a flower'.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/511.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/518.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/514.jpg	Green leaves and blurred flowers.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/513.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/517.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/509.jpg	Green leaves and buds surround 'a flower'.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/522.jpg	Green leaves and brown, dried flower.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/510.jpg	Green leaves surround a flower.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/507.jpg	Green leaves surround a flower.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/515.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/pink-yellow_dahlia/520.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/cautleya_spicata/818.jpg	The background is blurred, with green leaves and brown earth tones.
+../dataset/datasets/imb_flower_0.01/train/japanese_anemone/812.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/black-eyed_susan/813.jpg	Blurred green and yellow.
+../dataset/datasets/imb_flower_0.01/train/silverbush/817.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/557.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/563.jpg	Green foliage, blurred.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/559.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/562.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/556.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/554.jpg	Green, blurred foliage.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/564.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/561.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/565.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/566.jpg	The background is blurred, with green moss and brown earth tones.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/558.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/553.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/560.jpg	Green, blurred foliage.
+../dataset/datasets/imb_flower_0.01/train/californian_poppy/555.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/osteospermum/798.jpg	Green leaves and buds.
+../dataset/datasets/imb_flower_0.01/train/osteospermum/799.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/spring_crocus/834.jpg	Brown leaves, dark soil.
+../dataset/datasets/imb_flower_0.01/train/bearded_iris/814.jpg	Green grass.
+../dataset/datasets/imb_flower_0.01/train/windflower/815.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/tree_poppy/782.jpg	The background is black.
+../dataset/datasets/imb_flower_0.01/train/tree_poppy/783.jpg	Dark, blurred leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/tree_poppy/784.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/gazania/725.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/gazania/728.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/gazania/727.jpg	The background is green and blurred, with hints of sunlight.
+../dataset/datasets/imb_flower_0.01/train/gazania/726.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/gazania/730.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/gazania/729.jpg	Blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/azalea/567.jpg	A flower is surrounded by green foliage and blurred pink blossoms.
+../dataset/datasets/imb_flower_0.01/train/azalea/570.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/azalea/576.jpg	The background is blurred with other flowers and green leaves.
+../dataset/datasets/imb_flower_0.01/train/azalea/578.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/azalea/571.jpg	The background includes green foliage and a white structure.
+../dataset/datasets/imb_flower_0.01/train/azalea/569.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/azalea/575.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/azalea/574.jpg	The background is dark and blurred, emphasizing the flower.
+../dataset/datasets/imb_flower_0.01/train/azalea/572.jpg	The background is blurred with green leaves and pink flowers.
+../dataset/datasets/imb_flower_0.01/train/azalea/573.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/azalea/577.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/azalea/568.jpg	Green foliage and blurred flowers.
+../dataset/datasets/imb_flower_0.01/train/azalea/579.jpg	The background is blurred with green leaves and rocks.
+../dataset/datasets/imb_flower_0.01/train/water_lily/134.jpg	Dark green leaves, some yellowish.
+../dataset/datasets/imb_flower_0.01/train/water_lily/127.jpg	Green lily pads.
+../dataset/datasets/imb_flower_0.01/train/water_lily/132.jpg	The background is black.
+../dataset/datasets/imb_flower_0.01/train/water_lily/145.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/water_lily/130.jpg	Green leaves, dark water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/139.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/water_lily/116.jpg	Dark, green leaves.
+../dataset/datasets/imb_flower_0.01/train/water_lily/146.jpg	Dark water with lily pads.
+../dataset/datasets/imb_flower_0.01/train/water_lily/125.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/water_lily/121.jpg	Water and leaves.
+../dataset/datasets/imb_flower_0.01/train/water_lily/118.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/water_lily/133.jpg	Dark green foliage, water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/122.jpg	Green water and leaves.
+../dataset/datasets/imb_flower_0.01/train/water_lily/143.jpg	The background consists of green lily pads and water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/141.jpg	The background consists of water and lily pads.
+../dataset/datasets/imb_flower_0.01/train/water_lily/119.jpg	Green leaves and water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/144.jpg	Dark water with green lily pads.
+../dataset/datasets/imb_flower_0.01/train/water_lily/124.jpg	Water and leaves.
+../dataset/datasets/imb_flower_0.01/train/water_lily/135.jpg	The background is dark.
+../dataset/datasets/imb_flower_0.01/train/water_lily/136.jpg	Dark water with green leaves.
+../dataset/datasets/imb_flower_0.01/train/water_lily/114.jpg	Dark, water-like surface.
+../dataset/datasets/imb_flower_0.01/train/water_lily/117.jpg	Dark water with lily pads.
+../dataset/datasets/imb_flower_0.01/train/water_lily/140.jpg	Green lily pads, dark water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/115.jpg	Dark water with lily pads.
+../dataset/datasets/imb_flower_0.01/train/water_lily/123.jpg	Green leaves and water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/120.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/water_lily/129.jpg	Dark, green leaves.
+../dataset/datasets/imb_flower_0.01/train/water_lily/131.jpg	Green leaves and water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/128.jpg	Water and reeds.
+../dataset/datasets/imb_flower_0.01/train/water_lily/138.jpg	Dark green leaves and water.
+../dataset/datasets/imb_flower_0.01/train/water_lily/137.jpg	The background is dark and out of focus, highlighting the flower.
+../dataset/datasets/imb_flower_0.01/train/water_lily/142.jpg	The background is dark.
+../dataset/datasets/imb_flower_0.01/train/water_lily/126.jpg	Green leaves, water lily pads.
+../dataset/datasets/imb_flower_0.01/train/water_lily/113.jpg	Green leaves and water.
+../dataset/datasets/imb_flower_0.01/train/rose/205.jpg	The background is blurred with green leaves and soft light.
+../dataset/datasets/imb_flower_0.01/train/rose/185.jpg	The background is dark soil and green leaves.
+../dataset/datasets/imb_flower_0.01/train/rose/209.jpg	The background is green foliage and a blurred sign.
+../dataset/datasets/imb_flower_0.01/train/rose/200.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/rose/206.jpg	The background is blurred, with hints of green and brown.
+../dataset/datasets/imb_flower_0.01/train/rose/210.jpg	A flower is set against a brick wall.
+../dataset/datasets/imb_flower_0.01/train/rose/202.jpg	Blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/rose/181.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/rose/192.jpg	Green grass and blurred leaves.
+../dataset/datasets/imb_flower_0.01/train/rose/194.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/rose/208.jpg	The background is blurred, with soft green and red hues.
+../dataset/datasets/imb_flower_0.01/train/rose/188.jpg	The background is blurred, out of focus.
+../dataset/datasets/imb_flower_0.01/train/rose/187.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/rose/199.jpg	The background is blurred, suggesting a soft, out-of-focus sky.
+../dataset/datasets/imb_flower_0.01/train/rose/184.jpg	Dark, blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/rose/182.jpg	The background is blurred and indistinct.
+../dataset/datasets/imb_flower_0.01/train/rose/191.jpg	Green, blurred background.
+../dataset/datasets/imb_flower_0.01/train/rose/201.jpg	A flower is surrounded by greenery and other flowers.
+../dataset/datasets/imb_flower_0.01/train/rose/196.jpg	A flower is surrounded by green foliage and blurred pink blossoms.
+../dataset/datasets/imb_flower_0.01/train/rose/204.jpg	Grassy field with wooden fence.
+../dataset/datasets/imb_flower_0.01/train/rose/193.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/rose/189.jpg	The background is blurred and neutral.
+../dataset/datasets/imb_flower_0.01/train/rose/207.jpg	The background is blurred, dark, and out of focus.
+../dataset/datasets/imb_flower_0.01/train/rose/186.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/rose/180.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/rose/183.jpg	The background is blurred and neutral.
+../dataset/datasets/imb_flower_0.01/train/rose/190.jpg	A flower is set against a blurred, colorful background with hints of blue and white.
+../dataset/datasets/imb_flower_0.01/train/rose/197.jpg	A flower with green leaves and a blurred brick wall.
+../dataset/datasets/imb_flower_0.01/train/rose/203.jpg	Blurred green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/rose/198.jpg	Blurred brick wall.
+../dataset/datasets/imb_flower_0.01/train/rose/195.jpg	Blurred green and orange.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/419.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/420.jpg	Dark, blurred leaves.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/426.jpg	The background is green foliage and soil.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/421.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/425.jpg	The background is a mix of green leaves, brown twigs, and soil.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/422.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/416.jpg	Blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/414.jpg	Dark, leafy background.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/417.jpg	Dark, leafy background.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/427.jpg	Green leaves, dark soil.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/415.jpg	Green leaves and dark shadows.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/428.jpg	Dark, blurred leaves.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/431.jpg	The background is green and earthy, with hints of brown and white.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/432.jpg	Wooden fence.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/433.jpg	Green leaves surround a flower.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/430.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/424.jpg	Dark, blurred background.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/423.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/429.jpg	Green leaves, wooden structure.
+../dataset/datasets/imb_flower_0.01/train/thorn_apple/418.jpg	The background is dark.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/523.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/531.jpg	A flower with a wooden backdrop.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/537.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/526.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/525.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/528.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/534.jpg	Green leaves and sunlight.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/535.jpg	Green leaves and vines.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/532.jpg	Green leaves and vines.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/530.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/524.jpg	Green leaves, yellow flowers.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/536.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/529.jpg	Green leaves surround a flower.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/533.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/morning_glory/527.jpg	Green leaves surround a flower.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/61.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/70.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/51.jpg	A flower with green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/40.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/41.jpg	Green leaves and sunlight.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/55.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/66.jpg	A flower against a wooden fence.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/53.jpg	The background is blurred with green and brown tones.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/54.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/52.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/69.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/72.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/59.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/68.jpg	The background is green foliage and a white wall.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/60.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/39.jpg	Green leaves, wooden structure.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/67.jpg	The background is blurred green foliage and sky.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/48.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/71.jpg	A flower with green leaves and a wooden surface.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/57.jpg	The background consists of green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/49.jpg	Green leaves, soil, sunlight.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/62.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/42.jpg	Green, blurred, natural setting.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/47.jpg	Green, blurred, natural setting.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/46.jpg	Green leaves and sunlight.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/45.jpg	The background is green and earthy.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/58.jpg	Dark and blurred.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/65.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/76.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/43.jpg	Green leaves, white lattice.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/44.jpg	A flower is held in front of a car interior with two people visible.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/50.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/75.jpg	A flower with green leaves and a white lattice backdrop.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/63.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/73.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/74.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/64.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/passion_flower/56.jpg	A flower with green leaves and a wooden structure behind it.
+../dataset/datasets/imb_flower_0.01/train/lotus/319.jpg	Green, blurred background.
+../dataset/datasets/imb_flower_0.01/train/lotus/320.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/lotus/313.jpg	The background is green and blurred, with leaves visible.
+../dataset/datasets/imb_flower_0.01/train/lotus/305.jpg	The background consists of green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/lotus/310.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/lotus/311.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/lotus/315.jpg	The background consists of green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/lotus/308.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/lotus/314.jpg	A flower with green leaves.
+../dataset/datasets/imb_flower_0.01/train/lotus/296.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/lotus/306.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/lotus/299.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/lotus/302.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/lotus/300.jpg	Green grass and leaves.
+../dataset/datasets/imb_flower_0.01/train/lotus/303.jpg	The background is green and blurred.
+../dataset/datasets/imb_flower_0.01/train/lotus/298.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/lotus/304.jpg	A flower with a blurred blue background.
+../dataset/datasets/imb_flower_0.01/train/lotus/318.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/lotus/321.jpg	The background is black.
+../dataset/datasets/imb_flower_0.01/train/lotus/309.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/lotus/316.jpg	The background consists of green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/lotus/307.jpg	The background consists of green leaves and water.
+../dataset/datasets/imb_flower_0.01/train/lotus/317.jpg	The background consists of green leaves.
+../dataset/datasets/imb_flower_0.01/train/lotus/312.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/lotus/301.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/lotus/297.jpg	Dark, blurred.
+../dataset/datasets/imb_flower_0.01/train/toad_lily/846.jpg	Green, blurred background.
+../dataset/datasets/imb_flower_0.01/train/anthurium/540.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/anthurium/542.jpg	The background is dark green foliage.
+../dataset/datasets/imb_flower_0.01/train/anthurium/549.jpg	The background is plain white.
+../dataset/datasets/imb_flower_0.01/train/anthurium/543.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/anthurium/548.jpg	The background is green foliage and soil.
+../dataset/datasets/imb_flower_0.01/train/anthurium/538.jpg	Dark, blurred.
+../dataset/datasets/imb_flower_0.01/train/anthurium/550.jpg	The background consists of green leaves and grass.
+../dataset/datasets/imb_flower_0.01/train/anthurium/552.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/anthurium/546.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/anthurium/541.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/anthurium/539.jpg	The background consists of green leaves and a dark surface.
+../dataset/datasets/imb_flower_0.01/train/anthurium/547.jpg	The background is green foliage with pink and white flowers.
+../dataset/datasets/imb_flower_0.01/train/anthurium/551.jpg	The background is blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/anthurium/545.jpg	Dark, blurred leaves.
+../dataset/datasets/imb_flower_0.01/train/anthurium/544.jpg	The background is plain white.
+../dataset/datasets/imb_flower_0.01/train/frangipani/214.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/frangipani/234.jpg	The background consists of green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/frangipani/240.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/frangipani/213.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/frangipani/224.jpg	The background consists of green leaves.
+../dataset/datasets/imb_flower_0.01/train/frangipani/227.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/frangipani/219.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/frangipani/221.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/frangipani/235.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/frangipani/212.jpg	The background is blurred with green and brown tones.
+../dataset/datasets/imb_flower_0.01/train/frangipani/236.jpg	The background is blurred green foliage and branches.
+../dataset/datasets/imb_flower_0.01/train/frangipani/238.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/frangipani/225.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/frangipani/233.jpg	The background is black.
+../dataset/datasets/imb_flower_0.01/train/frangipani/215.jpg	Dark, blurred, out-of-focus.
+../dataset/datasets/imb_flower_0.01/train/frangipani/222.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/frangipani/230.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/frangipani/237.jpg	Green leaves, blue sky.
+../dataset/datasets/imb_flower_0.01/train/frangipani/220.jpg	Blurred greenery and sky.
+../dataset/datasets/imb_flower_0.01/train/frangipani/231.jpg	Green leaves and buds.
+../dataset/datasets/imb_flower_0.01/train/frangipani/211.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/frangipani/223.jpg	Blurred green and brown.
+../dataset/datasets/imb_flower_0.01/train/frangipani/217.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/frangipani/229.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/frangipani/218.jpg	A flower on a dark blue background.
+../dataset/datasets/imb_flower_0.01/train/frangipani/216.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/frangipani/226.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/frangipani/232.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/frangipani/228.jpg	Green and blurred.
+../dataset/datasets/imb_flower_0.01/train/frangipani/239.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/clematis/461.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/clematis/468.jpg	Green leaves and other flowers.
+../dataset/datasets/imb_flower_0.01/train/clematis/458.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/clematis/463.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/clematis/459.jpg	The background is green foliage and dark soil.
+../dataset/datasets/imb_flower_0.01/train/clematis/471.jpg	The background is dark green foliage.
+../dataset/datasets/imb_flower_0.01/train/clematis/465.jpg	Green leaves and buds.
+../dataset/datasets/imb_flower_0.01/train/clematis/456.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/clematis/466.jpg	A flower is set against a wooden lattice backdrop with green leaves.
+../dataset/datasets/imb_flower_0.01/train/clematis/453.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/clematis/469.jpg	Dark green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/clematis/460.jpg	Wooden fence.
+../dataset/datasets/imb_flower_0.01/train/clematis/462.jpg	The background is a green pot with soil and leaves.
+../dataset/datasets/imb_flower_0.01/train/clematis/455.jpg	Wooden fence with green leaves.
+../dataset/datasets/imb_flower_0.01/train/clematis/467.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/clematis/470.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/clematis/454.jpg	A flower with green leaves and a wooden fence.
+../dataset/datasets/imb_flower_0.01/train/clematis/464.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/clematis/457.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/368.jpg	Green leaves and buds surround 'a flower'.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/359.jpg	The background is blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/349.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/356.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/360.jpg	Blurred green.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/366.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/355.jpg	Green foliage and buds surround 'a flower'.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/347.jpg	Green leaves, brown mulch.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/352.jpg	The background is dark with green leaves.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/364.jpg	Green leaves, blurred grass.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/362.jpg	Green leaves, pink wall.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/363.jpg	The background consists of green leaves.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/354.jpg	The background is green foliage with purple flowers.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/370.jpg	The background is green foliage and branches.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/348.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/353.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/369.jpg	A flower against a dark, textured wall.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/367.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/357.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/365.jpg	A flower with green leaves and blurred greenery, blue sky.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/361.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/358.jpg	Green grass, trees, and houses.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/350.jpg	Green leaves, white blinds.
+../dataset/datasets/imb_flower_0.01/train/hibiscus/351.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/columbine/661.jpg	A flower with yellow petals and green leaves, set against a blurred background of blue and green hues.
+../dataset/datasets/imb_flower_0.01/train/columbine/659.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/columbine/666.jpg	The background is dark and blurred.
+../dataset/datasets/imb_flower_0.01/train/columbine/662.jpg	The background is blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/columbine/665.jpg	The background is blurred with green and brown tones.
+../dataset/datasets/imb_flower_0.01/train/columbine/664.jpg	Dark leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/columbine/660.jpg	The background is green foliage and brown earth.
+../dataset/datasets/imb_flower_0.01/train/columbine/663.jpg	Blurred, earthy tones.
+../dataset/datasets/imb_flower_0.01/train/columbine/658.jpg	The background is dark and blurred.
+../dataset/datasets/imb_flower_0.01/train/desert-rose/786.jpg	Green grass, rocks, plants.
+../dataset/datasets/imb_flower_0.01/train/desert-rose/787.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/desert-rose/785.jpg	The background is dark soil with some green leaves.
+../dataset/datasets/imb_flower_0.01/train/tree_mallow/805.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/tree_mallow/804.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/magnolia/789.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/magnolia/788.jpg	The background is a mix of brown and pink petals on the ground.
+../dataset/datasets/imb_flower_0.01/train/magnolia/790.jpg	Green grass.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/272.jpg	The background is blurred with green leaves and white light.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/294.jpg	The background is blurred, showing earthy tones.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/269.jpg	The background is blurred, with soft white and green tones.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/283.jpg	The background is blurred green foliage and blue sky.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/279.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/290.jpg	The background is green and blurred, suggesting foliage.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/293.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/282.jpg	A flower against a white wall with blue markings.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/295.jpg	Green, blurred, natural setting.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/281.jpg	The background is black.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/287.jpg	The background is blurred with rocks and trees.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/274.jpg	The background is blurred, with soft green and blue tones.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/291.jpg	Blurred green and brown.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/286.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/278.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/271.jpg	The background is green and blurred.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/289.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/277.jpg	The background is blurred, with soft, out-of-focus colors.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/284.jpg	Wooden wall.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/273.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/275.jpg	The background consists of dark green leaves with white spots.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/270.jpg	The background is green foliage and brick wall.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/276.jpg	The background is blurred with greenery and red stems.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/285.jpg	A flower with green grass and blurred sunlight.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/280.jpg	The background is blurred, with warm tones.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/288.jpg	The background is black.
+../dataset/datasets/imb_flower_0.01/train/cyclamen_/292.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/watercress/147.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/watercress/168.jpg	A flower is set against a chain-link fence.
+../dataset/datasets/imb_flower_0.01/train/watercress/172.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/watercress/166.jpg	The background is a blurred stone wall.
+../dataset/datasets/imb_flower_0.01/train/watercress/163.jpg	Blurred green leaves.
+../dataset/datasets/imb_flower_0.01/train/watercress/170.jpg	The background consists of green leaves.
+../dataset/datasets/imb_flower_0.01/train/watercress/148.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/watercress/161.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/watercress/167.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/watercress/175.jpg	Green leaves and soil.
+../dataset/datasets/imb_flower_0.01/train/watercress/154.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/watercress/160.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/watercress/152.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/watercress/151.jpg	The background is blurred with green foliage and sunlight.
+../dataset/datasets/imb_flower_0.01/train/watercress/156.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/watercress/174.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/watercress/171.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/watercress/176.jpg	Green leaves and pots.
+../dataset/datasets/imb_flower_0.01/train/watercress/179.jpg	The background is blurred with green and brown tones.
+../dataset/datasets/imb_flower_0.01/train/watercress/169.jpg	A flower with a blurred stone background.
+../dataset/datasets/imb_flower_0.01/train/watercress/149.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/watercress/150.jpg	Green leaves, white fence.
+../dataset/datasets/imb_flower_0.01/train/watercress/162.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/watercress/158.jpg	The background is green foliage and a dark structure.
+../dataset/datasets/imb_flower_0.01/train/watercress/159.jpg	The background is green foliage with hints of purple flowers.
+../dataset/datasets/imb_flower_0.01/train/watercress/173.jpg	Green leaves and sunlight.
+../dataset/datasets/imb_flower_0.01/train/watercress/165.jpg	Green and blurred.
+../dataset/datasets/imb_flower_0.01/train/watercress/164.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/watercress/177.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/watercress/153.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/watercress/178.jpg	A flower with green leaves and a wooden fence.
+../dataset/datasets/imb_flower_0.01/train/watercress/155.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/watercress/157.jpg	The background is green foliage and soil.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/712.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/710.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/708.jpg	The background is dark and blurred.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/711.jpg	Green, blurred background.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/706.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/707.jpg	Blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/canna_lily/709.jpg	The background is green foliage with blurred flowers.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/731.jpg	The background includes greenery and wooden elements.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/732.jpg	The background is plain gray.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/734.jpg	The background is dark and leafy.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/736.jpg	White siding.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/733.jpg	The background is plain and light-colored.
+../dataset/datasets/imb_flower_0.01/train/hippeastrum_/735.jpg	The background is plain and neutral.
+../dataset/datasets/imb_flower_0.01/train/bee_balm/773.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/bee_balm/774.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/bee_balm/775.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/ball_moss/828.jpg	The background consists of green foliage and small plants.
+../dataset/datasets/imb_flower_0.01/train/foxglove/251.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/foxglove/262.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/foxglove/264.jpg	The background is blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/foxglove/248.jpg	Blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/foxglove/245.jpg	Green foliage, blurred brick wall.
+../dataset/datasets/imb_flower_0.01/train/foxglove/242.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/foxglove/266.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/foxglove/241.jpg	Green, blurred background.
+../dataset/datasets/imb_flower_0.01/train/foxglove/253.jpg	A flower against a brick wall.
+../dataset/datasets/imb_flower_0.01/train/foxglove/260.jpg	The background is blurred, with a hint of a black metal structure and a light gray wall.
+../dataset/datasets/imb_flower_0.01/train/foxglove/258.jpg	Green, blurred foliage.
+../dataset/datasets/imb_flower_0.01/train/foxglove/263.jpg	White lattice fence.
+../dataset/datasets/imb_flower_0.01/train/foxglove/250.jpg	Green foliage, blurred trees, sunny day.
+../dataset/datasets/imb_flower_0.01/train/foxglove/244.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/foxglove/268.jpg	The background is a solid, muted teal.
+../dataset/datasets/imb_flower_0.01/train/foxglove/247.jpg	The background consists of green foliage and mulch.
+../dataset/datasets/imb_flower_0.01/train/foxglove/255.jpg	The background is blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/foxglove/265.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/foxglove/243.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/foxglove/246.jpg	The background is green foliage and a white wall.
+../dataset/datasets/imb_flower_0.01/train/foxglove/256.jpg	Blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/foxglove/261.jpg	A flower with blurred greenery and building.
+../dataset/datasets/imb_flower_0.01/train/foxglove/257.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/foxglove/259.jpg	A flower with a wooden fence and greenery behind it.
+../dataset/datasets/imb_flower_0.01/train/foxglove/254.jpg	Dark, blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/foxglove/252.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/foxglove/267.jpg	Green foliage and blurred flowers.
+../dataset/datasets/imb_flower_0.01/train/foxglove/249.jpg	The background is green foliage and a blurred fence.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/373.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/390.jpg	A flower surrounded by more flowers.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/371.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/378.jpg	Green foliage, brick path, blurred background.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/377.jpg	A flower with a blurred green background.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/392.jpg	The background is plain white.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/376.jpg	A flower with pink petals and white centers, set against a stone wall with green foliage.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/389.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/383.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/372.jpg	The background is bright and blurred, emphasizing the flower.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/385.jpg	The background is blurred, with hints of green and brown.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/379.jpg	A flower with blurred greenery and pavement.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/391.jpg	The background is blurred green foliage.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/374.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/380.jpg	The background is blurred and white.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/382.jpg	Green foliage.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/388.jpg	The background is blurred with green foliage and pink flowers.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/386.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/384.jpg	The background is blurred green foliage and blue sky.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/381.jpg	The background is blurred green.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/387.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/bougainvillea/375.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/camellia/634.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/camellia/630.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/camellia/628.jpg	The background consists of green leaves and another pink flower.
+../dataset/datasets/imb_flower_0.01/train/camellia/637.jpg	The background is blurred, with green leaves and a hint of blue.
+../dataset/datasets/imb_flower_0.01/train/camellia/629.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/camellia/633.jpg	Dark green foliage.
+../dataset/datasets/imb_flower_0.01/train/camellia/632.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/camellia/635.jpg	A flower against wooden fence.
+../dataset/datasets/imb_flower_0.01/train/camellia/631.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/camellia/636.jpg	The background is blurred with red and green hues.
+../dataset/datasets/imb_flower_0.01/train/mallow/776.jpg	A flower is set against a blurred window backdrop.
+../dataset/datasets/imb_flower_0.01/train/mallow/777.jpg	The background is green foliage and a light-colored wall.
+../dataset/datasets/imb_flower_0.01/train/mallow/778.jpg	The background is green foliage.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/713.jpg	The background is dark green foliage.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/717.jpg	The background is blurred greenery.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/714.jpg	Green foliage, blurred background.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/715.jpg	Green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/718.jpg	The background consists of green leaves and stems.
+../dataset/datasets/imb_flower_0.01/train/mexican_petunia/716.jpg	Blurred, dark green.
+../dataset/datasets/imb_flower_0.01/train/bromelia/792.jpg	Dark, blurred.
+../dataset/datasets/imb_flower_0.01/train/bromelia/791.jpg	The background is plain white.
+../dataset/datasets/imb_flower_0.01/train/bromelia/793.jpg	Dark green leaves.
+../dataset/datasets/imb_flower_0.01/train/blanket_flower/824.jpg	Green leaves.
+../dataset/datasets/imb_flower_0.01/train/trumpet_creeper/806.jpg	Green leaves and blurred background.
+../dataset/datasets/imb_flower_0.01/train/trumpet_creeper/807.jpg	Green leaves, blurred background.
+../dataset/datasets/imb_flower_0.01/train/blackberry_lily/825.jpg	Green foliage and grass.

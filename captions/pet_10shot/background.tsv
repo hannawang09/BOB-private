@@ -1,0 +1,371 @@
+image	response
+../dataset/datasets/pet/10shot/train/Abyssinian/5.jpg	A pet is on a white textured surface with a light-colored wall behind it.
+../dataset/datasets/pet/10shot/train/Abyssinian/7.jpg	Dark, plain background.
+../dataset/datasets/pet/10shot/train/Abyssinian/2.jpg	The background is blurred with soft colors.
+../dataset/datasets/pet/10shot/train/Abyssinian/8.jpg	The pet is resting on a light-colored, patterned fabric.
+../dataset/datasets/pet/10shot/train/Abyssinian/0.jpg	The background is dark and plain.
+../dataset/datasets/pet/10shot/train/Abyssinian/4.jpg	The background is a light-colored wall with floral patterns.
+../dataset/datasets/pet/10shot/train/Abyssinian/3.jpg	The pet is resting on a patterned cushion.
+../dataset/datasets/pet/10shot/train/Abyssinian/9.jpg	The background features kitchen items and containers on shelves.
+../dataset/datasets/pet/10shot/train/Abyssinian/6.jpg	The background is plain and light-colored.
+../dataset/datasets/pet/10shot/train/Abyssinian/1.jpg	The background includes a wooden piece of furniture and a striped rug.
+../dataset/datasets/pet/10shot/train/american_bulldog/127.jpg	The background appears to be indoors, possibly a room with wooden elements and some furniture.
+../dataset/datasets/pet/10shot/train/american_bulldog/125.jpg	The background features colorful, patterned fabric.
+../dataset/datasets/pet/10shot/train/american_bulldog/121.jpg	A pet is sitting on a boat near water and rocks.
+../dataset/datasets/pet/10shot/train/american_bulldog/122.jpg	The background is tiled flooring.
+../dataset/datasets/pet/10shot/train/american_bulldog/124.jpg	Grass, fence, house.
+../dataset/datasets/pet/10shot/train/american_bulldog/123.jpg	Green grassy field.
+../dataset/datasets/pet/10shot/train/american_bulldog/120.jpg	The background shows a grassy area with trees and sunlight filtering through.
+../dataset/datasets/pet/10shot/train/american_bulldog/129.jpg	The background is blurred greenery.
+../dataset/datasets/pet/10shot/train/american_bulldog/128.jpg	Snowy yard, wooden fence, car.
+../dataset/datasets/pet/10shot/train/american_bulldog/126.jpg	The background features a bed with a white blanket and a red patterned rug.
+../dataset/datasets/pet/10shot/train/american_pit_bull_terrier/134.jpg	The pet is sitting on a dirt ground.
+../dataset/datasets/pet/10shot/train/american_pit_bull_terrier/132.jpg	The background shows a room with a bed and a wall.
+../dataset/datasets/pet/10shot/train/american_pit_bull_terrier/130.jpg	The background features green foliage and plants.
+../dataset/datasets/pet/10shot/train/american_pit_bull_terrier/139.jpg	The background is a simple, neutral-colored wall with a red blanket and pillows.
+../dataset/datasets/pet/10shot/train/american_pit_bull_terrier/133.jpg	The pet is lying on a patterned blanket.
+../dataset/datasets/pet/10shot/train/american_pit_bull_terrier/135.jpg	A pet is sitting in a car, wearing a seatbelt.
+../dataset/datasets/pet/10shot/train/american_pit_bull_terrier/136.jpg	The background is plain and neutral.
+../dataset/datasets/pet/10shot/train/american_pit_bull_terrier/131.jpg	The background is a plain wall with a wooden chair leg visible.
+../dataset/datasets/pet/10shot/train/american_pit_bull_terrier/138.jpg	A pet is sitting behind a chain-link fence, with some greenery and structures visible in the background.
+../dataset/datasets/pet/10shot/train/american_pit_bull_terrier/137.jpg	Grass, leaves, sunlight.
+../dataset/datasets/pet/10shot/train/basset_hound/147.jpg	Grass, people, event.
+../dataset/datasets/pet/10shot/train/basset_hound/148.jpg	Dry grass, blurred background.
+../dataset/datasets/pet/10shot/train/basset_hound/145.jpg	A pet stands on a wooden deck with snow and a wooden fence behind it.
+../dataset/datasets/pet/10shot/train/basset_hound/146.jpg	A pet is sitting on a wooden floor with a light green wall and baseboard in the background.
+../dataset/datasets/pet/10shot/train/basset_hound/143.jpg	The background is blurred, suggesting an outdoor setting with earthy tones.
+../dataset/datasets/pet/10shot/train/basset_hound/141.jpg	Grass.
+../dataset/datasets/pet/10shot/train/basset_hound/144.jpg	Clear blue sky, sandy ground.
+../dataset/datasets/pet/10shot/train/basset_hound/149.jpg	Dry grass.
+../dataset/datasets/pet/10shot/train/basset_hound/140.jpg	The background is snow-covered ground.
+../dataset/datasets/pet/10shot/train/basset_hound/142.jpg	A pet is lying on tiled floor near wooden cabinets and stove.
+../dataset/datasets/pet/10shot/train/beagle/154.jpg	A pet is resting in a wicker basket on a carpeted floor.
+../dataset/datasets/pet/10shot/train/beagle/152.jpg	Carpeted floor, kitchen appliances.
+../dataset/datasets/pet/10shot/train/beagle/151.jpg	Wooden wall, green mat, plastic container.
+../dataset/datasets/pet/10shot/train/beagle/156.jpg	The background shows a paved area with scattered leaves and a tennis ball on the ground.
+../dataset/datasets/pet/10shot/train/beagle/150.jpg	A pet is on a patterned rug with a bone in its mouth.
+../dataset/datasets/pet/10shot/train/beagle/158.jpg	The background is plain and white.
+../dataset/datasets/pet/10shot/train/beagle/159.jpg	Carpeted floor, furniture legs visible.
+../dataset/datasets/pet/10shot/train/beagle/153.jpg	A pet is lying on a red plaid couch.
+../dataset/datasets/pet/10shot/train/beagle/155.jpg	The background is dark and out of focus, highlighting the pet.
+../dataset/datasets/pet/10shot/train/beagle/157.jpg	The background is blurred greenery.
+../dataset/datasets/pet/10shot/train/Bengal/17.jpg	A pet stands against a green door.
+../dataset/datasets/pet/10shot/train/Bengal/10.jpg	Grass.
+../dataset/datasets/pet/10shot/train/Bengal/18.jpg	Green grass, bushes, person's leg.
+../dataset/datasets/pet/10shot/train/Bengal/15.jpg	A pet is lying on a light surface with a window behind it.
+../dataset/datasets/pet/10shot/train/Bengal/12.jpg	The background includes storage bins and plastic containers.
+../dataset/datasets/pet/10shot/train/Bengal/13.jpg	A pet is sitting indoors with greenery visible outside.
+../dataset/datasets/pet/10shot/train/Bengal/16.jpg	The background is plain white.
+../dataset/datasets/pet/10shot/train/Bengal/14.jpg	The background appears to be indoors, possibly a room with neutral-colored walls and a soft surface beneath the pet.
+../dataset/datasets/pet/10shot/train/Bengal/11.jpg	A pet is lounging on a green couch with a blanket and pillow.
+../dataset/datasets/pet/10shot/train/Bengal/19.jpg	A pet is sitting on a white railing near a pool with clear water and patterned tiles.
+../dataset/datasets/pet/10shot/train/Birman/26.jpg	A pet stands on wooden floor near staircase and rug.
+../dataset/datasets/pet/10shot/train/Birman/22.jpg	The background is plain and light-colored, possibly a wall or floor.
+../dataset/datasets/pet/10shot/train/Birman/27.jpg	The background appears to be an indoor setting with papers and a chair visible.
+../dataset/datasets/pet/10shot/train/Birman/29.jpg	The background is blurred, focusing on the pet.
+../dataset/datasets/pet/10shot/train/Birman/28.jpg	A pet is resting on a white surface with a stone wall and greenery in the background.
+../dataset/datasets/pet/10shot/train/Birman/25.jpg	The background is blurred, suggesting an indoor setting with warm tones.
+../dataset/datasets/pet/10shot/train/Birman/24.jpg	The background shows a kitchen setting with cabinets and a chair.
+../dataset/datasets/pet/10shot/train/Birman/21.jpg	A pet sits on tiled floor near wooden furniture and glass door.
+../dataset/datasets/pet/10shot/train/Birman/23.jpg	A pet sits on patterned fabric.
+../dataset/datasets/pet/10shot/train/Birman/20.jpg	Grass and dirt.
+../dataset/datasets/pet/10shot/train/Bombay/31.jpg	The background is a light-colored, patterned surface with a cat tree structure.
+../dataset/datasets/pet/10shot/train/Bombay/33.jpg	The background is a textured, earthy tone resembling a natural setting.
+../dataset/datasets/pet/10shot/train/Bombay/32.jpg	A pet sits on a ledge near a window with a brick wall and metal bars in the background.
+../dataset/datasets/pet/10shot/train/Bombay/35.jpg	The background features greenery and wooden elements.
+../dataset/datasets/pet/10shot/train/Bombay/36.jpg	The background is plain and neutral.
+../dataset/datasets/pet/10shot/train/Bombay/30.jpg	The background is plain beige.
+../dataset/datasets/pet/10shot/train/Bombay/39.jpg	A pet is sitting near a window with peeling paint.
+../dataset/datasets/pet/10shot/train/Bombay/34.jpg	The pet is lying on a white surface.
+../dataset/datasets/pet/10shot/train/Bombay/37.jpg	A pet is lying on a tiled surface.
+../dataset/datasets/pet/10shot/train/Bombay/38.jpg	The background shows a pet bed and part of a cage.
+../dataset/datasets/pet/10shot/train/boxer/168.jpg	Grassy field with dry patches.
+../dataset/datasets/pet/10shot/train/boxer/166.jpg	A pet is in front of a Christmas tree with lights.
+../dataset/datasets/pet/10shot/train/boxer/163.jpg	The background includes greenery with red berries and a yellow wall.
+../dataset/datasets/pet/10shot/train/boxer/161.jpg	Grass, pavement, tree branch.
+../dataset/datasets/pet/10shot/train/boxer/167.jpg	The background is water.
+../dataset/datasets/pet/10shot/train/boxer/160.jpg	The background is a paved surface with a shadow cast by the pet.
+../dataset/datasets/pet/10shot/train/boxer/169.jpg	The background appears to be a textured fabric, possibly a couch or chair.
+../dataset/datasets/pet/10shot/train/boxer/162.jpg	Grass.
+../dataset/datasets/pet/10shot/train/boxer/165.jpg	The background includes steps, plants, and a paved area.
+../dataset/datasets/pet/10shot/train/boxer/164.jpg	Greenery and wooden railing.
+../dataset/datasets/pet/10shot/train/British_Shorthair/40.jpg	A pet is resting on a cat tree with a box and wooden wall behind it.
+../dataset/datasets/pet/10shot/train/British_Shorthair/41.jpg	A pet is lying on an open book with a wooden floor and some cables visible in the background.
+../dataset/datasets/pet/10shot/train/British_Shorthair/48.jpg	The background is warm and blurred, suggesting an indoor setting with wooden elements.
+../dataset/datasets/pet/10shot/train/British_Shorthair/49.jpg	A pet sits on red chair, books visible behind.
+../dataset/datasets/pet/10shot/train/British_Shorthair/42.jpg	Indoor setting with door, plants, and computer monitor.
+../dataset/datasets/pet/10shot/train/British_Shorthair/47.jpg	A pet stands against a red background.
+../dataset/datasets/pet/10shot/train/British_Shorthair/46.jpg	Bathroom with tiled walls, sink, toilet, and soap dispenser.
+../dataset/datasets/pet/10shot/train/British_Shorthair/45.jpg	The background is plain white.
+../dataset/datasets/pet/10shot/train/British_Shorthair/43.jpg	Green, blurred grass.
+../dataset/datasets/pet/10shot/train/British_Shorthair/44.jpg	The background is plain and neutral.
+../dataset/datasets/pet/10shot/train/chihuahua/172.jpg	The background is a wooden deck.
+../dataset/datasets/pet/10shot/train/chihuahua/170.jpg	The background is blurred, showing hints of greenery and possibly a person's clothing.
+../dataset/datasets/pet/10shot/train/chihuahua/175.jpg	Carpeted floor, red cushion.
+../dataset/datasets/pet/10shot/train/chihuahua/174.jpg	The background appears to be indoors, possibly a living room or bedroom, with furniture and a dark wall.
+../dataset/datasets/pet/10shot/train/chihuahua/171.jpg	The pet is resting on a soft, white blanket with a woven basket in the background.
+../dataset/datasets/pet/10shot/train/chihuahua/176.jpg	A pet is standing on a blue carpet with a green patterned blanket behind it.
+../dataset/datasets/pet/10shot/train/chihuahua/179.jpg	A pet is lying on a plaid blanket.
+../dataset/datasets/pet/10shot/train/chihuahua/173.jpg	The pet is on a patterned blanket with a green and brown design.
+../dataset/datasets/pet/10shot/train/chihuahua/177.jpg	Indoor setting with furniture and toy motorcycle.
+../dataset/datasets/pet/10shot/train/chihuahua/178.jpg	A pet is lying on a concrete surface with a green wall and window in the background.
+../dataset/datasets/pet/10shot/train/Egyptian_Mau/51.jpg	The background includes a wall, a light switch, and some greenery.
+../dataset/datasets/pet/10shot/train/Egyptian_Mau/55.jpg	The background is orange.
+../dataset/datasets/pet/10shot/train/Egyptian_Mau/53.jpg	Grass and plants.
+../dataset/datasets/pet/10shot/train/Egyptian_Mau/54.jpg	A pet is lying on a wooden surface with a blurred background of vertical bars and greenery.
+../dataset/datasets/pet/10shot/train/Egyptian_Mau/52.jpg	A pet is in a cage, possibly at an animal shelter or veterinary clinic.
+../dataset/datasets/pet/10shot/train/Egyptian_Mau/59.jpg	A pet is sitting on purple velvet with a pink feather toy nearby.
+../dataset/datasets/pet/10shot/train/Egyptian_Mau/57.jpg	A pet stands on a wooden surface with a brick wall and windows behind it.
+../dataset/datasets/pet/10shot/train/Egyptian_Mau/58.jpg	A pet is standing on a shelf with a decorative background featuring birds and foliage.
+../dataset/datasets/pet/10shot/train/Egyptian_Mau/50.jpg	A pet stands on a windowsill with trees and sky visible outside.
+../dataset/datasets/pet/10shot/train/Egyptian_Mau/56.jpg	The pet is sitting on a golden decorative object against a black background.
+../dataset/datasets/pet/10shot/train/english_cocker_spaniel/185.jpg	The background includes a tiled floor with a floral pattern, a wall, and some furniture.
+../dataset/datasets/pet/10shot/train/english_cocker_spaniel/181.jpg	The background includes a red cushion and some stacked items, possibly books or magazines.
+../dataset/datasets/pet/10shot/train/english_cocker_spaniel/188.jpg	The background is dark and out of focus, possibly a couch or chair.
+../dataset/datasets/pet/10shot/train/english_cocker_spaniel/187.jpg	The background is plain and light-colored, possibly a bedspread or blanket.
+../dataset/datasets/pet/10shot/train/english_cocker_spaniel/184.jpg	Green grass, blurred bushes.
+../dataset/datasets/pet/10shot/train/english_cocker_spaniel/182.jpg	Green grass, bushes.
+../dataset/datasets/pet/10shot/train/english_cocker_spaniel/189.jpg	Concrete steps.
+../dataset/datasets/pet/10shot/train/english_cocker_spaniel/186.jpg	Carpeted floor, red rug, shoe visible.
+../dataset/datasets/pet/10shot/train/english_cocker_spaniel/180.jpg	The background is a plain, light-colored surface.
+../dataset/datasets/pet/10shot/train/english_cocker_spaniel/183.jpg	The background is a simple indoor setting with a white wall and a yellow object partially visible.
+../dataset/datasets/pet/10shot/train/english_setter/192.jpg	The background features a tree and a brick wall.
+../dataset/datasets/pet/10shot/train/english_setter/194.jpg	Grassy field, car, trees, bench.
+../dataset/datasets/pet/10shot/train/english_setter/199.jpg	Carpeted floor, partial furniture visible.
+../dataset/datasets/pet/10shot/train/english_setter/191.jpg	Snowy ground.
+../dataset/datasets/pet/10shot/train/english_setter/196.jpg	Snowy, fenced area.
+../dataset/datasets/pet/10shot/train/english_setter/193.jpg	The background is a mix of dirt, rocks, and sparse vegetation.
+../dataset/datasets/pet/10shot/train/english_setter/190.jpg	The background includes a chair, a door, and wallpapered walls.
+../dataset/datasets/pet/10shot/train/english_setter/197.jpg	A pet sits under tree, fence behind.
+../dataset/datasets/pet/10shot/train/english_setter/198.jpg	A pet stands near a glass door with a garden visible outside.
+../dataset/datasets/pet/10shot/train/english_setter/195.jpg	Green grass and beige wall.
+../dataset/datasets/pet/10shot/train/german_shorthaired/205.jpg	Green foliage, grass, sunny day.
+../dataset/datasets/pet/10shot/train/german_shorthaired/209.jpg	The background is plain and neutral.
+../dataset/datasets/pet/10shot/train/german_shorthaired/200.jpg	Grassy field, clear blue sky.
+../dataset/datasets/pet/10shot/train/german_shorthaired/206.jpg	Grass, trees, sky.
+../dataset/datasets/pet/10shot/train/german_shorthaired/202.jpg	A pet is sitting on someone's lap indoors, with a yellow door and tiled wall in the background.
+../dataset/datasets/pet/10shot/train/german_shorthaired/208.jpg	Indoor living room with furniture, TV, and carpet.
+../dataset/datasets/pet/10shot/train/german_shorthaired/201.jpg	The background includes cardboard boxes, baskets, and a red cushion.
+../dataset/datasets/pet/10shot/train/german_shorthaired/204.jpg	Grass, trees, sky, distant cars.
+../dataset/datasets/pet/10shot/train/german_shorthaired/207.jpg	Indoor setting with furniture and books.
+../dataset/datasets/pet/10shot/train/german_shorthaired/203.jpg	The background shows a clear sky and part of a brick building.
+../dataset/datasets/pet/10shot/train/great_pyrenees/214.jpg	The background is a blurred green forest with sunlight filtering through.
+../dataset/datasets/pet/10shot/train/great_pyrenees/210.jpg	Grassy field, wooden fence, sunny day.
+../dataset/datasets/pet/10shot/train/great_pyrenees/213.jpg	A pet is lying on grass with a beige wall behind it.
+../dataset/datasets/pet/10shot/train/great_pyrenees/219.jpg	A pet is running on a pebble beach with waves in the background.
+../dataset/datasets/pet/10shot/train/great_pyrenees/212.jpg	The background is a rustic, weathered wall with red and brown tones.
+../dataset/datasets/pet/10shot/train/great_pyrenees/215.jpg	Carpeted floor, patterned rug, lamp, cables.
+../dataset/datasets/pet/10shot/train/great_pyrenees/211.jpg	A pet stands near a window with greenery and flowers outside.
+../dataset/datasets/pet/10shot/train/great_pyrenees/217.jpg	The background includes a wooden structure, a trash can, and a brick wall.
+../dataset/datasets/pet/10shot/train/great_pyrenees/218.jpg	Pet stands near tree, grassy area, fence, and people.
+../dataset/datasets/pet/10shot/train/great_pyrenees/216.jpg	Grass, trees, sunlight.
+../dataset/datasets/pet/10shot/train/havanese/224.jpg	Pet on red surface, greenery behind.
+../dataset/datasets/pet/10shot/train/havanese/227.jpg	The background features blurred greenery and a brick wall.
+../dataset/datasets/pet/10shot/train/havanese/221.jpg	A pet is lying on a wooden floor with a stuffed toy nearby.
+../dataset/datasets/pet/10shot/train/havanese/225.jpg	Fall leaves and grass.
+../dataset/datasets/pet/10shot/train/havanese/222.jpg	Wooden floor.
+../dataset/datasets/pet/10shot/train/havanese/220.jpg	The background is sandy.
+../dataset/datasets/pet/10shot/train/havanese/223.jpg	The background appears to be an outdoor setting with a wall and some greenery.
+../dataset/datasets/pet/10shot/train/havanese/229.jpg	Grassy field with dirt patches.
+../dataset/datasets/pet/10shot/train/havanese/226.jpg	The background appears to be a patterned fabric, possibly a blanket or couch cover.
+../dataset/datasets/pet/10shot/train/havanese/228.jpg	The background includes a teal cushion and a stack of books.
+../dataset/datasets/pet/10shot/train/japanese_chin/234.jpg	The background is a soft, warm-toned fabric.
+../dataset/datasets/pet/10shot/train/japanese_chin/235.jpg	The background includes furniture and indoor plants.
+../dataset/datasets/pet/10shot/train/japanese_chin/236.jpg	Green grass, blurred background.
+../dataset/datasets/pet/10shot/train/japanese_chin/238.jpg	The background appears to be indoors, with soft textures and muted colors.
+../dataset/datasets/pet/10shot/train/japanese_chin/233.jpg	A pet stands on wooden floor.
+../dataset/datasets/pet/10shot/train/japanese_chin/230.jpg	The background is blurred, suggesting an outdoor setting with earthy tones.
+../dataset/datasets/pet/10shot/train/japanese_chin/237.jpg	The background is plain and light-colored, possibly indoors.
+../dataset/datasets/pet/10shot/train/japanese_chin/231.jpg	A pet is sitting on a patterned blanket.
+../dataset/datasets/pet/10shot/train/japanese_chin/232.jpg	The background is snowy and blurred.
+../dataset/datasets/pet/10shot/train/japanese_chin/239.jpg	A pet is running on grassy field under cloudy sky.
+../dataset/datasets/pet/10shot/train/keeshond/240.jpg	Red house, green grass, trees.
+../dataset/datasets/pet/10shot/train/keeshond/248.jpg	Green grass.
+../dataset/datasets/pet/10shot/train/keeshond/245.jpg	A pet sits on wooden floor near cabinet.
+../dataset/datasets/pet/10shot/train/keeshond/242.jpg	The background is blurred green foliage.
+../dataset/datasets/pet/10shot/train/keeshond/241.jpg	The background includes a wooden floor and some furniture.
+../dataset/datasets/pet/10shot/train/keeshond/244.jpg	The background consists of stone tiles and grass.
+../dataset/datasets/pet/10shot/train/keeshond/247.jpg	The background includes a wooden floor and some furniture.
+../dataset/datasets/pet/10shot/train/keeshond/243.jpg	Cozy indoor setting with warm lighting and decorations.
+../dataset/datasets/pet/10shot/train/keeshond/246.jpg	Snowy, wooded area with bare trees.
+../dataset/datasets/pet/10shot/train/keeshond/249.jpg	Indoor setting with door, window, and furniture.
+../dataset/datasets/pet/10shot/train/leonberger/251.jpg	The background is blurred, suggesting an outdoor setting.
+../dataset/datasets/pet/10shot/train/leonberger/253.jpg	The background is blurred, showing people and possibly an outdoor setting.
+../dataset/datasets/pet/10shot/train/leonberger/258.jpg	The background is blurred, suggesting an outdoor setting with greenery and possibly a road.
+../dataset/datasets/pet/10shot/train/leonberger/250.jpg	Grass, people, vehicles, tent.
+../dataset/datasets/pet/10shot/train/leonberger/255.jpg	A pet is lying on tiled floor near wall.
+../dataset/datasets/pet/10shot/train/leonberger/256.jpg	A pet is standing near a black metal fence with greenery in the background.
+../dataset/datasets/pet/10shot/train/leonberger/257.jpg	A pet is lying on a tiled floor.
+../dataset/datasets/pet/10shot/train/leonberger/259.jpg	The background shows a garden with trees and a house.
+../dataset/datasets/pet/10shot/train/leonberger/254.jpg	The background includes people and red and blue objects, possibly at an event or show.
+../dataset/datasets/pet/10shot/train/leonberger/252.jpg	The background is blurred, suggesting an outdoor setting with greenery.
+../dataset/datasets/pet/10shot/train/Maine_Coon/61.jpg	Dark, blurred.
+../dataset/datasets/pet/10shot/train/Maine_Coon/66.jpg	The background is gravel and dark.
+../dataset/datasets/pet/10shot/train/Maine_Coon/69.jpg	Black leather couch, green carpet.
+../dataset/datasets/pet/10shot/train/Maine_Coon/68.jpg	A pet is sitting in a wooden box against a plain wall.
+../dataset/datasets/pet/10shot/train/Maine_Coon/60.jpg	The background is blurred, suggesting an indoor setting with soft lighting.
+../dataset/datasets/pet/10shot/train/Maine_Coon/67.jpg	A pet sits on windowsill, greenery outside.
+../dataset/datasets/pet/10shot/train/Maine_Coon/62.jpg	A pet is sitting on a white surface against a blue background.
+../dataset/datasets/pet/10shot/train/Maine_Coon/65.jpg	The background is dark and plain.
+../dataset/datasets/pet/10shot/train/Maine_Coon/63.jpg	A pet sits on a wooden bench with a brick wall and window in the background.
+../dataset/datasets/pet/10shot/train/Maine_Coon/64.jpg	The background is blurred, with a lamp and window visible.
+../dataset/datasets/pet/10shot/train/miniature_pinscher/262.jpg	The pet is on grass.
+../dataset/datasets/pet/10shot/train/miniature_pinscher/269.jpg	The pet is on a carpeted floor.
+../dataset/datasets/pet/10shot/train/miniature_pinscher/264.jpg	A pet is lying on a bed with a red patterned blanket.
+../dataset/datasets/pet/10shot/train/miniature_pinscher/266.jpg	The background is a soft, neutral-toned fabric.
+../dataset/datasets/pet/10shot/train/miniature_pinscher/260.jpg	The pet is wearing a red collar and appears to be indoors, possibly on a couch or similar surface.
+../dataset/datasets/pet/10shot/train/miniature_pinscher/263.jpg	A pet stands indoors, near a couch and window blinds.
+../dataset/datasets/pet/10shot/train/miniature_pinscher/268.jpg	Grass, dirt, cactus.
+../dataset/datasets/pet/10shot/train/miniature_pinscher/265.jpg	A pet is sitting on a colorful blanket with a white chair and grassy area behind it.
+../dataset/datasets/pet/10shot/train/miniature_pinscher/261.jpg	A pet is lying on a white carpet near a wall and baseboard.
+../dataset/datasets/pet/10shot/train/miniature_pinscher/267.jpg	The pet is lying on grass.
+../dataset/datasets/pet/10shot/train/newfoundland/272.jpg	A pet on wooden stairs, brick walkway behind.
+../dataset/datasets/pet/10shot/train/newfoundland/279.jpg	Green grass, blurred fence.
+../dataset/datasets/pet/10shot/train/newfoundland/274.jpg	A pet is lying on grass with a wooden fence and a white sign in the background.
+../dataset/datasets/pet/10shot/train/newfoundland/278.jpg	The background is snowy.
+../dataset/datasets/pet/10shot/train/newfoundland/271.jpg	The background is blurred, showing a person's legs and a bright area.
+../dataset/datasets/pet/10shot/train/newfoundland/277.jpg	Green foliage.
+../dataset/datasets/pet/10shot/train/newfoundland/273.jpg	A pet is lying on a wooden deck with a chew toy nearby.
+../dataset/datasets/pet/10shot/train/newfoundland/275.jpg	Wooden fence.
+../dataset/datasets/pet/10shot/train/newfoundland/270.jpg	The background includes a living room with furniture, electronics, and decorative items.
+../dataset/datasets/pet/10shot/train/newfoundland/276.jpg	Grassy field with bare trees.
+../dataset/datasets/pet/10shot/train/Persian/70.jpg	The background includes a patterned wall, a mirror, and some items on a shelf.
+../dataset/datasets/pet/10shot/train/Persian/78.jpg	A pet sits on wooden floor, with blurred room and shelves in background.
+../dataset/datasets/pet/10shot/train/Persian/72.jpg	A pet sits on table with candy bowl and blinds behind.
+../dataset/datasets/pet/10shot/train/Persian/71.jpg	The background is dirt with scattered leaves.
+../dataset/datasets/pet/10shot/train/Persian/77.jpg	The background is dark and indistinct, possibly indoors.
+../dataset/datasets/pet/10shot/train/Persian/76.jpg	The background appears blurred, suggesting an indoor setting with soft lighting.
+../dataset/datasets/pet/10shot/train/Persian/75.jpg	The background appears to be a white door or wall.
+../dataset/datasets/pet/10shot/train/Persian/73.jpg	The background is plain white.
+../dataset/datasets/pet/10shot/train/Persian/74.jpg	A pet sits on a windowsill with a bright, outdoor view.
+../dataset/datasets/pet/10shot/train/Persian/79.jpg	A pet is lying on a reflective surface with a door and wall visible in the background.
+../dataset/datasets/pet/10shot/train/pomeranian/283.jpg	The background features a patterned wall and a green carpet.
+../dataset/datasets/pet/10shot/train/pomeranian/282.jpg	A pet is sitting on a white blanket.
+../dataset/datasets/pet/10shot/train/pomeranian/281.jpg	The pet is on a carpeted floor.
+../dataset/datasets/pet/10shot/train/pomeranian/287.jpg	A pet is lying on a bed with pillows and a wall in the background.
+../dataset/datasets/pet/10shot/train/pomeranian/286.jpg	The background includes a car interior with a shoe and some fabric.
+../dataset/datasets/pet/10shot/train/pomeranian/289.jpg	A pet sits on carpeted floor with furniture and a purple rug in the background.
+../dataset/datasets/pet/10shot/train/pomeranian/284.jpg	The background appears to be indoors, possibly on a carpeted floor.
+../dataset/datasets/pet/10shot/train/pomeranian/285.jpg	The background is dark and indistinct, possibly indoors with a patterned floor.
+../dataset/datasets/pet/10shot/train/pomeranian/280.jpg	A pet is lying on a floral-patterned bedspread.
+../dataset/datasets/pet/10shot/train/pomeranian/288.jpg	The pet is on a colorful striped cushion.
+../dataset/datasets/pet/10shot/train/pug/294.jpg	A pet sits on a dark leather couch.
+../dataset/datasets/pet/10shot/train/pug/290.jpg	The background is white and soft, likely a bed or blanket.
+../dataset/datasets/pet/10shot/train/pug/293.jpg	The background features greenery and a dirt path.
+../dataset/datasets/pet/10shot/train/pug/295.jpg	The background is grassy and sunny.
+../dataset/datasets/pet/10shot/train/pug/291.jpg	A pet sits on a green couch with a decorative background.
+../dataset/datasets/pet/10shot/train/pug/296.jpg	The pet is on a gray carpeted floor.
+../dataset/datasets/pet/10shot/train/pug/299.jpg	Indoor setting with furniture and carpet.
+../dataset/datasets/pet/10shot/train/pug/298.jpg	The background is a dry, barren ground with scattered leaves and dirt.
+../dataset/datasets/pet/10shot/train/pug/297.jpg	The background is blurred, suggesting an indoor setting with soft lighting.
+../dataset/datasets/pet/10shot/train/pug/292.jpg	A pet is lying on a red blanket.
+../dataset/datasets/pet/10shot/train/Ragdoll/84.jpg	The background is a textured, neutral-colored surface.
+../dataset/datasets/pet/10shot/train/Ragdoll/87.jpg	A pet is sitting on a patterned rug with furniture and a decorative piece in the background.
+../dataset/datasets/pet/10shot/train/Ragdoll/82.jpg	The background is blurred and neutral-toned.
+../dataset/datasets/pet/10shot/train/Ragdoll/83.jpg	A pet is sitting on a floral-patterned chair near a window.
+../dataset/datasets/pet/10shot/train/Ragdoll/85.jpg	A pet is lying on a blue and white checkered blanket.
+../dataset/datasets/pet/10shot/train/Ragdoll/88.jpg	The background is blurred, with green and white tones.
+../dataset/datasets/pet/10shot/train/Ragdoll/81.jpg	The background is blurred, focusing on the pet's face.
+../dataset/datasets/pet/10shot/train/Ragdoll/80.jpg	The background is dark and blurred.
+../dataset/datasets/pet/10shot/train/Ragdoll/86.jpg	A pet sits on a leather surface near a window with curtains.
+../dataset/datasets/pet/10shot/train/Ragdoll/89.jpg	The background is blurred, suggesting an indoor setting with neutral tones.
+../dataset/datasets/pet/10shot/train/Russian_Blue/97.jpg	The background is blurred, showing a neutral tone.
+../dataset/datasets/pet/10shot/train/Russian_Blue/99.jpg	A pet is lying on a white bed with a light blue pillow.
+../dataset/datasets/pet/10shot/train/Russian_Blue/96.jpg	The background is plain and light-colored.
+../dataset/datasets/pet/10shot/train/Russian_Blue/98.jpg	A pet is lying on a red and blue patterned rug.
+../dataset/datasets/pet/10shot/train/Russian_Blue/95.jpg	The background includes a window and a wall.
+../dataset/datasets/pet/10shot/train/Russian_Blue/90.jpg	The background is plain white.
+../dataset/datasets/pet/10shot/train/Russian_Blue/91.jpg	The background is a plain, neutral surface.
+../dataset/datasets/pet/10shot/train/Russian_Blue/93.jpg	The background is a light-colored, textured surface.
+../dataset/datasets/pet/10shot/train/Russian_Blue/92.jpg	The background is green foliage.
+../dataset/datasets/pet/10shot/train/Russian_Blue/94.jpg	Brick wall, greenery, sunlight.
+../dataset/datasets/pet/10shot/train/saint_bernard/305.jpg	Brick wall, grass, flowers.
+../dataset/datasets/pet/10shot/train/saint_bernard/308.jpg	A pet stands on tiled floor.
+../dataset/datasets/pet/10shot/train/saint_bernard/306.jpg	The background is a concrete surface with a drain visible.
+../dataset/datasets/pet/10shot/train/saint_bernard/302.jpg	Brick wall, wooden deck.
+../dataset/datasets/pet/10shot/train/saint_bernard/300.jpg	A pet is lying on a wooden deck.
+../dataset/datasets/pet/10shot/train/saint_bernard/303.jpg	The background is plain white.
+../dataset/datasets/pet/10shot/train/saint_bernard/304.jpg	The background is blurred, suggesting an outdoor setting with greenery.
+../dataset/datasets/pet/10shot/train/saint_bernard/309.jpg	A pet stands in water near grass.
+../dataset/datasets/pet/10shot/train/saint_bernard/307.jpg	Snowy mountains.
+../dataset/datasets/pet/10shot/train/saint_bernard/301.jpg	A pet on sandy beach near water.
+../dataset/datasets/pet/10shot/train/samoyed/319.jpg	Green grass, wooden deck, white ball.
+../dataset/datasets/pet/10shot/train/samoyed/313.jpg	A pet sits on sandy beach near ocean waves.
+../dataset/datasets/pet/10shot/train/samoyed/310.jpg	Indoor setting with baby play mat and furniture.
+../dataset/datasets/pet/10shot/train/samoyed/311.jpg	A pet sits on grass with yellow flowers.
+../dataset/datasets/pet/10shot/train/samoyed/315.jpg	Green grass, patch of dirt.
+../dataset/datasets/pet/10shot/train/samoyed/314.jpg	Green grass, tree, pathway.
+../dataset/datasets/pet/10shot/train/samoyed/318.jpg	The background is indoors, with neutral tones and soft lighting.
+../dataset/datasets/pet/10shot/train/samoyed/316.jpg	A pet stands on snow-covered ground with patches of grass.
+../dataset/datasets/pet/10shot/train/samoyed/317.jpg	Grass, dirt, and people.
+../dataset/datasets/pet/10shot/train/samoyed/312.jpg	The background features sandy ground and wooden structures.
+../dataset/datasets/pet/10shot/train/scottish_terrier/325.jpg	Green grass.
+../dataset/datasets/pet/10shot/train/scottish_terrier/324.jpg	The background is grassy with rocks.
+../dataset/datasets/pet/10shot/train/scottish_terrier/320.jpg	The background is a natural outdoor setting with dirt, leaves, and twigs.
+../dataset/datasets/pet/10shot/train/scottish_terrier/329.jpg	The background includes wooden furniture and a carpeted floor.
+../dataset/datasets/pet/10shot/train/scottish_terrier/323.jpg	Grassy field with wooden structure.
+../dataset/datasets/pet/10shot/train/scottish_terrier/322.jpg	Indoor setting with bookshelf and furniture.
+../dataset/datasets/pet/10shot/train/scottish_terrier/327.jpg	A pet sits on porch with grass and railing behind.
+../dataset/datasets/pet/10shot/train/scottish_terrier/326.jpg	A pet is sitting on a carpeted floor with a person's leg partially visible in the background.
+../dataset/datasets/pet/10shot/train/scottish_terrier/321.jpg	Grassy field with blurred background.
+../dataset/datasets/pet/10shot/train/scottish_terrier/328.jpg	A pet is lying on tiled floor with furniture and black object in background.
+../dataset/datasets/pet/10shot/train/shiba_inu/331.jpg	Indoor setting, furniture visible.
+../dataset/datasets/pet/10shot/train/shiba_inu/335.jpg	Grass, dirt patch, water bowl, outdoor setting.
+../dataset/datasets/pet/10shot/train/shiba_inu/330.jpg	A pet is lying on a green blanket with a pumpkin nearby.
+../dataset/datasets/pet/10shot/train/shiba_inu/336.jpg	A pet on a bridge with trees and sky.
+../dataset/datasets/pet/10shot/train/shiba_inu/338.jpg	The background is dry grass and leaves.
+../dataset/datasets/pet/10shot/train/shiba_inu/339.jpg	A pet is resting its head on a car window, with blurred buildings and trees in the background.
+../dataset/datasets/pet/10shot/train/shiba_inu/333.jpg	The background is blue fabric.
+../dataset/datasets/pet/10shot/train/shiba_inu/337.jpg	The pet is resting on a patterned surface.
+../dataset/datasets/pet/10shot/train/shiba_inu/332.jpg	Grassy, blurred background with fence.
+../dataset/datasets/pet/10shot/train/shiba_inu/334.jpg	The background is indoors, with a wooden floor and a beige wall.
+../dataset/datasets/pet/10shot/train/Siamese/102.jpg	The background is plain and light-colored.
+../dataset/datasets/pet/10shot/train/Siamese/108.jpg	A pet is sitting in a box with a light-colored surface and a red edge.
+../dataset/datasets/pet/10shot/train/Siamese/103.jpg	A pet is sitting in a laundry basket with clothes. The background includes a light blue wall and part of a wooden door frame.
+../dataset/datasets/pet/10shot/train/Siamese/106.jpg	A pet is surrounded by green foliage and grass.
+../dataset/datasets/pet/10shot/train/Siamese/101.jpg	Indoor setting with furniture and objects.
+../dataset/datasets/pet/10shot/train/Siamese/107.jpg	A pet is lying on a patterned bedspread with blue and white floral designs.
+../dataset/datasets/pet/10shot/train/Siamese/105.jpg	The background is blue and shadowy.
+../dataset/datasets/pet/10shot/train/Siamese/104.jpg	The background appears to be a bathroom with a toilet paper roll and green tiles.
+../dataset/datasets/pet/10shot/train/Siamese/109.jpg	Carpeted floor, bookshelf.
+../dataset/datasets/pet/10shot/train/Siamese/100.jpg	The background includes a red box, a blue radiator, and a potted plant.
+../dataset/datasets/pet/10shot/train/Sphynx/110.jpg	The background appears to be a textured surface, possibly concrete or stone.
+../dataset/datasets/pet/10shot/train/Sphynx/116.jpg	The background shows a room with furniture and a window.
+../dataset/datasets/pet/10shot/train/Sphynx/118.jpg	The background is dark and plain.
+../dataset/datasets/pet/10shot/train/Sphynx/119.jpg	A pet is on someone's lap, with denim and fabric visible in the background.
+../dataset/datasets/pet/10shot/train/Sphynx/114.jpg	The background is white and soft.
+../dataset/datasets/pet/10shot/train/Sphynx/112.jpg	Dark background.
+../dataset/datasets/pet/10shot/train/Sphynx/117.jpg	The background is maroon, plush, and textured.
+../dataset/datasets/pet/10shot/train/Sphynx/115.jpg	The background is indoors, with a patterned fabric and a wooden structure.
+../dataset/datasets/pet/10shot/train/Sphynx/111.jpg	Green grass.
+../dataset/datasets/pet/10shot/train/Sphynx/113.jpg	The background is a solid blue fabric.
+../dataset/datasets/pet/10shot/train/staffordshire_bull_terrier/346.jpg	Concrete floor, brick wall.
+../dataset/datasets/pet/10shot/train/staffordshire_bull_terrier/349.jpg	Grass, blurred legs.
+../dataset/datasets/pet/10shot/train/staffordshire_bull_terrier/347.jpg	Grass, ferns, plants.
+../dataset/datasets/pet/10shot/train/staffordshire_bull_terrier/345.jpg	The background consists of sandy beach with scattered rocks and pebbles.
+../dataset/datasets/pet/10shot/train/staffordshire_bull_terrier/343.jpg	A pet is lying on carpet near a door.
+../dataset/datasets/pet/10shot/train/staffordshire_bull_terrier/348.jpg	A pet sits in a grassy yard with a wooden fence and ivy-covered wall in the background.
+../dataset/datasets/pet/10shot/train/staffordshire_bull_terrier/342.jpg	Grass.
+../dataset/datasets/pet/10shot/train/staffordshire_bull_terrier/340.jpg	Green foliage, wooden chair.
+../dataset/datasets/pet/10shot/train/staffordshire_bull_terrier/344.jpg	The background shows a fenced area with a car and some greenery.
+../dataset/datasets/pet/10shot/train/staffordshire_bull_terrier/341.jpg	Grass and dirt.
+../dataset/datasets/pet/10shot/train/wheaten_terrier/359.jpg	Indoor setting with furniture and lamp.
+../dataset/datasets/pet/10shot/train/wheaten_terrier/356.jpg	A pet on tiled floor.
+../dataset/datasets/pet/10shot/train/wheaten_terrier/355.jpg	A pet stands on wooden deck with railing and greenery behind.
+../dataset/datasets/pet/10shot/train/wheaten_terrier/352.jpg	A pet lies on a textured rug, with furniture and a door visible in the background.
+../dataset/datasets/pet/10shot/train/wheaten_terrier/354.jpg	Indoor setting with furniture and toys.
+../dataset/datasets/pet/10shot/train/wheaten_terrier/353.jpg	The background is dark and out of focus, suggesting an indoor setting with furniture.
+../dataset/datasets/pet/10shot/train/wheaten_terrier/357.jpg	The background is blurred, suggesting an outdoor setting with greenery.
+../dataset/datasets/pet/10shot/train/wheaten_terrier/358.jpg	The background is a solid light blue.
+../dataset/datasets/pet/10shot/train/wheaten_terrier/350.jpg	A pet is indoors, on carpeted floor with an orange wall and black shoe visible.
+../dataset/datasets/pet/10shot/train/wheaten_terrier/351.jpg	Indoor setting with bookshelves and door.
+../dataset/datasets/pet/10shot/train/yorkshire_terrier/368.jpg	The pet is sitting on a colorful blanket with a playful pattern.
+../dataset/datasets/pet/10shot/train/yorkshire_terrier/360.jpg	The background appears to be an indoor setting with a cage and some bedding.
+../dataset/datasets/pet/10shot/train/yorkshire_terrier/366.jpg	A pet is sitting on a quilt with Christmas tree patterns.
+../dataset/datasets/pet/10shot/train/yorkshire_terrier/364.jpg	A pet stands on gravel.
+../dataset/datasets/pet/10shot/train/yorkshire_terrier/362.jpg	Decorated mantle with candles and ornaments.
+../dataset/datasets/pet/10shot/train/yorkshire_terrier/363.jpg	A pet is standing on a carpeted floor.
+../dataset/datasets/pet/10shot/train/yorkshire_terrier/369.jpg	A pet is resting on a colorful beach blanket with a bottle nearby.
+../dataset/datasets/pet/10shot/train/yorkshire_terrier/367.jpg	A pet sits on a festive quilt with Christmas-themed patterns, including trees and ornaments.
+../dataset/datasets/pet/10shot/train/yorkshire_terrier/365.jpg	A pet stands on tiled floor.
+../dataset/datasets/pet/10shot/train/yorkshire_terrier/361.jpg	The background is dark and plain.

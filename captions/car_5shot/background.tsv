@@ -1,0 +1,981 @@
+image	response
+../dataset/datasets/car/5shot/train/am_general_hummer_suv_2000/537.jpg	A car is parked on a street with other vehicles and buildings visible in the background.
+../dataset/datasets/car/5shot/train/am_general_hummer_suv_2000/538.jpg	A car is parked in front of a beige building with a curved roof.
+../dataset/datasets/car/5shot/train/am_general_hummer_suv_2000/535.jpg	The car is parked on a paved surface with greenery and trees in the background.
+../dataset/datasets/car/5shot/train/am_general_hummer_suv_2000/536.jpg	A car is parked on a sunny day with palm trees and buildings in the background.
+../dataset/datasets/car/5shot/train/am_general_hummer_suv_2000/539.jpg	Desert landscape with mountains.
+../dataset/datasets/car/5shot/train/acura_rl_sedan_2012/959.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/acura_rl_sedan_2012/957.jpg	The car is set against a dark, indoor backdrop.
+../dataset/datasets/car/5shot/train/acura_rl_sedan_2012/956.jpg	A car is displayed at an auto show with people and other vehicles in the background.
+../dataset/datasets/car/5shot/train/acura_rl_sedan_2012/955.jpg	A car is parked on a paved surface with some greenery and a building in the background.
+../dataset/datasets/car/5shot/train/acura_rl_sedan_2012/958.jpg	Car on road near water and hills.
+../dataset/datasets/car/5shot/train/acura_tl_sedan_2012/5.jpg	A car on a road with blurred background.
+../dataset/datasets/car/5shot/train/acura_tl_sedan_2012/7.jpg	A car is parked on a concrete surface with a building and clear sky in the background.
+../dataset/datasets/car/5shot/train/acura_tl_sedan_2012/8.jpg	A car is parked on a paved lot with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/acura_tl_sedan_2012/9.jpg	The car is parked in a lot with other vehicles and trees in the distance.
+../dataset/datasets/car/5shot/train/acura_tl_sedan_2012/6.jpg	A car is parked against a clear blue sky and a building with a sloped roof.
+../dataset/datasets/car/5shot/train/acura_tl_type-s_2008/870.jpg	The car is parked on a concrete surface with a grassy area and trees in the background.
+../dataset/datasets/car/5shot/train/acura_tl_type-s_2008/871.jpg	A car on wet pavement with snow and trees in background.
+../dataset/datasets/car/5shot/train/acura_tl_type-s_2008/872.jpg	The car is parked on a paved surface with trees and greenery in the background.
+../dataset/datasets/car/5shot/train/acura_tl_type-s_2008/873.jpg	A car is parked on a brick driveway with trees and grass in the background.
+../dataset/datasets/car/5shot/train/acura_tl_type-s_2008/874.jpg	A car is parked in front of a dealership with flags and signs visible.
+../dataset/datasets/car/5shot/train/acura_tsx_sedan_2012/294.jpg	A car parked on grass near road with trees and buildings in background.
+../dataset/datasets/car/5shot/train/acura_tsx_sedan_2012/290.jpg	The background is white.
+../dataset/datasets/car/5shot/train/acura_tsx_sedan_2012/293.jpg	A car is parked near a waterfront with palm trees and a bridge in the background.
+../dataset/datasets/car/5shot/train/acura_tsx_sedan_2012/291.jpg	A car is parked on a street with trees and sunlight in the background.
+../dataset/datasets/car/5shot/train/acura_tsx_sedan_2012/292.jpg	The car is parked on a grassy area with trees and a clear sky in the background.
+../dataset/datasets/car/5shot/train/acura_integra_type_r_2001/616.jpg	The background shows a parking lot with various vehicles and a mountainous landscape.
+../dataset/datasets/car/5shot/train/acura_integra_type_r_2001/619.jpg	The car is on a road with a clear sky and distant fence.
+../dataset/datasets/car/5shot/train/acura_integra_type_r_2001/618.jpg	A car is parked on a rocky, mountainous terrain with a cloudy sky.
+../dataset/datasets/car/5shot/train/acura_integra_type_r_2001/617.jpg	A car is parked in front of a wooden house with a porch and greenery around.
+../dataset/datasets/car/5shot/train/acura_integra_type_r_2001/615.jpg	A car parked on a driveway with trees and houses in the background.
+../dataset/datasets/car/5shot/train/acura_zdx_hatchback_2012/699.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/acura_zdx_hatchback_2012/695.jpg	The car is set against a backdrop of greenery and trees.
+../dataset/datasets/car/5shot/train/acura_zdx_hatchback_2012/697.jpg	Rocky shoreline, ocean waves.
+../dataset/datasets/car/5shot/train/acura_zdx_hatchback_2012/696.jpg	A car is parked on a cracked asphalt surface with a sign for "Duport Auto Centre" and some trees and buildings in the background.
+../dataset/datasets/car/5shot/train/acura_zdx_hatchback_2012/698.jpg	The car is parked in a lot with trees and buildings in the background.
+../dataset/datasets/car/5shot/train/aston_martin_v8_vantage_convertible_2012/272.jpg	A car is displayed indoors, likely at an auto show.
+../dataset/datasets/car/5shot/train/aston_martin_v8_vantage_convertible_2012/274.jpg	A car on a coastal road with blurred scenery.
+../dataset/datasets/car/5shot/train/aston_martin_v8_vantage_convertible_2012/271.jpg	A car is displayed indoors, likely at an auto show.
+../dataset/datasets/car/5shot/train/aston_martin_v8_vantage_convertible_2012/273.jpg	A car on grass with trees and sky.
+../dataset/datasets/car/5shot/train/aston_martin_v8_vantage_convertible_2012/270.jpg	The car is on a road with greenery and trees in the background.
+../dataset/datasets/car/5shot/train/aston_martin_v8_vantage_coupe_2012/827.jpg	A car is parked in front of a building with glass windows.
+../dataset/datasets/car/5shot/train/aston_martin_v8_vantage_coupe_2012/828.jpg	The car is on a road with greenery and blue sky in the background.
+../dataset/datasets/car/5shot/train/aston_martin_v8_vantage_coupe_2012/825.jpg	The car is parked against a backdrop featuring logos and text for Aston Martin and Bentley, with "MÜNCHEN" prominently displayed.
+../dataset/datasets/car/5shot/train/aston_martin_v8_vantage_coupe_2012/829.jpg	A car is parked with a blurred white surface in the background.
+../dataset/datasets/car/5shot/train/aston_martin_v8_vantage_coupe_2012/826.jpg	A car is parked on a checkered surface with a building and palm trees in the background.
+../dataset/datasets/car/5shot/train/aston_martin_virage_convertible_2012/668.jpg	The car is parked on a paved surface with trees and grass in the background.
+../dataset/datasets/car/5shot/train/aston_martin_virage_convertible_2012/667.jpg	A car is displayed on a dark floor with a backdrop featuring a logo and text.
+../dataset/datasets/car/5shot/train/aston_martin_virage_convertible_2012/666.jpg	The car is on a road with a rocky, natural landscape in the background.
+../dataset/datasets/car/5shot/train/aston_martin_virage_convertible_2012/665.jpg	A car parked in front of Cafe Brauer.
+../dataset/datasets/car/5shot/train/aston_martin_virage_convertible_2012/669.jpg	A car is displayed on a showroom floor with other cars and people in the background.
+../dataset/datasets/car/5shot/train/aston_martin_virage_coupe_2012/641.jpg	A car on a racetrack with grass and barriers.
+../dataset/datasets/car/5shot/train/aston_martin_virage_coupe_2012/642.jpg	A car on gradient background.
+../dataset/datasets/car/5shot/train/aston_martin_virage_coupe_2012/644.jpg	Blurred, grassy field.
+../dataset/datasets/car/5shot/train/aston_martin_virage_coupe_2012/643.jpg	A car on a winding road with green hills and bushes.
+../dataset/datasets/car/5shot/train/aston_martin_virage_coupe_2012/640.jpg	Dark, reflective surface.
+../dataset/datasets/car/5shot/train/audi_rs_4_convertible_2008/626.jpg	A car is parked on a brick-paved area near a building with glass doors and windows.
+../dataset/datasets/car/5shot/train/audi_rs_4_convertible_2008/628.jpg	A car is displayed at an auto show with people around.
+../dataset/datasets/car/5shot/train/audi_rs_4_convertible_2008/625.jpg	A car is parked near a body of water with a clear sky and rocks in the background.
+../dataset/datasets/car/5shot/train/audi_rs_4_convertible_2008/627.jpg	The car is on a plain white background.
+../dataset/datasets/car/5shot/train/audi_rs_4_convertible_2008/629.jpg	The car is parked near water with boats and a dock in the background.
+../dataset/datasets/car/5shot/train/audi_a5_coupe_2012/181.jpg	A car is parked against a tiled wall.
+../dataset/datasets/car/5shot/train/audi_a5_coupe_2012/184.jpg	The car is parked in front of a building with a sign that reads "Atlantic Coast" and "www.NYaudi.com".
+../dataset/datasets/car/5shot/train/audi_a5_coupe_2012/182.jpg	The car is parked indoors, likely in a showroom or garage.
+../dataset/datasets/car/5shot/train/audi_a5_coupe_2012/180.jpg	The car is on a wet road with grass and trees in the background.
+../dataset/datasets/car/5shot/train/audi_a5_coupe_2012/183.jpg	A car is parked on a paved area with a cityscape and buildings in the background.
+../dataset/datasets/car/5shot/train/audi_tts_coupe_2012/2.jpg	A car is displayed at an auto show with people observing.
+../dataset/datasets/car/5shot/train/audi_tts_coupe_2012/0.jpg	A car is parked in front of a brick building with large windows.
+../dataset/datasets/car/5shot/train/audi_tts_coupe_2012/4.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/audi_tts_coupe_2012/3.jpg	A car is parked under a blue sky with scattered clouds.
+../dataset/datasets/car/5shot/train/audi_tts_coupe_2012/1.jpg	A car on a road with blurred background.
+../dataset/datasets/car/5shot/train/audi_r8_coupe_2012/224.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/audi_r8_coupe_2012/221.jpg	A car is parked in front of a building with glass windows and a metal door.
+../dataset/datasets/car/5shot/train/audi_r8_coupe_2012/222.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/audi_r8_coupe_2012/220.jpg	A car is displayed in a showroom with another car and framed pictures on the wall.
+../dataset/datasets/car/5shot/train/audi_r8_coupe_2012/223.jpg	A car is parked on a driveway with trees and grass in the background.
+../dataset/datasets/car/5shot/train/audi_v8_sedan_1994/620.jpg	A car is parked in front of a building with a garage door and a tree in the background.
+../dataset/datasets/car/5shot/train/audi_v8_sedan_1994/622.jpg	A car on plain background.
+../dataset/datasets/car/5shot/train/audi_v8_sedan_1994/621.jpg	A car parked on a street with a red building and snow-covered ground in the background.
+../dataset/datasets/car/5shot/train/audi_v8_sedan_1994/624.jpg	A car on snowy landscape.
+../dataset/datasets/car/5shot/train/audi_v8_sedan_1994/623.jpg	A car parked on street with houses and trees in background.
+../dataset/datasets/car/5shot/train/audi_100_sedan_1994/279.jpg	A car parked on snow-covered ground near trees and a building.
+../dataset/datasets/car/5shot/train/audi_100_sedan_1994/278.jpg	A car is parked against a modern glass building with a clear sky.
+../dataset/datasets/car/5shot/train/audi_100_sedan_1994/277.jpg	The car is parked on grass with trees and vehicles in the background.
+../dataset/datasets/car/5shot/train/audi_100_sedan_1994/275.jpg	A car is parked in front of a modern building with glass windows.
+../dataset/datasets/car/5shot/train/audi_100_sedan_1994/276.jpg	A car is parked in a lot with other cars and a building in the background.
+../dataset/datasets/car/5shot/train/audi_100_wagon_1994/331.jpg	The car is parked against a backdrop of greenery and architectural elements, possibly a building with columns.
+../dataset/datasets/car/5shot/train/audi_100_wagon_1994/330.jpg	Residential street with houses, trees, and parked cars.
+../dataset/datasets/car/5shot/train/audi_100_wagon_1994/333.jpg	A car is parked on a street with a white wall and a tree behind it.
+../dataset/datasets/car/5shot/train/audi_100_wagon_1994/332.jpg	A car is parked on grass near a tree and a building.
+../dataset/datasets/car/5shot/train/audi_100_wagon_1994/334.jpg	The car is parked on a paved surface with other vehicles and buildings visible in the background.
+../dataset/datasets/car/5shot/train/audi_tt_hatchback_2011/554.jpg	A car on a road with blurred greenery.
+../dataset/datasets/car/5shot/train/audi_tt_hatchback_2011/550.jpg	The car is on a road with greenery and hills in the background.
+../dataset/datasets/car/5shot/train/audi_tt_hatchback_2011/552.jpg	The car is set against a plain, light gray background.
+../dataset/datasets/car/5shot/train/audi_tt_hatchback_2011/553.jpg	The car is parked against a white wall with a logo and text.
+../dataset/datasets/car/5shot/train/audi_tt_hatchback_2011/551.jpg	The car is on a road with blurred surroundings, suggesting motion.
+../dataset/datasets/car/5shot/train/audi_s6_sedan_2011/346.jpg	The car is parked on a paved surface with greenery and trees in the background.
+../dataset/datasets/car/5shot/train/audi_s6_sedan_2011/349.jpg	A car is parked on a paved area with a grassy field and trees in the background.
+../dataset/datasets/car/5shot/train/audi_s6_sedan_2011/347.jpg	A car is parked on a street with trees and houses in the background.
+../dataset/datasets/car/5shot/train/audi_s6_sedan_2011/345.jpg	A car is parked on a paved surface with greenery and a fence in the background.
+../dataset/datasets/car/5shot/train/audi_s6_sedan_2011/348.jpg	The car is on a road with a fence and trees in the background.
+../dataset/datasets/car/5shot/train/audi_s5_convertible_2012/720.jpg	A car is parked on a street with buildings and trees in the background.
+../dataset/datasets/car/5shot/train/audi_s5_convertible_2012/722.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/audi_s5_convertible_2012/724.jpg	A car on a curvy road with trees and greenery.
+../dataset/datasets/car/5shot/train/audi_s5_convertible_2012/721.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/audi_s5_convertible_2012/723.jpg	Dark, textured surface.
+../dataset/datasets/car/5shot/train/audi_s5_coupe_2012/822.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/audi_s5_coupe_2012/820.jpg	A car is parked in front of a Volvo dealership.
+../dataset/datasets/car/5shot/train/audi_s5_coupe_2012/821.jpg	The car is set against a plain, light-colored backdrop.
+../dataset/datasets/car/5shot/train/audi_s5_coupe_2012/824.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/audi_s5_coupe_2012/823.jpg	The background is a plain, dark surface.
+../dataset/datasets/car/5shot/train/audi_s4_sedan_2012/637.jpg	A car is parked on a concrete surface with a corrugated metal wall behind it.
+../dataset/datasets/car/5shot/train/audi_s4_sedan_2012/639.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/audi_s4_sedan_2012/635.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/audi_s4_sedan_2012/638.jpg	The car is parked in a lot with trees and buildings in the background.
+../dataset/datasets/car/5shot/train/audi_s4_sedan_2012/636.jpg	A car is parked in front of a dealership with Audi and Porsche logos visible.
+../dataset/datasets/car/5shot/train/audi_s4_sedan_2007/526.jpg	The car is displayed on a platform with a glass barrier, likely in an exhibition or showroom setting.
+../dataset/datasets/car/5shot/train/audi_s4_sedan_2007/525.jpg	The car is parked inside a garage with a large, open door and a sign that reads "Hoffman."
+../dataset/datasets/car/5shot/train/audi_s4_sedan_2007/528.jpg	The car is on a plain white background.
+../dataset/datasets/car/5shot/train/audi_s4_sedan_2007/529.jpg	A car is parked in front of a building with "College" visible on it, under a partly cloudy sky.
+../dataset/datasets/car/5shot/train/audi_s4_sedan_2007/527.jpg	A car parked on a street with trees and a building in the background.
+../dataset/datasets/car/5shot/train/audi_tt_rs_coupe_2012/199.jpg	The car is set against a backdrop of a clear blue sky and a mountainous landscape.
+../dataset/datasets/car/5shot/train/audi_tt_rs_coupe_2012/196.jpg	A car on display with people and other vehicles in the background.
+../dataset/datasets/car/5shot/train/audi_tt_rs_coupe_2012/197.jpg	A car on a road with trees and blue sky.
+../dataset/datasets/car/5shot/train/audi_tt_rs_coupe_2012/198.jpg	The car is set against a dark, gradient background.
+../dataset/datasets/car/5shot/train/audi_tt_rs_coupe_2012/195.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/bmw_activehybrid_5_sedan_2012/703.jpg	Ocean, waves, rocky shore, cloudy sky.
+../dataset/datasets/car/5shot/train/bmw_activehybrid_5_sedan_2012/704.jpg	A car on a bridge with a cityscape and cloudy sky in the background.
+../dataset/datasets/car/5shot/train/bmw_activehybrid_5_sedan_2012/700.jpg	A car is parked on a beach with the ocean and sky in the background.
+../dataset/datasets/car/5shot/train/bmw_activehybrid_5_sedan_2012/701.jpg	The background shows a blurred, urban setting with a bridge and concrete structures.
+../dataset/datasets/car/5shot/train/bmw_activehybrid_5_sedan_2012/702.jpg	A car on a road with trees and bushes in the background.
+../dataset/datasets/car/5shot/train/bmw_1_series_convertible_2012/962.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/bmw_1_series_convertible_2012/961.jpg	A car is driving on a road with green grass and a blurred background.
+../dataset/datasets/car/5shot/train/bmw_1_series_convertible_2012/963.jpg	A car is parked on a paved surface with a corrugated metal wall and a chain-link fence in the background.
+../dataset/datasets/car/5shot/train/bmw_1_series_convertible_2012/960.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/bmw_1_series_convertible_2012/964.jpg	A car is parked in a lot with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/bmw_1_series_coupe_2012/444.jpg	A car is parked on gravel with trees and buildings in the distance.
+../dataset/datasets/car/5shot/train/bmw_1_series_coupe_2012/440.jpg	A car on a road with cloudy sky and rocks.
+../dataset/datasets/car/5shot/train/bmw_1_series_coupe_2012/441.jpg	The background is blurred, suggesting motion.
+../dataset/datasets/car/5shot/train/bmw_1_series_coupe_2012/443.jpg	A car is parked on a dirt road with mountains and trees in the background.
+../dataset/datasets/car/5shot/train/bmw_1_series_coupe_2012/442.jpg	A car is parked on a rocky, mountainous terrain with a clear sky above.
+../dataset/datasets/car/5shot/train/bmw_3_series_sedan_2012/295.jpg	A car is parked against a plain, light-colored wall.
+../dataset/datasets/car/5shot/train/bmw_3_series_sedan_2012/296.jpg	The car is set against a modern, light-filled backdrop.
+../dataset/datasets/car/5shot/train/bmw_3_series_sedan_2012/299.jpg	Urban, blurred, modern.
+../dataset/datasets/car/5shot/train/bmw_3_series_sedan_2012/298.jpg	A car is driving on a blurred road with trees and buildings in the background.
+../dataset/datasets/car/5shot/train/bmw_3_series_sedan_2012/297.jpg	The car is set against a clear sky and a light-colored wall.
+../dataset/datasets/car/5shot/train/bmw_3_series_wagon_2012/508.jpg	Ocean and sky.
+../dataset/datasets/car/5shot/train/bmw_3_series_wagon_2012/506.jpg	A car is parked in a lot with trees and other vehicles visible in the background.
+../dataset/datasets/car/5shot/train/bmw_3_series_wagon_2012/505.jpg	A car is parked against a textured wall.
+../dataset/datasets/car/5shot/train/bmw_3_series_wagon_2012/509.jpg	A car is parked in a lot with trees and grass in the background.
+../dataset/datasets/car/5shot/train/bmw_3_series_wagon_2012/507.jpg	A car is parked in front of a "Pre-Owned Automobiles" dealership with other cars visible in the background.
+../dataset/datasets/car/5shot/train/bmw_6_series_convertible_2007/725.jpg	A car is parked on a plain, light-colored surface with a white wall behind it.
+../dataset/datasets/car/5shot/train/bmw_6_series_convertible_2007/728.jpg	The car is parked on a road with hills and trees in the background.
+../dataset/datasets/car/5shot/train/bmw_6_series_convertible_2007/727.jpg	A car is parked near a marina with yachts and rocky cliffs in the background.
+../dataset/datasets/car/5shot/train/bmw_6_series_convertible_2007/726.jpg	The car is parked on a paved surface with a palm tree visible in the background.
+../dataset/datasets/car/5shot/train/bmw_6_series_convertible_2007/729.jpg	A car is parked on a black and white checkered floor against a plain wall.
+../dataset/datasets/car/5shot/train/bmw_x5_suv_2007/860.jpg	Car is parked indoors, likely in showroom.
+../dataset/datasets/car/5shot/train/bmw_x5_suv_2007/861.jpg	A car is parked under a white tent with "OffLeaseOnly" and "Palm Beach" visible on the background.
+../dataset/datasets/car/5shot/train/bmw_x5_suv_2007/862.jpg	A car is parked against a black and white wall.
+../dataset/datasets/car/5shot/train/bmw_x5_suv_2007/863.jpg	The car is on a road with blurred greenery in the background, suggesting motion.
+../dataset/datasets/car/5shot/train/bmw_x5_suv_2007/864.jpg	A car is parked on grass near a road.
+../dataset/datasets/car/5shot/train/bmw_x6_suv_2012/936.jpg	A car on a road with blurred trees and foliage.
+../dataset/datasets/car/5shot/train/bmw_x6_suv_2012/938.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/bmw_x6_suv_2012/935.jpg	The car is on a road with trees and cones in the background.
+../dataset/datasets/car/5shot/train/bmw_x6_suv_2012/937.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/bmw_x6_suv_2012/939.jpg	A car is parked on a paved area with greenery and hills in the background.
+../dataset/datasets/car/5shot/train/bmw_m3_coupe_2012/922.jpg	The car is set against a dark, reflective surface.
+../dataset/datasets/car/5shot/train/bmw_m3_coupe_2012/923.jpg	The car is parked on an asphalt surface with a building and greenery in the background.
+../dataset/datasets/car/5shot/train/bmw_m3_coupe_2012/920.jpg	Palm trees, mountains, cloudy sky.
+../dataset/datasets/car/5shot/train/bmw_m3_coupe_2012/924.jpg	A car is parked against a backdrop of industrial containers and a bridge.
+../dataset/datasets/car/5shot/train/bmw_m3_coupe_2012/921.jpg	The car is on a plain white background.
+../dataset/datasets/car/5shot/train/bmw_m5_sedan_2010/972.jpg	A car on a road near a rocky hillside.
+../dataset/datasets/car/5shot/train/bmw_m5_sedan_2010/970.jpg	The car is parked on grass with trees and a road in the background.
+../dataset/datasets/car/5shot/train/bmw_m5_sedan_2010/971.jpg	A car parked on driveway, trees and houses in background.
+../dataset/datasets/car/5shot/train/bmw_m5_sedan_2010/973.jpg	A car is displayed in a showroom with other vehicles and branding visible.
+../dataset/datasets/car/5shot/train/bmw_m5_sedan_2010/974.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/bmw_m6_convertible_2010/102.jpg	A car is driving on a coastal road with mountains and clear sky in the background.
+../dataset/datasets/car/5shot/train/bmw_m6_convertible_2010/103.jpg	The car is parked in a lot with other vehicles and buildings visible in the background.
+../dataset/datasets/car/5shot/train/bmw_m6_convertible_2010/101.jpg	A car on a road with trees and blurred background.
+../dataset/datasets/car/5shot/train/bmw_m6_convertible_2010/104.jpg	Beach, sand, ocean, bushes.
+../dataset/datasets/car/5shot/train/bmw_m6_convertible_2010/100.jpg	Fountains, building with arches.
+../dataset/datasets/car/5shot/train/bmw_x3_suv_2012/378.jpg	A car is parked on a paved surface with a grassy area and trees in the background.
+../dataset/datasets/car/5shot/train/bmw_x3_suv_2012/377.jpg	Concrete wall.
+../dataset/datasets/car/5shot/train/bmw_x3_suv_2012/376.jpg	A car is parked in front of a building with palm trees and a clear sky.
+../dataset/datasets/car/5shot/train/bmw_x3_suv_2012/379.jpg	Rocky, misty landscape.
+../dataset/datasets/car/5shot/train/bmw_x3_suv_2012/375.jpg	A car is parked on grass with hills and sky in the background.
+../dataset/datasets/car/5shot/train/bmw_z4_convertible_2012/163.jpg	A car on a curvy road with trees and a bridge in the background.
+../dataset/datasets/car/5shot/train/bmw_z4_convertible_2012/161.jpg	A car is parked indoors with a white brick wall and blue stripe.
+../dataset/datasets/car/5shot/train/bmw_z4_convertible_2012/160.jpg	A car is parked against a red wall with "MOMENTUM" logo.
+../dataset/datasets/car/5shot/train/bmw_z4_convertible_2012/162.jpg	Curvy road, dry landscape.
+../dataset/datasets/car/5shot/train/bmw_z4_convertible_2012/164.jpg	A car is parked on a street with modern buildings and a cloudy sky in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_supersports_conv._convertible_2012/852.jpg	A car drives on a winding road with lush green mountains and clear blue sky in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_supersports_conv._convertible_2012/853.jpg	A car is parked against a backdrop of snow-capped mountains and greenery.
+../dataset/datasets/car/5shot/train/bentley_continental_supersports_conv._convertible_2012/850.jpg	A car on a track with trees and spectators.
+../dataset/datasets/car/5shot/train/bentley_continental_supersports_conv._convertible_2012/851.jpg	A car is parked on a gravel road with mountains and a clear sky in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_supersports_conv._convertible_2012/854.jpg	A car is parked on a paved surface with other vehicles and greenery in the background.
+../dataset/datasets/car/5shot/train/bentley_arnage_sedan_2009/479.jpg	A car is parked indoors, likely in a showroom or garage.
+../dataset/datasets/car/5shot/train/bentley_arnage_sedan_2009/477.jpg	A car is displayed at an auto show with people and other vehicles in the background.
+../dataset/datasets/car/5shot/train/bentley_arnage_sedan_2009/476.jpg	A car is parked on a city street with pedestrians and other vehicles visible.
+../dataset/datasets/car/5shot/train/bentley_arnage_sedan_2009/475.jpg	A car is displayed indoors, likely at an auto show, with other vehicles and people visible in the background.
+../dataset/datasets/car/5shot/train/bentley_arnage_sedan_2009/478.jpg	A car parked near steps and trees.
+../dataset/datasets/car/5shot/train/bentley_mulsanne_sedan_2011/549.jpg	A car is parked on a paved road with trees and grass in the background.
+../dataset/datasets/car/5shot/train/bentley_mulsanne_sedan_2011/548.jpg	A car on a road with blurred trees and water.
+../dataset/datasets/car/5shot/train/bentley_mulsanne_sedan_2011/546.jpg	A car on a road with grassy field behind.
+../dataset/datasets/car/5shot/train/bentley_mulsanne_sedan_2011/547.jpg	A car on a road surrounded by trees and autumn leaves.
+../dataset/datasets/car/5shot/train/bentley_mulsanne_sedan_2011/545.jpg	A car is parked indoors, likely in a showroom or garage.
+../dataset/datasets/car/5shot/train/bentley_continental_gt_coupe_2012/214.jpg	The car is on a road with a desert-like background.
+../dataset/datasets/car/5shot/train/bentley_continental_gt_coupe_2012/210.jpg	A car on a road with a desert landscape in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_gt_coupe_2012/213.jpg	A car is parked on a grassy area with trees and a fence in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_gt_coupe_2012/212.jpg	A car is parked on a road with trees and sunlight filtering through.
+../dataset/datasets/car/5shot/train/bentley_continental_gt_coupe_2012/211.jpg	A car is parked on a city sidewalk with buildings and people in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_gt_coupe_2007/325.jpg	A car parked on road near grassy area and trees.
+../dataset/datasets/car/5shot/train/bentley_continental_gt_coupe_2007/329.jpg	A car on a road with mountains and greenery in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_gt_coupe_2007/327.jpg	A car is parked on a paved area with green grass and trees in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_gt_coupe_2007/326.jpg	Blurred stone wall.
+../dataset/datasets/car/5shot/train/bentley_continental_gt_coupe_2007/328.jpg	A car is displayed on a rotating platform with "DC Motors" branding in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_flying_spur_sedan_2007/234.jpg	The car is parked on a paved area with trees and a building in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_flying_spur_sedan_2007/233.jpg	The background is blurred greenery.
+../dataset/datasets/car/5shot/train/bentley_continental_flying_spur_sedan_2007/230.jpg	A car is parked on a paved surface with grass and rocks in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_flying_spur_sedan_2007/231.jpg	The car is on a road with trees and a guardrail in the background.
+../dataset/datasets/car/5shot/train/bentley_continental_flying_spur_sedan_2007/232.jpg	The car is parked on a street with a sidewalk, a curb, and a grassy area in the background.
+../dataset/datasets/car/5shot/train/bugatti_veyron_16.4_convertible_2009/596.jpg	A car on a road with greenery.
+../dataset/datasets/car/5shot/train/bugatti_veyron_16.4_convertible_2009/597.jpg	A car on coastal road, cliffs, sea.
+../dataset/datasets/car/5shot/train/bugatti_veyron_16.4_convertible_2009/595.jpg	A car is parked on a paved path near a modern building with glass and metal elements, surrounded by grass.
+../dataset/datasets/car/5shot/train/bugatti_veyron_16.4_convertible_2009/599.jpg	Car on grass near water and land.
+../dataset/datasets/car/5shot/train/bugatti_veyron_16.4_convertible_2009/598.jpg	A car is parked against a mural depicting people and nature.
+../dataset/datasets/car/5shot/train/bugatti_veyron_16.4_coupe_2009/747.jpg	The car is set against a plain, dark gray background.
+../dataset/datasets/car/5shot/train/bugatti_veyron_16.4_coupe_2009/746.jpg	A car parked in front of an elegant building with stone steps and potted plants.
+../dataset/datasets/car/5shot/train/bugatti_veyron_16.4_coupe_2009/748.jpg	A car is displayed against a plain, light-colored background.
+../dataset/datasets/car/5shot/train/bugatti_veyron_16.4_coupe_2009/749.jpg	A car on a track with blurred background.
+../dataset/datasets/car/5shot/train/bugatti_veyron_16.4_coupe_2009/745.jpg	A car on a road with blurred greenery and hills.
+../dataset/datasets/car/5shot/train/buick_regal_gs_2012/500.jpg	A car speeds along a road with blurred greenery and trees.
+../dataset/datasets/car/5shot/train/buick_regal_gs_2012/502.jpg	A car on a road with blurred greenery and hills.
+../dataset/datasets/car/5shot/train/buick_regal_gs_2012/504.jpg	A car on a road with grass and dirt behind it.
+../dataset/datasets/car/5shot/train/buick_regal_gs_2012/501.jpg	A car on a road with blurred flowers and sky.
+../dataset/datasets/car/5shot/train/buick_regal_gs_2012/503.jpg	The car is parked in front of a building with a blue wall and a sign indicating it's a dealership.
+../dataset/datasets/car/5shot/train/buick_rainier_suv_2007/607.jpg	The car is parked near a white fence and a building with glass doors.
+../dataset/datasets/car/5shot/train/buick_rainier_suv_2007/609.jpg	Car parked under building with glass windows and pillars.
+../dataset/datasets/car/5shot/train/buick_rainier_suv_2007/608.jpg	A car is parked in a lot with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/buick_rainier_suv_2007/606.jpg	A car is parked on a paved surface with grass and trees in the background.
+../dataset/datasets/car/5shot/train/buick_rainier_suv_2007/605.jpg	A car is parked on snow-covered ground with trees and a fence in the background.
+../dataset/datasets/car/5shot/train/buick_verano_sedan_2012/51.jpg	A car is parked in a lot with other cars and palm trees visible in the background.
+../dataset/datasets/car/5shot/train/buick_verano_sedan_2012/53.jpg	A car parked on wet street near house with white columns and green tree.
+../dataset/datasets/car/5shot/train/buick_verano_sedan_2012/54.jpg	A car is parked in front of a dealership with a "GM Canada" sign visible.
+../dataset/datasets/car/5shot/train/buick_verano_sedan_2012/52.jpg	A car is parked on a road with a vineyard in the background.
+../dataset/datasets/car/5shot/train/buick_verano_sedan_2012/50.jpg	A car is parked on a paved area with potted plants and a white building in the background.
+../dataset/datasets/car/5shot/train/buick_enclave_suv_2012/567.jpg	A car is parked on asphalt with trees and a white truck in the background.
+../dataset/datasets/car/5shot/train/buick_enclave_suv_2012/569.jpg	A car is parked in front of a modern building with large windows and a curved facade.
+../dataset/datasets/car/5shot/train/buick_enclave_suv_2012/565.jpg	Sunset, ocean, hills.
+../dataset/datasets/car/5shot/train/buick_enclave_suv_2012/566.jpg	A car is parked on a concrete surface with other vehicles and buildings in the background.
+../dataset/datasets/car/5shot/train/buick_enclave_suv_2012/568.jpg	A car is parked in a lot with other cars and a building in the background.
+../dataset/datasets/car/5shot/train/cadillac_cts-v_sedan_2012/373.jpg	A car is parked in front of a Cadillac dealership.
+../dataset/datasets/car/5shot/train/cadillac_cts-v_sedan_2012/371.jpg	A car on a road with grassy hills and sky.
+../dataset/datasets/car/5shot/train/cadillac_cts-v_sedan_2012/372.jpg	Urban street with blurred motion.
+../dataset/datasets/car/5shot/train/cadillac_cts-v_sedan_2012/370.jpg	The car is parked on grass with trees and a wooden fence in the background.
+../dataset/datasets/car/5shot/train/cadillac_cts-v_sedan_2012/374.jpg	A car is displayed against a plain white background.
+../dataset/datasets/car/5shot/train/cadillac_srx_suv_2012/945.jpg	A car is parked on a dirt road with hills and clear sky in the background.
+../dataset/datasets/car/5shot/train/cadillac_srx_suv_2012/946.jpg	A car is parked in front of a building with glass doors and windows.
+../dataset/datasets/car/5shot/train/cadillac_srx_suv_2012/947.jpg	A car is parked in front of a wooden building with a sign that reads "FIREWOOD."
+../dataset/datasets/car/5shot/train/cadillac_srx_suv_2012/948.jpg	The car is on a road with blurred greenery and a sign for "Ed Morse Sawgrass" visible.
+../dataset/datasets/car/5shot/train/cadillac_srx_suv_2012/949.jpg	A car is parked against a clear blue sky with a white cloud.
+../dataset/datasets/car/5shot/train/cadillac_escalade_ext_crew_cab_2007/227.jpg	The car is set against a dark, gradient background.
+../dataset/datasets/car/5shot/train/cadillac_escalade_ext_crew_cab_2007/225.jpg	The car is parked in front of a dealership with a city name and website visible.
+../dataset/datasets/car/5shot/train/cadillac_escalade_ext_crew_cab_2007/229.jpg	The car is parked in front of a dealership with a sign that says "MEDVED."
+../dataset/datasets/car/5shot/train/cadillac_escalade_ext_crew_cab_2007/226.jpg	A car is parked in a lot with other vehicles and buildings in the background.
+../dataset/datasets/car/5shot/train/cadillac_escalade_ext_crew_cab_2007/228.jpg	A car is parked indoors with a white wall and reflective floor.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_hybrid_crew_cab_2012/563.jpg	A car is parked under a white canopy with a gray wall behind it.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_hybrid_crew_cab_2012/562.jpg	A white truck parked outside a dealership.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_hybrid_crew_cab_2012/564.jpg	A car drives on a snowy road with trees and mountains in the background.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_hybrid_crew_cab_2012/561.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_hybrid_crew_cab_2012/560.jpg	The background shows parked cars and trees under a clear sky.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_convertible_2012/743.jpg	A car is parked on a driveway with green trees and a house in the background.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_convertible_2012/740.jpg	The car is on a road with trees and smoke in the background.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_convertible_2012/744.jpg	A car on a paved road with grass and sky.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_convertible_2012/741.jpg	Residential street with houses and parked SUV.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_convertible_2012/742.jpg	A red convertible car is displayed indoors, surrounded by people and other vehicles.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_zr1_2012/474.jpg	The background features a cityscape and Corvette branding.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_zr1_2012/471.jpg	The car is set against a dark, possibly night-time or shadowed background.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_zr1_2012/473.jpg	A car is parked on a road with trees and bushes in the background.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_zr1_2012/470.jpg	A car is parked on a plain, light-colored surface.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_zr1_2012/472.jpg	A car is parked on a paved surface with grass and trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_ron_fellows_edition_z06_2007/90.jpg	A car is parked indoors with a plain wall and light reflections.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_ron_fellows_edition_z06_2007/91.jpg	The car is set against a plain, dark background.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_ron_fellows_edition_z06_2007/93.jpg	The car is parked indoors on a checkered floor with a white wall and a sign that reads "STREETSIDECLASSICS.COM" in the background.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_ron_fellows_edition_z06_2007/92.jpg	Car on display at auto show.
+../dataset/datasets/car/5shot/train/chevrolet_corvette_ron_fellows_edition_z06_2007/94.jpg	A car is parked against a stone wall with ivy.
+../dataset/datasets/car/5shot/train/chevrolet_traverse_suv_2012/48.jpg	A red SUV parked in front of an Avis rental building.
+../dataset/datasets/car/5shot/train/chevrolet_traverse_suv_2012/49.jpg	A car is parked in front of a metal building.
+../dataset/datasets/car/5shot/train/chevrolet_traverse_suv_2012/47.jpg	A car parked near a building with signage for Stratford Motor Products.
+../dataset/datasets/car/5shot/train/chevrolet_traverse_suv_2012/46.jpg	A car is parked in a lot with buildings, signs, and other vehicles in the background.
+../dataset/datasets/car/5shot/train/chevrolet_traverse_suv_2012/45.jpg	A car is parked on a paved driveway surrounded by lush greenery and trees.
+../dataset/datasets/car/5shot/train/chevrolet_camaro_convertible_2012/319.jpg	A car on road with trees and sky.
+../dataset/datasets/car/5shot/train/chevrolet_camaro_convertible_2012/315.jpg	Ocean, grass, road.
+../dataset/datasets/car/5shot/train/chevrolet_camaro_convertible_2012/318.jpg	The car is parked on gravel with trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_camaro_convertible_2012/316.jpg	Beach, ocean, sunset.
+../dataset/datasets/car/5shot/train/chevrolet_camaro_convertible_2012/317.jpg	A car is parked on a road with a cloudy sky and ocean in the background.
+../dataset/datasets/car/5shot/train/chevrolet_hhr_ss_2010/480.jpg	Industrial brick building.
+../dataset/datasets/car/5shot/train/chevrolet_hhr_ss_2010/483.jpg	The car is set against a plain, dark background.
+../dataset/datasets/car/5shot/train/chevrolet_hhr_ss_2010/481.jpg	A car is parked in front of a building with ornate wooden architecture and a beige wall.
+../dataset/datasets/car/5shot/train/chevrolet_hhr_ss_2010/482.jpg	A car is parked against a rocky wall.
+../dataset/datasets/car/5shot/train/chevrolet_hhr_ss_2010/484.jpg	Gravel, grass, trees.
+../dataset/datasets/car/5shot/train/chevrolet_impala_sedan_2007/389.jpg	A car is parked on wet pavement with a backdrop of trees and a building.
+../dataset/datasets/car/5shot/train/chevrolet_impala_sedan_2007/385.jpg	A car parked on grass near road with other cars and buildings in background.
+../dataset/datasets/car/5shot/train/chevrolet_impala_sedan_2007/388.jpg	A car parked in front of a dealership with signage.
+../dataset/datasets/car/5shot/train/chevrolet_impala_sedan_2007/386.jpg	A car is parked on a paved surface with hills and trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_impala_sedan_2007/387.jpg	White car with chrome rims, parked near trees and utility poles.
+../dataset/datasets/car/5shot/train/chevrolet_tahoe_hybrid_suv_2012/805.jpg	A car is parked on a road with trees and greenery in the background.
+../dataset/datasets/car/5shot/train/chevrolet_tahoe_hybrid_suv_2012/806.jpg	The car is set against a plain, neutral background.
+../dataset/datasets/car/5shot/train/chevrolet_tahoe_hybrid_suv_2012/807.jpg	A car is parked on a road with trees and mountains in the background.
+../dataset/datasets/car/5shot/train/chevrolet_tahoe_hybrid_suv_2012/808.jpg	The car is on a plain white background.
+../dataset/datasets/car/5shot/train/chevrolet_tahoe_hybrid_suv_2012/809.jpg	The car is parked on a lot with other vehicles and some trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_sonic_sedan_2012/645.jpg	A car is parked in a lot with other cars and trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_sonic_sedan_2012/648.jpg	Chevrolet dealership with other cars visible.
+../dataset/datasets/car/5shot/train/chevrolet_sonic_sedan_2012/647.jpg	Car is in showroom with Chevrolet logo on wall.
+../dataset/datasets/car/5shot/train/chevrolet_sonic_sedan_2012/649.jpg	A car on a plain, light gray background.
+../dataset/datasets/car/5shot/train/chevrolet_sonic_sedan_2012/646.jpg	Urban street with buildings, mural, and power lines.
+../dataset/datasets/car/5shot/train/chevrolet_express_cargo_van_2007/894.jpg	A car is parked in a lot with trees and buildings in the background.
+../dataset/datasets/car/5shot/train/chevrolet_express_cargo_van_2007/891.jpg	The background features trees and buildings.
+../dataset/datasets/car/5shot/train/chevrolet_express_cargo_van_2007/892.jpg	The car is parked on a cracked asphalt surface with a white fence and trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_express_cargo_van_2007/890.jpg	A white van is parked on a cracked asphalt surface with houses and trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_express_cargo_van_2007/893.jpg	The background includes trees, a white truck, and a clear sky.
+../dataset/datasets/car/5shot/train/chevrolet_avalanche_crew_cab_2012/235.jpg	The car is parked in front of Phillips Chevrolet dealership with clear skies and other vehicles visible in the background.
+../dataset/datasets/car/5shot/train/chevrolet_avalanche_crew_cab_2012/236.jpg	A car is parked in front of a building with a sign that reads "Jerry's Preowned."
+../dataset/datasets/car/5shot/train/chevrolet_avalanche_crew_cab_2012/238.jpg	A car is parked in front of a dealership with a sign for Sparks Nissan Kia.
+../dataset/datasets/car/5shot/train/chevrolet_avalanche_crew_cab_2012/237.jpg	The car is parked on a clear day with a blue sky and some buildings visible in the distance.
+../dataset/datasets/car/5shot/train/chevrolet_avalanche_crew_cab_2012/239.jpg	A car is parked in a lot with grass and trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_cobalt_ss_2010/147.jpg	A car is parked on a street with trees and houses in the background.
+../dataset/datasets/car/5shot/train/chevrolet_cobalt_ss_2010/148.jpg	A car is parked on a driveway with a house and garage visible in the background.
+../dataset/datasets/car/5shot/train/chevrolet_cobalt_ss_2010/145.jpg	A car parked in front of a brick house with a garage and landscaped yard.
+../dataset/datasets/car/5shot/train/chevrolet_cobalt_ss_2010/146.jpg	A car is parked on a street with a brick building, wooden fence, and flowers in the background.
+../dataset/datasets/car/5shot/train/chevrolet_cobalt_ss_2010/149.jpg	The car is set against a plain gray background.
+../dataset/datasets/car/5shot/train/chevrolet_malibu_hybrid_sedan_2010/832.jpg	Car on grass, trees and sky behind.
+../dataset/datasets/car/5shot/train/chevrolet_malibu_hybrid_sedan_2010/833.jpg	The car is parked on a lot with other vehicles and dealership signage visible.
+../dataset/datasets/car/5shot/train/chevrolet_malibu_hybrid_sedan_2010/834.jpg	A car is parked in front of a pre-owned dealership with a clear blue sky and other cars visible in the background.
+../dataset/datasets/car/5shot/train/chevrolet_malibu_hybrid_sedan_2010/830.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/chevrolet_malibu_hybrid_sedan_2010/831.jpg	The car is parked on a paved surface with trees and other vehicles visible in the background.
+../dataset/datasets/car/5shot/train/chevrolet_trailblazer_ss_2009/570.jpg	The car is on a road with greenery and trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_trailblazer_ss_2009/571.jpg	A car is parked in front of a "Car Factory of Louisville" sign, with other vehicles and a building visible in the background.
+../dataset/datasets/car/5shot/train/chevrolet_trailblazer_ss_2009/574.jpg	Residential driveway, garage, house, grass.
+../dataset/datasets/car/5shot/train/chevrolet_trailblazer_ss_2009/572.jpg	The car is on a plain white background.
+../dataset/datasets/car/5shot/train/chevrolet_trailblazer_ss_2009/573.jpg	The car is parked on a gravel surface with trees and grass in the background.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_2500hd_regular_cab_2012/739.jpg	The background is plain white.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_2500hd_regular_cab_2012/736.jpg	The car is parked in front of a dealership with red doors and a sign for "Jeff Wyler Eastgate."
+../dataset/datasets/car/5shot/train/chevrolet_silverado_2500hd_regular_cab_2012/737.jpg	The background shows a clear sky, some trees, and a building.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_2500hd_regular_cab_2012/735.jpg	A car is parked in front of a dealership with an American flag banner and a yellow balloon.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_2500hd_regular_cab_2012/738.jpg	A white pickup truck is parked in front of a Chevrolet dealership building with a blue and gray facade.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_classic_extended_cab_2007/858.jpg	The car is parked on rocks under a cloudy sky.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_classic_extended_cab_2007/859.jpg	A car is parked in a lot with a building and trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_classic_extended_cab_2007/855.jpg	A car is parked near a building with a yellow roof and white walls.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_classic_extended_cab_2007/856.jpg	A car is parked in front of a Kia dealership with a clear sky and other vehicles visible.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_classic_extended_cab_2007/857.jpg	A car is parked against a white brick wall.
+../dataset/datasets/car/5shot/train/chevrolet_express_van_2007/383.jpg	The background is plain white.
+../dataset/datasets/car/5shot/train/chevrolet_express_van_2007/380.jpg	The car is parked near a building with a gas station and other vehicles visible in the background.
+../dataset/datasets/car/5shot/train/chevrolet_express_van_2007/382.jpg	A car is parked in a lot with buildings and trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_express_van_2007/384.jpg	A car is parked on dry grass with a cloudy sky and distant structures.
+../dataset/datasets/car/5shot/train/chevrolet_express_van_2007/381.jpg	The car is parked in a lot with trees and other vehicles in the background.
+../dataset/datasets/car/5shot/train/chevrolet_monte_carlo_coupe_2007/654.jpg	A car is parked on grass with trees and sky in the background.
+../dataset/datasets/car/5shot/train/chevrolet_monte_carlo_coupe_2007/651.jpg	The car is set against a backdrop of a clear blue sky and a chain-link fence.
+../dataset/datasets/car/5shot/train/chevrolet_monte_carlo_coupe_2007/652.jpg	A car is parked in a lot with other vehicles and buildings in the background.
+../dataset/datasets/car/5shot/train/chevrolet_monte_carlo_coupe_2007/650.jpg	A car is parked in front of an empty stadium with a fence and seating area.
+../dataset/datasets/car/5shot/train/chevrolet_monte_carlo_coupe_2007/653.jpg	A car parked outside building with green trim and brick walls.
+../dataset/datasets/car/5shot/train/chevrolet_malibu_sedan_2007/84.jpg	A car is parked in front of a Hyundai dealership with flags and trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_malibu_sedan_2007/82.jpg	A car is parked on asphalt with buildings and trees in the background.
+../dataset/datasets/car/5shot/train/chevrolet_malibu_sedan_2007/83.jpg	A car is parked in a lot with other vehicles and buildings in the background.
+../dataset/datasets/car/5shot/train/chevrolet_malibu_sedan_2007/81.jpg	The car is parked on a gravel lot with trees and other vehicles in the background.
+../dataset/datasets/car/5shot/train/chevrolet_malibu_sedan_2007/80.jpg	A car is parked on a paved surface with a wooden fence and building in the background.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_extended_cab_2012/394.jpg	Residential neighborhood with houses and lawns.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_extended_cab_2012/390.jpg	Car parked near dealership sign, clear sky, trees, buildings.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_extended_cab_2012/392.jpg	A car is parked outside a building with "The Finish Line Auto Sales Co." sign visible.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_extended_cab_2012/391.jpg	The car is parked on a street with trees and bushes in the background.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_extended_cab_2012/393.jpg	A car is parked in front of a building with a water tower in the background.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_regular_cab_2012/798.jpg	The background is plain white.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_regular_cab_2012/797.jpg	A car is parked under a covered structure with a clock on it, in front of a building.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_regular_cab_2012/796.jpg	Parking lot, trees, sky.
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_regular_cab_2012/795.jpg	A car is parked in front of a building with a sign that says "DAY."
+../dataset/datasets/car/5shot/train/chevrolet_silverado_1500_regular_cab_2012/799.jpg	A car is parked indoors, likely in a garage or showroom.
+../dataset/datasets/car/5shot/train/chrysler_aspen_suv_2009/499.jpg	The car is parked on a gravel lot with other vehicles and greenery in the background.
+../dataset/datasets/car/5shot/train/chrysler_aspen_suv_2009/498.jpg	The car is parked on a road with trees and greenery in the background.
+../dataset/datasets/car/5shot/train/chrysler_aspen_suv_2009/497.jpg	Residential street with houses and greenery.
+../dataset/datasets/car/5shot/train/chrysler_aspen_suv_2009/495.jpg	The car is parked on a concrete surface with a wall and trees in the background.
+../dataset/datasets/car/5shot/train/chrysler_aspen_suv_2009/496.jpg	The car is parked in front of a building with a glass door and windows.
+../dataset/datasets/car/5shot/train/chrysler_sebring_convertible_2010/610.jpg	A car is parked in a lot with other vehicles and a fence in the background.
+../dataset/datasets/car/5shot/train/chrysler_sebring_convertible_2010/613.jpg	A car is parked on a paved area with a grassy field, trees, and houses in the background.
+../dataset/datasets/car/5shot/train/chrysler_sebring_convertible_2010/614.jpg	A car parked in front of Aurora Chrysler Dodge Jeep Dodge Truck dealership.
+../dataset/datasets/car/5shot/train/chrysler_sebring_convertible_2010/612.jpg	A car is parked in front of a white building with a clear sky above.
+../dataset/datasets/car/5shot/train/chrysler_sebring_convertible_2010/611.jpg	The car is parked near a building with trees and a fence in the background.
+../dataset/datasets/car/5shot/train/chrysler_town_and_country_minivan_2012/975.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/chrysler_town_and_country_minivan_2012/978.jpg	Ocean, beach, mountains, clear sky.
+../dataset/datasets/car/5shot/train/chrysler_town_and_country_minivan_2012/979.jpg	A car is parked on a paved area with trees and grass in the background.
+../dataset/datasets/car/5shot/train/chrysler_town_and_country_minivan_2012/976.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/chrysler_town_and_country_minivan_2012/977.jpg	The car is parked on a road with trees and grass in the background.
+../dataset/datasets/car/5shot/train/chrysler_300_srt-8_2010/97.jpg	A car is parked on a paved surface with trees and a fence in the background.
+../dataset/datasets/car/5shot/train/chrysler_300_srt-8_2010/99.jpg	The car is parked on a paved surface with greenery and trees in the background.
+../dataset/datasets/car/5shot/train/chrysler_300_srt-8_2010/96.jpg	Residential neighborhood with houses, trees, and parked cars.
+../dataset/datasets/car/5shot/train/chrysler_300_srt-8_2010/98.jpg	Residential neighborhood with houses and greenery.
+../dataset/datasets/car/5shot/train/chrysler_300_srt-8_2010/95.jpg	A car is parked in a lot with other vehicles and cloudy sky.
+../dataset/datasets/car/5shot/train/chrysler_crossfire_convertible_2008/878.jpg	The car is set against a dark, gradient background.
+../dataset/datasets/car/5shot/train/chrysler_crossfire_convertible_2008/879.jpg	A car is parked on a paved area with a garden and pathway in the background.
+../dataset/datasets/car/5shot/train/chrysler_crossfire_convertible_2008/876.jpg	A car on grass near ocean and plants.
+../dataset/datasets/car/5shot/train/chrysler_crossfire_convertible_2008/875.jpg	The car is parked on a plain, light-colored surface with no distinct background elements.
+../dataset/datasets/car/5shot/train/chrysler_crossfire_convertible_2008/877.jpg	A car on a road with blurred greenery and grass.
+../dataset/datasets/car/5shot/train/chrysler_pt_cruiser_convertible_2008/911.jpg	A car parked near trees and grass.
+../dataset/datasets/car/5shot/train/chrysler_pt_cruiser_convertible_2008/912.jpg	A car is parked in front of a Ruthrauff Auto Sales building.
+../dataset/datasets/car/5shot/train/chrysler_pt_cruiser_convertible_2008/914.jpg	A car is parked in front of a dealership with "Moon Township Mazda" and "Suzuki" signs visible.
+../dataset/datasets/car/5shot/train/chrysler_pt_cruiser_convertible_2008/913.jpg	A car is parked on a lot with a building and flags in the background.
+../dataset/datasets/car/5shot/train/chrysler_pt_cruiser_convertible_2008/910.jpg	The car is parked on a paved area with palm trees and greenery in the background.
+../dataset/datasets/car/5shot/train/daewoo_nubira_wagon_2002/933.jpg	The car is on a flat, open surface with a clear sky in the background.
+../dataset/datasets/car/5shot/train/daewoo_nubira_wagon_2002/931.jpg	A car is parked in front of a blue building with a yellow sign and a red door.
+../dataset/datasets/car/5shot/train/daewoo_nubira_wagon_2002/932.jpg	A car is parked near a lake with houses and trees in the background.
+../dataset/datasets/car/5shot/train/daewoo_nubira_wagon_2002/934.jpg	The car is parked on a plain, light-colored surface with a clear sky above.
+../dataset/datasets/car/5shot/train/daewoo_nubira_wagon_2002/930.jpg	The car is parked on a paved area with other vehicles and buildings in the background.
+../dataset/datasets/car/5shot/train/dodge_caliber_wagon_2012/420.jpg	The car is set against a dark, gradient background.
+../dataset/datasets/car/5shot/train/dodge_caliber_wagon_2012/421.jpg	A car on red gradient background.
+../dataset/datasets/car/5shot/train/dodge_caliber_wagon_2012/422.jpg	A car is parked on a driveway with a house and trees in the background.
+../dataset/datasets/car/5shot/train/dodge_caliber_wagon_2012/424.jpg	The car is parked on grass with trees and a red truck in the background.
+../dataset/datasets/car/5shot/train/dodge_caliber_wagon_2012/423.jpg	The car is parked in front of a dealership sign.
+../dataset/datasets/car/5shot/train/dodge_caliber_wagon_2007/689.jpg	The car is parked indoors, likely in a showroom or garage, with a blue floor and white walls.
+../dataset/datasets/car/5shot/train/dodge_caliber_wagon_2007/687.jpg	Dark, shadowy background.
+../dataset/datasets/car/5shot/train/dodge_caliber_wagon_2007/685.jpg	A car on red gradient background.
+../dataset/datasets/car/5shot/train/dodge_caliber_wagon_2007/686.jpg	A car on a road with blurred trees and grass.
+../dataset/datasets/car/5shot/train/dodge_caliber_wagon_2007/688.jpg	The car is parked in a lot with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/dodge_caravan_minivan_1997/66.jpg	A car is parked in front of a building with "Tainar Auto" and "Auto Displays" signage.
+../dataset/datasets/car/5shot/train/dodge_caravan_minivan_1997/69.jpg	A car is parked on a concrete surface with buildings and trees in the background.
+../dataset/datasets/car/5shot/train/dodge_caravan_minivan_1997/68.jpg	A car is parked in a lot with other vehicles and buildings in the background.
+../dataset/datasets/car/5shot/train/dodge_caravan_minivan_1997/67.jpg	A car is parked on dirt near a building and street.
+../dataset/datasets/car/5shot/train/dodge_caravan_minivan_1997/65.jpg	A car is parked on a grassy area with a clear sky above.
+../dataset/datasets/car/5shot/train/dodge_ram_pickup_3500_crew_cab_2010/127.jpg	A white pickup truck is parked on grass with trees and other vehicles in the background.
+../dataset/datasets/car/5shot/train/dodge_ram_pickup_3500_crew_cab_2010/125.jpg	The car is parked on a paved surface with trees and another vehicle visible in the background.
+../dataset/datasets/car/5shot/train/dodge_ram_pickup_3500_crew_cab_2010/129.jpg	A car is parked in front of a red barn with green roof.
+../dataset/datasets/car/5shot/train/dodge_ram_pickup_3500_crew_cab_2010/128.jpg	A car is parked in a lot with other vehicles and buildings in the background.
+../dataset/datasets/car/5shot/train/dodge_ram_pickup_3500_crew_cab_2010/126.jpg	Car parked near building with cloudy sky.
+../dataset/datasets/car/5shot/train/dodge_ram_pickup_3500_quad_cab_2009/776.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/dodge_ram_pickup_3500_quad_cab_2009/777.jpg	The car is parked on a paved surface with a building and trees in the background.
+../dataset/datasets/car/5shot/train/dodge_ram_pickup_3500_quad_cab_2009/778.jpg	The background shows a clear sky and part of a building.
+../dataset/datasets/car/5shot/train/dodge_ram_pickup_3500_quad_cab_2009/779.jpg	A car is parked against a modern glass building.
+../dataset/datasets/car/5shot/train/dodge_ram_pickup_3500_quad_cab_2009/775.jpg	A car on road with trees and sky.
+../dataset/datasets/car/5shot/train/dodge_sprinter_cargo_van_2009/405.jpg	The background shows another vehicle and an overcast sky.
+../dataset/datasets/car/5shot/train/dodge_sprinter_cargo_van_2009/407.jpg	The car is parked indoors, likely in a showroom or garage.
+../dataset/datasets/car/5shot/train/dodge_sprinter_cargo_van_2009/406.jpg	A car is parked in a lot with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/dodge_sprinter_cargo_van_2009/408.jpg	The car is parked on a paved surface with trees and a building in the background.
+../dataset/datasets/car/5shot/train/dodge_sprinter_cargo_van_2009/409.jpg	The background shows trees, parked cars, and a building.
+../dataset/datasets/car/5shot/train/dodge_journey_suv_2012/31.jpg	A car is parked in a lot with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/dodge_journey_suv_2012/33.jpg	Forest and road.
+../dataset/datasets/car/5shot/train/dodge_journey_suv_2012/32.jpg	A car is parked on gravel near a concrete wall and brick wall under an overcast sky.
+../dataset/datasets/car/5shot/train/dodge_journey_suv_2012/30.jpg	A car is parked in front of a "CABRAL" sign with a phone number and a fence.
+../dataset/datasets/car/5shot/train/dodge_journey_suv_2012/34.jpg	A car is parked in a lot with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/dodge_dakota_crew_cab_2010/240.jpg	A car is parked on a lot with other vehicles and buildings in the background.
+../dataset/datasets/car/5shot/train/dodge_dakota_crew_cab_2010/242.jpg	A car is parked in a lot with trees and other vehicles visible.
+../dataset/datasets/car/5shot/train/dodge_dakota_crew_cab_2010/241.jpg	A car is parked in a lot with trees and another vehicle visible in the background.
+../dataset/datasets/car/5shot/train/dodge_dakota_crew_cab_2010/244.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/dodge_dakota_crew_cab_2010/243.jpg	A car on snowy road, trees in background.
+../dataset/datasets/car/5shot/train/dodge_dakota_club_cab_2007/10.jpg	Green trees and grass.
+../dataset/datasets/car/5shot/train/dodge_dakota_club_cab_2007/12.jpg	A car parked outside Royal City Fine Cars dealership.
+../dataset/datasets/car/5shot/train/dodge_dakota_club_cab_2007/13.jpg	A car is parked in front of Dobbs Used Cars dealership.
+../dataset/datasets/car/5shot/train/dodge_dakota_club_cab_2007/14.jpg	The car is set against a plain, dark gray background.
+../dataset/datasets/car/5shot/train/dodge_dakota_club_cab_2007/11.jpg	A car is parked outside a building with a door and windows visible.
+../dataset/datasets/car/5shot/train/dodge_magnum_wagon_2008/900.jpg	A car is parked in front of a building with a truck visible in the background.
+../dataset/datasets/car/5shot/train/dodge_magnum_wagon_2008/902.jpg	A car parked near a building with other vehicles and trees in the distance.
+../dataset/datasets/car/5shot/train/dodge_magnum_wagon_2008/904.jpg	Red station wagon, parked in lot with trees and other cars behind it.
+../dataset/datasets/car/5shot/train/dodge_magnum_wagon_2008/901.jpg	The car is set against a plain, neutral background.
+../dataset/datasets/car/5shot/train/dodge_magnum_wagon_2008/903.jpg	The car is parked on a paved surface with trees and greenery in the background.
+../dataset/datasets/car/5shot/train/dodge_challenger_srt8_2011/587.jpg	The background shows a blurred, outdoor setting with grass and dirt.
+../dataset/datasets/car/5shot/train/dodge_challenger_srt8_2011/588.jpg	The background shows a clear sky, trees, and a fence.
+../dataset/datasets/car/5shot/train/dodge_challenger_srt8_2011/585.jpg	A car is parked in front of a house with a garage.
+../dataset/datasets/car/5shot/train/dodge_challenger_srt8_2011/589.jpg	A car is parked on a paved area with greenery and flowers in the background.
+../dataset/datasets/car/5shot/train/dodge_challenger_srt8_2011/586.jpg	Indoor showroom with people and displays.
+../dataset/datasets/car/5shot/train/dodge_durango_suv_2012/305.jpg	Urban street with buildings and parked cars.
+../dataset/datasets/car/5shot/train/dodge_durango_suv_2012/308.jpg	A car is parked in a lot with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/dodge_durango_suv_2012/306.jpg	The background features a white wall with a grid pattern and a black and white striped car partially visible behind 'a car'.
+../dataset/datasets/car/5shot/train/dodge_durango_suv_2012/309.jpg	A car is parked on dry, grassy terrain with a sunset sky in the background.
+../dataset/datasets/car/5shot/train/dodge_durango_suv_2012/307.jpg	A car parked near garage, with another car and house visible.
+../dataset/datasets/car/5shot/train/dodge_durango_suv_2007/968.jpg	A car is parked on a white floor with a red and black logo in the background.
+../dataset/datasets/car/5shot/train/dodge_durango_suv_2007/969.jpg	A car is parked near water, with trees and sky in the background.
+../dataset/datasets/car/5shot/train/dodge_durango_suv_2007/965.jpg	The car is set against a blurred, colorful background suggesting motion and speed.
+../dataset/datasets/car/5shot/train/dodge_durango_suv_2007/966.jpg	A car is parked in front of a dealership with a sign that says "Grand."
+../dataset/datasets/car/5shot/train/dodge_durango_suv_2007/967.jpg	The car is parked indoors, likely in a showroom or garage, with a plain white wall and a door visible in the background.
+../dataset/datasets/car/5shot/train/dodge_charger_sedan_2012/35.jpg	A car is parked in a lot with other cars and a white fence in the background.
+../dataset/datasets/car/5shot/train/dodge_charger_sedan_2012/36.jpg	A car is parked on a red surface with a white fence and clear sky in the background.
+../dataset/datasets/car/5shot/train/dodge_charger_sedan_2012/39.jpg	A car on a desert road with mountains and clear sky.
+../dataset/datasets/car/5shot/train/dodge_charger_sedan_2012/37.jpg	A car is displayed on a showroom floor with other cars and a white wall in the background.
+../dataset/datasets/car/5shot/train/dodge_charger_sedan_2012/38.jpg	A car is parked against a backdrop of snow-capped mountains and a cloudy sky.
+../dataset/datasets/car/5shot/train/dodge_charger_srt-8_2009/168.jpg	A car is parked on a paved surface with buildings and trees in the background.
+../dataset/datasets/car/5shot/train/dodge_charger_srt-8_2009/166.jpg	A car parked on driveway, suburban setting with trees and houses.
+../dataset/datasets/car/5shot/train/dodge_charger_srt-8_2009/167.jpg	A car is parked under a bridge with trees and sky in the background.
+../dataset/datasets/car/5shot/train/dodge_charger_srt-8_2009/169.jpg	A silver car is parked in a lot with other cars and trees in the background.
+../dataset/datasets/car/5shot/train/dodge_charger_srt-8_2009/165.jpg	The car is red and parked in front of a dealership with a sign that reads "Chris Myers."
+../dataset/datasets/car/5shot/train/eagle_talon_hatchback_1998/926.jpg	A car is parked on snow-covered ground near a building and other vehicles.
+../dataset/datasets/car/5shot/train/eagle_talon_hatchback_1998/928.jpg	Grassy field, trees, blue sky.
+../dataset/datasets/car/5shot/train/eagle_talon_hatchback_1998/927.jpg	A car is parked in a lot with other vehicles.
+../dataset/datasets/car/5shot/train/eagle_talon_hatchback_1998/925.jpg	Grassy field, trees, clear sky.
+../dataset/datasets/car/5shot/train/eagle_talon_hatchback_1998/929.jpg	A car is parked in a parking lot with houses and trees in the background.
+../dataset/datasets/car/5shot/train/fiat_500_abarth_2012/677.jpg	A car is parked against a backdrop of stacked shipping containers.
+../dataset/datasets/car/5shot/train/fiat_500_abarth_2012/679.jpg	A car is displayed at an event with people and photographers in the background.
+../dataset/datasets/car/5shot/train/fiat_500_abarth_2012/676.jpg	A car is displayed indoors with a clean, minimalistic background.
+../dataset/datasets/car/5shot/train/fiat_500_abarth_2012/675.jpg	A car on a road with trees and sky.
+../dataset/datasets/car/5shot/train/fiat_500_abarth_2012/678.jpg	A car is displayed at an event with people and lights.
+../dataset/datasets/car/5shot/train/fiat_500_convertible_2012/758.jpg	A car is displayed at an auto show with a red and white backdrop.
+../dataset/datasets/car/5shot/train/fiat_500_convertible_2012/759.jpg	The car is on a road with a blurred background, suggesting motion.
+../dataset/datasets/car/5shot/train/fiat_500_convertible_2012/756.jpg	A car is parked on a grassy field with rolling hills and trees in the background.
+../dataset/datasets/car/5shot/train/fiat_500_convertible_2012/757.jpg	The car is on a road with a scenic view of greenery and water in the background.
+../dataset/datasets/car/5shot/train/fiat_500_convertible_2012/755.jpg	The car is on a road with white lines, surrounded by greenery and rocks.
+../dataset/datasets/car/5shot/train/ferrari_ff_coupe_2012/262.jpg	Snow-covered landscape, building, tower.
+../dataset/datasets/car/5shot/train/ferrari_ff_coupe_2012/264.jpg	A car is displayed on a showroom floor with people in business attire.
+../dataset/datasets/car/5shot/train/ferrari_ff_coupe_2012/260.jpg	A car on a road with motion blur.
+../dataset/datasets/car/5shot/train/ferrari_ff_coupe_2012/263.jpg	The car is set against a backdrop of dense green forest.
+../dataset/datasets/car/5shot/train/ferrari_ff_coupe_2012/261.jpg	Snow-covered mountains.
+../dataset/datasets/car/5shot/train/ferrari_california_convertible_2012/705.jpg	A car is parked on a brick driveway with a building and other cars in the background.
+../dataset/datasets/car/5shot/train/ferrari_california_convertible_2012/708.jpg	A car on dirt road, greenery and hills behind.
+../dataset/datasets/car/5shot/train/ferrari_california_convertible_2012/706.jpg	A car is parked in front of a modern building with glass windows and a geometric design.
+../dataset/datasets/car/5shot/train/ferrari_california_convertible_2012/707.jpg	A car is displayed at a Ferrari showroom with a red sign and a website address.
+../dataset/datasets/car/5shot/train/ferrari_california_convertible_2012/709.jpg	A car is parked near a bridge over water with hills in the background.
+../dataset/datasets/car/5shot/train/ferrari_458_italia_convertible_2012/731.jpg	A car is parked against a peach-colored building with arched windows and a dark roof.
+../dataset/datasets/car/5shot/train/ferrari_458_italia_convertible_2012/732.jpg	The background shows a showroom with people and other cars.
+../dataset/datasets/car/5shot/train/ferrari_458_italia_convertible_2012/734.jpg	Concrete wall, industrial setting.
+../dataset/datasets/car/5shot/train/ferrari_458_italia_convertible_2012/733.jpg	The car is on a road with blurred surroundings, suggesting motion.
+../dataset/datasets/car/5shot/train/ferrari_458_italia_convertible_2012/730.jpg	A car on a winding road with mountains and hills in the background.
+../dataset/datasets/car/5shot/train/ferrari_458_italia_coupe_2012/156.jpg	A car is parked in a garage with other cars.
+../dataset/datasets/car/5shot/train/ferrari_458_italia_coupe_2012/158.jpg	The car is parked on a paved surface.
+../dataset/datasets/car/5shot/train/ferrari_458_italia_coupe_2012/159.jpg	A car on a road with trees and cloudy sky.
+../dataset/datasets/car/5shot/train/ferrari_458_italia_coupe_2012/155.jpg	A car on a winding road with mountains and green hills in the background.
+../dataset/datasets/car/5shot/train/ferrari_458_italia_coupe_2012/157.jpg	A car is parked on a road with trees and foliage in the background.
+../dataset/datasets/car/5shot/train/fisker_karma_sedan_2012/172.jpg	Sunset, fence, beach.
+../dataset/datasets/car/5shot/train/fisker_karma_sedan_2012/170.jpg	A car is parked in front of a building with other cars visible behind it.
+../dataset/datasets/car/5shot/train/fisker_karma_sedan_2012/174.jpg	Dark, cloudy sky, rocky terrain.
+../dataset/datasets/car/5shot/train/fisker_karma_sedan_2012/171.jpg	A car is parked on asphalt near a building with glass windows and doors.
+../dataset/datasets/car/5shot/train/fisker_karma_sedan_2012/173.jpg	A car on a road with blurred landscape and mountains in the distance.
+../dataset/datasets/car/5shot/train/ford_f-450_super_duty_crew_cab_2012/22.jpg	The background is plain white.
+../dataset/datasets/car/5shot/train/ford_f-450_super_duty_crew_cab_2012/24.jpg	The car is parked on grass with trees and a building in the background.
+../dataset/datasets/car/5shot/train/ford_f-450_super_duty_crew_cab_2012/21.jpg	The car is driving through shallow water with trees and vegetation in the background.
+../dataset/datasets/car/5shot/train/ford_f-450_super_duty_crew_cab_2012/23.jpg	A car is parked in front of a dealership with a sign that reads "Shamaley Ford."
+../dataset/datasets/car/5shot/train/ford_f-450_super_duty_crew_cab_2012/20.jpg	The car is parked on grass with trees and a fence in the background.
+../dataset/datasets/car/5shot/train/ford_mustang_convertible_2007/661.jpg	A car is parked on a paved surface with a building and another vehicle visible in the background.
+../dataset/datasets/car/5shot/train/ford_mustang_convertible_2007/662.jpg	A car is parked on a wet surface with trees and a light pole in the background.
+../dataset/datasets/car/5shot/train/ford_mustang_convertible_2007/664.jpg	A car with open hood, parked in lot with autumn foliage and other cars.
+../dataset/datasets/car/5shot/train/ford_mustang_convertible_2007/660.jpg	Trees, parking lot.
+../dataset/datasets/car/5shot/train/ford_mustang_convertible_2007/663.jpg	Sunset, beach, city skyline.
+../dataset/datasets/car/5shot/train/ford_freestar_minivan_2007/540.jpg	Residential street with houses and parked cars.
+../dataset/datasets/car/5shot/train/ford_freestar_minivan_2007/542.jpg	A car is parked on a paved lot with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/ford_freestar_minivan_2007/543.jpg	A car is parked on wet pavement with greenery and trees in the background.
+../dataset/datasets/car/5shot/train/ford_freestar_minivan_2007/541.jpg	A car is parked in front of a building with a sign for Chambers & O'Hara Car & Truck Sales, Service & Rentals.
+../dataset/datasets/car/5shot/train/ford_freestar_minivan_2007/544.jpg	The car is parked against a blue sky and water backdrop.
+../dataset/datasets/car/5shot/train/ford_expedition_el_suv_2009/438.jpg	A car is parked in front of a "Used Cars" sign at Bob Howard Buick GMC dealership.
+../dataset/datasets/car/5shot/train/ford_expedition_el_suv_2009/435.jpg	Car parked near water, trees, and docked boat.
+../dataset/datasets/car/5shot/train/ford_expedition_el_suv_2009/437.jpg	The car is parked on a lot with other vehicles and greenery in the background.
+../dataset/datasets/car/5shot/train/ford_expedition_el_suv_2009/439.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/ford_expedition_el_suv_2009/436.jpg	The car is parked in a lot with other vehicles and buildings visible in the background.
+../dataset/datasets/car/5shot/train/ford_edge_suv_2012/324.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/ford_edge_suv_2012/320.jpg	Urban, blurred buildings.
+../dataset/datasets/car/5shot/train/ford_edge_suv_2012/323.jpg	A car is parked against a white wall with some grass and pavement visible.
+../dataset/datasets/car/5shot/train/ford_edge_suv_2012/322.jpg	A car is parked on a wet road with trees and grass in the background.
+../dataset/datasets/car/5shot/train/ford_edge_suv_2012/321.jpg	A car is parked in front of Perry Ford dealership.
+../dataset/datasets/car/5shot/train/ford_ranger_supercab_2011/283.jpg	A car is parked in a lot with other vehicles and buildings in the background.
+../dataset/datasets/car/5shot/train/ford_ranger_supercab_2011/282.jpg	The car is parked on a grassy area with buildings and trees in the background.
+../dataset/datasets/car/5shot/train/ford_ranger_supercab_2011/281.jpg	A car is parked against a white wall.
+../dataset/datasets/car/5shot/train/ford_ranger_supercab_2011/284.jpg	The background is plain white.
+../dataset/datasets/car/5shot/train/ford_ranger_supercab_2011/280.jpg	A car is parked on a concrete surface with a tiled wall and other vehicles in the background.
+../dataset/datasets/car/5shot/train/ford_gt_coupe_2006/368.jpg	Factory setting with other cars and equipment.
+../dataset/datasets/car/5shot/train/ford_gt_coupe_2006/366.jpg	The car is set against a dark, black background.
+../dataset/datasets/car/5shot/train/ford_gt_coupe_2006/369.jpg	A car is parked in front of a modern glass building with a sign indicating an entrance.
+../dataset/datasets/car/5shot/train/ford_gt_coupe_2006/367.jpg	The car is displayed on a grassy field with flags and people in the background.
+../dataset/datasets/car/5shot/train/ford_gt_coupe_2006/365.jpg	Grassy, blurred.
+../dataset/datasets/car/5shot/train/ford_f-150_regular_cab_2012/838.jpg	A car is parked on a brick surface near a building with large windows and a red truck in the distance.
+../dataset/datasets/car/5shot/train/ford_f-150_regular_cab_2012/836.jpg	The background shows a parking lot with other vehicles and trees.
+../dataset/datasets/car/5shot/train/ford_f-150_regular_cab_2012/835.jpg	A car is parked on grass with another vehicle and trees in the background.
+../dataset/datasets/car/5shot/train/ford_f-150_regular_cab_2012/837.jpg	A car is parked under a tree with green leaves and blue sky.
+../dataset/datasets/car/5shot/train/ford_f-150_regular_cab_2012/839.jpg	A car is parked near a "Red Tag Sale" sign.
+../dataset/datasets/car/5shot/train/ford_f-150_regular_cab_2007/251.jpg	The background includes a parking lot, a building, and a cloudy sky.
+../dataset/datasets/car/5shot/train/ford_f-150_regular_cab_2007/253.jpg	The car is parked in a lot with trees and other vehicles in the background.
+../dataset/datasets/car/5shot/train/ford_f-150_regular_cab_2007/250.jpg	The car is parked on a textured surface with a dark wall behind it.
+../dataset/datasets/car/5shot/train/ford_f-150_regular_cab_2007/254.jpg	A car is parked in a lot with other vehicles and a building in the background.
+../dataset/datasets/car/5shot/train/ford_f-150_regular_cab_2007/252.jpg	The car is parked in a parking lot with trees and buildings in the background.
+../dataset/datasets/car/5shot/train/ford_focus_sedan_2007/847.jpg	A car is parked on a street with trees and power lines in the background.
+../dataset/datasets/car/5shot/train/ford_focus_sedan_2007/848.jpg	A car is parked outside a dealership with "BRUNELLE" signage visible.
+../dataset/datasets/car/5shot/train/ford_focus_sedan_2007/846.jpg	The car is parked on a gravel surface with trees and a cloudy sky in the background.
+../dataset/datasets/car/5shot/train/ford_focus_sedan_2007/849.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/ford_focus_sedan_2007/845.jpg	The car is set against a blurred, outdoor backdrop with a hint of water and structures.
+../dataset/datasets/car/5shot/train/ford_e-series_wagon_van_2012/335.jpg	The car is parked on a paved surface with trees and a clear sky in the background.
+../dataset/datasets/car/5shot/train/ford_e-series_wagon_van_2012/336.jpg	The car is parked on a paved surface with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/ford_e-series_wagon_van_2012/338.jpg	The background is plain white.
+../dataset/datasets/car/5shot/train/ford_e-series_wagon_van_2012/339.jpg	The car is parked in front of a building with a sign that says "FORD COMMERCIAL TRUCK" and "LEARN THE COMFORTS E-SERIES WAGON."
+../dataset/datasets/car/5shot/train/ford_e-series_wagon_van_2012/337.jpg	The car is parked on a gravel surface with trees and a fence in the background.
+../dataset/datasets/car/5shot/train/ford_fiesta_sedan_2012/841.jpg	A car is displayed against a white wall with a blue banner at the top and bottom.
+../dataset/datasets/car/5shot/train/ford_fiesta_sedan_2012/844.jpg	The car is set against a dark, gradient background.
+../dataset/datasets/car/5shot/train/ford_fiesta_sedan_2012/840.jpg	A car is parked in a lot with other cars and a "Conway" sign visible in the background.
+../dataset/datasets/car/5shot/train/ford_fiesta_sedan_2012/843.jpg	A car is parked on a paved area with green grass, trees, and a white fence in the background.
+../dataset/datasets/car/5shot/train/ford_fiesta_sedan_2012/842.jpg	A car on plain background.
+../dataset/datasets/car/5shot/train/gmc_terrain_suv_2012/898.jpg	The car is parked on a paved surface with trees and flowers in the background.
+../dataset/datasets/car/5shot/train/gmc_terrain_suv_2012/897.jpg	The car is parked under blue canopies with trees and grass visible in the background.
+../dataset/datasets/car/5shot/train/gmc_terrain_suv_2012/896.jpg	Residential street with houses, trees, and parked cars.
+../dataset/datasets/car/5shot/train/gmc_terrain_suv_2012/895.jpg	A car is parked in front of a building with a roof and windows.
+../dataset/datasets/car/5shot/train/gmc_terrain_suv_2012/899.jpg	A car is parked on a paved surface with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/gmc_savana_van_2012/192.jpg	A car is parked in a lot with a clear blue sky and a white building in the background.
+../dataset/datasets/car/5shot/train/gmc_savana_van_2012/194.jpg	The car is parked on a paved surface with a grassy area and trees in the background.
+../dataset/datasets/car/5shot/train/gmc_savana_van_2012/191.jpg	A car is parked in front of a Buick GMC dealership.
+../dataset/datasets/car/5shot/train/gmc_savana_van_2012/193.jpg	A car parked near a house with trees and a driveway.
+../dataset/datasets/car/5shot/train/gmc_savana_van_2012/190.jpg	A car is parked against a beige wall with closed garage doors.
+../dataset/datasets/car/5shot/train/gmc_yukon_hybrid_suv_2012/108.jpg	A car is parked in a lot with hedges and buildings in the background.
+../dataset/datasets/car/5shot/train/gmc_yukon_hybrid_suv_2012/106.jpg	A car is parked on a rooftop with a sunset sky and distant buildings in the background.
+../dataset/datasets/car/5shot/train/gmc_yukon_hybrid_suv_2012/107.jpg	A car drives on a road with blurred hills and trees in the background.
+../dataset/datasets/car/5shot/train/gmc_yukon_hybrid_suv_2012/105.jpg	A car is parked in a lot with trees and buildings in the background.
+../dataset/datasets/car/5shot/train/gmc_yukon_hybrid_suv_2012/109.jpg	A car is parked in front of a white building with red accents.
+../dataset/datasets/car/5shot/train/gmc_acadia_suv_2012/413.jpg	A car is parked against a backdrop of modern buildings and a clear sky.
+../dataset/datasets/car/5shot/train/gmc_acadia_suv_2012/410.jpg	The car is parked on a red surface with a building and trees in the background.
+../dataset/datasets/car/5shot/train/gmc_acadia_suv_2012/412.jpg	The car is on a plain white background.
+../dataset/datasets/car/5shot/train/gmc_acadia_suv_2012/411.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/gmc_acadia_suv_2012/414.jpg	A car is displayed in a showroom with other vehicles and promotional signs visible.
+../dataset/datasets/car/5shot/train/gmc_canyon_extended_cab_2012/287.jpg	The car is parked on a paved surface with trees and a building in the background.
+../dataset/datasets/car/5shot/train/gmc_canyon_extended_cab_2012/286.jpg	The background features construction cranes and a clear sky.
+../dataset/datasets/car/5shot/train/gmc_canyon_extended_cab_2012/289.jpg	A car is parked outside Thomas Buick GMC dealership.
+../dataset/datasets/car/5shot/train/gmc_canyon_extended_cab_2012/285.jpg	A car is parked in a lot with trees and a clear sky.
+../dataset/datasets/car/5shot/train/gmc_canyon_extended_cab_2012/288.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/geo_metro_convertible_1993/26.jpg	Car on display at indoor event with people around.
+../dataset/datasets/car/5shot/train/geo_metro_convertible_1993/27.jpg	A car is parked in front of an old, weathered wooden building with boarded-up windows and doors. The setting appears rural, with dry grass and a clear sky.
+../dataset/datasets/car/5shot/train/geo_metro_convertible_1993/29.jpg	A car is parked on a red surface with a blurred background.
+../dataset/datasets/car/5shot/train/geo_metro_convertible_1993/28.jpg	A car is parked on a street with buildings and trees in the background.
+../dataset/datasets/car/5shot/train/geo_metro_convertible_1993/25.jpg	A car is parked on a road with trees and greenery in the background.
+../dataset/datasets/car/5shot/train/hummer_h3t_crew_cab_2010/248.jpg	Gravel, trees, hills, sky.
+../dataset/datasets/car/5shot/train/hummer_h3t_crew_cab_2010/245.jpg	The car is parked on a brick surface with a clear sky and some trees in the background.
+../dataset/datasets/car/5shot/train/hummer_h3t_crew_cab_2010/247.jpg	Rocks, trees, dirt path.
+../dataset/datasets/car/5shot/train/hummer_h3t_crew_cab_2010/246.jpg	The background is a clear sky and a road.
+../dataset/datasets/car/5shot/train/hummer_h3t_crew_cab_2010/249.jpg	Car at Barrett-Jackson event.
+../dataset/datasets/car/5shot/train/hummer_h2_sut_crew_cab_2009/576.jpg	The car is set against a plain, light-colored background.
+../dataset/datasets/car/5shot/train/hummer_h2_sut_crew_cab_2009/578.jpg	The background shows a parking lot with other vehicles and trees.
+../dataset/datasets/car/5shot/train/hummer_h2_sut_crew_cab_2009/575.jpg	A car is parked against a backdrop of a city skyline with tall buildings and a clear blue sky.
+../dataset/datasets/car/5shot/train/hummer_h2_sut_crew_cab_2009/577.jpg	Snow-capped mountains, rocky landscape.
+../dataset/datasets/car/5shot/train/hummer_h2_sut_crew_cab_2009/579.jpg	The car is set against a plain, light-colored background.
+../dataset/datasets/car/5shot/train/honda_odyssey_minivan_2012/302.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/honda_odyssey_minivan_2012/300.jpg	A car is parked on asphalt with trees and building in background.
+../dataset/datasets/car/5shot/train/honda_odyssey_minivan_2012/303.jpg	Modern building with wooden facade and large windows.
+../dataset/datasets/car/5shot/train/honda_odyssey_minivan_2012/304.jpg	A car is parked on a paved lot with a clear sky and some buildings in the background.
+../dataset/datasets/car/5shot/train/honda_odyssey_minivan_2012/301.jpg	A car is parked in front of a building with large windows and a beige facade.
+../dataset/datasets/car/5shot/train/honda_odyssey_minivan_2007/786.jpg	The background shows trees, a building, and a clear sky.
+../dataset/datasets/car/5shot/train/honda_odyssey_minivan_2007/787.jpg	A car is parked in front of a building with a "Key Vehicle Delivery Area" sign.
+../dataset/datasets/car/5shot/train/honda_odyssey_minivan_2007/785.jpg	A car is parked in a lot with trees and another vehicle visible.
+../dataset/datasets/car/5shot/train/honda_odyssey_minivan_2007/789.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/honda_odyssey_minivan_2007/788.jpg	A car is parked on a street with trees and a building in the background.
+../dataset/datasets/car/5shot/train/honda_accord_coupe_2012/634.jpg	A car is parked in a lot with other vehicles and buildings in the background.
+../dataset/datasets/car/5shot/train/honda_accord_coupe_2012/630.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/honda_accord_coupe_2012/633.jpg	A car is parked against a backdrop of rolling hills and mountains under a clear sky.
+../dataset/datasets/car/5shot/train/honda_accord_coupe_2012/632.jpg	The car is on a plain white background.
+../dataset/datasets/car/5shot/train/honda_accord_coupe_2012/631.jpg	A car is parked in a sunny parking lot with palm trees and signs visible.
+../dataset/datasets/car/5shot/train/honda_accord_sedan_2012/905.jpg	A car is shown against a plain white background.
+../dataset/datasets/car/5shot/train/honda_accord_sedan_2012/908.jpg	A car is parked in front of Hall Honda Elizabeth dealership.
+../dataset/datasets/car/5shot/train/honda_accord_sedan_2012/906.jpg	Car parked indoors, blue curtains behind.
+../dataset/datasets/car/5shot/train/honda_accord_sedan_2012/907.jpg	A car is parked in front of a Steve Padgett dealership.
+../dataset/datasets/car/5shot/train/honda_accord_sedan_2012/909.jpg	A car is displayed in a showroom with other vehicles and a dealership sign visible.
+../dataset/datasets/car/5shot/train/hyundai_veloster_hatchback_2012/762.jpg	The background shows a blurred urban setting with buildings and trees.
+../dataset/datasets/car/5shot/train/hyundai_veloster_hatchback_2012/763.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/hyundai_veloster_hatchback_2012/761.jpg	The car is set against a plain, neutral background.
+../dataset/datasets/car/5shot/train/hyundai_veloster_hatchback_2012/760.jpg	A car on a road with blurred motion.
+../dataset/datasets/car/5shot/train/hyundai_veloster_hatchback_2012/764.jpg	Sunset, desert.
+../dataset/datasets/car/5shot/train/hyundai_santa_fe_suv_2012/402.jpg	Car parked outside dealership.
+../dataset/datasets/car/5shot/train/hyundai_santa_fe_suv_2012/401.jpg	A car is parked in a lot with other vehicles and buildings in the distance.
+../dataset/datasets/car/5shot/train/hyundai_santa_fe_suv_2012/400.jpg	The car is displayed on a showroom floor with a red banner at the top.
+../dataset/datasets/car/5shot/train/hyundai_santa_fe_suv_2012/403.jpg	The car is on a street with trees and a sidewalk in the background.
+../dataset/datasets/car/5shot/train/hyundai_santa_fe_suv_2012/404.jpg	A car is displayed on a showroom floor with a blue and white backdrop.
+../dataset/datasets/car/5shot/train/hyundai_tucson_suv_2012/690.jpg	A car is parked under a canopy with other vehicles and palm trees visible in the background.
+../dataset/datasets/car/5shot/train/hyundai_tucson_suv_2012/691.jpg	A car parked in front of a house with a tiled roof and a door.
+../dataset/datasets/car/5shot/train/hyundai_tucson_suv_2012/694.jpg	A car parked on a driveway surrounded by trees and greenery.
+../dataset/datasets/car/5shot/train/hyundai_tucson_suv_2012/692.jpg	A car is parked in a dealership lot with other vehicles and flags visible.
+../dataset/datasets/car/5shot/train/hyundai_tucson_suv_2012/693.jpg	A car is parked in front of a Hyundai dealership with palm trees and a building visible.
+../dataset/datasets/car/5shot/train/hyundai_veracruz_suv_2012/154.jpg	A car is parked in a lot with other vehicles and a building labeled "Body Shop" in the background.
+../dataset/datasets/car/5shot/train/hyundai_veracruz_suv_2012/152.jpg	The background is plain white.
+../dataset/datasets/car/5shot/train/hyundai_veracruz_suv_2012/151.jpg	A car is parked in a lot with trees and other vehicles visible.
+../dataset/datasets/car/5shot/train/hyundai_veracruz_suv_2012/150.jpg	A car is parked on reflective surface with distant hills and clear sky.
+../dataset/datasets/car/5shot/train/hyundai_veracruz_suv_2012/153.jpg	Hyundai display, showroom setting.
+../dataset/datasets/car/5shot/train/hyundai_sonata_hybrid_sedan_2012/17.jpg	A car is parked on a street with buildings and a fence in the background.
+../dataset/datasets/car/5shot/train/hyundai_sonata_hybrid_sedan_2012/18.jpg	A car is parked on asphalt with grass and sky in the background.
+../dataset/datasets/car/5shot/train/hyundai_sonata_hybrid_sedan_2012/15.jpg	A car is parked on a gravel driveway with trees and grass in the background.
+../dataset/datasets/car/5shot/train/hyundai_sonata_hybrid_sedan_2012/16.jpg	A car on a road with trees and blurred motion.
+../dataset/datasets/car/5shot/train/hyundai_sonata_hybrid_sedan_2012/19.jpg	The car is displayed on a blue speckled floor with a white curtain and a Gregory Auto Group banner in the background.
+../dataset/datasets/car/5shot/train/hyundai_elantra_sedan_2007/61.jpg	A car is parked on gravel near a building with a white door and windows.
+../dataset/datasets/car/5shot/train/hyundai_elantra_sedan_2007/60.jpg	A car is parked on a hill with a cityscape in the distance.
+../dataset/datasets/car/5shot/train/hyundai_elantra_sedan_2007/62.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/hyundai_elantra_sedan_2007/63.jpg	A car is driving on a bridge with blurred scenery, suggesting motion.
+../dataset/datasets/car/5shot/train/hyundai_elantra_sedan_2007/64.jpg	A car is parked in a wet parking lot with other cars and trees in the background.
+../dataset/datasets/car/5shot/train/hyundai_accent_sedan_2012/451.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/hyundai_accent_sedan_2012/453.jpg	A car is parked in front of a building with a red and gray facade.
+../dataset/datasets/car/5shot/train/hyundai_accent_sedan_2012/450.jpg	A car is parked on a lot with palm trees and other vehicles in the background.
+../dataset/datasets/car/5shot/train/hyundai_accent_sedan_2012/452.jpg	A car is shown against a plain, neutral background.
+../dataset/datasets/car/5shot/train/hyundai_accent_sedan_2012/454.jpg	The car is parked in a lot with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/hyundai_genesis_sedan_2012/419.jpg	A car is parked near a building with a staircase and railing.
+../dataset/datasets/car/5shot/train/hyundai_genesis_sedan_2012/416.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/hyundai_genesis_sedan_2012/417.jpg	A car is parked on a rooftop with a cloudy sky and distant buildings in the background.
+../dataset/datasets/car/5shot/train/hyundai_genesis_sedan_2012/415.jpg	Modern house, landscaped yard.
+../dataset/datasets/car/5shot/train/hyundai_genesis_sedan_2012/418.jpg	Grassy field, dirt pile, trees.
+../dataset/datasets/car/5shot/train/hyundai_sonata_sedan_2012/359.jpg	A car on a road with trees and grass.
+../dataset/datasets/car/5shot/train/hyundai_sonata_sedan_2012/356.jpg	A car is parked in front of a house with a stone facade and greenery.
+../dataset/datasets/car/5shot/train/hyundai_sonata_sedan_2012/355.jpg	A car is parked against a plain, light-colored wall.
+../dataset/datasets/car/5shot/train/hyundai_sonata_sedan_2012/357.jpg	A car parked at Pine View Used Super Store.
+../dataset/datasets/car/5shot/train/hyundai_sonata_sedan_2012/358.jpg	The car is parked on a paved surface with trees and bushes in the background.
+../dataset/datasets/car/5shot/train/hyundai_elantra_touring_hatchback_2012/143.jpg	A car is parked in a lot with other vehicles and greenery.
+../dataset/datasets/car/5shot/train/hyundai_elantra_touring_hatchback_2012/141.jpg	A car is parked on snow-covered ground near a parking lot with other vehicles and buildings in the distance.
+../dataset/datasets/car/5shot/train/hyundai_elantra_touring_hatchback_2012/144.jpg	A car is parked in front of a dealership with a blue balloon and flags visible.
+../dataset/datasets/car/5shot/train/hyundai_elantra_touring_hatchback_2012/140.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/hyundai_elantra_touring_hatchback_2012/142.jpg	A car is parked in front of a Hyundai dealership.
+../dataset/datasets/car/5shot/train/hyundai_azera_sedan_2012/493.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/hyundai_azera_sedan_2012/490.jpg	A car is driving on a curved road with a city skyline and water in the background.
+../dataset/datasets/car/5shot/train/hyundai_azera_sedan_2012/492.jpg	A car is parked against a backdrop of rugged mountains and clear blue sky.
+../dataset/datasets/car/5shot/train/hyundai_azera_sedan_2012/494.jpg	A car is on a road with a fence, trees, and another car behind it.
+../dataset/datasets/car/5shot/train/hyundai_azera_sedan_2012/491.jpg	A car is parked on a street with trees and tall buildings in the background.
+../dataset/datasets/car/5shot/train/infiniti_g_coupe_ipl_2012/682.jpg	A car is parked near water with trees and grass in the background.
+../dataset/datasets/car/5shot/train/infiniti_g_coupe_ipl_2012/684.jpg	A car is parked on a road with trees and hills in the background.
+../dataset/datasets/car/5shot/train/infiniti_g_coupe_ipl_2012/681.jpg	The car is on a road with trees and hills in the background.
+../dataset/datasets/car/5shot/train/infiniti_g_coupe_ipl_2012/683.jpg	The car is parked on a paved area with grass and trees in the background.
+../dataset/datasets/car/5shot/train/infiniti_g_coupe_ipl_2012/680.jpg	Concrete pillars and overpass.
+../dataset/datasets/car/5shot/train/infiniti_qx56_suv_2011/175.jpg	A car is parked on a flat, open area with a clear sky and distant trees.
+../dataset/datasets/car/5shot/train/infiniti_qx56_suv_2011/176.jpg	A car is parked on grass with yellow flowers and trees in the background.
+../dataset/datasets/car/5shot/train/infiniti_qx56_suv_2011/179.jpg	A car on a road with greenery and trees in the background.
+../dataset/datasets/car/5shot/train/infiniti_qx56_suv_2011/177.jpg	A car is parked against a backdrop of rugged mountains and sparse desert vegetation.
+../dataset/datasets/car/5shot/train/infiniti_qx56_suv_2011/178.jpg	A car is parked on a barren, rocky landscape under a clear sky.
+../dataset/datasets/car/5shot/train/isuzu_ascender_suv_2008/458.jpg	A car is parked in a lot with trees and other vehicles in the background.
+../dataset/datasets/car/5shot/train/isuzu_ascender_suv_2008/459.jpg	urban, blurred, building.
+../dataset/datasets/car/5shot/train/isuzu_ascender_suv_2008/456.jpg	A car is parked in front of a blue Honda dealership building.
+../dataset/datasets/car/5shot/train/isuzu_ascender_suv_2008/455.jpg	The car is parked on grass with trees and a wooden structure in the background.
+../dataset/datasets/car/5shot/train/isuzu_ascender_suv_2008/457.jpg	A car is parked on a driveway with a white chair and greenery in the background.
+../dataset/datasets/car/5shot/train/jaguar_xk_xkr_2012/445.jpg	A car on a winding road surrounded by greenery and hills.
+../dataset/datasets/car/5shot/train/jaguar_xk_xkr_2012/446.jpg	A car is parked on a gravel road with trees and a guardrail in the background.
+../dataset/datasets/car/5shot/train/jaguar_xk_xkr_2012/448.jpg	A car on coastal road with mountains and water.
+../dataset/datasets/car/5shot/train/jaguar_xk_xkr_2012/447.jpg	Racing track, cloudy sky.
+../dataset/datasets/car/5shot/train/jaguar_xk_xkr_2012/449.jpg	A car on a road with a desert-like background.
+../dataset/datasets/car/5shot/train/jeep_patriot_suv_2012/343.jpg	A car is parked in front of a Jeep dealership.
+../dataset/datasets/car/5shot/train/jeep_patriot_suv_2012/342.jpg	A car drives through a forested area with blurred trees and sunlight filtering through.
+../dataset/datasets/car/5shot/train/jeep_patriot_suv_2012/340.jpg	A car parked on a dirt path with lush green trees and hills in the background.
+../dataset/datasets/car/5shot/train/jeep_patriot_suv_2012/344.jpg	A car is displayed indoors with a white backdrop and "www.quirkcars.com" sign.
+../dataset/datasets/car/5shot/train/jeep_patriot_suv_2012/341.jpg	A car is parked on gravel near a building with "Chrysler" and "Jeep" signs.
+../dataset/datasets/car/5shot/train/jeep_wrangler_suv_2012/867.jpg	The car is parked at a dealership lot with other vehicles and signage visible.
+../dataset/datasets/car/5shot/train/jeep_wrangler_suv_2012/865.jpg	The car is parked near a chain-link fence with a "No Parking" sign visible.
+../dataset/datasets/car/5shot/train/jeep_wrangler_suv_2012/869.jpg	A car drives on a winding road with mountains and a cloudy sky in the background.
+../dataset/datasets/car/5shot/train/jeep_wrangler_suv_2012/866.jpg	A car is parked in front of a Jeep dealership.
+../dataset/datasets/car/5shot/train/jeep_wrangler_suv_2012/868.jpg	The car is parked in front of a dealership with a sign for "Curtis E. Thomas Dodge Chrysler Jeep."
+../dataset/datasets/car/5shot/train/jeep_liberty_suv_2012/426.jpg	A car is parked against a white brick wall.
+../dataset/datasets/car/5shot/train/jeep_liberty_suv_2012/425.jpg	Urban setting with trees, bench, and building.
+../dataset/datasets/car/5shot/train/jeep_liberty_suv_2012/427.jpg	A car is driving on a road with a cityscape and water in the background.
+../dataset/datasets/car/5shot/train/jeep_liberty_suv_2012/428.jpg	A car is parked near a building with glass windows and other vehicles visible in the background.
+../dataset/datasets/car/5shot/train/jeep_liberty_suv_2012/429.jpg	A car is parked in a lot with mountains and trees in the background.
+../dataset/datasets/car/5shot/train/jeep_grand_cherokee_suv_2012/219.jpg	A car is parked in a lot with other vehicles and trees in the background.
+../dataset/datasets/car/5shot/train/jeep_grand_cherokee_suv_2012/215.jpg	A car is parked in front of a building with illuminated windows and decorative elements.
+../dataset/datasets/car/5shot/train/jeep_grand_cherokee_suv_2012/217.jpg	A car is parked in a lot with palm trees and other vehicles visible in the background.
+../dataset/datasets/car/5shot/train/jeep_grand_cherokee_suv_2012/218.jpg	A car is parked inside a showroom with a sign for "Roanoke Motor Co., Inc." and logos for Chrysler, Dodge, and Jeep.
+../dataset/datasets/car/5shot/train/jeep_grand_cherokee_suv_2012/216.jpg	A car is parked on a dirt path surrounded by tall trees and sunlight filtering through the leaves.
+../dataset/datasets/car/5shot/train/jeep_compass_suv_2012/512.jpg	A car is parked on a paved surface with trees and foliage in the background.
+../dataset/datasets/car/5shot/train/jeep_compass_suv_2012/511.jpg	A car is parked in front of a building with stone and tiled roof.
+../dataset/datasets/car/5shot/train/jeep_compass_suv_2012/514.jpg	The background shows a construction site with fencing and vehicles.
+../dataset/datasets/car/5shot/train/jeep_compass_suv_2012/513.jpg	Snowy landscape with trees.
+../dataset/datasets/car/5shot/train/jeep_compass_suv_2012/510.jpg	A car is parked indoors with a white wall and floor.
+../dataset/datasets/car/5shot/train/lamborghini_reventon_coupe_2008/941.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/lamborghini_reventon_coupe_2008/942.jpg	A car is displayed on a platform with people around it.
+../dataset/datasets/car/5shot/train/lamborghini_reventon_coupe_2008/944.jpg	Airplane flying above, blurred background.
+../dataset/datasets/car/5shot/train/lamborghini_reventon_coupe_2008/943.jpg	A car is parked indoors near large windows.
+../dataset/datasets/car/5shot/train/lamborghini_reventon_coupe_2008/940.jpg	A car is displayed on a showroom floor with people and steps visible in the background.
+../dataset/datasets/car/5shot/train/lamborghini_aventador_coupe_2012/771.jpg	A car is parked in front of a modern building with large windows and a glass door.
+../dataset/datasets/car/5shot/train/lamborghini_aventador_coupe_2012/770.jpg	The car is set against a plain, neutral background.
+../dataset/datasets/car/5shot/train/lamborghini_aventador_coupe_2012/773.jpg	The car is set against a plain, neutral gray background.
+../dataset/datasets/car/5shot/train/lamborghini_aventador_coupe_2012/774.jpg	A car on a racetrack.
+../dataset/datasets/car/5shot/train/lamborghini_aventador_coupe_2012/772.jpg	A car on a blurred road with hills and trees.
+../dataset/datasets/car/5shot/train/lamborghini_gallardo_lp_570-4_superleggera_2012/884.jpg	A car is parked on a concrete surface with hills and cloudy sky in the background.
+../dataset/datasets/car/5shot/train/lamborghini_gallardo_lp_570-4_superleggera_2012/881.jpg	A car is parked near a fence with trees and sunlight in the background.
+../dataset/datasets/car/5shot/train/lamborghini_gallardo_lp_570-4_superleggera_2012/882.jpg	The background features a Lamborghini logo and people.
+../dataset/datasets/car/5shot/train/lamborghini_gallardo_lp_570-4_superleggera_2012/883.jpg	The car is set against a plain, dark gray background.
+../dataset/datasets/car/5shot/train/lamborghini_gallardo_lp_570-4_superleggera_2012/880.jpg	A car is displayed indoors, surrounded by other vehicles and a reception area.
+../dataset/datasets/car/5shot/train/lamborghini_diablo_coupe_2001/717.jpg	A car on cobblestone street.
+../dataset/datasets/car/5shot/train/lamborghini_diablo_coupe_2001/719.jpg	The car is set against a plain, light-colored background.
+../dataset/datasets/car/5shot/train/lamborghini_diablo_coupe_2001/715.jpg	Dark, stone wall.
+../dataset/datasets/car/5shot/train/lamborghini_diablo_coupe_2001/718.jpg	A car is parked indoors, near a door and windows.
+../dataset/datasets/car/5shot/train/lamborghini_diablo_coupe_2001/716.jpg	A car parked in front of "Driving Emotions" building with palm trees and flowers.
+../dataset/datasets/car/5shot/train/land_rover_range_rover_suv_2012/139.jpg	A car is parked on asphalt with a stone wall and building in the background.
+../dataset/datasets/car/5shot/train/land_rover_range_rover_suv_2012/135.jpg	A car is parked indoors with a modern, industrial-style background featuring large windows and a curved ceiling.
+../dataset/datasets/car/5shot/train/land_rover_range_rover_suv_2012/136.jpg	The car is parked on a paved surface with greenery and a stone wall in the background.
+../dataset/datasets/car/5shot/train/land_rover_range_rover_suv_2012/138.jpg	A car is parked in front of a building with large windows and a wooden facade.
+../dataset/datasets/car/5shot/train/land_rover_range_rover_suv_2012/137.jpg	Rocky, desert-like terrain.
+../dataset/datasets/car/5shot/train/land_rover_lr2_suv_2012/486.jpg	A car is parked in front of a Land Rover dealership.
+../dataset/datasets/car/5shot/train/land_rover_lr2_suv_2012/488.jpg	The car is parked on a gravel surface with a mountain and blue sky in the background.
+../dataset/datasets/car/5shot/train/land_rover_lr2_suv_2012/489.jpg	The car is parked under a white tent-like structure.
+../dataset/datasets/car/5shot/train/land_rover_lr2_suv_2012/487.jpg	A car is parked against a backdrop of rugged mountains under a pink and purple sky.
+../dataset/datasets/car/5shot/train/land_rover_lr2_suv_2012/485.jpg	The car is on a road with greenery and blue sky in the background.
+../dataset/datasets/car/5shot/train/lincoln_town_car_sedan_2011/765.jpg	A car is parked in a lot with buildings and trees in the background.
+../dataset/datasets/car/5shot/train/lincoln_town_car_sedan_2011/768.jpg	The car is parked on a lot with other vehicles and a dealership sign visible in the background.
+../dataset/datasets/car/5shot/train/lincoln_town_car_sedan_2011/767.jpg	The car is on a plain white background.
+../dataset/datasets/car/5shot/train/lincoln_town_car_sedan_2011/766.jpg	A car is parked in front of a dealership with other cars visible.
+../dataset/datasets/car/5shot/train/lincoln_town_car_sedan_2011/769.jpg	A car is parked in front of Eddie Mercer Automotive Sales Services.
+../dataset/datasets/car/5shot/train/mini_cooper_roadster_convertible_2012/952.jpg	A car is parked on dirt with hills, buildings, and clear sky in the background.
+../dataset/datasets/car/5shot/train/mini_cooper_roadster_convertible_2012/950.jpg	The car is parked on a concrete surface with a metal structure and wall in the background.
+../dataset/datasets/car/5shot/train/mini_cooper_roadster_convertible_2012/953.jpg	The background is dark and indistinct, focusing attention on the car.
+../dataset/datasets/car/5shot/train/mini_cooper_roadster_convertible_2012/951.jpg	The car is on a road with a blurred background, suggesting motion.
+../dataset/datasets/car/5shot/train/mini_cooper_roadster_convertible_2012/954.jpg	Concrete wall.
+../dataset/datasets/car/5shot/train/maybach_landaulet_convertible_2012/794.jpg	A car is parked with a grand building and clear sky in the background.
+../dataset/datasets/car/5shot/train/maybach_landaulet_convertible_2012/792.jpg	The background features a modern, well-lit interior with green curtains and a sleek design.
+../dataset/datasets/car/5shot/train/maybach_landaulet_convertible_2012/791.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/maybach_landaulet_convertible_2012/790.jpg	The car is on a road with grass and trees in the background.
+../dataset/datasets/car/5shot/train/maybach_landaulet_convertible_2012/793.jpg	Car on display at event, people around.
+../dataset/datasets/car/5shot/train/mazda_tribute_suv_2011/919.jpg	The car is set against a black background.
+../dataset/datasets/car/5shot/train/mazda_tribute_suv_2011/916.jpg	A car is parked in front of a Volkswagen dealership on a rainy day.
+../dataset/datasets/car/5shot/train/mazda_tribute_suv_2011/918.jpg	A car is parked on asphalt with a brick wall behind it.
+../dataset/datasets/car/5shot/train/mazda_tribute_suv_2011/917.jpg	A car parked in front of a house with a stone driveway and arched entrance.
+../dataset/datasets/car/5shot/train/mazda_tribute_suv_2011/915.jpg	The car is parked in a lot with trees and other vehicles in the background.
+../dataset/datasets/car/5shot/train/mclaren_mp4-12c_coupe_2012/584.jpg	The background is dark, highlighting the car's sleek design.
+../dataset/datasets/car/5shot/train/mclaren_mp4-12c_coupe_2012/581.jpg	The car is on a paved surface with a blurred background.
+../dataset/datasets/car/5shot/train/mclaren_mp4-12c_coupe_2012/582.jpg	Modern building, glass facade, curved architecture.
+../dataset/datasets/car/5shot/train/mclaren_mp4-12c_coupe_2012/583.jpg	The car is set against a plain, light-colored background.
+../dataset/datasets/car/5shot/train/mclaren_mp4-12c_coupe_2012/580.jpg	Desert sand dunes.
+../dataset/datasets/car/5shot/train/mercedes-benz_300-class_convertible_1993/434.jpg	The car is on a white background with a watermark "minimerc.co.uk".
+../dataset/datasets/car/5shot/train/mercedes-benz_300-class_convertible_1993/431.jpg	A car is parked in a lot with other vehicles.
+../dataset/datasets/car/5shot/train/mercedes-benz_300-class_convertible_1993/432.jpg	Airplane on tarmac.
+../dataset/datasets/car/5shot/train/mercedes-benz_300-class_convertible_1993/433.jpg	A car is parked in front of a dealership with trees and other cars visible.
+../dataset/datasets/car/5shot/train/mercedes-benz_300-class_convertible_1993/430.jpg	A car is parked in front of a building with a blue door and a white wall.
+../dataset/datasets/car/5shot/train/mercedes-benz_c-class_sedan_2012/396.jpg	Rocky cliff, grass, trees.
+../dataset/datasets/car/5shot/train/mercedes-benz_c-class_sedan_2012/399.jpg	The car is on a road with greenery and trees in the background.
+../dataset/datasets/car/5shot/train/mercedes-benz_c-class_sedan_2012/397.jpg	A car is parked on a paved surface with greenery and trees in the background.
+../dataset/datasets/car/5shot/train/mercedes-benz_c-class_sedan_2012/395.jpg	The car is set against a rocky, natural backdrop.
+../dataset/datasets/car/5shot/train/mercedes-benz_c-class_sedan_2012/398.jpg	A car is parked outside a building with large windows and a blue awning.
+../dataset/datasets/car/5shot/train/mercedes-benz_sl-class_coupe_2009/557.jpg	The background shows a blurred road and distant structures, suggesting motion.
+../dataset/datasets/car/5shot/train/mercedes-benz_sl-class_coupe_2009/559.jpg	A car on a track with blurred green and black surroundings.
+../dataset/datasets/car/5shot/train/mercedes-benz_sl-class_coupe_2009/556.jpg	The background features a clear blue sky, a tree, and a blurred road, suggesting motion.
+../dataset/datasets/car/5shot/train/mercedes-benz_sl-class_coupe_2009/558.jpg	A car on a racetrack with empty stands.
+../dataset/datasets/car/5shot/train/mercedes-benz_sl-class_coupe_2009/555.jpg	Golden Gate Bridge, foggy sky, hilly terrain.
+../dataset/datasets/car/5shot/train/mercedes-benz_e-class_sedan_2012/886.jpg	A car is on a road with a tunnel wall and text "AMG - VÄTH V63RS" visible.
+../dataset/datasets/car/5shot/train/mercedes-benz_e-class_sedan_2012/889.jpg	The background shows a blurred landscape with trees and water, suggesting motion.
+../dataset/datasets/car/5shot/train/mercedes-benz_e-class_sedan_2012/888.jpg	A car on a racetrack with bleachers and grass.
+../dataset/datasets/car/5shot/train/mercedes-benz_e-class_sedan_2012/887.jpg	Mercedes-Benz display with "The New E-Class" sign.
+../dataset/datasets/car/5shot/train/mercedes-benz_e-class_sedan_2012/885.jpg	A car is parked on a road with vineyards and hills in the background.
+../dataset/datasets/car/5shot/train/mercedes-benz_s-class_sedan_2012/352.jpg	A car is parked against a backdrop of green foliage.
+../dataset/datasets/car/5shot/train/mercedes-benz_s-class_sedan_2012/354.jpg	The car is set against a plain, light-colored background.
+../dataset/datasets/car/5shot/train/mercedes-benz_s-class_sedan_2012/353.jpg	A car is parked on a road with trees and sky in the background.
+../dataset/datasets/car/5shot/train/mercedes-benz_s-class_sedan_2012/350.jpg	A car is parked indoors, likely in a showroom with other vehicles and bright lighting.
+../dataset/datasets/car/5shot/train/mercedes-benz_s-class_sedan_2012/351.jpg	A car is parked in a lot with trees and other vehicles visible.
+../dataset/datasets/car/5shot/train/mercedes-benz_sprinter_van_2012/811.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/mercedes-benz_sprinter_van_2012/810.jpg	A car is parked in front of a Porsche dealership.
+../dataset/datasets/car/5shot/train/mercedes-benz_sprinter_van_2012/813.jpg	A car is parked in a lot with another vehicle and a building in the background.
+../dataset/datasets/car/5shot/train/mercedes-benz_sprinter_van_2012/814.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/mercedes-benz_sprinter_van_2012/812.jpg	The car is parked on a gravel surface with buildings and trees in the background under a clear blue sky.
+../dataset/datasets/car/5shot/train/mitsubishi_lancer_sedan_2012/40.jpg	A car on a road with greenery and sky.
+../dataset/datasets/car/5shot/train/mitsubishi_lancer_sedan_2012/41.jpg	A car is parked on a tiled surface with people and buildings in the background.
+../dataset/datasets/car/5shot/train/mitsubishi_lancer_sedan_2012/42.jpg	A car is parked in front of a modern building with large windows and greenery.
+../dataset/datasets/car/5shot/train/mitsubishi_lancer_sedan_2012/43.jpg	A car is displayed in a showroom with other vehicles and promotional banners visible.
+../dataset/datasets/car/5shot/train/mitsubishi_lancer_sedan_2012/44.jpg	A car is parked in front of a Mitsubishi dealership with a "Platinum" sign and other vehicles visible.
+../dataset/datasets/car/5shot/train/nissan_leaf_hatchback_2012/713.jpg	The car is on a road with greenery and a railing in the background.
+../dataset/datasets/car/5shot/train/nissan_leaf_hatchback_2012/714.jpg	A car is parked with a charging cable plugged into it, near a dumpster and other vehicles.
+../dataset/datasets/car/5shot/train/nissan_leaf_hatchback_2012/712.jpg	A car on a track with grass and sky.
+../dataset/datasets/car/5shot/train/nissan_leaf_hatchback_2012/710.jpg	A car is parked in front of a large mural featuring NASCAR racing imagery, including a race car and the "ESPN" logo.
+../dataset/datasets/car/5shot/train/nissan_leaf_hatchback_2012/711.jpg	Trees, people, cars, open hood.
+../dataset/datasets/car/5shot/train/nissan_nv_passenger_van_2012/782.jpg	Grassy field, clear sky, trees, buildings.
+../dataset/datasets/car/5shot/train/nissan_nv_passenger_van_2012/781.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/nissan_nv_passenger_van_2012/780.jpg	Indoor showroom with other vehicles and displays.
+../dataset/datasets/car/5shot/train/nissan_nv_passenger_van_2012/783.jpg	A car is parked with a city skyline and water in the background.
+../dataset/datasets/car/5shot/train/nissan_nv_passenger_van_2012/784.jpg	A car is parked in front of a building with large windows and a clear sky above.
+../dataset/datasets/car/5shot/train/nissan_juke_hatchback_2012/110.jpg	A car on a road surrounded by trees and autumn leaves.
+../dataset/datasets/car/5shot/train/nissan_juke_hatchback_2012/114.jpg	Green, textured sphere, dark cityscape.
+../dataset/datasets/car/5shot/train/nissan_juke_hatchback_2012/112.jpg	A car is parked in a lot with other vehicles and houses in the background.
+../dataset/datasets/car/5shot/train/nissan_juke_hatchback_2012/111.jpg	A car is parked on a paved surface with a fence and open field in the background.
+../dataset/datasets/car/5shot/train/nissan_juke_hatchback_2012/113.jpg	A car on a road with blurred trees.
+../dataset/datasets/car/5shot/train/nissan_240sx_coupe_1998/461.jpg	The car is parked on a lot with other vehicles and trees in the distance.
+../dataset/datasets/car/5shot/train/nissan_240sx_coupe_1998/463.jpg	Garage with tools and plants.
+../dataset/datasets/car/5shot/train/nissan_240sx_coupe_1998/460.jpg	A car parked near house with garage open.
+../dataset/datasets/car/5shot/train/nissan_240sx_coupe_1998/462.jpg	A car on a road with trees in the background.
+../dataset/datasets/car/5shot/train/nissan_240sx_coupe_1998/464.jpg	The car is parked on a street with other vehicles and buildings visible in the background.
+../dataset/datasets/car/5shot/train/plymouth_neon_coupe_1999/78.jpg	Gravel driveway, trees, grass, houses.
+../dataset/datasets/car/5shot/train/plymouth_neon_coupe_1999/77.jpg	A car parked on grass near house and trees.
+../dataset/datasets/car/5shot/train/plymouth_neon_coupe_1999/76.jpg	A car parked near curb, brick building and trees visible.
+../dataset/datasets/car/5shot/train/plymouth_neon_coupe_1999/75.jpg	A car is parked in a lot with trees and buildings in the background.
+../dataset/datasets/car/5shot/train/plymouth_neon_coupe_1999/79.jpg	A car is parked on gravel with trees and fence in the background.
+../dataset/datasets/car/5shot/train/porsche_panamera_sedan_2012/205.jpg	The car is set against a plain, light gray background.
+../dataset/datasets/car/5shot/train/porsche_panamera_sedan_2012/209.jpg	A car on a curvy road with blurred surroundings.
+../dataset/datasets/car/5shot/train/porsche_panamera_sedan_2012/206.jpg	A car on a road with motion blur.
+../dataset/datasets/car/5shot/train/porsche_panamera_sedan_2012/208.jpg	A car is parked on a paved surface with trees and greenery in the background.
+../dataset/datasets/car/5shot/train/porsche_panamera_sedan_2012/207.jpg	A car is parked in front of a historic red brick building with a clock tower and a cobblestone street.
+../dataset/datasets/car/5shot/train/ram_c_v_cargo_van_minivan_2012/516.jpg	A car is parked on snow-covered driveway with houses and trees in the background.
+../dataset/datasets/car/5shot/train/ram_c_v_cargo_van_minivan_2012/519.jpg	White van parked in lot.
+../dataset/datasets/car/5shot/train/ram_c_v_cargo_van_minivan_2012/518.jpg	The car is parked in front of a red building with a white wall and some greenery visible.
+../dataset/datasets/car/5shot/train/ram_c_v_cargo_van_minivan_2012/517.jpg	The car is on a plain white background.
+../dataset/datasets/car/5shot/train/ram_c_v_cargo_van_minivan_2012/515.jpg	A car is parked outside a building with glass windows and doors.
+../dataset/datasets/car/5shot/train/rolls-royce_phantom_drophead_coupe_convertible_2012/360.jpg	A car is parked in front of a Rolls-Royce Motor Cars dealership.
+../dataset/datasets/car/5shot/train/rolls-royce_phantom_drophead_coupe_convertible_2012/364.jpg	A car is parked outside a building with a wooden door and a lit sign.
+../dataset/datasets/car/5shot/train/rolls-royce_phantom_drophead_coupe_convertible_2012/362.jpg	A car is parked on a street with buildings and signs in the background.
+../dataset/datasets/car/5shot/train/rolls-royce_phantom_drophead_coupe_convertible_2012/363.jpg	A car on a road with greenery.
+../dataset/datasets/car/5shot/train/rolls-royce_phantom_drophead_coupe_convertible_2012/361.jpg	A car is parked near marina with boats and trees in the background.
+../dataset/datasets/car/5shot/train/rolls-royce_ghost_sedan_2012/531.jpg	A car is parked indoors with wooden flooring and walls.
+../dataset/datasets/car/5shot/train/rolls-royce_ghost_sedan_2012/534.jpg	The car is on a road with a desert landscape and a guardrail in the background.
+../dataset/datasets/car/5shot/train/rolls-royce_ghost_sedan_2012/532.jpg	The car is set against a dark, plain background.
+../dataset/datasets/car/5shot/train/rolls-royce_ghost_sedan_2012/530.jpg	A car is parked near a modern building with glass windows and trees.
+../dataset/datasets/car/5shot/train/rolls-royce_ghost_sedan_2012/533.jpg	A car is displayed on a showroom floor with "Rolls-Royce Motor" signage in the background.
+../dataset/datasets/car/5shot/train/rolls-royce_phantom_sedan_2012/200.jpg	A car on a road with buildings and trees in the background.
+../dataset/datasets/car/5shot/train/rolls-royce_phantom_sedan_2012/202.jpg	A car on a road with trees and guardrails.
+../dataset/datasets/car/5shot/train/rolls-royce_phantom_sedan_2012/201.jpg	A car is parked indoors, with a blurred outdoor scene visible through the windows.
+../dataset/datasets/car/5shot/train/rolls-royce_phantom_sedan_2012/204.jpg	A car is parked on a street with a building featuring large windows and a stone facade in the background.
+../dataset/datasets/car/5shot/train/rolls-royce_phantom_sedan_2012/203.jpg	A car on road with blurred greenery and trees.
+../dataset/datasets/car/5shot/train/scion_xd_hatchback_2012/468.jpg	The car is set against a dark, solid background.
+../dataset/datasets/car/5shot/train/scion_xd_hatchback_2012/465.jpg	A car is parked in a lot with other vehicles and buildings in the background.
+../dataset/datasets/car/5shot/train/scion_xd_hatchback_2012/466.jpg	A car is parked in a lot with a building and another vehicle in the background.
+../dataset/datasets/car/5shot/train/scion_xd_hatchback_2012/469.jpg	The car is parked in a lot with other vehicles and greenery visible.
+../dataset/datasets/car/5shot/train/scion_xd_hatchback_2012/467.jpg	A car parked in a lot with grass and trees.
+../dataset/datasets/car/5shot/train/spyker_c8_convertible_2009/523.jpg	A car is parked inside a dimly lit garage with "Spyker" signs visible on the wall.
+../dataset/datasets/car/5shot/train/spyker_c8_convertible_2009/521.jpg	A car is displayed indoors, with a metallic wall and other vehicles in the background.
+../dataset/datasets/car/5shot/train/spyker_c8_convertible_2009/524.jpg	A car is parked on a tiled surface with another car and people in the background.
+../dataset/datasets/car/5shot/train/spyker_c8_convertible_2009/522.jpg	A car is parked on a brick driveway with trees and houses in the background.
+../dataset/datasets/car/5shot/train/spyker_c8_convertible_2009/520.jpg	A car is parked in front of a building with glass doors and windows, surrounded by trees and a clear sky.
+../dataset/datasets/car/5shot/train/spyker_c8_coupe_2009/134.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/spyker_c8_coupe_2009/132.jpg	A car is displayed at an exhibition with people around it.
+../dataset/datasets/car/5shot/train/spyker_c8_coupe_2009/130.jpg	A car on a track with blurred grass and sky.
+../dataset/datasets/car/5shot/train/spyker_c8_coupe_2009/133.jpg	The background features other cars and a person walking.
+../dataset/datasets/car/5shot/train/spyker_c8_coupe_2009/131.jpg	The car is parked on a dock near water, with a railing and wooden posts visible in the background.
+../dataset/datasets/car/5shot/train/suzuki_aerio_sedan_2007/817.jpg	A car is parked near a Gaslamp Parking sign, with a building and trees in the background.
+../dataset/datasets/car/5shot/train/suzuki_aerio_sedan_2007/815.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/suzuki_aerio_sedan_2007/818.jpg	A car is driving on a snowy road with blurred background.
+../dataset/datasets/car/5shot/train/suzuki_aerio_sedan_2007/816.jpg	A car is parked in a lot with a building and mountains in the distance.
+../dataset/datasets/car/5shot/train/suzuki_aerio_sedan_2007/819.jpg	A car is parked on grass near a building.
+../dataset/datasets/car/5shot/train/suzuki_kizashi_sedan_2012/802.jpg	A car parked on a paved area with greenery and trees in the background.
+../dataset/datasets/car/5shot/train/suzuki_kizashi_sedan_2012/800.jpg	Brick wall, concrete, grass.
+../dataset/datasets/car/5shot/train/suzuki_kizashi_sedan_2012/804.jpg	A car is driving on a road with blurred autumn foliage and mountains in the background.
+../dataset/datasets/car/5shot/train/suzuki_kizashi_sedan_2012/803.jpg	A car on salt flats with mountains in the background.
+../dataset/datasets/car/5shot/train/suzuki_kizashi_sedan_2012/801.jpg	Dry, cracked earth, distant mountains, sailboat.
+../dataset/datasets/car/5shot/train/suzuki_sx4_hatchback_2012/592.jpg	A car on a plain gray background.
+../dataset/datasets/car/5shot/train/suzuki_sx4_hatchback_2012/593.jpg	A car is displayed with a bicycle mounted on its roof rack against a white wall with a red light and a silhouette of a cyclist.
+../dataset/datasets/car/5shot/train/suzuki_sx4_hatchback_2012/594.jpg	A car is displayed indoors, likely at an auto show.
+../dataset/datasets/car/5shot/train/suzuki_sx4_hatchback_2012/591.jpg	A car is displayed on a stage with banners and people around it.
+../dataset/datasets/car/5shot/train/suzuki_sx4_hatchback_2012/590.jpg	A car is parked in front of a brick building with a garage door and some greenery around.
+../dataset/datasets/car/5shot/train/suzuki_sx4_sedan_2012/121.jpg	A car parked on gravel with other cars and buildings in the distance.
+../dataset/datasets/car/5shot/train/suzuki_sx4_sedan_2012/122.jpg	A car is parked on a sunny day with trees and other vehicles in the background.
+../dataset/datasets/car/5shot/train/suzuki_sx4_sedan_2012/124.jpg	The car is set against a plain white background.
+../dataset/datasets/car/5shot/train/suzuki_sx4_sedan_2012/123.jpg	A car is parked on gravel with trees and greenery in the background.
+../dataset/datasets/car/5shot/train/suzuki_sx4_sedan_2012/120.jpg	The car is on a plain white background.
+../dataset/datasets/car/5shot/train/tesla_model_s_sedan_2012/752.jpg	The car is on a road with trees and a fence in the background.
+../dataset/datasets/car/5shot/train/tesla_model_s_sedan_2012/750.jpg	Hilly, green landscape.
+../dataset/datasets/car/5shot/train/tesla_model_s_sedan_2012/754.jpg	A car is parked on a paved surface with greenery and a sidewalk in the background.
+../dataset/datasets/car/5shot/train/tesla_model_s_sedan_2012/751.jpg	A car is displayed at an exhibition with people and booths in the background.
+../dataset/datasets/car/5shot/train/tesla_model_s_sedan_2012/753.jpg	A car is displayed indoors, possibly at an exhibition or showroom.
+../dataset/datasets/car/5shot/train/toyota_sequoia_suv_2012/55.jpg	Residential street with houses and trees.
+../dataset/datasets/car/5shot/train/toyota_sequoia_suv_2012/59.jpg	A car is parked near a "Used Vehicles" sign with balloons and a Toyota dealership in the background.
+../dataset/datasets/car/5shot/train/toyota_sequoia_suv_2012/57.jpg	The car is parked on a concrete surface with greenery and a fence in the background.
+../dataset/datasets/car/5shot/train/toyota_sequoia_suv_2012/58.jpg	A car is displayed in a showroom with other vehicles and signage visible.
+../dataset/datasets/car/5shot/train/toyota_sequoia_suv_2012/56.jpg	The car is set against a clear sky with a flat, open landscape.
+../dataset/datasets/car/5shot/train/toyota_camry_sedan_2012/269.jpg	A car is parked in a lot with other cars and a building in the background.
+../dataset/datasets/car/5shot/train/toyota_camry_sedan_2012/266.jpg	A car is parked on a checkered floor against a white wall.
+../dataset/datasets/car/5shot/train/toyota_camry_sedan_2012/268.jpg	The background is plain white.
+../dataset/datasets/car/5shot/train/toyota_camry_sedan_2012/265.jpg	A car is parked against a white wall with a garage door and a light fixture visible.
+../dataset/datasets/car/5shot/train/toyota_camry_sedan_2012/267.jpg	A car is parked near water with trees and a dock.
+../dataset/datasets/car/5shot/train/toyota_corolla_sedan_2012/313.jpg	A car is parked in front of a building with "West Coast" signage.
+../dataset/datasets/car/5shot/train/toyota_corolla_sedan_2012/310.jpg	A car on a road with mountains and clear sky.
+../dataset/datasets/car/5shot/train/toyota_corolla_sedan_2012/311.jpg	A car is parked on a checkered floor against a white wall.
+../dataset/datasets/car/5shot/train/toyota_corolla_sedan_2012/314.jpg	A car is parked on grass near a sidewalk, with other cars and trees in the background.
+../dataset/datasets/car/5shot/train/toyota_corolla_sedan_2012/312.jpg	A car is parked on gravel with another vehicle behind it.
+../dataset/datasets/car/5shot/train/toyota_4runner_suv_2012/604.jpg	A car is parked on gravel with bare trees and wood piles in the background.
+../dataset/datasets/car/5shot/train/toyota_4runner_suv_2012/601.jpg	A car is parked against a backdrop of mountains and a sunset sky.
+../dataset/datasets/car/5shot/train/toyota_4runner_suv_2012/603.jpg	A car is parked against a backdrop of mountains and a sunset sky.
+../dataset/datasets/car/5shot/train/toyota_4runner_suv_2012/602.jpg	The car is set against a backdrop of a sunset or sunrise with a clear sky and distant hills.
+../dataset/datasets/car/5shot/train/toyota_4runner_suv_2012/600.jpg	A car is parked against a backdrop of mountains and a gradient sky, suggesting a serene, possibly desert-like environment.
+../dataset/datasets/car/5shot/train/volkswagen_golf_hatchback_2012/258.jpg	A car is parked in front of a Volkswagen dealership with a sign that reads "Volkswagen of Beaumont."
+../dataset/datasets/car/5shot/train/volkswagen_golf_hatchback_2012/255.jpg	The car is parked against a concrete wall.
+../dataset/datasets/car/5shot/train/volkswagen_golf_hatchback_2012/256.jpg	A car is parked against a plain white background.
+../dataset/datasets/car/5shot/train/volkswagen_golf_hatchback_2012/257.jpg	The car is set against a plain, light-colored background.
+../dataset/datasets/car/5shot/train/volkswagen_golf_hatchback_2012/259.jpg	The car is parked on a street with a blue sky and trees in the background.
+../dataset/datasets/car/5shot/train/volkswagen_golf_hatchback_1991/185.jpg	A car parked on a road with grassy hills and trees in the background.
+../dataset/datasets/car/5shot/train/volkswagen_golf_hatchback_1991/188.jpg	Brick building, windows, door.
+../dataset/datasets/car/5shot/train/volkswagen_golf_hatchback_1991/187.jpg	A car parked on cobblestone street, buildings and other cars visible in background.
+../dataset/datasets/car/5shot/train/volkswagen_golf_hatchback_1991/189.jpg	A car is parked on grass with trees and another vehicle behind it.
+../dataset/datasets/car/5shot/train/volkswagen_golf_hatchback_1991/186.jpg	Garage with brick walls and tools.
+../dataset/datasets/car/5shot/train/volkswagen_beetle_hatchback_2012/87.jpg	The car is set against a plain, neutral background.
+../dataset/datasets/car/5shot/train/volkswagen_beetle_hatchback_2012/85.jpg	A car is parked in front of a building with large windows and a sign that reads "Quirk."
+../dataset/datasets/car/5shot/train/volkswagen_beetle_hatchback_2012/88.jpg	A car on display with a white backdrop and purple lighting.
+../dataset/datasets/car/5shot/train/volkswagen_beetle_hatchback_2012/86.jpg	A car drives on a road with modern buildings and a glass structure in the background.
+../dataset/datasets/car/5shot/train/volkswagen_beetle_hatchback_2012/89.jpg	A car is parked in front of a building with large windows.
+../dataset/datasets/car/5shot/train/volvo_c30_hatchback_2012/70.jpg	A car is parked in front of a modern glass building.
+../dataset/datasets/car/5shot/train/volvo_c30_hatchback_2012/72.jpg	A car parked near trees and a building.
+../dataset/datasets/car/5shot/train/volvo_c30_hatchback_2012/71.jpg	A car is parked on a paved area with stone walls and plants in the background.
+../dataset/datasets/car/5shot/train/volvo_c30_hatchback_2012/73.jpg	A car on sandy beach with mountains and clear sky.
+../dataset/datasets/car/5shot/train/volvo_c30_hatchback_2012/74.jpg	A car is parked in front of a building with large windows and stone facade.
+../dataset/datasets/car/5shot/train/volvo_240_sedan_1993/116.jpg	Snow-covered landscape with trees.
+../dataset/datasets/car/5shot/train/volvo_240_sedan_1993/118.jpg	A car parked near water, surrounded by trees and hills.
+../dataset/datasets/car/5shot/train/volvo_240_sedan_1993/119.jpg	A car is parked on grass with trees and mountains in the background.
+../dataset/datasets/car/5shot/train/volvo_240_sedan_1993/117.jpg	A car is parked on grass near wooden slats.
+../dataset/datasets/car/5shot/train/volvo_240_sedan_1993/115.jpg	Residential street with houses, trees, and parked cars.
+../dataset/datasets/car/5shot/train/volvo_xc90_suv_2007/659.jpg	The car is parked on a street with trees and buildings in the background.
+../dataset/datasets/car/5shot/train/volvo_xc90_suv_2007/655.jpg	Hyundai display, showroom.
+../dataset/datasets/car/5shot/train/volvo_xc90_suv_2007/657.jpg	The car is parked on grass with trees in the background.
+../dataset/datasets/car/5shot/train/volvo_xc90_suv_2007/658.jpg	A car is parked near a building with a metal fence and a sign that says "Penske Audi A SoCal Penske Dealership."
+../dataset/datasets/car/5shot/train/volvo_xc90_suv_2007/656.jpg	A car is parked on a concrete surface with a cityscape in the distance.
+../dataset/datasets/car/5shot/train/smart_fortwo_convertible_2012/673.jpg	A car is parked on grass near a horse and rider, with a white fence and green field in the background.
+../dataset/datasets/car/5shot/train/smart_fortwo_convertible_2012/674.jpg	A car is parked on a paved area with grass and trees in the background.
+../dataset/datasets/car/5shot/train/smart_fortwo_convertible_2012/671.jpg	The background is plain and light-colored.
+../dataset/datasets/car/5shot/train/smart_fortwo_convertible_2012/672.jpg	The car is parked on a paved surface with greenery and a fence in the background.
+../dataset/datasets/car/5shot/train/smart_fortwo_convertible_2012/670.jpg	A car is parked on a street with buildings and motorcycles in the background.

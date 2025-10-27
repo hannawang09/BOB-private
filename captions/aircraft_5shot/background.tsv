@@ -1,0 +1,501 @@
+image	response
+../dataset/datasets/aircraft/5shot/train/707-320/2.jpg	Grass, sky, hangar.
+../dataset/datasets/aircraft/5shot/train/707-320/0.jpg	Airport setting with buildings and trees.
+../dataset/datasets/aircraft/5shot/train/707-320/4.jpg	Aircraft on tarmac, grassy field, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/707-320/3.jpg	Airport tarmac, control tower, buses, trees.
+../dataset/datasets/aircraft/5shot/train/707-320/1.jpg	Aircraft is on tarmac with other planes and airport buildings in background.
+../dataset/datasets/aircraft/5shot/train/727-200/5.jpg	Aircraft parked at airport with hangar and palm trees in background.
+../dataset/datasets/aircraft/5shot/train/727-200/7.jpg	Clear sky with some clouds.
+../dataset/datasets/aircraft/5shot/train/727-200/8.jpg	Aircraft on runway, other planes visible in distance.
+../dataset/datasets/aircraft/5shot/train/727-200/9.jpg	Airport terminal, clear sky.
+../dataset/datasets/aircraft/5shot/train/727-200/6.jpg	Aircraft is parked at an airport with people and equipment around it.
+../dataset/datasets/aircraft/5shot/train/737-200/10.jpg	Ocean and coastal structures.
+../dataset/datasets/aircraft/5shot/train/737-200/12.jpg	Airport setting with control tower and ground equipment.
+../dataset/datasets/aircraft/5shot/train/737-200/13.jpg	Clear sky, runway, distant trees.
+../dataset/datasets/aircraft/5shot/train/737-200/14.jpg	Aircraft on tarmac, partly cloudy sky.
+../dataset/datasets/aircraft/5shot/train/737-200/11.jpg	Aircraft on runway with grass and trees in background.
+../dataset/datasets/aircraft/5shot/train/737-300/17.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/737-300/18.jpg	Clear sky with scattered clouds.
+../dataset/datasets/aircraft/5shot/train/737-300/15.jpg	The background shows an airport runway with hills and trees.
+../dataset/datasets/aircraft/5shot/train/737-300/16.jpg	Airport tarmac, grassy field, another aircraft visible.
+../dataset/datasets/aircraft/5shot/train/737-300/19.jpg	Airport tarmac, clear sky.
+../dataset/datasets/aircraft/5shot/train/737-400/22.jpg	Clear blue sky with some clouds.
+../dataset/datasets/aircraft/5shot/train/737-400/24.jpg	Clear blue sky with faint clouds.
+../dataset/datasets/aircraft/5shot/train/737-400/21.jpg	Aircraft on runway with trees and buildings in background.
+../dataset/datasets/aircraft/5shot/train/737-400/23.jpg	Aircraft on runway with clear sky and distant hills.
+../dataset/datasets/aircraft/5shot/train/737-400/20.jpg	Grass, runway, fence.
+../dataset/datasets/aircraft/5shot/train/737-500/26.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/737-500/27.jpg	Aircraft on runway, another in flight above.
+../dataset/datasets/aircraft/5shot/train/737-500/29.jpg	Aircraft on runway, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/737-500/28.jpg	Aircraft on runway with trees and hangar in background.
+../dataset/datasets/aircraft/5shot/train/737-500/25.jpg	Snowy mountains, bare trees, clear sky.
+../dataset/datasets/aircraft/5shot/train/737-600/31.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/737-600/33.jpg	The background is a clear blue sky.
+../dataset/datasets/aircraft/5shot/train/737-600/32.jpg	Runway, grass, distant structures.
+../dataset/datasets/aircraft/5shot/train/737-600/30.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/737-600/34.jpg	Aircraft on runway with trees and sky in background.
+../dataset/datasets/aircraft/5shot/train/737-700/35.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/737-700/36.jpg	Airport tarmac with other planes and distant hills.
+../dataset/datasets/aircraft/5shot/train/737-700/39.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/737-700/37.jpg	Airport terminal and parking structure.
+../dataset/datasets/aircraft/5shot/train/737-700/38.jpg	Clear blue sky, airport tarmac, hangar.
+../dataset/datasets/aircraft/5shot/train/737-800/40.jpg	Clear blue sky with scattered clouds.
+../dataset/datasets/aircraft/5shot/train/737-800/41.jpg	Runway, fence, trees.
+../dataset/datasets/aircraft/5shot/train/737-800/42.jpg	Overcast sky.
+../dataset/datasets/aircraft/5shot/train/737-800/43.jpg	Airport terminal, tarmac, and equipment.
+../dataset/datasets/aircraft/5shot/train/737-800/44.jpg	Aircraft on tarmac with trees and sky in background.
+../dataset/datasets/aircraft/5shot/train/737-900/48.jpg	The background shows a hilly landscape with sparse vegetation and a clear sky.
+../dataset/datasets/aircraft/5shot/train/737-900/49.jpg	Overcast sky, grassy field.
+../dataset/datasets/aircraft/5shot/train/737-900/47.jpg	Airport tarmac, clear sky.
+../dataset/datasets/aircraft/5shot/train/737-900/46.jpg	Mountainous landscape.
+../dataset/datasets/aircraft/5shot/train/737-900/45.jpg	Airport tarmac, buildings, and another aircraft.
+../dataset/datasets/aircraft/5shot/train/747-100/51.jpg	The aircraft is on a runway with airport infrastructure and a hazy sky in the background.
+../dataset/datasets/aircraft/5shot/train/747-100/53.jpg	Airport tarmac, clear sky.
+../dataset/datasets/aircraft/5shot/train/747-100/54.jpg	Airport tarmac, buildings, cranes, overcast sky.
+../dataset/datasets/aircraft/5shot/train/747-100/52.jpg	Clear blue sky, ground.
+../dataset/datasets/aircraft/5shot/train/747-100/50.jpg	Aircraft on runway, grassy field and sky.
+../dataset/datasets/aircraft/5shot/train/747-200/55.jpg	Aircraft on runway, cloudy sky, green trees.
+../dataset/datasets/aircraft/5shot/train/747-200/59.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/747-200/57.jpg	The background shows an overcast sky and a grassy field with bushes.
+../dataset/datasets/aircraft/5shot/train/747-200/58.jpg	Airport buildings, overcast sky.
+../dataset/datasets/aircraft/5shot/train/747-200/56.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/747-300/61.jpg	Clear blue sky with scattered clouds.
+../dataset/datasets/aircraft/5shot/train/747-300/60.jpg	Clear sky, airport tarmac.
+../dataset/datasets/aircraft/5shot/train/747-300/62.jpg	Clear sky, grassy field, trees.
+../dataset/datasets/aircraft/5shot/train/747-300/63.jpg	Airport infrastructure, clear sky.
+../dataset/datasets/aircraft/5shot/train/747-300/64.jpg	The aircraft is flying against a cloudy sky.
+../dataset/datasets/aircraft/5shot/train/747-400/66.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/747-400/69.jpg	Airport setting with trees and buildings.
+../dataset/datasets/aircraft/5shot/train/747-400/68.jpg	Clear sky, ocean, shoreline.
+../dataset/datasets/aircraft/5shot/train/747-400/67.jpg	Mountainous landscape, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/747-400/65.jpg	Aircraft is taking off with trees and buildings in the background.
+../dataset/datasets/aircraft/5shot/train/757-200/70.jpg	Clear sky, runway, grass, buildings.
+../dataset/datasets/aircraft/5shot/train/757-200/72.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/757-200/71.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/757-200/73.jpg	Airport terminal, overcast sky.
+../dataset/datasets/aircraft/5shot/train/757-200/74.jpg	Flat, open landscape with clear sky.
+../dataset/datasets/aircraft/5shot/train/757-300/78.jpg	Aircraft is taking off with buildings and another plane in the background.
+../dataset/datasets/aircraft/5shot/train/757-300/77.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/757-300/76.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/757-300/75.jpg	Airport, mountains, clear sky.
+../dataset/datasets/aircraft/5shot/train/757-300/79.jpg	Snowy, clear sky.
+../dataset/datasets/aircraft/5shot/train/767-200/84.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/767-200/82.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/767-200/83.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/767-200/81.jpg	Desert landscape, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/767-200/80.jpg	Airport buildings, cranes, water.
+../dataset/datasets/aircraft/5shot/train/767-300/87.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/767-300/85.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/767-300/88.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/767-300/86.jpg	Industrial setting with hangars and runway.
+../dataset/datasets/aircraft/5shot/train/767-300/89.jpg	Trees and sky.
+../dataset/datasets/aircraft/5shot/train/767-400/90.jpg	Clear blue sky with scattered clouds.
+../dataset/datasets/aircraft/5shot/train/767-400/91.jpg	Trees, runway, overcast sky.
+../dataset/datasets/aircraft/5shot/train/767-400/93.jpg	Airport runway, grass, buildings, cranes.
+../dataset/datasets/aircraft/5shot/train/767-400/92.jpg	Clear sky, runway lights, trees, building.
+../dataset/datasets/aircraft/5shot/train/767-400/94.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/777-200/97.jpg	Cloudy sky, runway, fence.
+../dataset/datasets/aircraft/5shot/train/777-200/99.jpg	Aircraft on runway with mountains and buildings in background.
+../dataset/datasets/aircraft/5shot/train/777-200/96.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/777-200/98.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/777-200/95.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/777-300/102.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/777-300/103.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/777-300/101.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/777-300/104.jpg	Clear blue sky, control tower visible.
+../dataset/datasets/aircraft/5shot/train/777-300/100.jpg	Cloudy sky.
+../dataset/datasets/aircraft/5shot/train/A300B4/108.jpg	Aircraft on tarmac with trees and sky in background.
+../dataset/datasets/aircraft/5shot/train/A300B4/106.jpg	The background shows an airport tarmac with ground equipment and another aircraft visible in the distance.
+../dataset/datasets/aircraft/5shot/train/A300B4/107.jpg	The background features a clear sky with scattered clouds and distant mountains.
+../dataset/datasets/aircraft/5shot/train/A300B4/105.jpg	The aircraft is flying against a backdrop of a partly cloudy sky with a building visible below.
+../dataset/datasets/aircraft/5shot/train/A300B4/109.jpg	Clear sky, airport buildings.
+../dataset/datasets/aircraft/5shot/train/A310/110.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A310/114.jpg	The background shows a clear sky and an open field.
+../dataset/datasets/aircraft/5shot/train/A310/112.jpg	Mountainous landscape, other aircraft visible.
+../dataset/datasets/aircraft/5shot/train/A310/111.jpg	Desert landscape, clear sky.
+../dataset/datasets/aircraft/5shot/train/A310/113.jpg	Aircraft on runway with trees and grass in background.
+../dataset/datasets/aircraft/5shot/train/A318/116.jpg	Blue sky, white clouds, airport buildings.
+../dataset/datasets/aircraft/5shot/train/A318/118.jpg	Aircraft on runway with grass and trees in background.
+../dataset/datasets/aircraft/5shot/train/A318/119.jpg	Green fields, trees, runway.
+../dataset/datasets/aircraft/5shot/train/A318/117.jpg	Urban skyline, trees, runway markings.
+../dataset/datasets/aircraft/5shot/train/A318/115.jpg	The background shows an airport terminal with signage and a parking garage.
+../dataset/datasets/aircraft/5shot/train/A319/121.jpg	The background is a cloudy sky.
+../dataset/datasets/aircraft/5shot/train/A319/122.jpg	Urban, trees, buildings.
+../dataset/datasets/aircraft/5shot/train/A319/124.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A319/123.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A319/120.jpg	The background features a mountainous landscape with greenery and buildings.
+../dataset/datasets/aircraft/5shot/train/A320/127.jpg	Ocean backdrop.
+../dataset/datasets/aircraft/5shot/train/A320/125.jpg	City skyline, water body.
+../dataset/datasets/aircraft/5shot/train/A320/129.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A320/128.jpg	Clear blue sky, green trees.
+../dataset/datasets/aircraft/5shot/train/A320/126.jpg	Airport terminal, clear sky.
+../dataset/datasets/aircraft/5shot/train/A321/134.jpg	Airport terminal, control tower, large dome structure.
+../dataset/datasets/aircraft/5shot/train/A321/132.jpg	Aircraft on runway with trees and buildings in background.
+../dataset/datasets/aircraft/5shot/train/A321/130.jpg	Airport tarmac, buildings, trees, overcast sky.
+../dataset/datasets/aircraft/5shot/train/A321/133.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A321/131.jpg	Overcast sky.
+../dataset/datasets/aircraft/5shot/train/A330-200/139.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A330-200/135.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A330-200/136.jpg	Clear blue sky with scattered clouds.
+../dataset/datasets/aircraft/5shot/train/A330-200/138.jpg	Airport tarmac, other planes visible.
+../dataset/datasets/aircraft/5shot/train/A330-200/137.jpg	Clear sky, runway visible.
+../dataset/datasets/aircraft/5shot/train/A330-300/143.jpg	Aircraft against a blue sky with clouds.
+../dataset/datasets/aircraft/5shot/train/A330-300/141.jpg	Overcast sky, grassy field, distant buildings.
+../dataset/datasets/aircraft/5shot/train/A330-300/144.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A330-300/140.jpg	Cloudy sky.
+../dataset/datasets/aircraft/5shot/train/A330-300/142.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/A340-200/147.jpg	Airport hangars, other aircraft, grassy field.
+../dataset/datasets/aircraft/5shot/train/A340-200/148.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A340-200/145.jpg	Aircraft on runway, clear sky.
+../dataset/datasets/aircraft/5shot/train/A340-200/146.jpg	Aircraft on runway with trees and buildings in background.
+../dataset/datasets/aircraft/5shot/train/A340-200/149.jpg	Clear blue sky, airport tarmac.
+../dataset/datasets/aircraft/5shot/train/A340-300/154.jpg	Airport setting with buildings and trees.
+../dataset/datasets/aircraft/5shot/train/A340-300/152.jpg	Clear sky, distant mountains, airport setting.
+../dataset/datasets/aircraft/5shot/train/A340-300/151.jpg	Airport terminal, trees, another aircraft.
+../dataset/datasets/aircraft/5shot/train/A340-300/150.jpg	Ocean, ship, runway.
+../dataset/datasets/aircraft/5shot/train/A340-300/153.jpg	Airport hangar, clear sky.
+../dataset/datasets/aircraft/5shot/train/A340-500/156.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/A340-500/158.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A340-500/159.jpg	Clear blue sky, palm tree.
+../dataset/datasets/aircraft/5shot/train/A340-500/155.jpg	Multiple Emirates tails, airport tarmac.
+../dataset/datasets/aircraft/5shot/train/A340-500/157.jpg	The background is a clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A340-600/163.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A340-600/161.jpg	Clear sky, runway markings visible.
+../dataset/datasets/aircraft/5shot/train/A340-600/160.jpg	Lufthansa hangar, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/A340-600/162.jpg	Clear blue sky, grassy field, airport infrastructure.
+../dataset/datasets/aircraft/5shot/train/A340-600/164.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A380/168.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A380/166.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/A380/167.jpg	Clear sky, runway, grass.
+../dataset/datasets/aircraft/5shot/train/A380/169.jpg	Overcast sky, houses below.
+../dataset/datasets/aircraft/5shot/train/A380/165.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/ATR-42/172.jpg	Airport tarmac, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/ATR-42/170.jpg	The background shows a clear sky and palm trees.
+../dataset/datasets/aircraft/5shot/train/ATR-42/174.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/ATR-42/171.jpg	The aircraft is parked on a tarmac with hangars and mountains in the background.
+../dataset/datasets/aircraft/5shot/train/ATR-42/173.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/ATR-72/175.jpg	Ocean, runway, grass, clear sky.
+../dataset/datasets/aircraft/5shot/train/ATR-72/176.jpg	Aircraft against a blue sky with scattered clouds.
+../dataset/datasets/aircraft/5shot/train/ATR-72/179.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/ATR-72/177.jpg	Airport tarmac, hills, buildings.
+../dataset/datasets/aircraft/5shot/train/ATR-72/178.jpg	Clear sky, open field, trees, fence.
+../dataset/datasets/aircraft/5shot/train/An-12/181.jpg	Airport setting with grass and buildings.
+../dataset/datasets/aircraft/5shot/train/An-12/184.jpg	The background features a cloudy sky and cooling towers.
+../dataset/datasets/aircraft/5shot/train/An-12/182.jpg	The background is a clear sky.
+../dataset/datasets/aircraft/5shot/train/An-12/180.jpg	Runway, grass, trees, buildings.
+../dataset/datasets/aircraft/5shot/train/An-12/183.jpg	Snowy tarmac, other aircraft visible.
+../dataset/datasets/aircraft/5shot/train/BAE_146-200/185.jpg	Airport terminal and tarmac.
+../dataset/datasets/aircraft/5shot/train/BAE_146-200/188.jpg	Aircraft on tarmac near LTE building with trees and sky.
+../dataset/datasets/aircraft/5shot/train/BAE_146-200/187.jpg	Airport setting with hangar and grass.
+../dataset/datasets/aircraft/5shot/train/BAE_146-200/189.jpg	Runway, grass, clear sky.
+../dataset/datasets/aircraft/5shot/train/BAE_146-200/186.jpg	Aircraft on tarmac with grass and runway markings.
+../dataset/datasets/aircraft/5shot/train/BAE_146-300/192.jpg	Airport terminal, parked at gate.
+../dataset/datasets/aircraft/5shot/train/BAE_146-300/194.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/BAE_146-300/191.jpg	The background shows a clear sky and trees.
+../dataset/datasets/aircraft/5shot/train/BAE_146-300/193.jpg	Clear sky, runway, grass.
+../dataset/datasets/aircraft/5shot/train/BAE_146-300/190.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/BAE-125/199.jpg	Runway, grass, trees, overcast sky.
+../dataset/datasets/aircraft/5shot/train/BAE-125/196.jpg	Clear sky with some clouds.
+../dataset/datasets/aircraft/5shot/train/BAE-125/197.jpg	Airport setting with hangars and grass.
+../dataset/datasets/aircraft/5shot/train/BAE-125/198.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/BAE-125/195.jpg	Aircraft is taking off with trees and sky in the background.
+../dataset/datasets/aircraft/5shot/train/Beechcraft_1900/200.jpg	Airport tarmac, parked equipment, grassy area.
+../dataset/datasets/aircraft/5shot/train/Beechcraft_1900/202.jpg	Aircraft on runway, clear sky, grassy field.
+../dataset/datasets/aircraft/5shot/train/Beechcraft_1900/201.jpg	The background shows a clear sky and some buildings.
+../dataset/datasets/aircraft/5shot/train/Beechcraft_1900/204.jpg	Airport tarmac, jet bridges, parked planes.
+../dataset/datasets/aircraft/5shot/train/Beechcraft_1900/203.jpg	Airport setting with runway and distant trees.
+../dataset/datasets/aircraft/5shot/train/Boeing_717/205.jpg	Urban skyline, palm trees, industrial tanks.
+../dataset/datasets/aircraft/5shot/train/Boeing_717/209.jpg	Blue and white, "Midwest" logo, runway, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/Boeing_717/206.jpg	Airport hangar, scaffolding, clear sky.
+../dataset/datasets/aircraft/5shot/train/Boeing_717/208.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Boeing_717/207.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/C-130/214.jpg	The background shows a clear sky with some clouds and an airport tarmac.
+../dataset/datasets/aircraft/5shot/train/C-130/210.jpg	Airport, construction, trees, building.
+../dataset/datasets/aircraft/5shot/train/C-130/213.jpg	Aircraft is camouflaged, landing on runway with buildings and trees in background.
+../dataset/datasets/aircraft/5shot/train/C-130/212.jpg	Aircraft on runway, cloudy sky, trees in distance.
+../dataset/datasets/aircraft/5shot/train/C-130/211.jpg	The background of the aircraft features a painted scene with parachutes and figures, possibly depicting a military operation or historical event.
+../dataset/datasets/aircraft/5shot/train/C-47/219.jpg	Clear sky, trees, open field.
+../dataset/datasets/aircraft/5shot/train/C-47/215.jpg	Aircraft parked on grass near building and palm trees under cloudy sky.
+../dataset/datasets/aircraft/5shot/train/C-47/217.jpg	Air Luton, G-AMHJ, parked on grass.
+../dataset/datasets/aircraft/5shot/train/C-47/218.jpg	The aircraft is parked on grass near a building with a glass dome and mountains in the distance.
+../dataset/datasets/aircraft/5shot/train/C-47/216.jpg	Clear blue sky, green trees, grassy area.
+../dataset/datasets/aircraft/5shot/train/CRJ-200/224.jpg	Airport terminal and construction.
+../dataset/datasets/aircraft/5shot/train/CRJ-200/221.jpg	Cloudy sky, grass, runway.
+../dataset/datasets/aircraft/5shot/train/CRJ-200/222.jpg	Aircraft on runway, clear sky, distant structure.
+../dataset/datasets/aircraft/5shot/train/CRJ-200/220.jpg	Airport buildings, trees, clear sky.
+../dataset/datasets/aircraft/5shot/train/CRJ-200/223.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/CRJ-700/227.jpg	Airport terminal and signage.
+../dataset/datasets/aircraft/5shot/train/CRJ-700/225.jpg	Airport hangar and grass.
+../dataset/datasets/aircraft/5shot/train/CRJ-700/229.jpg	The background shows an airport setting with a cloudy sky and distant buildings.
+../dataset/datasets/aircraft/5shot/train/CRJ-700/226.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/CRJ-700/228.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/CRJ-900/234.jpg	The background is a cloudy sky.
+../dataset/datasets/aircraft/5shot/train/CRJ-900/233.jpg	Runway, grass, and airport infrastructure.
+../dataset/datasets/aircraft/5shot/train/CRJ-900/230.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/CRJ-900/231.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/CRJ-900/232.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Cessna_172/235.jpg	Greenery and sky.
+../dataset/datasets/aircraft/5shot/train/Cessna_172/236.jpg	Grassy field, overcast sky, distant buildings.
+../dataset/datasets/aircraft/5shot/train/Cessna_172/238.jpg	Airport building, grass, hills.
+../dataset/datasets/aircraft/5shot/train/Cessna_172/237.jpg	Aircraft parked on tarmac near hangar.
+../dataset/datasets/aircraft/5shot/train/Cessna_172/239.jpg	Grassy field, partly cloudy sky.
+../dataset/datasets/aircraft/5shot/train/Cessna_208/240.jpg	The background features trees and an open field.
+../dataset/datasets/aircraft/5shot/train/Cessna_208/242.jpg	Grassy field, trees, overcast sky.
+../dataset/datasets/aircraft/5shot/train/Cessna_208/241.jpg	Airport terminal, signage visible.
+../dataset/datasets/aircraft/5shot/train/Cessna_208/244.jpg	Aircraft on tarmac with other planes and sky visible.
+../dataset/datasets/aircraft/5shot/train/Cessna_208/243.jpg	The aircraft is on a tarmac with a clear sky and distant trees.
+../dataset/datasets/aircraft/5shot/train/Cessna_525/248.jpg	Airport tarmac, cloudy sky, buildings in distance.
+../dataset/datasets/aircraft/5shot/train/Cessna_525/245.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Cessna_525/247.jpg	Grass, runway, and airport equipment.
+../dataset/datasets/aircraft/5shot/train/Cessna_525/246.jpg	Airport setting with other planes and buildings.
+../dataset/datasets/aircraft/5shot/train/Cessna_525/249.jpg	Overcast sky, runway, grassy field.
+../dataset/datasets/aircraft/5shot/train/Cessna_560/251.jpg	Airport setting with buildings and grass.
+../dataset/datasets/aircraft/5shot/train/Cessna_560/253.jpg	Landscape with houses and trees.
+../dataset/datasets/aircraft/5shot/train/Cessna_560/250.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Cessna_560/254.jpg	Airport tarmac, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/Cessna_560/252.jpg	Aircraft is taking off, runway and grass visible.
+../dataset/datasets/aircraft/5shot/train/Challenger_600/258.jpg	Blue sky with scattered clouds.
+../dataset/datasets/aircraft/5shot/train/Challenger_600/255.jpg	Clear sky, runway, grass, trees.
+../dataset/datasets/aircraft/5shot/train/Challenger_600/256.jpg	Airport tarmac, distant buildings, overcast sky.
+../dataset/datasets/aircraft/5shot/train/Challenger_600/257.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Challenger_600/259.jpg	Airport terminal and signs.
+../dataset/datasets/aircraft/5shot/train/DC-10/262.jpg	Aircraft on runway, grassy fields and trees in distance.
+../dataset/datasets/aircraft/5shot/train/DC-10/264.jpg	Alitalia aircraft on tarmac, Pan Am aircraft in background.
+../dataset/datasets/aircraft/5shot/train/DC-10/260.jpg	Green field, road, vehicles.
+../dataset/datasets/aircraft/5shot/train/DC-10/263.jpg	Desert mountains, clear sky.
+../dataset/datasets/aircraft/5shot/train/DC-10/261.jpg	Aircraft on grassy field, clear sky.
+../dataset/datasets/aircraft/5shot/train/DC-3/269.jpg	Interior, luxurious seating, patterned upholstery.
+../dataset/datasets/aircraft/5shot/train/DC-3/266.jpg	Aircraft on tarmac, trees in background.
+../dataset/datasets/aircraft/5shot/train/DC-3/268.jpg	The aircraft is parked on a tarmac under a partly cloudy sky.
+../dataset/datasets/aircraft/5shot/train/DC-3/265.jpg	The background features another aircraft and a crowd near a fence.
+../dataset/datasets/aircraft/5shot/train/DC-3/267.jpg	Cloudy sky, grass, people, DHL banners.
+../dataset/datasets/aircraft/5shot/train/DC-6/272.jpg	Aircraft on tarmac with greenery and vehicles in background.
+../dataset/datasets/aircraft/5shot/train/DC-6/274.jpg	Clear sky, open field.
+../dataset/datasets/aircraft/5shot/train/DC-6/271.jpg	Aircraft on tarmac, overcast sky.
+../dataset/datasets/aircraft/5shot/train/DC-6/273.jpg	Aircraft on tarmac, partly grassy area, trees, clear sky.
+../dataset/datasets/aircraft/5shot/train/DC-6/270.jpg	Clear blue sky, hangar, other planes.
+../dataset/datasets/aircraft/5shot/train/DC-8/279.jpg	Alitalia aircraft on tarmac.
+../dataset/datasets/aircraft/5shot/train/DC-8/278.jpg	Airport tarmac, wet ground, hangar, overcast sky.
+../dataset/datasets/aircraft/5shot/train/DC-8/277.jpg	Airport tarmac, buildings, sky with clouds.
+../dataset/datasets/aircraft/5shot/train/DC-8/275.jpg	City skyline, hazy sky, hangar.
+../dataset/datasets/aircraft/5shot/train/DC-8/276.jpg	An aircraft on tarmac, black and white image.
+../dataset/datasets/aircraft/5shot/train/DC-9-30/283.jpg	United Airlines hangar, trees, tarmac.
+../dataset/datasets/aircraft/5shot/train/DC-9-30/282.jpg	Aircraft on tarmac with billboard and mountains in background.
+../dataset/datasets/aircraft/5shot/train/DC-9-30/281.jpg	Aircraft on tarmac, runway and grass visible.
+../dataset/datasets/aircraft/5shot/train/DC-9-30/284.jpg	The background is a cloudy sky.
+../dataset/datasets/aircraft/5shot/train/DC-9-30/280.jpg	Aircraft on runway, cityscape and water in background.
+../dataset/datasets/aircraft/5shot/train/DH-82/287.jpg	Multiple aircraft, grassy field, clear sky.
+../dataset/datasets/aircraft/5shot/train/DH-82/286.jpg	Grassy field.
+../dataset/datasets/aircraft/5shot/train/DH-82/289.jpg	Grassy field, trees, and distant building.
+../dataset/datasets/aircraft/5shot/train/DH-82/285.jpg	Grass, trees, sky.
+../dataset/datasets/aircraft/5shot/train/DH-82/288.jpg	Clear sky, trees below.
+../dataset/datasets/aircraft/5shot/train/DHC-1/294.jpg	Grassy field, trees, overcast sky.
+../dataset/datasets/aircraft/5shot/train/DHC-1/290.jpg	Aircraft on runway, fields and trees in background.
+../dataset/datasets/aircraft/5shot/train/DHC-1/293.jpg	Trees and blurred ground.
+../dataset/datasets/aircraft/5shot/train/DHC-1/291.jpg	Green field, trees, overcast sky.
+../dataset/datasets/aircraft/5shot/train/DHC-1/292.jpg	Grass field, trees, overcast sky.
+../dataset/datasets/aircraft/5shot/train/DHC-6/295.jpg	Clear blue sky with some clouds.
+../dataset/datasets/aircraft/5shot/train/DHC-6/296.jpg	Ocean and sky.
+../dataset/datasets/aircraft/5shot/train/DHC-6/299.jpg	Aircraft on runway, clear sky.
+../dataset/datasets/aircraft/5shot/train/DHC-6/298.jpg	Water, tower, horizon.
+../dataset/datasets/aircraft/5shot/train/DHC-6/297.jpg	British Antarctic Survey, VP-FAZ.
+../dataset/datasets/aircraft/5shot/train/DHC-8-100/302.jpg	Airport tarmac, buildings, vehicles.
+../dataset/datasets/aircraft/5shot/train/DHC-8-100/300.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/DHC-8-100/303.jpg	The background shows an airport tarmac with some ground equipment and structures.
+../dataset/datasets/aircraft/5shot/train/DHC-8-100/304.jpg	Airport infrastructure, buildings, and parking structures.
+../dataset/datasets/aircraft/5shot/train/DHC-8-100/301.jpg	Mountainous terrain, control tower.
+../dataset/datasets/aircraft/5shot/train/DHC-8-300/305.jpg	Hilly terrain, industrial structures.
+../dataset/datasets/aircraft/5shot/train/DHC-8-300/308.jpg	Airport tarmac with markings and signage.
+../dataset/datasets/aircraft/5shot/train/DHC-8-300/306.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/DHC-8-300/309.jpg	Airport tarmac, grassy area, signage.
+../dataset/datasets/aircraft/5shot/train/DHC-8-300/307.jpg	Mountainous, green, trees, runway.
+../dataset/datasets/aircraft/5shot/train/DR-400/313.jpg	Aircraft parked on tarmac with hangars and other planes visible in the background.
+../dataset/datasets/aircraft/5shot/train/DR-400/310.jpg	Green hangar wall.
+../dataset/datasets/aircraft/5shot/train/DR-400/311.jpg	Grassy field, trees, overcast sky.
+../dataset/datasets/aircraft/5shot/train/DR-400/314.jpg	The aircraft is inside a hangar with a white wall and metal beams.
+../dataset/datasets/aircraft/5shot/train/DR-400/312.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/Dornier_328/319.jpg	Airport setting with buildings and grass.
+../dataset/datasets/aircraft/5shot/train/Dornier_328/315.jpg	Aircraft on runway with grass and trees in background.
+../dataset/datasets/aircraft/5shot/train/Dornier_328/318.jpg	Green trees, runway, grass.
+../dataset/datasets/aircraft/5shot/train/Dornier_328/316.jpg	Airport tarmac, cloudy sky, industrial buildings.
+../dataset/datasets/aircraft/5shot/train/Dornier_328/317.jpg	Airport setting with another aircraft and runway visible.
+../dataset/datasets/aircraft/5shot/train/E-170/324.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/E-170/320.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/E-170/323.jpg	Cloudy sky.
+../dataset/datasets/aircraft/5shot/train/E-170/322.jpg	Blue and white, EgyptAir Express logo, clear sky.
+../dataset/datasets/aircraft/5shot/train/E-170/321.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/E-190/325.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/E-190/329.jpg	Airport setting with clear sky.
+../dataset/datasets/aircraft/5shot/train/E-190/327.jpg	Airport runway, grass, distant buildings, clear sky.
+../dataset/datasets/aircraft/5shot/train/E-190/326.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/E-190/328.jpg	Aircraft on runway, blurred background.
+../dataset/datasets/aircraft/5shot/train/E-195/331.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/E-195/330.jpg	Airport buildings and runway.
+../dataset/datasets/aircraft/5shot/train/E-195/333.jpg	Aircraft is taking off with trees and sky in the background.
+../dataset/datasets/aircraft/5shot/train/E-195/332.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/E-195/334.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/EMB-120/335.jpg	Aircraft is on runway with another aircraft in the background.
+../dataset/datasets/aircraft/5shot/train/EMB-120/336.jpg	The background shows a residential area with houses and trees.
+../dataset/datasets/aircraft/5shot/train/EMB-120/338.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/EMB-120/339.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/EMB-120/337.jpg	Blue sky, grassy area, other aircraft visible.
+../dataset/datasets/aircraft/5shot/train/ERJ_135/343.jpg	Clear blue sky, airport tower visible.
+../dataset/datasets/aircraft/5shot/train/ERJ_135/342.jpg	Airport setting with runway, grass, and distant hills.
+../dataset/datasets/aircraft/5shot/train/ERJ_135/340.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/ERJ_135/344.jpg	Clear sky, grassy field, trees.
+../dataset/datasets/aircraft/5shot/train/ERJ_135/341.jpg	Aircraft on runway, dusk sky, trees in background.
+../dataset/datasets/aircraft/5shot/train/ERJ_145/346.jpg	The aircraft is on a tarmac with a grassy area and vehicles in the background.
+../dataset/datasets/aircraft/5shot/train/ERJ_145/349.jpg	Clear blue sky, trees, runway.
+../dataset/datasets/aircraft/5shot/train/ERJ_145/347.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/ERJ_145/345.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/ERJ_145/348.jpg	Mountainous landscape, control tower, airport infrastructure.
+../dataset/datasets/aircraft/5shot/train/Embraer_Legacy_600/352.jpg	Green trees, clear sky.
+../dataset/datasets/aircraft/5shot/train/Embraer_Legacy_600/354.jpg	Airport setting with trees and buildings.
+../dataset/datasets/aircraft/5shot/train/Embraer_Legacy_600/353.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Embraer_Legacy_600/350.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/Embraer_Legacy_600/351.jpg	Airport terminal, cranes, clear sky.
+../dataset/datasets/aircraft/5shot/train/Eurofighter_Typhoon/359.jpg	The background shows a clear sky and an airfield with some structures and markings.
+../dataset/datasets/aircraft/5shot/train/Eurofighter_Typhoon/356.jpg	The background shows an open cockpit with a ladder and another aircraft partially visible behind it.
+../dataset/datasets/aircraft/5shot/train/Eurofighter_Typhoon/355.jpg	The background shows a blurred building and grassy area, indicating an airfield setting.
+../dataset/datasets/aircraft/5shot/train/Eurofighter_Typhoon/357.jpg	Hanger, trees, mountains.
+../dataset/datasets/aircraft/5shot/train/Eurofighter_Typhoon/358.jpg	Overcast sky, trees below.
+../dataset/datasets/aircraft/5shot/train/F-16A_B/360.jpg	The background shows an open cockpit and a clear sky.
+../dataset/datasets/aircraft/5shot/train/F-16A_B/364.jpg	Overcast sky, runway, other aircraft.
+../dataset/datasets/aircraft/5shot/train/F-16A_B/362.jpg	Aircraft on runway with grass and trees in background.
+../dataset/datasets/aircraft/5shot/train/F-16A_B/363.jpg	Desert landscape, clear sky, other aircraft visible.
+../dataset/datasets/aircraft/5shot/train/F-16A_B/361.jpg	Aircraft in flight against cloudy sky.
+../dataset/datasets/aircraft/5shot/train/F_A-18/368.jpg	Grassy field, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/F_A-18/366.jpg	Aircraft on runway with fields and grass in background.
+../dataset/datasets/aircraft/5shot/train/F_A-18/369.jpg	Overcast sky.
+../dataset/datasets/aircraft/5shot/train/F_A-18/367.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/F_A-18/365.jpg	Forest with trees.
+../dataset/datasets/aircraft/5shot/train/Falcon_2000/373.jpg	Aircraft on runway with trees and grass in background.
+../dataset/datasets/aircraft/5shot/train/Falcon_2000/371.jpg	The background features mountains and a clear sky.
+../dataset/datasets/aircraft/5shot/train/Falcon_2000/372.jpg	Airport setting with trees and buildings.
+../dataset/datasets/aircraft/5shot/train/Falcon_2000/370.jpg	Airport terminal building.
+../dataset/datasets/aircraft/5shot/train/Falcon_2000/374.jpg	Aircraft on runway with grass and trees in background.
+../dataset/datasets/aircraft/5shot/train/Falcon_900/378.jpg	Airport hangar, mountains, clear sky.
+../dataset/datasets/aircraft/5shot/train/Falcon_900/377.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Falcon_900/376.jpg	Ryanair aircraft in background.
+../dataset/datasets/aircraft/5shot/train/Falcon_900/379.jpg	Airport tarmac, cloudy sky, buildings in distance.
+../dataset/datasets/aircraft/5shot/train/Falcon_900/375.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/Fokker_100/383.jpg	Overcast sky, runway, dirt embankment.
+../dataset/datasets/aircraft/5shot/train/Fokker_100/380.jpg	Airport buildings, grass, overcast sky.
+../dataset/datasets/aircraft/5shot/train/Fokker_100/382.jpg	Aircraft is taking off with trees and sky in the background.
+../dataset/datasets/aircraft/5shot/train/Fokker_100/384.jpg	Aircraft on tarmac with clear sky and distant buildings.
+../dataset/datasets/aircraft/5shot/train/Fokker_100/381.jpg	Aircraft is on runway with grass and trees in background.
+../dataset/datasets/aircraft/5shot/train/Fokker_50/389.jpg	Clear sky, trees below.
+../dataset/datasets/aircraft/5shot/train/Fokker_50/385.jpg	Airport runway, buildings, trees.
+../dataset/datasets/aircraft/5shot/train/Fokker_50/388.jpg	Aircraft on tarmac, grass and runway visible.
+../dataset/datasets/aircraft/5shot/train/Fokker_50/386.jpg	Aircraft on tarmac, grass and runway visible.
+../dataset/datasets/aircraft/5shot/train/Fokker_50/387.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Fokker_70/394.jpg	Aircraft is flying against a clear sky with an air traffic control tower visible in the distance.
+../dataset/datasets/aircraft/5shot/train/Fokker_70/390.jpg	Airport, buildings, clear sky.
+../dataset/datasets/aircraft/5shot/train/Fokker_70/392.jpg	Aircraft on runway with trees and sky in background.
+../dataset/datasets/aircraft/5shot/train/Fokker_70/391.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Fokker_70/393.jpg	Autumn foliage, runway, trees.
+../dataset/datasets/aircraft/5shot/train/Global_Express/396.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Global_Express/399.jpg	Aircraft on runway with grass, trees, and buildings in background.
+../dataset/datasets/aircraft/5shot/train/Global_Express/397.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Global_Express/395.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/Global_Express/398.jpg	Snowy mountains, clear sky.
+../dataset/datasets/aircraft/5shot/train/Gulfstream_IV/402.jpg	Aircraft on runway with hangar and grass in background.
+../dataset/datasets/aircraft/5shot/train/Gulfstream_IV/401.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Gulfstream_IV/400.jpg	The background is a plain, overcast sky.
+../dataset/datasets/aircraft/5shot/train/Gulfstream_IV/403.jpg	Airport tarmac, distant buildings, overcast sky.
+../dataset/datasets/aircraft/5shot/train/Gulfstream_IV/404.jpg	Airport tarmac, grass, hangar, cones.
+../dataset/datasets/aircraft/5shot/train/Gulfstream_V/405.jpg	Clear blue sky, building in background.
+../dataset/datasets/aircraft/5shot/train/Gulfstream_V/407.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Gulfstream_V/406.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Gulfstream_V/408.jpg	Aircraft is taking off with green hills and trees in the background.
+../dataset/datasets/aircraft/5shot/train/Gulfstream_V/409.jpg	Airport setting with grass, runway, and distant trees.
+../dataset/datasets/aircraft/5shot/train/Hawk_T1/413.jpg	Aircraft on runway with trees and sky in background.
+../dataset/datasets/aircraft/5shot/train/Hawk_T1/410.jpg	Aircraft on runway, trees and sky in background.
+../dataset/datasets/aircraft/5shot/train/Hawk_T1/412.jpg	Grass, runway, distant structures, overcast sky.
+../dataset/datasets/aircraft/5shot/train/Hawk_T1/411.jpg	Red and white, RAF markings, runway, trees, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/Hawk_T1/414.jpg	Aircraft on runway, trees and sky visible.
+../dataset/datasets/aircraft/5shot/train/Il-76/419.jpg	Clear sky, runway, other aircraft visible.
+../dataset/datasets/aircraft/5shot/train/Il-76/416.jpg	Runway, grass, distant buildings.
+../dataset/datasets/aircraft/5shot/train/Il-76/417.jpg	The background shows an overcast sky and another aircraft parked in the distance.
+../dataset/datasets/aircraft/5shot/train/Il-76/415.jpg	Desert landscape, power lines, clear sky.
+../dataset/datasets/aircraft/5shot/train/Il-76/418.jpg	Clear blue sky with scattered clouds.
+../dataset/datasets/aircraft/5shot/train/L-1011/420.jpg	Airport tarmac, clear sky.
+../dataset/datasets/aircraft/5shot/train/L-1011/421.jpg	Aircraft on tarmac, trees and buildings in background.
+../dataset/datasets/aircraft/5shot/train/L-1011/422.jpg	Airport tarmac, clear sky.
+../dataset/datasets/aircraft/5shot/train/L-1011/424.jpg	Clear blue sky, airport tarmac, distant buildings.
+../dataset/datasets/aircraft/5shot/train/L-1011/423.jpg	Airport tarmac, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/MD-11/426.jpg	Aircraft flying over cityscape with green hills in background.
+../dataset/datasets/aircraft/5shot/train/MD-11/425.jpg	Clear sky.
+../dataset/datasets/aircraft/5shot/train/MD-11/427.jpg	Blue sky with scattered clouds.
+../dataset/datasets/aircraft/5shot/train/MD-11/428.jpg	City skyline, water.
+../dataset/datasets/aircraft/5shot/train/MD-11/429.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/MD-80/434.jpg	Cloudy sky, trees, runway, buildings.
+../dataset/datasets/aircraft/5shot/train/MD-80/431.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/MD-80/432.jpg	Urban skyline, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/MD-80/433.jpg	Aircraft on runway, grass and sky visible.
+../dataset/datasets/aircraft/5shot/train/MD-80/430.jpg	Mountains, airport, clear sky.
+../dataset/datasets/aircraft/5shot/train/MD-87/438.jpg	Aircraft on tarmac, grassy field and distant trees.
+../dataset/datasets/aircraft/5shot/train/MD-87/435.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/MD-87/437.jpg	Clear blue sky with some clouds.
+../dataset/datasets/aircraft/5shot/train/MD-87/439.jpg	The background is a clear sky with some scattered clouds.
+../dataset/datasets/aircraft/5shot/train/MD-87/436.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/MD-90/444.jpg	Mountainous landscape.
+../dataset/datasets/aircraft/5shot/train/MD-90/440.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/MD-90/441.jpg	Clear sky, vegetation below.
+../dataset/datasets/aircraft/5shot/train/MD-90/443.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/MD-90/442.jpg	Airport terminal, scaffolding, distant hills.
+../dataset/datasets/aircraft/5shot/train/Metroliner/445.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Metroliner/446.jpg	Airport setting with grass and runway.
+../dataset/datasets/aircraft/5shot/train/Metroliner/448.jpg	Grass, runway, and airport structures.
+../dataset/datasets/aircraft/5shot/train/Metroliner/447.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Metroliner/449.jpg	Airport hangar, clear sky.
+../dataset/datasets/aircraft/5shot/train/Model_B200/451.jpg	Airport tarmac, clear sky, distant buildings.
+../dataset/datasets/aircraft/5shot/train/Model_B200/453.jpg	Clear blue sky with some clouds.
+../dataset/datasets/aircraft/5shot/train/Model_B200/450.jpg	Multiple aircraft parked, overcast sky.
+../dataset/datasets/aircraft/5shot/train/Model_B200/452.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Model_B200/454.jpg	Trees, grass, sky.
+../dataset/datasets/aircraft/5shot/train/PA-28/458.jpg	Grass field, trees, buildings, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/PA-28/459.jpg	Aircraft parked near hangar.
+../dataset/datasets/aircraft/5shot/train/PA-28/456.jpg	Hangers, people, grass, sky.
+../dataset/datasets/aircraft/5shot/train/PA-28/455.jpg	Hanger with other aircraft visible.
+../dataset/datasets/aircraft/5shot/train/PA-28/457.jpg	Aircraft parked near hangar with trees and grass.
+../dataset/datasets/aircraft/5shot/train/SR-20/461.jpg	Aircraft is on tarmac with hangar and other planes visible.
+../dataset/datasets/aircraft/5shot/train/SR-20/463.jpg	Aircraft is taking off with trees and buildings in the background.
+../dataset/datasets/aircraft/5shot/train/SR-20/460.jpg	Aircraft on tarmac near hangar.
+../dataset/datasets/aircraft/5shot/train/SR-20/462.jpg	The background shows a cloudy sky and buildings.
+../dataset/datasets/aircraft/5shot/train/SR-20/464.jpg	Aircraft parked near hangar with helicopter inside.
+../dataset/datasets/aircraft/5shot/train/Saab_2000/468.jpg	Airport tarmac, grass, fencing, vehicles.
+../dataset/datasets/aircraft/5shot/train/Saab_2000/465.jpg	Airport tarmac with yellow lines and markings.
+../dataset/datasets/aircraft/5shot/train/Saab_2000/466.jpg	Airport tarmac, clear sky, airport equipment.
+../dataset/datasets/aircraft/5shot/train/Saab_2000/469.jpg	Clear sky, grassy field, runway markings.
+../dataset/datasets/aircraft/5shot/train/Saab_2000/467.jpg	Grass, runway, and airport markings.
+../dataset/datasets/aircraft/5shot/train/Saab_340/474.jpg	American Airlines hangar, other planes visible.
+../dataset/datasets/aircraft/5shot/train/Saab_340/471.jpg	Aircraft on tarmac with grass and runways behind.
+../dataset/datasets/aircraft/5shot/train/Saab_340/473.jpg	Grass, trees, runway.
+../dataset/datasets/aircraft/5shot/train/Saab_340/470.jpg	Aircraft on tarmac, green field and runway visible.
+../dataset/datasets/aircraft/5shot/train/Saab_340/472.jpg	Clear blue sky with some clouds.
+../dataset/datasets/aircraft/5shot/train/Spitfire/479.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Spitfire/477.jpg	Aircraft on runway, green fields, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/Spitfire/476.jpg	Aircraft is taking off, blurred trees and runway visible.
+../dataset/datasets/aircraft/5shot/train/Spitfire/475.jpg	Industrial setting with hangar and fence.
+../dataset/datasets/aircraft/5shot/train/Spitfire/478.jpg	Grass field, cloudy sky.
+../dataset/datasets/aircraft/5shot/train/Tornado/480.jpg	The background shows a clear sky and distant mountains.
+../dataset/datasets/aircraft/5shot/train/Tornado/483.jpg	Clear sky, trees visible.
+../dataset/datasets/aircraft/5shot/train/Tornado/481.jpg	The aircraft is displayed indoors, likely in a museum or hangar, with other aircraft and exhibits visible in the background.
+../dataset/datasets/aircraft/5shot/train/Tornado/482.jpg	The background shows a grassy field and trees under a cloudy sky.
+../dataset/datasets/aircraft/5shot/train/Tornado/484.jpg	Aircraft on runway, clear sky.
+../dataset/datasets/aircraft/5shot/train/Tu-134/486.jpg	Clear blue sky with some clouds.
+../dataset/datasets/aircraft/5shot/train/Tu-134/488.jpg	The background shows an open sky and grassy field.
+../dataset/datasets/aircraft/5shot/train/Tu-134/489.jpg	Airport setting with other aircraft and ground equipment visible.
+../dataset/datasets/aircraft/5shot/train/Tu-134/487.jpg	Aircraft on runway with trees and sky in background.
+../dataset/datasets/aircraft/5shot/train/Tu-134/485.jpg	The aircraft is on a tarmac with a clear sky and some ground vehicles visible.
+../dataset/datasets/aircraft/5shot/train/Tu-154/493.jpg	Clear sky, flat terrain.
+../dataset/datasets/aircraft/5shot/train/Tu-154/490.jpg	Clear blue sky.
+../dataset/datasets/aircraft/5shot/train/Tu-154/492.jpg	The background shows a clear sky and distant buildings.
+../dataset/datasets/aircraft/5shot/train/Tu-154/494.jpg	Aircraft on runway with hangar and "SECURITY-SAFETY" sign in background.
+../dataset/datasets/aircraft/5shot/train/Tu-154/491.jpg	Runway, grass, trees, overcast sky.
+../dataset/datasets/aircraft/5shot/train/Yak-42/499.jpg	Aircraft on runway with castle and forested hills in background.
+../dataset/datasets/aircraft/5shot/train/Yak-42/498.jpg	The background is a clear sky.
+../dataset/datasets/aircraft/5shot/train/Yak-42/497.jpg	The background includes airport buildings and another aircraft.
+../dataset/datasets/aircraft/5shot/train/Yak-42/495.jpg	The background features a cloudy sky, distant hills, and some buildings.
+../dataset/datasets/aircraft/5shot/train/Yak-42/496.jpg	Clear blue sky.

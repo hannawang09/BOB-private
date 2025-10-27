@@ -1,0 +1,9 @@
+dataset/datasets
+dataset/real_datasets
+*/__pycache__
+*/*/__pycache__
+*/wandb
+*.pyc
+lora/
+syn_data/
+classification/clip_models

@@ -1,0 +1,313 @@
+image	response
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_178.jpg	a insect is resting on a log.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_042.jpg	a insect is standing on a tree trunk.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_214.jpg	a insect is standing still.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_123.jpg	a insect is perched vertically on a tree trunk.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_065.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_077.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_069.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_053.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_021.jpg	a insect is resting on a branch.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_014.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_190.jpg	a insect is resting on a label.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_067.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_153.jpg	a insect is lying flat.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_025.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_169.jpg	a insect is standing upright.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_102.jpg	a insect is standing upright.
+/home/whx/Dataset/species196/species196_insecta/val/Aleurodicus/Aleurodicus_005_new.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Aleurodicus/Aleurodicus_035.jpg	a insect is not visible.
+/home/whx/Dataset/species196/species196_insecta/train/Aleurodicus/Aleurodicus_021.jpg	a insect is stationary.
+/home/whx/Dataset/species196/species196_insecta/val/Aleurodicus/Aleurodicus_023.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_019.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_005.jpg	a insect is resting on a yellow surface.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_017.jpg	a insect is resting on a pin.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_041.jpg	a insect is resting on a yellow surface.
+/home/whx/Dataset/species196/species196_insecta/train/Aonidiella/Aonidiella_057.jpg	a insect is stationary.
+/home/whx/Dataset/species196/species196_insecta/val/Aonidiella/Aonidiella_012.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Aonidiella/Aonidiella_043.jpg	a insect is not visible in the image.
+/home/whx/Dataset/species196/species196_insecta/train/Aonidiella/Aonidiella_021.jpg	a insect is resting on leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_013_new.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_021_new.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_026_new.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_035_new.jpg	a insect is resting on a surface.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_087.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_146.jpg	a insect is resting on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_075.jpg	a insect is resting on a branch.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_124.jpg	a insect is climbing tree.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_046.jpg	a insect is hanging upside down.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_003.jpg	a insect is resting with wings spread.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_132.jpg	a insect perched on leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_110.jpg	a insect perched on leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_067.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_080.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_060.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_087.jpg	a insect stands upright with antennae raised.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_162.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_053.jpg	a insect is standing on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_055.jpg	a insect is perched on a flower.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_161.jpg	a insect is resting on moss.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_207.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_079.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_076.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_037.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_021.jpg	a insect is resting on its side.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_025.jpg	a insect is resting on a white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_023.jpg	a insect is hanging upside down.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_053.jpg	a insect is standing upright.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_043.jpg	a insect is upside down.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_052.jpg	a insect is upside down.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_127.jpg	a insect is perched.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_104.jpg	a insect is resting on a wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_041.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_024.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_061.jpg	a insect is curled.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_034.jpg	a insect is stationary.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_102_new.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_200_new.jpg	a insect is resting on a plant stem.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_114_new.jpg	a insect not visible.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_221_new.jpg	a insect is resting on a pine needle.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_100.jpg	a insect is resting on a branch.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_052.jpg	a insect is curled.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_054.jpg	a insect is resting with wings spread.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_164.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_080.jpg	a insect is lying on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_171.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_291.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_174.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Contarinia/Contarinia_064.jpg	a insect is lying on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Contarinia/Contarinia_065.jpg	a insect is curled.
+/home/whx/Dataset/species196/species196_insecta/train/Contarinia/Contarinia_021.jpg	a insect is partially inside the plant.
+/home/whx/Dataset/species196/species196_insecta/train/Contarinia/Contarinia_052.jpg	a insect is standing still.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_070.jpg	a insect is crawling.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_043.jpg	a insect is lying on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_009.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_092.jpg	a insect is standing on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_088.jpg	a insect curled up.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_018.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_051.jpg	a insect is resting on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_035.jpg	a insect is resting on a surface.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_104.jpg	a insect is climbing.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_135.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_044.jpg	a insect stands upright on rock.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_152.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_038_new.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_049_new.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_079_new.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_137_new.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_034.jpg	a insect stands upright on rocky surface.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_015.jpg	a insect is standing on a yellow surface.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_026.jpg	a insect stands alert, antennae extended.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_164.jpg	a insect is perched on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Deudorix/Deudorix_016.jpg	a insect is curled.
+/home/whx/Dataset/species196/species196_insecta/train/Deudorix/Deudorix_018.jpg	a insect perched on leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Deudorix/Deudorix_019.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Deudorix/Deudorix_064.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_012.jpg	a insect is standing on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_182.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_017.jpg	a insect is standing with legs spread.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_008.jpg	a insect is climbing.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_074.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_042.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_136.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_108.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_014.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_033.jpg	a insect is standing on a leaf, legs spread out.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_087.jpg	a insect: standing, legs spread, head down.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_002.jpg	a insect is climbing.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_007.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_064.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_029.jpg	a insect is resting with wings spread.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_068.jpg	a insect perched on plant.
+/home/whx/Dataset/species196/species196_insecta/train/Dryocoetes/Dryocoetes_048.jpg	a insect is standing upright.
+/home/whx/Dataset/species196/species196_insecta/val/Dryocoetes/Dryocoetes_010.jpg	a insect is lying on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Dryocoetes/Dryocoetes_004.jpg	a insect is resting on its side.
+/home/whx/Dataset/species196/species196_insecta/train/Dryocoetes/Dryocoetes_073.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_132.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_110.jpg	a insect is clustered and immobile.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_014.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_008.jpg	a insect is resting on the plant.
+/home/whx/Dataset/species196/species196_insecta/val/Eulecanium/Eulecanium_066.jpg	a insect is not visible in the image.
+/home/whx/Dataset/species196/species196_insecta/val/Eulecanium/Eulecanium_053.jpg	a insect is resting on a branch.
+/home/whx/Dataset/species196/species196_insecta/train/Eulecanium/Eulecanium_050.jpg	a insect is resting on tree bark.
+/home/whx/Dataset/species196/species196_insecta/train/Eulecanium/Eulecanium_064.jpg	a insect is resting on a plant.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_036.jpg	a insect is perched on a green stem.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_081.jpg	a insect is climbing.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_029.jpg	a insect is standing on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_045.jpg	a insect is standing upright.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_074.jpg	a insect perched on flower.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_123.jpg	a insect is resting on flowers.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_138.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_064.jpg	a insect perched on flower.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_069.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_042.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_085.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_026.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_045_new.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_026_new.jpg	a insect is lying on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_009.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_020_new.jpg	a insect is standing still.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_035.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_069.jpg	a insect is standing upright.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_113.jpg	a insect is standing on a textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_052.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_237_new.jpg	a insect is standing still.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_413_new.jpg	a insect is resting on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_343_new.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_442_new.jpg	a insect is resting on a wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_023_new.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_012_new.jpg	a insect is resting on a twig.
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_011_new.jpg	a insect is climbing.
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_031_new.jpg	a insect is walking.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_036.jpg	a insect is resting on leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_095.jpg	a insect is resting on a brick.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_024.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_177.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_036.jpg	a insect is resting on a textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_028.jpg	a insect is lying on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_008.jpg	a insect is lying on its side.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_022.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_087.jpg	a insect is resting on a leaf, near its eggs.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_171.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_127.jpg	a insect is resting on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_104.jpg	a insect is perched on a plant.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_069.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_081.jpg	a insect is curled.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_049.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_047.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_008.jpg	a insect is lying on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_021.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_012.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_028.jpg	a insect is perched on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_017_new.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_029_new.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_079.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_008.jpg	a insect is lying on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_062.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_061.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_108.jpg	a insect is curled up.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_036.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_180.jpg	a insect stands on branch, legs spread, antennae extended.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_005.jpg	a insect stands upright on rock.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_077.jpg	a insect stands on log, antennae extended.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_188.jpg	a insect is resting on a wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_090.jpg	a insect is standing on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_143.jpg	a insect is standing upright.
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_082.jpg	a insect is standing upright.
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_034.jpg	a insect is walking.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_007.jpg	a insect is walking on tree bark.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_050.jpg	a insect is lying on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_092.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_072.jpg	a insect is standing on a lichen-covered surface.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_051.jpg	a insect is resting with wings slightly spread.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_020.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_081.jpg	a insect is resting on a surface.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_090.jpg	a insect is resting on a wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_037.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_026.jpg	a insect is standing on its legs.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_012.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_035.jpg	a insect is climbing.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_045_new.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_038_new.jpg	a insect is lying on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_043_new.jpg	a insect is standing still.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_100_new.jpg	a insect is climbing.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_045.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_086.jpg	a insect is standing on a piece of wood.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_059.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_082.jpg	a insect is resting on a tree trunk.
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_100.jpg	a insect stands upright on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_089.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_004.jpg	a insect is climbing.
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_005.jpg	a insect is perched on a leaf, facing left.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_041.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_059.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_068.jpg	a insect is standing on a plant.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_083.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_074.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_076.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_066.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_012.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_107.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_092.jpg	a insect is perched on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_032.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_037.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Prays/Prays_002_new.jpg	a insect perched on plant stem.
+/home/whx/Dataset/species196/species196_insecta/val/Prays/Prays_024.jpg	a insect is resting on a flat surface.
+/home/whx/Dataset/species196/species196_insecta/train/Prays/Prays_010.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Prays/Prays_020.jpg	a insect is resting on a rock.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_011.jpg	a insect is standing on sand.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_128.jpg	a insect is curled up.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_001_new.jpg	a insect is standing on a ruler.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_008_new.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_071.jpg	a insect is curled.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_045.jpg	a insect is walking.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_068.jpg	a insect is crawling.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_019.jpg	a insect is walking.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_068.jpg	a insect perched on leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_102.jpg	a insect is perched on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_005.jpg	a insect is resting on a plant stem.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_082.jpg	a insect is resting on a flat surface.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_183.jpg	a insect is standing on a rock.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_044.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_061.jpg	a insect is standing on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_124.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_063.jpg	a insect is climbing.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_054.jpg	a insect is resting on soil.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_064.jpg	a insect is standing upright.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_010.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_031.jpg	a insect perched on finger.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_080.jpg	a insect is resting on its back with wings spread.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_010.jpg	a insect is resting on its side.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_039.jpg	a insect is hanging upside down.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_005.jpg	a insect is standing with legs spread.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_010.jpg	a insect is standing with legs spread.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_015.jpg	a insect: walking, legs spread, antennae raised.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_039.jpg	a insect is clustered together.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_035.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_012.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_190.jpg	a insect is curled.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_181.jpg	a insect is curled.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_077.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_018.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_147.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_126.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/val/Taeniothrips/Taeniothrips_014.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/val/Taeniothrips/Taeniothrips_019.jpg	a insect is crawling.
+/home/whx/Dataset/species196/species196_insecta/val/Taeniothrips/Taeniothrips_003.jpg	a insect is perched vertically.
+/home/whx/Dataset/species196/species196_insecta/train/Taeniothrips/Taeniothrips_036.jpg	a insect stands upright with wings extended.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_052.jpg	a insect is standing on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_104.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_139.jpg	a insect is resting on bark.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_117.jpg	a insect is standing upright.
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_090.jpg	a insect is curled up.
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_177.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_059.jpg	a insect perched on plant.
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_013.jpg	a insect is resting on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_006.jpg	a insect is perched, legs spread, on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_029.jpg	a insect perched, head down.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_049.jpg	a insect is perched with extended antennae.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_025.jpg	a insect perched, legs spread.
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_024.jpg	a insect is resting on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_100.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_080.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_023.jpg	a insect is walking.
+/home/whx/Dataset/species196/species196_insecta/train/Trogoderma/Trogoderma_009.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Trogoderma/Trogoderma_016.jpg	a insect is resting on its side.
+/home/whx/Dataset/species196/species196_insecta/train/Trogoderma/Trogoderma_023.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Trogoderma/Trogoderma_048.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_012.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_001.jpg	a insect is mating.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_112.jpg	a insect stands upright.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_089.jpg	a insect is lying on its back.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_053.jpg	a insect is resting on the leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_023.jpg	The insect is not visible in the image.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_069.jpg	a insect is not visible in the image.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_096.jpg	a insect is resting on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_060.jpg	a insect is resting on its side.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_112.jpg	a insect is resting.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_104.jpg	a insect is dissected, showing head and thorax.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_179.jpg	a insect is standing.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_084.jpg	a insect is standing still.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_102.jpg	a insect is walking.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_007.jpg	a insect is standing on a mossy surface.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_108.jpg	a insect is resting on a rough surface.

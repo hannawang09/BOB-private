@@ -1,0 +1,625 @@
+image	response
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_178.jpg	A insect is on a wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_042.jpg	wooden surface
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_214.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_123.jpg	A insect is on a tree trunk with a blurred green background.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_180.jpg	a insect on white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_157.jpg	A insect on white fabric.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_205.jpg	A insect on pink background.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthocinus/Acanthocinus_079.jpg	A insect on a textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_069.jpg	The background is a plain, light-colored surface with small debris scattered around.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_104.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_065.jpg	The insect has a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_032.jpg	A insect on a white surface with holes.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_077.jpg	The insect has a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_106.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_121.jpg	The insect has a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Acanthoscelides/Acanthoscelides_066.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_062.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_065.jpg	The insect is on a white, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_073.jpg	The insect is set against a plain, dark background.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_027.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_059.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_024.jpg	The insect is on a white fabric background.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_101.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Acleris/Acleris_200.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_161.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_022.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_025.jpg	a insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_076.jpg	Green leaf with spots.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_102.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_051.jpg	The insect has a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_074.jpg	Green leaves and blurred background.
+/home/whx/Dataset/species196/species196_insecta/train/Agrilus/Agrilus_159.jpg	The background of the insect is a blurred green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Aleurodicus/Aleurodicus_036.jpg	The background of the insect is a green leaf.
+/home/whx/Dataset/species196/species196_insecta/val/Aleurodicus/Aleurodicus_014_new.jpg	Green.
+/home/whx/Dataset/species196/species196_insecta/train/Aleurodicus/Aleurodicus_035.jpg	The background of the insect is green foliage.
+/home/whx/Dataset/species196/species196_insecta/train/Aleurodicus/Aleurodicus_012_new.jpg	Green, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Aleurodicus/Aleurodicus_025.jpg	The background of the insect is green.
+/home/whx/Dataset/species196/species196_insecta/val/Aleurodicus/Aleurodicus_009_new.jpg	Green leaf with veins.
+/home/whx/Dataset/species196/species196_insecta/val/Aleurodicus/Aleurodicus_023.jpg	Green, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Aleurodicus/Aleurodicus_038.jpg	Green, fibrous, textured.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_041.jpg	The background is a solid yellow color.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_005.jpg	A insect on yellow, dotted surface.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_037.jpg	The background is plain and light-colored.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_029.jpg	The background is plain and light-colored.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_009.jpg	A insect is mounted on a metallic rod against a plain, light gray background.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_040.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_030.jpg	A insect on a plain, light background.
+/home/whx/Dataset/species196/species196_insecta/train/Anastrepha/Anastrepha_006.jpg	The insect has a plain white background.
+/home/whx/Dataset/species196/species196_insecta/val/Aonidiella/Aonidiella_012.jpg	The insect is on a green surface.
+/home/whx/Dataset/species196/species196_insecta/train/Aonidiella/Aonidiella_036.jpg	Green, spotted, textured.
+/home/whx/Dataset/species196/species196_insecta/train/Aonidiella/Aonidiella_021.jpg	The background of the insect is a light, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Aonidiella/Aonidiella_058.jpg	The background of the insect is green.
+/home/whx/Dataset/species196/species196_insecta/val/Aonidiella/Aonidiella_026.jpg	The background of the insect is orange with white spots.
+/home/whx/Dataset/species196/species196_insecta/val/Aonidiella/Aonidiella_060.jpg	The background of the insect is a yellow, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Aonidiella/Aonidiella_024.jpg	Green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Aonidiella/Aonidiella_050.jpg	The background of the insect is blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_021_new.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_046_new.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_016_new.jpg	a insect on white fabric.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_009_new.jpg	A insect on a dark surface.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_028_new.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_018.jpg	The insect is on a wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_030_new.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Apate/Apate_034_new.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_028.jpg	The background of the insect is a mix of brown and beige, resembling wood or soil.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_204.jpg	A insect on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_151.jpg	The background of the insect is a mix of earthy tones, including browns and grays, with some white patches.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_187.jpg	a insect on a rock.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_156.jpg	peeling paint.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_123.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_021.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Arhopalus/Arhopalus_118.jpg	A insect on tree bark.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_032.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_122.jpg	The insect is set against a plain, dark background.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_040.jpg	The background is plain gray.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_052.jpg	Green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_064.jpg	The background is plain and light gray.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_030.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_008.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Bactrocera/Bactrocera_075.jpg	A insect on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_060.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_067.jpg	The insect is set against a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_078.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_087.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_014.jpg	The insect is set against a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_081.jpg	The insect has a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_069.jpg	The insect has a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Batocera/Batocera_068.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_146.jpg	A insect on a yellow flower.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_161.jpg	A insect on moss and twigs.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_017.jpg	Green and yellow flowers.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_140.jpg	Green leafy background.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_194.jpg	The insect is on a white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_031.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_053.jpg	The background is blurred green.
+/home/whx/Dataset/species196/species196_insecta/train/Bruchus/Bruchus_082.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_101.jpg	a insect on a textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_183.jpg	Transparent plastic.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_040.jpg	A insect is on a green stem with a blurred green background.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_105.jpg	The background is a textured, light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_209.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_072.jpg	Green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_100.jpg	A insect rests on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Cacoecimorpha/Cacoecimorpha_079.jpg	The insect is set against a dark, solid background.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_053.jpg	The background of the insect is white.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_005.jpg	The background of the insect is white.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_018.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_086.jpg	The background consists of light-colored, spherical objects with holes.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_016.jpg	The background is a plain, light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_050.jpg	The insect has a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_085.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Callosobruchus/瘤背豆象_021.jpg	The background is a light, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_028.jpg	Green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_121.jpg	The insect is set against a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_043.jpg	A insect is set against a plain, light gray background.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_031.jpg	The background is a dark, moist surface.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_004.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_052.jpg	A insect against a dark, speckled background.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_124.jpg	The insect has a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Ceratitis/Ceratitis_129.jpg	Green, blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_020.jpg	Green foliage.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_009.jpg	The background of the insect is green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_048.jpg	Green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_045.jpg	Green leaf with small white spots.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_097.jpg	The background of the insect is a solid, warm brown color.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_091.jpg	The background of the insect is a green leaf with brown spots.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_026.jpg	Green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Ceroplastes/Ceroplastes_034.jpg	The background of the insect is a dark, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_210_new.jpg	The background of the insect is blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_265_new.jpg	Green, blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_146_new.jpg	Green grass.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_217_new.jpg	white snow.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_226_new.jpg	The background of the insect is blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_062_new.jpg	The background of the insect is dark.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_171_new.jpg	The background of the insect is blurred, with hints of green and white.
+/home/whx/Dataset/species196/species196_insecta/train/Chionaspis/Chionaspis_049_new.jpg	The background of the insect is dark.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_100.jpg	A insect is on a green, needle-like plant.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_120.jpg	A insect on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_163.jpg	A insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_076.jpg	A insect rests on a textured surface with a mix of light and dark tones.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_151.jpg	The insect is on a black background.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_074.jpg	A insect is on a concrete surface with a blue wall behind it.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_032.jpg	A insect is on a white mesh background.
+/home/whx/Dataset/species196/species196_insecta/train/Choristoneura/Choristoneura_199.jpg	The insect is set against a black background.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_125.jpg	The insect is on a light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_127.jpg	A insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_169.jpg	The insect is on a beige surface.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_173.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_088.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_160.jpg	A insect on a white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_165.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Conotrachelus/Conotrachelus_315.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Contarinia/Contarinia_065.jpg	The background is black.
+/home/whx/Dataset/species196/species196_insecta/train/Contarinia/Contarinia_021.jpg	The background of the insect is a light, neutral color.
+/home/whx/Dataset/species196/species196_insecta/train/Contarinia/Contarinia_064.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Contarinia/Contarinia_052.jpg	a insect on white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Contarinia/Contarinia_036.jpg	The background of the insect is dark and speckled with small particles.
+/home/whx/Dataset/species196/species196_insecta/val/Contarinia/Contarinia_044.jpg	The background is dark.
+/home/whx/Dataset/species196/species196_insecta/train/Contarinia/Contarinia_062.jpg	A insect is on a green, textured surface with yellow elements.
+/home/whx/Dataset/species196/species196_insecta/val/Contarinia/Contarinia_014.jpg	The background is a clear blue sky.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_028.jpg	The background of the insect is a dark, textured surface with white patches.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_071.jpg	The background of the insect is blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_057.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_059.jpg	The background of the insect is a dark, earthy, and textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_047.jpg	The insect is on a white, speckled surface.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_093.jpg	The background of the insect is a mix of dark and light brown, resembling wood.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_098.jpg	A insect on a clear, smooth surface.
+/home/whx/Dataset/species196/species196_insecta/train/Coptotermes/Coptotermes_074.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_011.jpg	A insect on white fabric.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_048.jpg	The background is a clear, reflective surface.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_031.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_085.jpg	A insect on wood and debris.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_027.jpg	The insect is set against a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_088.jpg	The insect is on a brown, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_062.jpg	The background is a plain, light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptophlebia/Cryptophlebia_083.jpg	The insect is on a plain, light gray background.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_008.jpg	Green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_137.jpg	A insect on a textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_011.jpg	A insect on a wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_164.jpg	A insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_044.jpg	A insect on a textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_147.jpg	a insect on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_006.jpg	Green, blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Cryptorrhynchus/Cryptorrhynchus_039.jpg	The background is a plain, light green.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_006_new.jpg	Wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_005_new.jpg	The insect is on a reddish-brown surface.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_025.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_067_new.jpg	The background of the insect is a textured, dark surface.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_003_new.jpg	The insect is on a green textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_058_new.jpg	The background is a light, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_016_new.jpg	dark, leafy, textured.
+/home/whx/Dataset/species196/species196_insecta/train/Ctenopseustis/Ctenopseustis_045_new.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_084.jpg	A insect on a brown leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_174.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_140.jpg	The insect is on a white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_100.jpg	The background is blurred green foliage.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_185.jpg	A insect on a flower with a green background.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_067.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_094.jpg	The background is blurred green.
+/home/whx/Dataset/species196/species196_insecta/train/Curculio/Curculio_161.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Deudorix/Deudorix_037.jpg	The background is sandy with small plants.
+/home/whx/Dataset/species196/species196_insecta/train/Deudorix/Deudorix_023.jpg	The background is plain and light-colored.
+/home/whx/Dataset/species196/species196_insecta/val/Deudorix/Deudorix_006.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Deudorix/Deudorix_018.jpg	A insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Deudorix/Deudorix_013.jpg	The background is blurred, showing earthy tones and indistinct shapes.
+/home/whx/Dataset/species196/species196_insecta/train/Deudorix/Deudorix_024.jpg	The background is a solid, dark green.
+/home/whx/Dataset/species196/species196_insecta/train/Deudorix/Deudorix_017.jpg	The background is blurred green.
+/home/whx/Dataset/species196/species196_insecta/train/Deudorix/Deudorix_016.jpg	The background of the insect is red and green.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_146.jpg	Green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_153.jpg	The background is green.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_189.jpg	A insect on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_031.jpg	Blurred green and white.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_007.jpg	Green and blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_001.jpg	Green leaf, blurred sky.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_017.jpg	The background of the insect is white.
+/home/whx/Dataset/species196/species196_insecta/train/Diabrotica/Diabrotica_012.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_114.jpg	The insect is on a plain, light-colored background.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_031.jpg	The insect is on a textured, light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_009.jpg	A insect on white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_118.jpg	The insect is on a white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_006.jpg	A insect on white fabric.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_098.jpg	A insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_082.jpg	A insect on green mesh.
+/home/whx/Dataset/species196/species196_insecta/train/Diaphania/Diaphania_074.jpg	The insect is on a white fabric background.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_031.jpg	The insect is set against a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_014.jpg	a insect on a beige surface.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_002.jpg	A insect is on a reflective surface with a brown background.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_094.jpg	A insect on a textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_024.jpg	A insect on a beige fabric.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_077.jpg	The background is a gradient of green and brown.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_069.jpg	Blue background with specks.
+/home/whx/Dataset/species196/species196_insecta/train/Diaprepes/Diaprepes_087.jpg	A insect is on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_013.jpg	The background of the insect is a plant stem with visible damage.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_007.jpg	The insect is on a plain, neutral background.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_064.jpg	A insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_008.jpg	Yellow flowers.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_014.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_022.jpg	The background of the insect is a tree trunk with visible wood shavings and a hole.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_012.jpg	The insect is on a plain, light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Diatraea/Diatraea_002_new.jpg	The background is a uniform gray.
+/home/whx/Dataset/species196/species196_insecta/train/Dryocoetes/Dryocoetes_047.jpg	The background of the insect is a textured, earthy surface.
+/home/whx/Dataset/species196/species196_insecta/train/Dryocoetes/Dryocoetes_039.jpg	A insect on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Dryocoetes/Dryocoetes_004.jpg	The background is plain and light-colored.
+/home/whx/Dataset/species196/species196_insecta/val/Dryocoetes/Dryocoetes_010.jpg	A insect is on a plain, light background.
+/home/whx/Dataset/species196/species196_insecta/train/Dryocoetes/Dryocoetes_008.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Dryocoetes/Dryocoetes_063.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Dryocoetes/Dryocoetes_036.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Dryocoetes/Dryocoetes_073.jpg	A insect is on a white stick against a teal background.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_013.jpg	The background of the insect is blurred, with green and white hues.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_014.jpg	The background of the insect appears to be a dark, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_085.jpg	The background of the insect is a green, leafy environment.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_110.jpg	The background of the insect is blurred green foliage.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_118.jpg	Green and blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_148.jpg	The background of the insect is blurred green.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_161.jpg	The background is a plain, light gray.
+/home/whx/Dataset/species196/species196_insecta/train/Eriosoma/Eriosoma_108.jpg	Green leaves.
+/home/whx/Dataset/species196/species196_insecta/val/Eulecanium/Eulecanium_053.jpg	The background of the insect is blurred green and brown.
+/home/whx/Dataset/species196/species196_insecta/train/Eulecanium/Eulecanium_087.jpg	Green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Eulecanium/Eulecanium_027.jpg	The background of the insect is blurred, with shades of green and white.
+/home/whx/Dataset/species196/species196_insecta/train/Eulecanium/Eulecanium_068.jpg	The background of the insect is blurred green.
+/home/whx/Dataset/species196/species196_insecta/train/Eulecanium/Eulecanium_089.jpg	The background of the insect is dark, textured bark.
+/home/whx/Dataset/species196/species196_insecta/train/Eulecanium/Eulecanium_077.jpg	The background of the insect is blurred green.
+/home/whx/Dataset/species196/species196_insecta/train/Eulecanium/Eulecanium_064.jpg	The background of the insect is green and textured.
+/home/whx/Dataset/species196/species196_insecta/train/Eulecanium/Eulecanium_090.jpg	The background is a plain white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_040.jpg	a insect on sandy ground.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_024.jpg	Green, blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_081.jpg	Green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_049.jpg	A insect is on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_045.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_009.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_007.jpg	A insect is on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Gonipterus/Gonipterus_052.jpg	A insect on a yellow and white fabric.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_048.jpg	The background is green foliage.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_139.jpg	a insect on white textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_093.jpg	A insect on a light wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_092.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_074.jpg	A insect on pink flower.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_140.jpg	The background is a textured, neutral surface.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_050.jpg	The insect is on a textured, light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Helicoverpa/Helicoverpa_015.jpg	The background is a textured gray surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_091.jpg	The insect is on a textured, light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_096.jpg	a insect on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_042.jpg	The insect is on a red, fuzzy plant.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_073.jpg	a insect on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_070.jpg	A insect rests on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_028.jpg	The insect is on a light blue fabric.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_089.jpg	a insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Hemerocampa/Hemerocampa_078.jpg	a insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_009.jpg	The insect is set against a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_047_new.jpg	a insect on white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_024_new.jpg	a insect on wood with greenery.
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_020.jpg	A insect on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_062_new.jpg	floral pattern
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_070_new.jpg	The background of the insect is blurred, with green leaves and a hint of yellow.
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_014.jpg	The insect is set against a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Hoplocerambyx/Hoplocerambyx_040.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_183.jpg	The background of the insect is a blurred, textured surface, likely wood.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_017.jpg	A insect on a white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_006.jpg	A insect on green surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_052.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_118.jpg	A insect on a human finger.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_021.jpg	a insect on a light surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_112.jpg	The background is a blurred natural setting.
+/home/whx/Dataset/species196/species196_insecta/train/Hylobius/Hylobius_180.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_223_new.jpg	The background is blurred, with greenery and a hint of a building.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_341_new.jpg	a insect on textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_113_new.jpg	A insect is on a wooden surface with a yellowish background.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_281_new.jpg	A insect on textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_267_new.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_422_new.jpg	A insect on tree bark.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_510_new.jpg	The background is a light, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hylotrupes/Hylotrupes_151_new.jpg	A insect on a textured fabric.
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_018_new.jpg	dark background
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_093_new.jpg	A insect on reflective surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_009_new.jpg	Green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_052_new.jpg	wooden surface
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_053_new.jpg	The background of the insect is a plain, light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_001_new.jpg	A insect on white fabric.
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_037_new.jpg	skin
+/home/whx/Dataset/species196/species196_insecta/train/Hylurgus/Hylurgus_010.jpg	A insect on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_067.jpg	A insect is on a leaf with webbing.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_008.jpg	a insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_011.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_165.jpg	The background is dark.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_107.jpg	The background is dark.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_051.jpg	The background is black.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_094.jpg	A insect is on a leaf with spots.
+/home/whx/Dataset/species196/species196_insecta/train/Hyphantria/Hyphantria_172.jpg	The background of the insect is sandy with small pebbles.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_023.jpg	A insect on tiled floor.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_005.jpg	A insect on blue fabric.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_026.jpg	A insect on a speckled surface.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_045.jpg	Translucent, beige, textured.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_040.jpg	The background of the insect appears to be a textured, possibly wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_028.jpg	A insect on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_043.jpg	The background consists of small, round, beige and dark seeds.
+/home/whx/Dataset/species196/species196_insecta/train/Incisitermes/Incisitermes_022.jpg	A insect on graph paper.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_044.jpg	Green leaves, blurred background.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_039.jpg	A insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_087.jpg	Green leafy background.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_191.jpg	Green leaf with holes.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_032.jpg	The background is a solid blue.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_117.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_157.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Leptinotarsa/Leptinotarsa_131.jpg	The background is green foliage.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_060.jpg	Green leaf with veins.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_081.jpg	The background of the insect is white.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_038.jpg	A insect rests on a leaf with white spots.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_075.jpg	a insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_069.jpg	The background is a light, neutral color.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_050.jpg	The insect is set against a plain, light green background.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_047.jpg	Green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Liriomyza/Liriomyza_006.jpg	A insect is on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_028.jpg	The background of the insect is a blurred, earthy surface.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_019.jpg	A insect on a textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_042.jpg	The insect is on a white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_021.jpg	The insect is on a light, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_074.jpg	A insect on a leaf with a blue background.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_003.jpg	A insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_014.jpg	A insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Lissorhoptrus/Lissorhoptrus_037.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_007.jpg	The insect is set against a dark background.
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_086.jpg	The insect is on a plain, light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_029_new.jpg	wooden surface
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_041.jpg	A insect on grass.
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_069.jpg	The background is a solid, muted purple.
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_047.jpg	The insect is on a plain, light-colored background.
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_017_new.jpg	The background is a light blue.
+/home/whx/Dataset/species196/species196_insecta/train/Listronotus/Listronotus_003.jpg	A insect on green background.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_016.jpg	A insect rests on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_067.jpg	A insect on a wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_075.jpg	The background is plain and light-colored.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_073.jpg	The background is a light, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_004.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_093.jpg	A insect is on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_108.jpg	The insect is on a light-colored background.
+/home/whx/Dataset/species196/species196_insecta/train/Lobesia/Lobesia_080.jpg	A insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_111.jpg	A insect on a wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_171.jpg	A insect has a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_094.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_090.jpg	The background is blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_227.jpg	A insect on tree bark.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_046.jpg	Lichen-covered rock.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_005.jpg	A insect on a rock with a green background.
+/home/whx/Dataset/species196/species196_insecta/train/Monochamus/Monochamus_017.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_075.jpg	Weathered wood.
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_028.jpg	A insect on sandy ground.
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_151.jpg	A insect is on a light background.
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_001.jpg	wooden surface
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_027.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_147.jpg	The background of the insect is a reddish surface with small particles.
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_030.jpg	The background of the insect is sandy and rocky.
+/home/whx/Dataset/species196/species196_insecta/train/Naupactus/Naupactus_146.jpg	A insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_119.jpg	A insect on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_007.jpg	Tree bark.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_018.jpg	Green leaf with veins.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_112.jpg	A insect on blue surface.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_024.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_095.jpg	A insect on a white, speckled surface.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_028.jpg	A insect on rough, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Neoclytus/Neoclytus_079.jpg	A insect on a rock.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_035.jpg	The insect is set against a plain gray background.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_009.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_040.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_080.jpg	A insect on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_086.jpg	A insect is on a white background with a label.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_031.jpg	The background of the insect is a textured, sandy, and organic surface.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_067.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Opogona/Opogona_036.jpg	A insect on dried grass.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_052.jpg	a insect on textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_004.jpg	The background is dark.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_012.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_035.jpg	Green foliage.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_031.jpg	A insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_037.jpg	Green leaf with white lines.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_030.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Pantomorus/Pantomorus_086.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_007_new.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_046_new.jpg	The background is a textured white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_116_new.jpg	A insect on a white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_094_new.jpg	The background is a textured white fabric.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_030_new.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_023_new.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_108_new.jpg	A insect on a textured surface with water droplets.
+/home/whx/Dataset/species196/species196_insecta/train/Pharaxonotha/Pharaxonotha_009.jpg	A insect on a white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_043.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_047.jpg	A insect has a green background.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_036.jpg	A insect on a grid background.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_027.jpg	A insect is on a ruler.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_073.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_099.jpg	A insect is pinned against a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_031.jpg	A insect is on a wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Phoracantha/Phoracantha_011.jpg	A insect is on a plant with green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_006.jpg	wooden surface
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_040.jpg	Green pine needles.
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_065.jpg	The insect is on a light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_005.jpg	A insect on a leaf with green background.
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_003.jpg	A insect on a green leaf with blurred background.
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_042.jpg	Green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_100.jpg	A insect on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Pissodes/Pissodes_099.jpg	The background is plain and light-colored.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_021.jpg	Dark and blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_023.jpg	Green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_059.jpg	Green leaf with small dots.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_081.jpg	The background of the insect is dark.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_033.jpg	Green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_062.jpg	The background of the insect is a textured, mossy surface.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_067.jpg	The background of the insect is dark and blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Planococ/Planococ_083.jpg	The background of the insect is orange.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_012.jpg	Green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_023.jpg	Green leaf with white substance.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_013.jpg	Green leafy background.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_080.jpg	Green, textured.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_060.jpg	The background of the insect is blurred green.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_066.jpg	The background of the insect is green.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_009.jpg	Green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Planococcus/Planococcus_003.jpg	A insect on green moss.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_065.jpg	A insect on a wooden surface.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_038.jpg	Green leaves, blurred background.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_049.jpg	A insect on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_021.jpg	The background of the insect is a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_062.jpg	The background is blurred green.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_087.jpg	The background of the insect is a leafy green environment.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_030.jpg	A insect on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Popillia/Popillia_090.jpg	Green leaf with holes.
+/home/whx/Dataset/species196/species196_insecta/train/Prays/Prays_010.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Prays/Prays_016.jpg	A insect on a brown leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Prays/Prays_033.jpg	The background of the insect appears to be a textured, possibly metallic surface with a reflective quality.
+/home/whx/Dataset/species196/species196_insecta/val/Prays/Prays_024.jpg	A insect is on a white background with a ruler at the top.
+/home/whx/Dataset/species196/species196_insecta/train/Prays/Prays_007.jpg	The background is blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Prays/Prays_003.jpg	The insect is set against a plain black background.
+/home/whx/Dataset/species196/species196_insecta/train/Prays/Prays_030.jpg	A insect is on a stick with a blurred background.
+/home/whx/Dataset/species196/species196_insecta/train/Prays/Prays_027.jpg	A insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_156.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_011.jpg	A insect on sandy surface.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_092.jpg	The background of the insect is white.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_009_new.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_128.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_008_new.jpg	a insect on white background.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_157.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Ptinus/Ptinus_016.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_094.jpg	The background of the insect is dark and textured, with scattered debris and wood shavings.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_004.jpg	The background of the insect is a textured, brown surface with some white patches.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_085.jpg	The background is blurred, with hints of brown and green.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_106.jpg	The insect has a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_042.jpg	The background is a textured, earthy surface.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_035.jpg	The background of the insect is dark and earthy.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_113.jpg	The background of the insect is dark and textured, resembling soil.
+/home/whx/Dataset/species196/species196_insecta/train/Reticulitermes/Reticulitermes_061.jpg	Decaying wood.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_007.jpg	A insect is set against a plain, light background.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_079.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_100.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_135.jpg	Green, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_030.jpg	A insect on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_003.jpg	The background is plain and light-colored.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_061.jpg	A insect against a blue background.
+/home/whx/Dataset/species196/species196_insecta/train/Rhagoletis/Rhagoletis_119.jpg	A insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_061.jpg	A insect on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_120.jpg	A insect is on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_179.jpg	a insect on green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_081.jpg	The background is green and blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_064.jpg	a insect on tree bark.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_017.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_130.jpg	The insect has a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Saperda/Saperda_031.jpg	a insect on green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_020.jpg	The insect is on a gray, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_049.jpg	The background of the insect is a mix of soil and organic debris.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_036.jpg	a insect on rocks.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_064.jpg	The background consists of dry leaves, twigs, and small rocks.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_010.jpg	a insect on sandy ground.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_016.jpg	The background of the insect is a mix of soil, small rocks, and dried plant material.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_018.jpg	A insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Scyphophorus/Scyphophorus_033.jpg	The insect is on a sandy, dry, and leafy ground.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_025.jpg	The background is a solid light blue.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_010.jpg	The insect is on a plain, light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_021.jpg	The background is plain and light-colored.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_077.jpg	A insect is mounted on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_019.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_023.jpg	A insect is on a light brown stick against a blue background.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_031.jpg	The background is plain and light-colored.
+/home/whx/Dataset/species196/species196_insecta/train/Sirex/Sirex_022.jpg	A insect is on a light brown stick against a blue background.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_067.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_039.jpg	The background is green.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_038.jpg	The background of the insect appears to be a textured, light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_055.jpg	The background is a light, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_031.jpg	The background is a light, blurred surface.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_058.jpg	The insect is set against a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_010.jpg	The background is a gradient of gray.
+/home/whx/Dataset/species196/species196_insecta/train/Solenopsis/Solenopsis_008.jpg	The background is blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_088.jpg	The insect is on a rough, light-colored rock.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_133.jpg	a insect on leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_128.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_012.jpg	A insect on a reddish-brown surface.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_054.jpg	The background of the insect is soil and green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_129.jpg	a insect on rocky surface.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_144.jpg	a insect on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Spodoptera/Spodoptera_060.jpg	The insect is on a rough, dark rock surface.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_022.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_141.jpg	A insect on a textured surface with greenery in the background.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_088.jpg	A insect is mounted on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_165.jpg	A insect on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_108.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_181.jpg	A insect is on a yellow background.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_195.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Stathmopoda/Stathmopoda_069.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/val/Taeniothrips/Taeniothrips_014.jpg	The background is a plain light blue.
+/home/whx/Dataset/species196/species196_insecta/train/Taeniothrips/Taeniothrips_033.jpg	A insect on a leaf.
+/home/whx/Dataset/species196/species196_insecta/val/Taeniothrips/Taeniothrips_001.jpg	A insect has a light green and beige background.
+/home/whx/Dataset/species196/species196_insecta/val/Taeniothrips/Taeniothrips_003.jpg	A insect on a white surface with yellow flowers.
+/home/whx/Dataset/species196/species196_insecta/val/Taeniothrips/Taeniothrips_006.jpg	The insect is set against a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Taeniothrips/Taeniothrips_020.jpg	The insect is set against a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Taeniothrips/Taeniothrips_002.jpg	A insect on a green, fibrous surface.
+/home/whx/Dataset/species196/species196_insecta/train/Taeniothrips/Taeniothrips_032.jpg	A insect on a leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_082.jpg	A insect on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_089.jpg	The insect is on a white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_156.jpg	The background is blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_110.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_153.jpg	A insect on tree bark.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_002.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_033.jpg	A insect on a tree ring.
+/home/whx/Dataset/species196/species196_insecta/train/Tetropium/Tetropium_139.jpg	A insect on tree bark.
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_079.jpg	The insect is on a ground with dirt, rocks, and twigs.
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_194.jpg	A insect is on a light blue surface.
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_072.jpg	wooden surface
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_189.jpg	The insect is on a ground surface with small twigs and dirt.
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_185.jpg	The background is green.
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_050.jpg	The background is a blurred, warm brown.
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_107.jpg	A insect on rocky terrain.
+/home/whx/Dataset/species196/species196_insecta/train/Thaumetopoea/Thaumetopoea_132.jpg	The background of the insect is a mix of dark and light textures, possibly soil and twigs.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_060.jpg	Green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_025.jpg	Green leaf, blurred sunlight.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_029.jpg	Green leaves, blurred.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_024.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_041.jpg	Green leaf, white wall.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_045.jpg	The background of the insect is a textured, light brown surface with small water droplets.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_056.jpg	Green leafy background.
+/home/whx/Dataset/species196/species196_insecta/train/Toxotrypana/Toxotrypana_050.jpg	green leafy surface
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_044.jpg	A insect is on a light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_018.jpg	A insect on a light, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_080.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_043.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_048.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_029.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_081.jpg	The insect is on a yellow background.
+/home/whx/Dataset/species196/species196_insecta/train/Tribolium/Tribolium_045.jpg	A insect on a rock, blurred background.
+/home/whx/Dataset/species196/species196_insecta/train/Trogoderma/Trogoderma_046.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/val/Trogoderma/Trogoderma_027.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Trogoderma/Trogoderma_028.jpg	The insect has a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Trogoderma/Trogoderma_012.jpg	The background is plain gray.
+/home/whx/Dataset/species196/species196_insecta/val/Trogoderma/Trogoderma_039.jpg	The background is dark.
+/home/whx/Dataset/species196/species196_insecta/train/Trogoderma/Trogoderma_038.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Trogoderma/Trogoderma_042.jpg	A insect is on a white surface with grid lines.
+/home/whx/Dataset/species196/species196_insecta/train/Trogoderma/Trogoderma_016.jpg	The background is plain white.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_039.jpg	a insect on stone wall.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_089.jpg	A insect on white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_049.jpg	A insect on tiled floor.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_112.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_022.jpg	Green leafy background.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_077.jpg	a insect on white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_023.jpg	The background is blurred, showing green foliage and a light-colored surface.
+/home/whx/Dataset/species196/species196_insecta/train/Vesperus/Vesperus_014.jpg	A insect on textured white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_096.jpg	Green foliage.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_021.jpg	The background is a plain, light blue.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_111.jpg	The background is dark.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_010.jpg	Green leaf with white fibers.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_062.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_029.jpg	Green leaves.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_079.jpg	Green leaf with veins.
+/home/whx/Dataset/species196/species196_insecta/train/Viteus/Viteus_078.jpg	The background of the insect is a blurred, light brown surface.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_023.jpg	The background is white and textured.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_152.jpg	The background of the insect is white.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_102.jpg	A insect on a textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_147.jpg	The insect is on a white surface.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_115.jpg	The background is white.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_021.jpg	The insect is on a plain white background.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_109.jpg	The insect is on a white background.
+/home/whx/Dataset/species196/species196_insecta/train/Xyleborus/Xyleborus_075.jpg	The background is a light, textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_137.jpg	A insect on lichen-covered surface.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_129.jpg	a insect on a textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_169.jpg	The insect is on dark, soil-like surface.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_054.jpg	A insect on wood.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_035.jpg	A insect on a textured surface.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_026.jpg	A insect on a green leaf.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_011.jpg	A insect on a rock with moss.
+/home/whx/Dataset/species196/species196_insecta/train/Xylotrechus/Xylotrechus_041.jpg	a insect on rough, textured surface.

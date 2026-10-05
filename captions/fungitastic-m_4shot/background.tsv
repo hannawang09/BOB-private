@@ -1,0 +1,785 @@
+image	response
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238468067.JPG	The background of the fungus is a light, translucent gray.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465898713.JPG	The background of the fungus consists of soil, leaves, and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2608811697.JPG	The background is plain white.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238468067.JPG	The background is plain white.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238219862.JPG	A fungus on a gravel surface.
+/home/whx/Dataset/fungitastic-m/train/720p/4-3332302304.JPG	A fungus grows amidst grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238221416.JPG	A fungus rests on grass and moss.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465860512.JPG	A fungus on mossy grass.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465887388.JPG	The background of the fungus is a forest floor covered in dry leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2351007181.JPG	A fungus grows amidst moss and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238530172.JPG	A fungus on forest floor with leaves and debris.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3922621612.JPG	A fungus in a forest setting with leaves and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238517623.JPG	A fungus grows amidst dark, mossy, and decaying wood.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3382564307.JPG	Blurred, earthy tones.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238416945.JPG	A fungus on a green leaf.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238525857.JPG	The background is blurred, with green and brown hues.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3916264372.JPG	The background of the fungus is dark.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238574449.JPG	A fungus on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2821598339.JPG	A fungus rests on mossy ground.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465882913.JPG	A fungus rests on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238500683.JPG	A fungus is surrounded by grass and moss.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3948709311.JPG	A fungus on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2608812132.JPG	A fungus with a yellow cap and white spots, held against a blurred background.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3340172438.JPG	A fungus in grass with clover.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238478973.JPG	Blurred, earthy tones.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238530980.JPG	The background of the fungus is a textured, earthy surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238363229.JPG	The background of the fungus is a mix of brown and dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2984629348.JPG	The background is blurred, with earthy tones and a dark, organic surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2449442616.JPG	The background of the fungus is a close-up of a hand holding a piece of decaying wood.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4100093286.JPG	The background of the fungus is a light, translucent, and slightly granular texture.
+/home/whx/Dataset/fungitastic-m/val/720p/2-4100089855.JPG	The background of the fungus is a dried, brown leaf.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3964842483.JPG	A fungus on a wet, brown leaf.
+/home/whx/Dataset/fungitastic-m/train/720p/0-4847350273.JPG	A fungus on weathered wood.
+/home/whx/Dataset/fungitastic-m/test/720p/2-4465883614.JPG	The background of the fungus consists of grass, leaves, and dried plant material.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238514874.JPG	A fungus is surrounded by fallen leaves and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3412515319.JPG	A fungus on a textured, light-colored surface.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2238527213.JPG	A fungus grows amidst green moss and grass.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3944339523.JPG	Grass and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238403240.JPG	A fungus is placed on a transparent ruler with a blue background.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2425492834.JPG	A fungus on moss in a clear container.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237931434.JPG	The background of the fungus is a wet, leafy forest floor.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3925717612.JPG	A fungus is surrounded by leaves, twigs, and soil.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465888838.JPG	The background of the fungus consists of dark, decaying leaves and soil.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3925718319.JPG	A fungus rests on moss and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238217137.JPG	The background of the fungus is a mix of soil and small rocks.
+/home/whx/Dataset/fungitastic-m/train/720p/4-2238468608.JPG	The background of the fungus is a light, cloudy, and slightly granular texture.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3345615392.JPG	The background of the fungus is a mix of soil, leaves, and debris.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238342986.JPG	A fungus on a concrete surface.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3052842305.JPG	A fungus is surrounded by grass, sand, and small plants.
+/home/whx/Dataset/fungitastic-m/test/720p/4-4465902719.JPG	The background of the fungus is a light gray, with some red and pinkish hues.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465900652.JPG	The background of the fungus is a mix of soil, twigs, and green moss.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2238583087.JPG	The background of the fungus consists of grass, leaves, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238374753.JPG	The background of the fungus is a forest floor with moss, leaves, and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2874304379.JPG	A fungus is surrounded by green moss and fallen leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465870508.JPG	A fungus is on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238421933.JPG	The background of the fungus is a plain, light-colored surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238219934.JPG	a fungus on moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237962849.JPG	A fungus is surrounded by brown leaves on the forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238286685.JPG	A fungus is surrounded by green moss and small plants.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237884186.JPG	A fungus is on a white surface with a ruler for scale.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2984632363.JPG	A fungus on a stick against a blue fabric background.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2868470345.JPG	A fungus in a grassy, natural setting.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2981240301.JPG	Dark, blurry, indistinct.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3410062337.JPG	A fungus is on a stick, with a dark, blurry background.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465879269.JPG	The background of the fungus is a light, cloudy white with scattered small particles.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238226767.JPG	A fungus on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238506890.JPG	The background of the fungus consists of grass, leaves, and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2237967942.JPG	A fungus rests on grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/8-2238426722.JPG	The background of the fungus is a light, cloudy gray with scattered dark spots.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2883254312.JPG	A fungus on a white surface.
+/home/whx/Dataset/fungitastic-m/train/720p/6-2238426722.JPG	A fungus rests on mossy ground.
+/home/whx/Dataset/fungitastic-m/val/720p/0-4100088441.JPG	The background of the fungus is a uniform, orange-brown hue.
+/home/whx/Dataset/fungitastic-m/train/720p/3-3018980314.JPG	A fungus grows on decaying wood and debris.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3913248453.JPG	A fungus grows on a mossy, decaying log.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238570510.JPG	The background of the fungus is dark and earthy.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3410062321.JPG	The background of the fungus is a mix of dark, reddish-brown wood chips and soil.
+/home/whx/Dataset/fungitastic-m/test/720p/2-4465885694.JPG	A fungus on a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238498998.JPG	A fungus is surrounded by grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3059596307.JPG	A fungus on a concrete surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2860298301.JPG	The background is plain white.
+/home/whx/Dataset/fungitastic-m/train/720p/7-2238471844.JPG	A fungus is surrounded by dry leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/6-2238471913.JPG	The background of the fungus is a light, translucent area with a small, dark, circular object.
+/home/whx/Dataset/fungitastic-m/test/720p/5-4465875144.JPG	A fungus on weathered wood.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465874031.JPG	The background of the fungus is a mix of soil, small rocks, and decaying wood.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238538951.JPG	The background is dark and textured.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238488324.JPG	Green mossy surface.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4847344674.JPG	The background of the fungus is light blue.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238488324.JPG	A fungus on mossy bark.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238468720.JPG	A fungus on moss.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3332300302.JPG	A fungus on a white surface with a wooden edge.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238563724.JPG	The background of the fungus is a mix of soil, twigs, and dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238473776.JPG	A fungus is surrounded by grass, leaves, and twigs.
+/home/whx/Dataset/fungitastic-m/test/720p/3-4465885594.JPG	The background of the fungus is a mix of soil, small rocks, and twigs.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465885594.JPG	The background of the fungus is a plain, light-colored surface.
+/home/whx/Dataset/fungitastic-m/test/720p/3-4465899404.JPG	The background of the fungus is a light, uniform color.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238471442.JPG	The background of the fungus is a light, cloudy, and somewhat blurry environment.
+/home/whx/Dataset/fungitastic-m/val/720p/1-4100090927.JPG	A fungus rests on autumn leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2303159254.JPG	A fungus is surrounded by grass, leaves, and small twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2901937472.JPG	The background is a pale, light-colored surface with scattered small particles.
+/home/whx/Dataset/fungitastic-m/train/720p/1-4847338337.JPG	The background of the fungus is a mix of green grass, brown leaves, and patches of moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2821600316.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465879232.JPG	A fungus in grass and clover.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2812999308.JPG	A fungus rests on green leaves and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3324330345.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2238494185.JPG	The background is dark.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4169765485.JPG	A fungus on a wooden surface with soil and debris.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4169765485.JPG	A fungus on a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3122828316.JPG	The background of the fungus is a light purple hue with scattered small particles.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238496189.JPG	A fungus in grass with red cap and white stem.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2383042513.JPG	The background of the fungus is a mix of green moss and dry grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2351006230.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465863082.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2868476301.JPG	The background is a light, uniform color.
+/home/whx/Dataset/fungitastic-m/train/720p/4-2238495567.JPG	The background of the fungus is a light, translucent surface with scattered particles.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2804913318.JPG	The background is a light, uniform color with faint, scattered spots.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2237919595.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/2-3970594466.JPG	The fungus is on a white paper towel.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3419921338.JPG	A fungus grows on decaying wood.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237940567.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3414823325.JPG	A fungus grows on grass and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238513708.JPG	A fungus is surrounded by pine needles and a pine cone.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3964841395.JPG	Green grass and moss.
+/home/whx/Dataset/fungitastic-m/val/720p/2-4465863334.JPG	The background consists of dried, brown, fibrous material.
+/home/whx/Dataset/fungitastic-m/train/720p/4-2238556474.JPG	A fungus is surrounded by pine needles and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238215380.JPG	Grassy background.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238373617.JPG	A fungus lies on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238475901.JPG	The background of the fungus is a dark, mossy surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2862702376.JPG	Grassy background.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3916264459.JPG	A fungus is surrounded by vibrant green moss.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3916264459.JPG	A fungus is surrounded by green moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3419923340.JPG	The background is dark blue.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238483585.JPG	A fungus on a stone surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238469501.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238555255.JPG	A fungus on forest floor with dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2273188035.JPG	The background of the fungus is a mix of soil, moss, and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238537605.JPG	The background of the fungus consists of dried leaves and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237932258.JPG	A fungus is surrounded by green leaves and brown soil.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3894180350.JPG	The background of the fungus is a mix of soil, grass, and decaying organic matter.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238559759.JPG	A fungus rests on moss and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2874304361.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3944340606.JPG	The background of the fungus is a mix of soil, leaves, and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238340349.JPG	The background of the fungus is a light, granular texture.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238345117.JPG	Fall leaves and twigs.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465879402.JPG	The background of the fungus is a forest floor covered in brown leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-4847352311.JPG	A fungus is surrounded by dry pine needles and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2868482357.JPG	The background of the fungus is a light, cloudy, and somewhat granular texture.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238457114.JPG	A fungus is surrounded by moss and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2860306355.JPG	A fungus is on a light, blurry background.
+/home/whx/Dataset/fungitastic-m/val/720p/2-4100095581.JPG	A fungus on a white background.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238332517.JPG	A fungus is on forest floor with pine needles and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238473618.JPG	A fungus on snow.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465879717.JPG	The background of the fungus is a forest floor with moss, twigs, and pine needles.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2421823342.JPG	The background of the fungus consists of grass, leaves, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3334596391.JPG	The background of the fungus is soil and debris.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2860306409.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238473595.JPG	A fungus on a plain white background.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238200075.JPG	A fungus on mossy grass.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465862137.JPG	The background of the fungus is a forest floor with scattered leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238474031.JPG	A fungus on a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3410061323.JPG	A fungus rests on a bed of brown autumn leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3358348303.JPG	A fungus is surrounded by brown leaves and forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2620425301.JPG	A fungus is surrounded by grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465874962.JPG	A fungus rests on forest floor with dried leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238466100.JPG	The background of the fungus is a mix of soil, small twigs, and pine needles.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2238526215.JPG	The background is a blurred mix of green and brown, suggesting a forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238052763.JPG	A fungus grows amidst green moss and pine needles.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2989730344.JPG	A fungus is surrounded by green moss and dry twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3392597312.JPG	A fungus is surrounded by green moss and a pine cone.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2816371327.JPG	The background is plain white.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2821600335.JPG	A fungus on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238501828.JPG	A fungus is on grass.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465875413.JPG	A fungus is surrounded by moss, leaves, and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238161741.JPG	A fungus grows amidst moss, leaves, and decaying wood.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465877058.JPG	The background of the fungus is a pale, uniform yellow.
+/home/whx/Dataset/fungitastic-m/test/720p/3-4465863035.JPG	The background of the fungus is a mix of green moss and brown earth.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238564543.JPG	The background of the fungus is a mix of dark soil, moss, and scattered leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2425492443.JPG	The background of the fungus is a mix of green foliage, lichen, and earthy tones.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3925714823.JPG	The background of the fungus is dark and earthy, with some green foliage and brown debris.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238332732.JPG	The background of the fungus is a mix of green moss, small plants, and brown twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2446759948.JPG	The background of the fungus consists of dried leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238495606.JPG	The background of the fungus is a light, cloudy, and somewhat granular texture.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2238429071.JPG	The background is plain white.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3324323311.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2238383166.JPG	A fungus on a weathered log.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238445513.JPG	A fungus grows on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238411920.JPG	A fungus is surrounded by green moss and blurred foliage.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2238445513.JPG	A fungus grows amidst moss and twigs.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3763741316.JPG	The background of the fungus is a mix of moss and dried plant material.
+/home/whx/Dataset/fungitastic-m/train/720p/3-4847334631.JPG	A fungus rests on green moss.
+/home/whx/Dataset/fungitastic-m/train/720p/2-4847344210.JPG	A fungus rests on wet, autumn leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238560510.JPG	a fungus on forest floor with dried leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465878204.JPG	The background of the fungus is a mix of dry leaves, twigs, and soil.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3948715471.JPG	A fungus is surrounded by pine needles, moss, and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238523080.JPG	A fungus is surrounded by wet, forest floor debris, including leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2413149602.JPG	Dead leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/3-3386479395.JPG	A fungus is surrounded by green moss and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2383042476.JPG	The background of the fungus is soil and grass.
+/home/whx/Dataset/fungitastic-m/test/720p/2-4465874468.JPG	A fungus lies on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3343247324.JPG	The background of the fungus is a mix of soil, leaves, and greenery.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238558550.JPG	A fungus lies on a rocky, earthy surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237946029.JPG	A fungus on decaying wood.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2883261320.JPG	The background of the fungus is a mix of decaying wood, leaves, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238448393.JPG	A fungus on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238186115.JPG	A fungus grows on moss-covered ground.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238472405.JPG	A fungus on a white surface.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4169768532.JPG	The background of the fungus is a mix of dark, decaying leaves and twigs.
+/home/whx/Dataset/fungitastic-m/val/720p/2-3944343713.JPG	The background of the fungus is a mix of soil, leaves, and small rocks.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2237962501.JPG	A fungus on a wooden surface with a ruler in the background.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465901508.JPG	The background of the fungus is a light, textured surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3343248380.JPG	A fungus grows on mossy, decaying wood.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3410044340.JPG	A fungus rests on moss.
+/home/whx/Dataset/fungitastic-m/val/720p/4-3925715654.JPG	The background of the fungus is dark and textured, with a rough, earthy surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2812983305.JPG	A fungus on a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/2-4847338336.JPG	The background of the fungus is a mix of green grass, brown leaves, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238512951.JPG	The background of the fungus is white.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238160608.JPG	The background of the fungus is a forest floor with fallen leaves, twigs, and green moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238397857.JPG	A fungus on a concrete surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3392614301.JPG	A fungus grows amidst green moss and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238524301.JPG	A fungus is surrounded by green grass and small plants.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3964840445.JPG	A fungus on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/0-4847342524.JPG	A fungus rests on autumn leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238479723.JPG	The background of the fungus is a dark, forest floor with scattered leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237922900.JPG	A fungus on a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238561013.JPG	The background of the fungus is a forest floor with moss, leaves, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238126580.JPG	A fungus on mossy ground.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465906669.JPG	A fungus is surrounded by moss and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238402390.JPG	A fungus on a grid background.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2981236320.JPG	A fungus rests on a bed of dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3327310328.JPG	The background of the fungus consists of soil, dried leaves, and some green grass.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4169763174.JPG	A fungus rests on grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238219679.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/6-2413148150.JPG	The background of the fungus is white.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465909588.JPG	The background of the fungus is a light, cloudy, and somewhat translucent area with scattered particles.
+/home/whx/Dataset/fungitastic-m/val/720p/0-4100094487.JPG	The background of the fungus consists of pine needles and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3386487371.JPG	A fungus rests on moss-covered ground.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3964847367.JPG	A fungus rests on a dark, textured surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3018966315.JPG	The background of the fungus is a light, uniform gray.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238483810.JPG	The background of the fungus is a mix of grass, dirt, and dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2989722311.JPG	The background of the fungus is sandy with sparse vegetation.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238183110.JPG	Grassy background.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238404438.JPG	a fungus on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2427872868.JPG	The background of the fungus is dark and earthy.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465863803.JPG	A fungus with a white cap and stem, held in a hand, with green foliage and a paved path in the background.
+/home/whx/Dataset/fungitastic-m/val/720p/4-3948712424.JPG	A fungus is surrounded by grass and soil.
+/home/whx/Dataset/fungitastic-m/test/720p/3-4465862801.JPG	The background is blurred, with hints of green and brown.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238520893.JPG	A fungus on grass with leaves and dirt.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465876271.JPG	The background is a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3345609425.JPG	The background of the fungus is a forest floor with leaves, twigs, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238231550.JPG	The fungus is on a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2238217612.JPG	The background is a neutral, textured surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238510771.JPG	The background of the fungus is a plain, light-colored surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238510771.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238560850.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238094318.JPG	A fungus on a concrete surface.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465890171.JPG	A fungus lies on grass and pine needles.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3970588305.JPG	A fungus on forest floor with grass and pine needles.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3005500318.JPG	A fungus in water with reeds.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2984615387.JPG	A fungus in a wet, mossy environment.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238483402.JPG	A fungus in water with reeds.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2994393333.JPG	A fungus on decaying wood.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3962116577.JPG	A fungus is surrounded by green moss.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465909335.JPG	Blurred green and brown.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238584466.JPG	A fungus is surrounded by moss-covered branches and blurred greenery.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3948716412.JPG	A fungus on a mossy branch with a green background.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238503006.JPG	A fungus is surrounded by green clover.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3343235318.JPG	The background of the fungus is a mix of soil, small rocks, and scattered debris.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2238474346.JPG	The background of the fungus is a light, speckled surface.
+/home/whx/Dataset/fungitastic-m/test/720p/3-4169769517.JPG	The background of the fungus is a mix of dark soil, dried leaves, and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2332528933.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3327297339.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/4-4847340330.JPG	Green mossy background.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238354916.JPG	Fall leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465865370.JPG	A fungus rests on mossy, grassy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237960165.JPG	Grass and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237870260.JPG	A fungus on a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238556672.JPG	A fungus is surrounded by green moss and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2999559335.JPG	A fungus on a dark, textured surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238357667.JPG	A fungus grows on mossy, dark soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3027638324.JPG	Green mossy surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2452380936.JPG	The background of the fungus is a dark, textured surface with patches of white and black.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238507235.JPG	A fungus is surrounded by moss, clover, and pine cones.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238424165.JPG	A fungus grows amidst grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2424125181.JPG	A fungus is surrounded by grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238502286.JPG	A fungus grows amidst fallen leaves and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2542590954.JPG	The background is black.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3925717784.JPG	A fungus is set against a backdrop of dark green, textured leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3392603308.JPG	The background is dark.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238571577.JPG	Blurred, earthy tones.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238335516.JPG	A fungus is surrounded by moss and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2901934438.JPG	Dead leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238579208.JPG	The background of the fungus is a dark, mossy forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3005504313.JPG	The background of the fungus is a light, translucent, and slightly granular surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238289326.JPG	The background is a plain, light-colored surface.
+/home/whx/Dataset/fungitastic-m/test/720p/7-4465865982.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/3-4465898726.JPG	The background of the fungus is a light, translucent white.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3005501306.JPG	The background of the fungus is a mix of green and brown grass and foliage.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2989734329.JPG	A fungus on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237939388.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3122832334.JPG	A fungus lies on green grass.
+/home/whx/Dataset/fungitastic-m/test/720p/2-4169772483.JPG	A fungus lies in green grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238089704.JPG	A fungus is surrounded by autumn leaves and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3336959307.JPG	A fungus on moss.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238327734.JPG	The background of the fungus is a forest floor with leaves and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238469868.JPG	A fungus is surrounded by green moss and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238070619.JPG	The background of the fungus is a forest floor with brown leaves, twigs, and green moss.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3345611481.JPG	The background of the fungus is a blurred mix of green and brown vegetation.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465863386.JPG	A fungus grows on moss-covered ground.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3336961332.JPG	Blurred green and brown.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465897092.JPG	A fungus on a dark, textured surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238363931.JPG	A fungus on a green textured surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2592379587.JPG	Green moss and pine needles.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238153167.JPG	A fungus on a green and white patterned surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238155617.JPG	The background is a plain, light blue surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2421821686.JPG	A fungus is surrounded by fallen leaves and green grass.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465876581.JPG	The background of the fungus is a forest floor with soil, leaves, and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238162433.JPG	The background of the fungus is a mix of grass, leaves, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2964206357.JPG	A fungus is surrounded by green and brown vegetation.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238436363.JPG	A fungus on moss.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3399804370.JPG	A fungus rests on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238193326.JPG	A fungus is surrounded by green moss and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238182515.JPG	The background of the fungus is dark and soil-like.
+/home/whx/Dataset/fungitastic-m/train/720p/3-3324337319.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-4847334500.JPG	The background of the fungus is soil and green vegetation.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2237922811.JPG	The fungus is on the ground, surrounded by soil and small plants.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465893952.JPG	A fungus rests on grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238555684.JPG	A fungus is surrounded by green ivy and brown leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3399802349.JPG	A fungus rests on autumn leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238358845.JPG	Fall leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465863138.JPG	The background of the fungus is a mix of green moss and brown leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2864911351.JPG	A fungus in a forest with dry leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2964222301.JPG	The background of the fungus is a mix of soil, dried leaves, and twigs.
+/home/whx/Dataset/fungitastic-m/test/720p/2-4465874983.JPG	The background of the fungus is a mix of brown leaves and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238476122.JPG	a fungus on forest floor with dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238344793.JPG	The background is plain white.
+/home/whx/Dataset/fungitastic-m/val/720p/3-3916262338.JPG	The background of the fungus is a mix of dark soil and dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238221319.JPG	A fungus is surrounded by green grass.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3968583346.JPG	The background of the fungus is dark and textured.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2542589858.JPG	A fungus is surrounded by green leaves and sandy soil.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3412510315.JPG	A fungus on a dry, grassy background.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237943156.JPG	A fungus grows on moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2986398316.JPG	The background of the fungus is a forest with tall trees and green foliage.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238068352.JPG	Grass and pine needles.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2458346844.JPG	A fungus rests on forest floor with pine needles and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238313280.JPG	The background of the fungus is a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3320499337.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2862701378.JPG	A fungus is on a green surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238466195.JPG	A fungus is surrounded by grass and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2818063350.JPG	Grass.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3944342306.JPG	The background of the fungus is a mix of wood chips and debris.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238348408.JPG	A fungus grows amidst moss and wood.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238328123.JPG	The background of the fungus is a mix of soil, grass, and decaying organic matter.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3964844366.JPG	A fungus is surrounded by green leaves and brown grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238329478.JPG	A fungus grows on a decaying log.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2860309423.JPG	A fungus grows on a mossy log in a grassy area.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237958524.JPG	A fungus on a wooden surface with dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3324320302.JPG	The background is dark and earthy.
+/home/whx/Dataset/fungitastic-m/val/720p/0-4100088449.JPG	The background of the fungus is a forest floor with scattered leaves and twigs.
+/home/whx/Dataset/fungitastic-m/val/720p/2-3968581408.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465863256.JPG	The background of the fungus is a mix of brown and green debris, including leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238094677.JPG	The background of the fungus is dark and textured.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465883005.JPG	A fungus rests on mossy forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2821590326.JPG	The background of the fungus consists of forest debris, including pine needles and wood.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3894175354.JPG	A fungus rests on moss-covered ground.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238507356.JPG	The background of the fungus is a forest floor with green leaves and brown debris.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238370374.JPG	A fungus is surrounded by green moss and dried plant material.
+/home/whx/Dataset/fungitastic-m/train/720p/4-3355982396.JPG	A fungus on lined paper.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238559305.JPG	The background of the fungus is a forest floor with moss, twigs, and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-4847350274.JPG	A fungus grows amidst green moss and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238527776.JPG	The background is a blurred green, likely mossy.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238454605.JPG	The background of the fungus is a mix of brown and green, with dried grass and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2446758699.JPG	A fungus is surrounded by pine needles and twigs.
+/home/whx/Dataset/fungitastic-m/test/720p/2-4465894036.JPG	A fungus is surrounded by fallen leaves and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3343237308.JPG	A fungus rests on mossy forest floor.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3968581449.JPG	A fungus rests on forest floor, surrounded by pine needles and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238384471.JPG	A fungus on moss.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2818071344.JPG	The background of the fungus is dark, soil-like with bits of debris.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238425374.JPG	The background of the fungus is a mix of soil and small debris.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238114971.JPG	A fungus lies on grass and dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238341663.JPG	A fungus is surrounded by fallen leaves and twigs on the forest floor.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3944342480.JPG	A fungus is surrounded by green foliage and pine needles.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3909143551.JPG	A fungus on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3358350386.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2413148264.JPG	A fungus rests on mossy forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238168388.JPG	A fungus on a wooden surface.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465876858.JPG	A fungus in a forest setting with pine needles and moss.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465866229.JPG	Green grass.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3925715434.JPG	A fungus in a forest with green moss and trees.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465893530.JPG	A fungus rests on a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238088308.JPG	The background of the fungus is plain white.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2382324742.JPG	A fungus grows amidst grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238231210.JPG	The background is plain white.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3815497315.JPG	A fungus rests on a bed of leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238513294.JPG	A fungus is surrounded by moss and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238425002.JPG	The background is plain white.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238481081.JPG	The background of the fungus is dark and mossy.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2417206190.JPG	The background of the fungus is a white plate.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238498389.JPG	A fungus on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2424122142.JPG	The background of the fungus is a light blue with small, evenly spaced, circular structures.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3329720307.JPG	A fungus lies on green grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2816372336.JPG	A fungus on a gray surface.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3922623306.JPG	The background of the fungus is a light, uniform gray.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238068105.JPG	The background of the fungus is a forest floor with dried leaves and twigs.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465896086.JPG	The background consists of brown, decaying leaves and soil.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465880891.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3913255543.JPG	The background of the fungus is a mix of dark, earthy tones with scattered debris.
+/home/whx/Dataset/fungitastic-m/train/720p/3-3406492304.JPG	A fungus is surrounded by moss and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2864901379.JPG	A fungus is surrounded by green moss and brown debris.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238563277.JPG	A fungus is surrounded by pine needles and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238558189.JPG	The background of the fungus is a light, cloudy, and slightly granular texture.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238214056.JPG	A fungus is surrounded by grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3327305348.JPG	A fungus on forest floor with debris.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238199228.JPG	The background of the fungus is a forest floor with moss and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3329734330.JPG	A fungus is surrounded by wet, brown leaves and twigs.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3922625461.JPG	The background of the fungus is a forest floor with dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238558633.JPG	The background of the fungus is a forest floor with leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/4-2238497362.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238382200.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2413149484.JPG	A fungus on a wooden surface.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4169761181.JPG	A fungus in a forest setting with green foliage and moss.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465870264.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2251780882.JPG	A fungus lies on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2332528243.JPG	Grassy field with trees.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238386303.JPG	A fungus in a forest with trees and forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238568405.JPG	The background of the fungus is a forest floor with leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3334591329.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2251781256.JPG	The background of the fungus is a ground covered with fallen leaves and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238388151.JPG	Fall leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238175752.JPG	The background of the fungus is a blurred mix of green and brown vegetation.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238223803.JPG	A fungus is surrounded by green moss and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2331570870.JPG	a fungus on moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3334599318.JPG	A fungus rests on mossy ground.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465888915.JPG	A fungus is surrounded by grass and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238181051.JPG	The background of the fungus is a bed of pine needles and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2425493924.JPG	A fungus grows on mossy forest floor.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465901603.JPG	A fungus is surrounded by fallen leaves, pine cones, and twigs on the forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238572125.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2237962200.JPG	The background of the fungus is rocky and earthy.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3909145312.JPG	The background of the fungus is a bed of brown, decayed leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465863045.JPG	A fungus rests on mossy forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238220725.JPG	The background is blurred and light-colored.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3018982330.JPG	A fungus rests on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238384029.JPG	A fungus on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2430666026.JPG	The background of the fungus is a mix of green moss, brown twigs, and scattered leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2427873589.JPG	A fungus is held over grass and pine needles.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238402456.JPG	Grassy background.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465894806.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465866136.JPG	Green grass.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3422342323.JPG	The background is blurred green.
+/home/whx/Dataset/fungitastic-m/train/720p/4-2851422314.JPG	A fungus rests on a moss-covered log in a forest.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238235993.JPG	A fungus grows amidst green moss and forest debris.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2237970438.JPG	The background of the fungus is a white surface with measurements and labels.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238555614.JPG	A fungus grows on a decaying log.
+/home/whx/Dataset/fungitastic-m/train/720p/0-4847346376.JPG	A fungus lies on forest floor with green plants and pine needles.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465860640.JPG	A fungus lies on green grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238588639.JPG	Grassy background.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3340162425.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465863564.JPG	A fungus rests on mossy forest floor.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465864362.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238214548.JPG	A fungus in grass and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238151390.JPG	The background of the fungus is a light greenish hue with a translucent, slightly granular texture.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2851419309.JPG	The background of the fungus is a mix of dark soil, green moss, and scattered white crystals.
+/home/whx/Dataset/fungitastic-m/val/720p/2-3909145426.JPG	The background of the fungus is a light, speckled gray.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238473561.JPG	Mossy forest floor.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4100097347.JPG	Blurred green and brown.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238395929.JPG	The background of the fungus is a plain, light-colored surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238435646.JPG	A fungus rests on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238469879.JPG	A fungus lies on forest floor with dried leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238392796.JPG	The background of the fungus is a mix of green moss and brown leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238585625.JPG	A fungus grows on moss-covered bark.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238585082.JPG	The background is blurred, showing a forest setting with trees and sunlight.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4100097342.JPG	A fungus is nestled among green moss and lichen.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3922628804.JPG	A fungus on moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238339878.JPG	The background of the fungus is a mix of brown leaves and soil.
+/home/whx/Dataset/fungitastic-m/val/720p/0-4100088454.JPG	The background of the fungus is a mix of grass, leaves, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2874305508.JPG	A fungus rests on autumn leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465869496.JPG	A fungus lies in grass.
+/home/whx/Dataset/fungitastic-m/test/720p/3-4465885018.JPG	A fungus is surrounded by moss and lichen.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3898074324.JPG	A fungus rests on a damp, leaf-strewn forest floor.
+/home/whx/Dataset/fungitastic-m/test/720p/2-4465882545.JPG	The background of the fungus consists of brown, dried leaves and soil.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3925717303.JPG	A fungus on a yellow and gray checkered background.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465883402.JPG	A fungus rests on a bed of dried leaves and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238168854.JPG	Grass and twigs.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465868857.JPG	A fungus is surrounded by green moss and pine needles.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465882444.JPG	Blurred green background.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3355975434.JPG	The background of the fungus is a dense forest with tall trees and green undergrowth.
+/home/whx/Dataset/fungitastic-m/train/720p/5-2864907353.JPG	A fungus is surrounded by green moss and brown leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238507557.JPG	A fungus on mossy forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2427872317.JPG	A fungus is surrounded by green moss.
+/home/whx/Dataset/fungitastic-m/val/720p/3-3968582473.JPG	A fungus on a white surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238178089.JPG	A fungus rests on forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238340294.JPG	A fungus rests on a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238352074.JPG	A fungus rests on grass and dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/5-3399804377.JPG	A fungus rests on a bed of dark, wet leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238574864.JPG	A fungus is surrounded by fallen leaves and forest debris.
+/home/whx/Dataset/fungitastic-m/test/720p/4-4465895386.JPG	The background of the fungus is a mix of dark soil, twigs, and green leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/4-4465888113.JPG	A fungus rests on a bed of pine needles and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238214333.JPG	Grass.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3948713503.JPG	The background of the fungus is a light, textured surface.
+/home/whx/Dataset/fungitastic-m/val/720p/2-3944337708.JPG	A fungus lies on grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237959386.JPG	A fungus is on grass.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3922623448.JPG	The background of the fungus is dark and earthy.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238150085.JPG	The background consists of dried leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2332528384.JPG	Green mossy background.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238496743.JPG	The background of the fungus is a mix of soil, small rocks, and green grass.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3909139565.JPG	A fungus is surrounded by grass, moss, and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238357017.JPG	A fungus on a gray, textured surface.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3909138545.JPG	A fungus on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238160729.JPG	A fungus on a weathered wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2874314337.JPG	A fungus is surrounded by dry grass, leaves, and small plants.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238574303.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238469970.JPG	A fungus rests on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2862688311.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238504126.JPG	A fungus on sandy ground with small rocks and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238448312.JPG	A fungus on a white wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238361164.JPG	Forest floor with pine needles and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238525839.JPG	A fungus is surrounded by fallen leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2449441763.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3345600334.JPG	A fungus is surrounded by fallen leaves and forest debris.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3332309321.JPG	The background of the fungus is a mix of earthy tones and green foliage.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238562964.JPG	A fungus rests on a bed of brown leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/1-4100094565.JPG	A fungus with a yellow cap and a white stem.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238147435.JPG	The background of the fungus is a dark, forest floor with moss and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2860303430.JPG	A fungus on a textured surface.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4169768408.JPG	A fungus on moss.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238561067.JPG	A fungus on wooden surface.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3968582402.JPG	Blurred green grass.
+/home/whx/Dataset/fungitastic-m/val/720p/2-3948713654.JPG	The background of the fungus is dark.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2417206129.JPG	The background of the fungus is a mix of green leaves, brown twigs, and scattered grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3358351311.JPG	A fungus in grass with leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2901946436.JPG	Grass.
+/home/whx/Dataset/fungitastic-m/val/720p/1-4100094566.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3964840407.JPG	A fungus is surrounded by grass and small plants.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3424509319.JPG	A fungus is surrounded by green moss and pine needles.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3925712399.JPG	A fungus on weathered wood.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238566724.JPG	The background consists of forest floor debris, including leaves and pine cones.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465861768.JPG	The background of the fungus is a mix of dried pine needles and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238557865.JPG	A fungus is surrounded by green moss and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238427794.JPG	The background of the fungus consists of forest floor debris, including pine needles, twigs, and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3345598382.JPG	A fungus is surrounded by grass, moss, and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238568215.JPG	The background of the fungus consists of forest debris, including leaves and pine needles.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3922627876.JPG	A fungus rests on autumn leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465906592.JPG	Fall leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3380900313.JPG	Grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3406482315.JPG	A fungus rests on fallen leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4169765348.JPG	A fungus rests on mossy forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2868476313.JPG	A fungus on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3386476417.JPG	A fungus is held against a dark background with a bottle and some objects visible.
+/home/whx/Dataset/fungitastic-m/train/720p/4-2332528009.JPG	A fungus on a mossy, rocky ground.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3419925308.JPG	A fungus on a green leaf.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3964847383.JPG	A fungus grows on a mossy, decaying log.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238479567.JPG	The background of the fungus consists of sandy soil, dried grass, and small twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3027641323.JPG	Dark, textured surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2303159411.JPG	A fungus rests on grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/3-4465871006.JPG	The background of the fungus is a forest floor with leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3334602342.JPG	The background of the fungus consists of forest debris, including leaves, twigs, and a conifer cone.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3329736302.JPG	A fungus on a weathered wooden surface.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4100098389.JPG	The background of the fungus is a dark, forest floor with leaves and wood.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238583761.JPG	A fungus grows on decaying wood.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3429080320.JPG	The background of the fungus is a forest floor with twigs, leaves, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2999560330.JPG	A fungus on decaying wood.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2382325090.JPG	The background of the fungus is a mix of green moss, brown leaves, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3355967433.JPG	The background of the fungus is a mix of dark soil and scattered leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3329720322.JPG	A fungus rests on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238566582.JPG	The background of the fungus is soil and organic debris.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2383041842.JPG	The background is blurred, with indistinct shapes and colors.
+/home/whx/Dataset/fungitastic-m/val/720p/0-4100088598.JPG	A fungus rests on autumn leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238472922.JPG	A fungus rests on a bed of dried leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3922624512.JPG	A fungus is surrounded by green moss and leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465895698.JPG	A fungus grows on moss-covered wood.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2458347249.JPG	A fungus is surrounded by green moss and fallen leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465883158.JPG	A fungus in a grassy, mossy environment.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2964222416.JPG	A fungus on a textured, gray surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238531358.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3925716307.JPG	The background of the fungus is blurred green.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238560885.JPG	The background of the fungus is white.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3925715827.JPG	A fungus rests on grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2883260338.JPG	Grass and moss.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3964845399.JPG	A fungus grows amidst grass, leaves, and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2901940493.JPG	Grassy background.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238388996.JPG	The background is plain white.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3913252670.JPG	A fungus rests on mossy forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2446759887.JPG	A fungus in a forest with trees and dappled sunlight.
+/home/whx/Dataset/fungitastic-m/train/720p/7-2238518842.JPG	A fungus is held against a blurred background of green foliage and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238525745.JPG	A fungus is surrounded by grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3392600376.JPG	The background of the fungus is a forest floor with scattered leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465882375.JPG	A fungus is surrounded by dry grass and leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4169764751.JPG	A fungus in a forest with fallen leaves and twigs.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465874489.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465892220.JPG	The background of the fungus consists of soil, twigs, and pine needles.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238381822.JPG	A fungus lies on green grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2898629432.JPG	The background is a dark, leaf-strewn forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238381476.JPG	A fungus is surrounded by grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238455297.JPG	A fungus on a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2883255308.JPG	A fungus rests on a forest floor with pine cones and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238121061.JPG	The background consists of dried leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238356758.JPG	The fungus is on a white surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2868488399.JPG	A fungus is surrounded by grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238180743.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2989734311.JPG	A fungus is surrounded by dried leaves and twigs.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3909143485.JPG	A fungus rests on grass and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238161338.JPG	The background of the fungus is a wooden surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238421255.JPG	A fungus rests on a bed of brown leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238554396.JPG	The background of the fungus is a forest floor with moss, leaves, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238470225.JPG	A fungus rests on a bed of brown, dried leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3898079381.JPG	A fungus rests on grass and moss.
+/home/whx/Dataset/fungitastic-m/val/720p/2-3867917312.JPG	A fungus with dark, textured surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238553464.JPG	The background of the fungus is a blurred outdoor setting with a red surface and a metal pole.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2821591326.JPG	A fungus lies on forest floor with moss and pine needles.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2862700456.JPG	A fungus rests on a bed of dried leaves and green clovers.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238122599.JPG	A fungus is on a green background.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3345600377.JPG	A fungus is surrounded by forest floor debris and a tree trunk.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2446760291.JPG	A fungus grows amidst moss, grass, and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/3-3382563431.JPG	A fungus rests on autumn leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465890633.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3909145388.JPG	The background of the fungus is a forest with tall trees and a clear sky.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237917629.JPG	The background of the fungus is a forest floor with dry leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238478804.JPG	The background is a plain, light-colored surface.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2424122714.JPG	The background of the fungus is a light, translucent, and slightly granular texture.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2868473540.JPG	Blurred green background.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238481113.JPG	A fungus on a teal background.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3395917425.JPG	Fall leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238161969.JPG	A fungus grows on a tree trunk.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238562470.JPG	A fungus grows on decaying wood, with blurred green foliage in the background.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237919682.JPG	A fungus grows on a mossy tree stump.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238499848.JPG	A fungus lies on a bed of brown leaves and green grass.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4169767447.JPG	A fungus on forest floor with leaves and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3313865327.JPG	A fungus rests on a bed of brown leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/4-3340162370.JPG	A fungus is surrounded by green moss and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2427873868.JPG	Grass, leaves, and clover.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2812995305.JPG	Grass and pavement.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2868481457.JPG	A fungus lies on grass with scattered leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238462512.JPG	The background of the fungus is sandy.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238173362.JPG	A fungus grows amidst moss and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238499796.JPG	A fungus grows amidst green moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2331571322.JPG	The fungus is on a white surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238589678.JPG	The background is a blurred mix of earthy tones and organic debris.
+/home/whx/Dataset/fungitastic-m/val/720p/2-3948714431.JPG	The background is a blurred green.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2427873465.JPG	A fungus on mossy surface.
+/home/whx/Dataset/fungitastic-m/val/720p/0-4100095041.JPG	The background of the fungus appears to be a natural, earthy setting.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2964208381.JPG	The background of the fungus is a mix of green moss and grayish-brown bark.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2862698464.JPG	A fungus grows amidst fallen leaves and twigs.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3944341538.JPG	A fungus rests on autumn leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/2-4100094795.JPG	A fungus on moss.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3948716771.JPG	A fungus rests on autumn leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2816370339.JPG	A fungus on a stone surface with a building and sky in the background.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3916264330.JPG	The background of the fungus is grassy and blurred.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4169760129.JPG	Green grass.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465899796.JPG	The background of the fungus is a pale yellow.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2237928815.JPG	A fungus grows amidst twigs and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3340168423.JPG	A fungus is surrounded by fallen leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3909139434.JPG	The background of the fungus is a forest floor with leaves, twigs, and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3336962364.JPG	A fungus stands on a mossy log, with a blurred green forest backdrop.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238218843.JPG	The background is white.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238419592.JPG	A fungus rests on a dark, textured surface.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238563249.JPG	The background of the fungus is a mix of brown leaves and forest floor debris.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238558922.JPG	A fungus is surrounded by fallen leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238572230.JPG	A fungus lies on mossy ground with scattered leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238472896.JPG	A fungus grows on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2417207228.JPG	A fungus lies on a bed of green moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2825695333.JPG	The background of the fungus consists of grass, leaves, and soil.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465872722.JPG	A fungus is surrounded by green moss and clover.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3968586396.JPG	A fungus lies on forest floor, surrounded by pine needles and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2238510631.JPG	Green grass, blurred background.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465875472.JPG	A fungus is held against a backdrop of green grass and a paved path.
+/home/whx/Dataset/fungitastic-m/test/720p/2-4465882593.JPG	A fungus on a dark surface with blurred green and brown background.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238578578.JPG	The background of the fungus is a mix of brown leaves and soil.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465888648.JPG	A fungus is surrounded by dried leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2575118925.JPG	Green foliage.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3122834330.JPG	A fungus is surrounded by grass and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/3-3340162305.JPG	The background of the fungus is soil and grass.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3828290319.JPG	The background of the fungus is a mix of soil, small rocks, and scattered debris.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3887954337.JPG	A fungus is surrounded by soil and a concrete surface.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3336963324.JPG	The background of the fungus is blurred, with earthy tones and some greenery.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238494701.JPG	The background of the fungus is a forest floor with pine needles, twigs, and moss.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465863677.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3355965359.JPG	A fungus rests on mossy forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2424124268.JPG	A fungus on tree bark.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465871775.JPG	The background of the fungus is a mix of dried leaves and soil.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465889931.JPG	A fungus rests on a bed of dried leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2860297359.JPG	A fungus is surrounded by green moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238369555.JPG	Blurred green foliage.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238093883.JPG	A fungus grows on a mossy, decaying log.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238579227.JPG	The background of the fungus is a blurred mix of brown and green leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4847346655.JPG	A fungus on a log.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3039832325.JPG	A fungus grows on moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238546053.JPG	A fungus grows on moss-covered rock.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4100103330.JPG	A fungus on decaying wood.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4100099807.JPG	The background of the fungus is a cluster of similar fungi.
+/home/whx/Dataset/fungitastic-m/test/720p/2-4465888524.JPG	A fungus rests on a bed of dried leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238568470.JPG	The background of the fungus is a forest floor covered with leaves and twigs.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465891154.JPG	The background is dark.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465862002.JPG	The background of the fungus is a forest floor with leaves, twigs, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238478242.JPG	The background of the fungus is white.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238578241.JPG	A fungus is surrounded by pine needles, moss, and small green plants.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465904818.JPG	A fungus is surrounded by green foliage and brown twigs.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465893107.JPG	A fungus in a forest setting with moss, pine needles, and branches.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3131217327.JPG	A fungus rests on mossy ground.
+/home/whx/Dataset/fungitastic-m/test/720p/2-4465866954.JPG	A fungus rests in a woven basket, with a blurred forest floor in the background.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3419915322.JPG	A fungus is surrounded by autumn leaves and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3313870345.JPG	A fungus is held against a backdrop of grass and fallen leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3916267443.JPG	A fungus is surrounded by grass and soil.
+/home/whx/Dataset/fungitastic-m/val/720p/3-3964844473.JPG	A fungus in a forest with fallen leaves and trees.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2421823832.JPG	The background of the fungus is a dark, mossy forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/4-2238359563.JPG	The background of the fungus consists of brown, decaying leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3324333353.JPG	A fungus is surrounded by grass, moss, and small plants.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238153629.JPG	The background of the fungus is a forest floor with green grass and brown leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3311359339.JPG	A fungus on forest floor with leaves and twigs.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3891491333.JPG	A fungus rests on a bed of dried leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3340158447.JPG	A fungus with a white cap and brown gills is held in a hand. The background is blurred, showing a gray container and a white surface.
+/home/whx/Dataset/fungitastic-m/val/720p/3-3891497412.JPG	A fungus rests on mossy ground.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2274829768.JPG	A fungus lies on a ground covered with grass, leaves, and small twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238495563.JPG	The background of the fungus is earthy and natural.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3334605396.JPG	A fungus in a mossy, leaf-littered forest.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465871645.JPG	A fungus on grass.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465885731.JPG	A fungus rests on forest floor with leaves and twigs.
+/home/whx/Dataset/fungitastic-m/val/720p/2-3948712365.JPG	The background of the fungus is a mix of soil, grass, and fallen leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3962118525.JPG	Fall leaves and soil.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3968580387.JPG	A fungus is surrounded by green foliage and brown leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3819300320.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2265772278.JPG	A fungus on grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2446760044.JPG	The background of the fungus is a mix of green moss and brown twigs.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3944341498.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3386473336.JPG	Forest floor with scattered leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3922623882.JPG	A fungus rests on a bed of brown leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/5-3964846444.JPG	The fungus is on a plain white surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238553172.JPG	The background is a forest floor with brown leaves and green foliage.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3867927317.JPG	A fungus rests on green grass.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238502909.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238550644.JPG	Grass with dew.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3913252373.JPG	Green grass, soil.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2874312374.JPG	The background of the fungus is a mix of soil, moss, and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238552261.JPG	A fungus is held against a backdrop of green foliage and a concrete path.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3429066348.JPG	A fungus on decaying wood.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465895260.JPG	A fungus rests on mossy ground.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465894154.JPG	The background of the fungus is a light, uniform color with some small, scattered particles.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2452381358.JPG	The background of the fungus is a mix of soil, small twigs, and dry grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238554568.JPG	A fungus on moss.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2238569726.JPG	A fungus grows on a decaying log amidst fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2862690341.JPG	Decaying wood.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3412510388.JPG	A fungus on a wet, mossy log.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3916267708.JPG	A fungus on a dark, wet surface.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2883254492.JPG	Fall leaves and wood.
+/home/whx/Dataset/fungitastic-m/val/720p/2-3944339665.JPG	The background of the fungus consists of dried leaves, twigs, and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3380888450.JPG	The background of the fungus is a forest floor with leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/4-2332528077.JPG	A fungus on a white surface.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465869908.JPG	A fungus in grass.
+/home/whx/Dataset/fungitastic-m/train/720p/6-2332527673.JPG	A fungus on a plain white background.
+/home/whx/Dataset/fungitastic-m/test/720p/2-4465864178.JPG	A fungus is on a stone surface with water.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2465026472.JPG	The background is green.
+/home/whx/Dataset/fungitastic-m/val/720p/2-3913250550.JPG	The background of the fungus is soil and debris.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4169768491.JPG	A fungus rests on forest floor, surrounded by twigs, leaves, and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3410044386.JPG	A fungus rests on autumn leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3382573539.JPG	A fungus is surrounded by fallen leaves and forest debris.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3964847384.JPG	The background of the fungus consists of dried leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2446760812.JPG	The background of the fungus is blurred, with earthy tones and scattered leaves.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465899767.JPG	A fungus is surrounded by fallen leaves and twigs on the forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3399808325.JPG	A fungus rests on autumn leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238573210.JPG	A fungus is surrounded by autumn leaves and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2868482405.JPG	A fungus rests on a bed of leaves and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2244194478.JPG	A fungus on forest floor with moss and pine needles.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465888509.JPG	Grass and leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2821589327.JPG	A fungus in a forest setting with grass, pine needles, and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238469465.JPG	A fungus is surrounded by green leaves and grass.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2417207590.JPG	The background of the fungus is a mix of soil, leaves, and twigs.
+/home/whx/Dataset/fungitastic-m/val/720p/1-3861314316.JPG	A fungus lies on forest floor, surrounded by moss, pine needles, and twigs.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4169765186.JPG	A fungus is surrounded by grass, leaves, and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3334607349.JPG	A fungus rests on forest floor, surrounded by leaves and greenery.
+/home/whx/Dataset/fungitastic-m/test/720p/0-4465868186.JPG	A fungus in grass and moss.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238577001.JPG	Fall leaves and twigs.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2430664992.JPG	Grass and straw.
+/home/whx/Dataset/fungitastic-m/train/720p/3-2238529580.JPG	The background of the fungus is a mix of green leaves and brown soil.
+/home/whx/Dataset/fungitastic-m/train/720p/1-3392603473.JPG	A fungus on a wooden surface with a ruler for scale.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238530056.JPG	A fungus on a log with grass in the background.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3386488327.JPG	A fungus on mossy forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/1-2575122086.JPG	Mossy forest floor.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2575120338.JPG	A fungus on decaying wood.
+/home/whx/Dataset/fungitastic-m/train/720p/0-2238497764.JPG	Forest floor with green moss and scattered leaves.
+/home/whx/Dataset/fungitastic-m/val/720p/3-3913248485.JPG	Grass and soil.
+/home/whx/Dataset/fungitastic-m/train/720p/2-2238564243.JPG	A fungus in a grassy forest setting.
+/home/whx/Dataset/fungitastic-m/train/720p/0-3343244450.JPG	A fungus in a forest with green moss and fallen leaves.
+/home/whx/Dataset/fungitastic-m/train/720p/2-3336961321.JPG	A fungus is held against a brown, textured background.
+/home/whx/Dataset/fungitastic-m/test/720p/1-4465870693.JPG	A fungus in a forest setting with green foliage and sunlight filtering through.
+/home/whx/Dataset/fungitastic-m/val/720p/4-3925717623.JPG	A fungus is held against a dark, textured background.
+/home/whx/Dataset/fungitastic-m/val/720p/0-3909145534.JPG	A fungus rests on a wooden surface.

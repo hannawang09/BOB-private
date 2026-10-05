@@ -1,0 +1,1601 @@
+image	response
+/home/whx/Dataset/semi-aves/trainval_images/0/8.jpg	The background is a smooth, light-colored surface, possibly water.
+/home/whx/Dataset/semi-aves/trainval_images/0/36.jpg	A bird stands on mossy ground with blurred snow and rocks in the background.
+/home/whx/Dataset/semi-aves/trainval_images/0/4.jpg	a bird on sandy beach.
+/home/whx/Dataset/semi-aves/trainval_images/0/16.jpg	Ocean waves, wet sand, seaweed.
+/home/whx/Dataset/semi-aves/trainval_images/0/7.jpg	a bird on rocks.
+/home/whx/Dataset/semi-aves/trainval_images/0/31.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/0/28.jpg	muddy water.
+/home/whx/Dataset/semi-aves/trainval_images/0/30.jpg	muddy, reflective surface with yellow tones.
+/home/whx/Dataset/semi-aves/trainval_images/1/24.jpg	Rusty metal, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/1/13.jpg	gray concrete surface
+/home/whx/Dataset/semi-aves/trainval_images/1/6.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/1/31.jpg	A bird soars against a pale, uniform sky.
+/home/whx/Dataset/semi-aves/trainval_images/1/0.jpg	a bird against a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/1/28.jpg	dry, earthy ground with sparse grass.
+/home/whx/Dataset/semi-aves/trainval_images/1/26.jpg	asphalt with scattered debris
+/home/whx/Dataset/semi-aves/trainval_images/1/12.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/2/27.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/2/38.jpg	Blurred green background.
+/home/whx/Dataset/semi-aves/trainval_images/2/0.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/2/28.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/2/17.jpg	Green, reflective water.
+/home/whx/Dataset/semi-aves/trainval_images/2/14.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/2/6.jpg	concrete wall with hole.
+/home/whx/Dataset/semi-aves/trainval_images/2/20.jpg	a bird against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/3/1.jpg	The background is a blurred, light sky with green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/3/34.jpg	A bird perched on a branch against a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/3/33.jpg	green foliage, tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/3/0.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/3/30.jpg	Green leaves, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/3/28.jpg	Branches and sky.
+/home/whx/Dataset/semi-aves/trainval_images/3/12.jpg	Green foliage and branches.
+/home/whx/Dataset/semi-aves/trainval_images/3/21.jpg	The background is a clear sky with green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/4/13.jpg	Grass and water.
+/home/whx/Dataset/semi-aves/trainval_images/4/27.jpg	water, algae, plants.
+/home/whx/Dataset/semi-aves/trainval_images/4/1.jpg	A bird stands on lily pads in a green, rippling pond.
+/home/whx/Dataset/semi-aves/trainval_images/4/33.jpg	Grassy field with twigs.
+/home/whx/Dataset/semi-aves/trainval_images/4/14.jpg	Grass and water.
+/home/whx/Dataset/semi-aves/trainval_images/4/28.jpg	water with green plants.
+/home/whx/Dataset/semi-aves/trainval_images/4/31.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/4/35.jpg	Green, reflective water.
+/home/whx/Dataset/semi-aves/trainval_images/5/14.jpg	rocky, seaweed-covered background.
+/home/whx/Dataset/semi-aves/trainval_images/5/22.jpg	Snowy, rocky, seaweed.
+/home/whx/Dataset/semi-aves/trainval_images/5/46.jpg	A bird perched on a rock near water.
+/home/whx/Dataset/semi-aves/trainval_images/5/43.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/5/44.jpg	ocean
+/home/whx/Dataset/semi-aves/trainval_images/5/29.jpg	rocks, water.
+/home/whx/Dataset/semi-aves/trainval_images/5/18.jpg	Rocky, algae-covered terrain.
+/home/whx/Dataset/semi-aves/trainval_images/5/1.jpg	sand
+/home/whx/Dataset/semi-aves/trainval_images/6/26.jpg	Reeds and water.
+/home/whx/Dataset/semi-aves/trainval_images/6/35.jpg	water, grass, sky.
+/home/whx/Dataset/semi-aves/trainval_images/6/6.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/6/11.jpg	water, greenery.
+/home/whx/Dataset/semi-aves/trainval_images/6/18.jpg	Water and green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/6/7.jpg	water, houses, trees.
+/home/whx/Dataset/semi-aves/trainval_images/6/23.jpg	Green water and foliage.
+/home/whx/Dataset/semi-aves/trainval_images/6/10.jpg	water, trees, sky.
+/home/whx/Dataset/semi-aves/trainval_images/7/32.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/7/27.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/7/40.jpg	Blurred trees.
+/home/whx/Dataset/semi-aves/trainval_images/7/12.jpg	Green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/7/19.jpg	green foliage, wooden deck.
+/home/whx/Dataset/semi-aves/trainval_images/7/18.jpg	A bird perched on a spiral wire against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/7/31.jpg	Green, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/7/38.jpg	muddy ground, water, vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/8/25.jpg	Rocky cliff, clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/8/37.jpg	Ocean and sky.
+/home/whx/Dataset/semi-aves/trainval_images/8/2.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/8/30.jpg	Ocean, cliffs, sky.
+/home/whx/Dataset/semi-aves/trainval_images/8/15.jpg	water, sunlight, reflection.
+/home/whx/Dataset/semi-aves/trainval_images/8/40.jpg	A bird in calm blue water.
+/home/whx/Dataset/semi-aves/trainval_images/8/26.jpg	rusty metal structure.
+/home/whx/Dataset/semi-aves/trainval_images/8/11.jpg	A bird soars over a vast, serene blue ocean.
+/home/whx/Dataset/semi-aves/trainval_images/9/23.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/9/35.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/9/37.jpg	Blurred green background.
+/home/whx/Dataset/semi-aves/trainval_images/9/5.jpg	blurred, light background.
+/home/whx/Dataset/semi-aves/trainval_images/9/28.jpg	blurry, purple, green.
+/home/whx/Dataset/semi-aves/trainval_images/9/32.jpg	gray sky
+/home/whx/Dataset/semi-aves/trainval_images/9/6.jpg	Blurred green and white.
+/home/whx/Dataset/semi-aves/trainval_images/9/24.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/10/10.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/10/33.jpg	rocks, sand, sunlight.
+/home/whx/Dataset/semi-aves/trainval_images/10/25.jpg	A bird soars against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/10/23.jpg	water, reflections, lily pads.
+/home/whx/Dataset/semi-aves/trainval_images/10/31.jpg	A bird in calm blue water.
+/home/whx/Dataset/semi-aves/trainval_images/10/1.jpg	water, log.
+/home/whx/Dataset/semi-aves/trainval_images/10/30.jpg	A bird stands near a calm body of water with trees in the background.
+/home/whx/Dataset/semi-aves/trainval_images/10/2.jpg	Rocky shoreline, calm water, distant buildings, clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/11/19.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/11/39.jpg	wooden structure, sunlight, greenery.
+/home/whx/Dataset/semi-aves/trainval_images/11/37.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/11/41.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/11/25.jpg	clear sky
+/home/whx/Dataset/semi-aves/trainval_images/11/10.jpg	gray sky
+/home/whx/Dataset/semi-aves/trainval_images/11/38.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/11/32.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/12/14.jpg	Water with reflections.
+/home/whx/Dataset/semi-aves/trainval_images/12/0.jpg	water with reflections.
+/home/whx/Dataset/semi-aves/trainval_images/12/12.jpg	Green water.
+/home/whx/Dataset/semi-aves/trainval_images/12/34.jpg	Green water with floating debris.
+/home/whx/Dataset/semi-aves/trainval_images/12/32.jpg	Ripples on water surface.
+/home/whx/Dataset/semi-aves/trainval_images/12/16.jpg	water, lily pads, reflections.
+/home/whx/Dataset/semi-aves/trainval_images/12/11.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/12/27.jpg	calm water, green reflections.
+/home/whx/Dataset/semi-aves/trainval_images/13/36.jpg	muddy water.
+/home/whx/Dataset/semi-aves/trainval_images/13/22.jpg	white wall with patches
+/home/whx/Dataset/semi-aves/trainval_images/13/29.jpg	muddy water, reeds.
+/home/whx/Dataset/semi-aves/trainval_images/13/17.jpg	The background is a textured, light-colored surface.
+/home/whx/Dataset/semi-aves/trainval_images/13/42.jpg	dry grass.
+/home/whx/Dataset/semi-aves/trainval_images/13/35.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/13/38.jpg	clear sky
+/home/whx/Dataset/semi-aves/trainval_images/13/0.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/14/24.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/14/25.jpg	The background of the bird is a natural, outdoor setting with greenery and dry branches.
+/home/whx/Dataset/semi-aves/trainval_images/14/27.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/14/26.jpg	A bird soars against a backdrop of a tall, light-colored building with numerous windows.
+/home/whx/Dataset/semi-aves/trainval_images/14/23.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/14/16.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/14/30.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/14/4.jpg	A bird perched on a bare branch against a pale sky.
+/home/whx/Dataset/semi-aves/trainval_images/15/33.jpg	The background is a mix of dirt and sparse green vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/15/13.jpg	Grass, concrete, yellow flower.
+/home/whx/Dataset/semi-aves/trainval_images/15/27.jpg	Rocky, blurred, blue.
+/home/whx/Dataset/semi-aves/trainval_images/15/3.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/15/30.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/15/35.jpg	dry, earthy, field.
+/home/whx/Dataset/semi-aves/trainval_images/15/11.jpg	Blurred greenery and dirt.
+/home/whx/Dataset/semi-aves/trainval_images/15/18.jpg	The background is dark and blurred.
+/home/whx/Dataset/semi-aves/trainval_images/16/35.jpg	muddy water.
+/home/whx/Dataset/semi-aves/trainval_images/16/12.jpg	The background is sandy.
+/home/whx/Dataset/semi-aves/trainval_images/16/32.jpg	A bird stands on sandy beach with scattered rocks.
+/home/whx/Dataset/semi-aves/trainval_images/16/26.jpg	The background is sandy with some green vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/16/31.jpg	a bird on sandy beach with scattered rocks.
+/home/whx/Dataset/semi-aves/trainval_images/16/22.jpg	wet sand, scattered debris.
+/home/whx/Dataset/semi-aves/trainval_images/16/13.jpg	Flat, wet surface.
+/home/whx/Dataset/semi-aves/trainval_images/16/11.jpg	muddy wetland.
+/home/whx/Dataset/semi-aves/trainval_images/17/0.jpg	The background is a snowy, flat surface.
+/home/whx/Dataset/semi-aves/trainval_images/17/34.jpg	pebbled beach.
+/home/whx/Dataset/semi-aves/trainval_images/17/21.jpg	sand
+/home/whx/Dataset/semi-aves/trainval_images/17/29.jpg	Water.
+/home/whx/Dataset/semi-aves/trainval_images/17/1.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/17/25.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/17/7.jpg	rocky, green, water.
+/home/whx/Dataset/semi-aves/trainval_images/17/20.jpg	blue water.
+/home/whx/Dataset/semi-aves/trainval_images/18/11.jpg	concrete and grass.
+/home/whx/Dataset/semi-aves/trainval_images/18/35.jpg	a bird on a stone surface.
+/home/whx/Dataset/semi-aves/trainval_images/18/37.jpg	bare branches, muted greens.
+/home/whx/Dataset/semi-aves/trainval_images/18/40.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/18/5.jpg	Green, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/18/39.jpg	Palm fronds, roof.
+/home/whx/Dataset/semi-aves/trainval_images/18/16.jpg	The background is blurred blue.
+/home/whx/Dataset/semi-aves/trainval_images/18/2.jpg	A bird perched on a tree branch with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/19/26.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/19/21.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/19/2.jpg	The background is a blurred, water-filled area.
+/home/whx/Dataset/semi-aves/trainval_images/19/28.jpg	water, reflections, blurred.
+/home/whx/Dataset/semi-aves/trainval_images/19/0.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/19/14.jpg	muddy water.
+/home/whx/Dataset/semi-aves/trainval_images/19/30.jpg	muddy water and sand.
+/home/whx/Dataset/semi-aves/trainval_images/19/8.jpg	water and sand
+/home/whx/Dataset/semi-aves/trainval_images/20/15.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/20/17.jpg	tree branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/20/7.jpg	A bird in a tree with bare branches and some green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/20/11.jpg	Grass and dirt.
+/home/whx/Dataset/semi-aves/trainval_images/20/22.jpg	Green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/20/9.jpg	A bird perched on a tree branch against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/20/2.jpg	A bird perched on a tree with green leaves and seed pods.
+/home/whx/Dataset/semi-aves/trainval_images/20/5.jpg	A bird perched on a branch against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/21/10.jpg	A bird is perched on a ledge against a beige building with white balconies and a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/21/8.jpg	white wall
+/home/whx/Dataset/semi-aves/trainval_images/21/16.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/21/5.jpg	The background of the bird is a concrete surface with some scattered debris and a tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/21/21.jpg	Grass and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/21/30.jpg	The background of the bird is a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/21/20.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/21/22.jpg	cloudy sky
+/home/whx/Dataset/semi-aves/trainval_images/22/18.jpg	Ripples in water.
+/home/whx/Dataset/semi-aves/trainval_images/22/29.jpg	water with reflections.
+/home/whx/Dataset/semi-aves/trainval_images/22/20.jpg	water and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/22/31.jpg	muddy, grassy, shallow water.
+/home/whx/Dataset/semi-aves/trainval_images/22/30.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/22/7.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/22/1.jpg	Ocean waves.
+/home/whx/Dataset/semi-aves/trainval_images/22/9.jpg	muddy ground, water, grass.
+/home/whx/Dataset/semi-aves/trainval_images/23/24.jpg	A bird soars over a blurred blue expanse.
+/home/whx/Dataset/semi-aves/trainval_images/23/21.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/23/26.jpg	The background is a blurred sandy beach.
+/home/whx/Dataset/semi-aves/trainval_images/23/12.jpg	ocean waves.
+/home/whx/Dataset/semi-aves/trainval_images/23/16.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/23/6.jpg	The background is sandy.
+/home/whx/Dataset/semi-aves/trainval_images/23/48.jpg	foggy beach.
+/home/whx/Dataset/semi-aves/trainval_images/23/32.jpg	A bird stands on sandy beach with blurred water in the background.
+/home/whx/Dataset/semi-aves/trainval_images/24/13.jpg	blue water.
+/home/whx/Dataset/semi-aves/trainval_images/24/27.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/24/1.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/24/14.jpg	Cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/24/36.jpg	The background is a blurred, textured surface.
+/home/whx/Dataset/semi-aves/trainval_images/24/25.jpg	A bird in a nest surrounded by grass and reeds.
+/home/whx/Dataset/semi-aves/trainval_images/24/9.jpg	The background is dark and blurry.
+/home/whx/Dataset/semi-aves/trainval_images/24/2.jpg	a bird stands on wet sand near water.
+/home/whx/Dataset/semi-aves/trainval_images/25/10.jpg	The background is a blurred mix of earthy tones and scattered leaves.
+/home/whx/Dataset/semi-aves/trainval_images/25/28.jpg	The background of the bird is a dense, green, and leafy area with some dry branches and water.
+/home/whx/Dataset/semi-aves/trainval_images/25/32.jpg	muddy ground
+/home/whx/Dataset/semi-aves/trainval_images/25/27.jpg	muddy ground with scattered leaves.
+/home/whx/Dataset/semi-aves/trainval_images/25/14.jpg	Green grass, plants, and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/25/20.jpg	mulch
+/home/whx/Dataset/semi-aves/trainval_images/25/25.jpg	bare branches, cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/25/22.jpg	green foliage, rocks, water.
+/home/whx/Dataset/semi-aves/trainval_images/26/33.jpg	blue water, splashing waves.
+/home/whx/Dataset/semi-aves/trainval_images/26/28.jpg	Wavy water.
+/home/whx/Dataset/semi-aves/trainval_images/26/14.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/26/45.jpg	calm water.
+/home/whx/Dataset/semi-aves/trainval_images/26/41.jpg	calm blue water.
+/home/whx/Dataset/semi-aves/trainval_images/26/1.jpg	calm blue water, rocky shore.
+/home/whx/Dataset/semi-aves/trainval_images/26/25.jpg	blue water.
+/home/whx/Dataset/semi-aves/trainval_images/26/36.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/27/20.jpg	A bird in water with seaweed.
+/home/whx/Dataset/semi-aves/trainval_images/27/42.jpg	calm water, rocks, sunlight.
+/home/whx/Dataset/semi-aves/trainval_images/27/40.jpg	dark, uniform, water.
+/home/whx/Dataset/semi-aves/trainval_images/27/27.jpg	A bird on seaweed near water.
+/home/whx/Dataset/semi-aves/trainval_images/27/3.jpg	A bird stands on wet sand.
+/home/whx/Dataset/semi-aves/trainval_images/27/19.jpg	calm blue water.
+/home/whx/Dataset/semi-aves/trainval_images/27/8.jpg	The background is blurred green.
+/home/whx/Dataset/semi-aves/trainval_images/27/13.jpg	water, trees, mountains.
+/home/whx/Dataset/semi-aves/trainval_images/28/3.jpg	A bird in a snowy, tree-filled background.
+/home/whx/Dataset/semi-aves/trainval_images/28/19.jpg	bare trees, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/28/4.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/28/35.jpg	tree trunk, green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/28/36.jpg	Green grass and yellow flowers.
+/home/whx/Dataset/semi-aves/trainval_images/28/33.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/28/10.jpg	tree branches, lichen, sky.
+/home/whx/Dataset/semi-aves/trainval_images/28/13.jpg	The background is dark and blurry.
+/home/whx/Dataset/semi-aves/trainval_images/29/18.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/29/8.jpg	concrete wall
+/home/whx/Dataset/semi-aves/trainval_images/29/4.jpg	gray water, orange bottom.
+/home/whx/Dataset/semi-aves/trainval_images/29/0.jpg	concrete bridge structure.
+/home/whx/Dataset/semi-aves/trainval_images/29/17.jpg	A bird soars over water.
+/home/whx/Dataset/semi-aves/trainval_images/29/1.jpg	A bird in water.
+/home/whx/Dataset/semi-aves/trainval_images/29/30.jpg	Wavy ocean.
+/home/whx/Dataset/semi-aves/trainval_images/29/6.jpg	Rocky cliff.
+/home/whx/Dataset/semi-aves/trainval_images/30/36.jpg	Grass and rocks.
+/home/whx/Dataset/semi-aves/trainval_images/30/29.jpg	Grassy ground, gray wall.
+/home/whx/Dataset/semi-aves/trainval_images/30/10.jpg	The background is green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/30/39.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/30/32.jpg	A bird perched on a branch against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/30/2.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/30/24.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/30/12.jpg	The background is a blurred mix of green leaves and brown branches.
+/home/whx/Dataset/semi-aves/trainval_images/31/22.jpg	A bird perched on a railing with buildings and trees in the background.
+/home/whx/Dataset/semi-aves/trainval_images/31/3.jpg	A bird perched on a tree branch with green leaves and a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/31/6.jpg	Green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/31/18.jpg	green foliage, white wall, metal structure.
+/home/whx/Dataset/semi-aves/trainval_images/31/21.jpg	tree branches, leaves, sky.
+/home/whx/Dataset/semi-aves/trainval_images/31/13.jpg	Eucalyptus branches and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/31/28.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/31/29.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/32/31.jpg	muddy bank, calm water, reflection.
+/home/whx/Dataset/semi-aves/trainval_images/32/6.jpg	The background is a plain, light gray.
+/home/whx/Dataset/semi-aves/trainval_images/32/24.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/32/18.jpg	The background is blurred with greenery and earth tones.
+/home/whx/Dataset/semi-aves/trainval_images/32/32.jpg	Water and reeds.
+/home/whx/Dataset/semi-aves/trainval_images/32/39.jpg	Green grass, trees, sunny.
+/home/whx/Dataset/semi-aves/trainval_images/32/1.jpg	snowy field, bare trees.
+/home/whx/Dataset/semi-aves/trainval_images/32/20.jpg	Grassy field with road in background.
+/home/whx/Dataset/semi-aves/trainval_images/33/39.jpg	The background is a dark, textured surface.
+/home/whx/Dataset/semi-aves/trainval_images/33/25.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/33/18.jpg	Green foliage and grass.
+/home/whx/Dataset/semi-aves/trainval_images/33/1.jpg	A bird on a wire against a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/33/10.jpg	Reeds and water.
+/home/whx/Dataset/semi-aves/trainval_images/33/12.jpg	a bird on a branch with yellow flowers.
+/home/whx/Dataset/semi-aves/trainval_images/33/20.jpg	A bird perched on a branch against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/33/36.jpg	Grass, twigs, rock.
+/home/whx/Dataset/semi-aves/trainval_images/34/8.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/34/21.jpg	water, branches, fence.
+/home/whx/Dataset/semi-aves/trainval_images/34/27.jpg	Reeds and water.
+/home/whx/Dataset/semi-aves/trainval_images/34/13.jpg	dirt, shadows, grass.
+/home/whx/Dataset/semi-aves/trainval_images/34/17.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/34/6.jpg	rocks, twigs, pebbles.
+/home/whx/Dataset/semi-aves/trainval_images/34/24.jpg	a bird stands on dirt near rocks.
+/home/whx/Dataset/semi-aves/trainval_images/34/29.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/35/35.jpg	water with reflections.
+/home/whx/Dataset/semi-aves/trainval_images/35/22.jpg	A bird in rippling water.
+/home/whx/Dataset/semi-aves/trainval_images/35/34.jpg	Water with ripples and reflections.
+/home/whx/Dataset/semi-aves/trainval_images/35/31.jpg	Green water.
+/home/whx/Dataset/semi-aves/trainval_images/35/15.jpg	Green foliage, water, lily pads.
+/home/whx/Dataset/semi-aves/trainval_images/35/4.jpg	water, reflections, calm.
+/home/whx/Dataset/semi-aves/trainval_images/35/23.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/35/1.jpg	dark water
+/home/whx/Dataset/semi-aves/trainval_images/36/5.jpg	dry grass, green plants.
+/home/whx/Dataset/semi-aves/trainval_images/36/8.jpg	dirt, grass, blurred.
+/home/whx/Dataset/semi-aves/trainval_images/36/10.jpg	Green and blurred.
+/home/whx/Dataset/semi-aves/trainval_images/36/34.jpg	gray, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/36/13.jpg	Green, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/36/17.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/36/24.jpg	The background is plain white.
+/home/whx/Dataset/semi-aves/trainval_images/36/33.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/37/38.jpg	A bird against a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/37/32.jpg	calm water with ripples.
+/home/whx/Dataset/semi-aves/trainval_images/37/16.jpg	dry grass, trees, bushes.
+/home/whx/Dataset/semi-aves/trainval_images/37/23.jpg	Frozen water.
+/home/whx/Dataset/semi-aves/trainval_images/37/21.jpg	Dry grass, snowy ground.
+/home/whx/Dataset/semi-aves/trainval_images/37/35.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/37/7.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/37/18.jpg	dry grass, water.
+/home/whx/Dataset/semi-aves/trainval_images/38/15.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/38/31.jpg	A bird perched on a wooden pole with a cloudy sky and power lines in the background.
+/home/whx/Dataset/semi-aves/trainval_images/38/4.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/38/18.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/38/17.jpg	Grassy field with shrubs.
+/home/whx/Dataset/semi-aves/trainval_images/38/24.jpg	dry grassland
+/home/whx/Dataset/semi-aves/trainval_images/38/3.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/38/10.jpg	Grassy field with sparse vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/39/1.jpg	dry grass, trees, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/39/13.jpg	The background is a plain, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/39/2.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/39/12.jpg	A bird perched in a tree with bare branches and green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/39/4.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/39/22.jpg	The background is a clear, light blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/39/10.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/39/3.jpg	bare trees, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/40/39.jpg	A bird stands on a rocky, sandy ground with other birds in the background.
+/home/whx/Dataset/semi-aves/trainval_images/40/37.jpg	A bird lies on sandy beach with scattered shells.
+/home/whx/Dataset/semi-aves/trainval_images/40/24.jpg	Overcast sky, choppy water.
+/home/whx/Dataset/semi-aves/trainval_images/40/4.jpg	Ocean.
+/home/whx/Dataset/semi-aves/trainval_images/40/35.jpg	Rocky, blurred, natural.
+/home/whx/Dataset/semi-aves/trainval_images/40/14.jpg	a bird on sandy beach with scattered pebbles.
+/home/whx/Dataset/semi-aves/trainval_images/40/5.jpg	The background is blurred, showing other birds and a natural setting.
+/home/whx/Dataset/semi-aves/trainval_images/40/17.jpg	A bird lies on sandy beach with scattered seaweed.
+/home/whx/Dataset/semi-aves/trainval_images/41/23.jpg	tree trunk, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/41/18.jpg	The background is blurred, showing a snowy, wooded area.
+/home/whx/Dataset/semi-aves/trainval_images/41/36.jpg	The background is blurred green.
+/home/whx/Dataset/semi-aves/trainval_images/41/34.jpg	bare branches, clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/41/7.jpg	A bird on a tree trunk, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/41/29.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/41/17.jpg	A bird on a lichen-covered tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/41/6.jpg	A bird perched on a tree branch with a blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/42/2.jpg	Green foliage, blue water.
+/home/whx/Dataset/semi-aves/trainval_images/42/26.jpg	dry grass and branches.
+/home/whx/Dataset/semi-aves/trainval_images/42/9.jpg	Green foliage, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/42/0.jpg	bare branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/42/19.jpg	a bird in flight against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/42/21.jpg	Blurred grass and foliage.
+/home/whx/Dataset/semi-aves/trainval_images/42/28.jpg	The background is a plain, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/42/31.jpg	dry grass and reeds.
+/home/whx/Dataset/semi-aves/trainval_images/43/26.jpg	The background is a mix of green foliage and brown leaves.
+/home/whx/Dataset/semi-aves/trainval_images/43/7.jpg	A bird perches on a wooden railing with lush green foliage in the background.
+/home/whx/Dataset/semi-aves/trainval_images/43/2.jpg	tree branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/43/12.jpg	Dry grass and twigs.
+/home/whx/Dataset/semi-aves/trainval_images/43/15.jpg	A bird perched on a concrete ledge with a yellow wall and shadows in the background.
+/home/whx/Dataset/semi-aves/trainval_images/43/39.jpg	Cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/43/10.jpg	a bird on a pole, forested background.
+/home/whx/Dataset/semi-aves/trainval_images/43/38.jpg	Green foliage, blue flowers.
+/home/whx/Dataset/semi-aves/trainval_images/44/28.jpg	A bird perched on a branch with a blue sky and green leaves in the background.
+/home/whx/Dataset/semi-aves/trainval_images/44/10.jpg	A bird perched on a branch against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/44/15.jpg	dry grass.
+/home/whx/Dataset/semi-aves/trainval_images/44/36.jpg	rocky, sandy, shadowed.
+/home/whx/Dataset/semi-aves/trainval_images/44/6.jpg	rocks, water, dirt.
+/home/whx/Dataset/semi-aves/trainval_images/44/27.jpg	dry, tangled branches.
+/home/whx/Dataset/semi-aves/trainval_images/44/24.jpg	A bird perched on a branch with green leaves and a pale sky.
+/home/whx/Dataset/semi-aves/trainval_images/44/25.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/45/18.jpg	calm blue water.
+/home/whx/Dataset/semi-aves/trainval_images/45/16.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/45/22.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/45/15.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/45/10.jpg	calm water
+/home/whx/Dataset/semi-aves/trainval_images/45/3.jpg	water, ripples, grass
+/home/whx/Dataset/semi-aves/trainval_images/45/6.jpg	calm water.
+/home/whx/Dataset/semi-aves/trainval_images/45/20.jpg	water, branches, grass.
+/home/whx/Dataset/semi-aves/trainval_images/46/20.jpg	a bird on rocks with leaves.
+/home/whx/Dataset/semi-aves/trainval_images/46/2.jpg	dry, sandy ground with sparse grass.
+/home/whx/Dataset/semi-aves/trainval_images/46/1.jpg	A bird perched on branches with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/46/0.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/46/18.jpg	The background is blurred green.
+/home/whx/Dataset/semi-aves/trainval_images/46/42.jpg	The background is a textured, light-colored surface.
+/home/whx/Dataset/semi-aves/trainval_images/46/28.jpg	blurry, muted tones.
+/home/whx/Dataset/semi-aves/trainval_images/46/25.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/47/10.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/47/12.jpg	wooden dock, green water.
+/home/whx/Dataset/semi-aves/trainval_images/47/2.jpg	rocky, water, green algae.
+/home/whx/Dataset/semi-aves/trainval_images/47/28.jpg	Reeds and water.
+/home/whx/Dataset/semi-aves/trainval_images/47/30.jpg	snowy
+/home/whx/Dataset/semi-aves/trainval_images/47/19.jpg	green water, reflections.
+/home/whx/Dataset/semi-aves/trainval_images/47/14.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/47/3.jpg	water, splash, flock.
+/home/whx/Dataset/semi-aves/trainval_images/48/16.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/48/13.jpg	water, branches
+/home/whx/Dataset/semi-aves/trainval_images/48/34.jpg	water, dock, horizon.
+/home/whx/Dataset/semi-aves/trainval_images/48/30.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/48/22.jpg	icy water
+/home/whx/Dataset/semi-aves/trainval_images/48/38.jpg	blue water, ice.
+/home/whx/Dataset/semi-aves/trainval_images/48/11.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/48/37.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/49/19.jpg	dry grass, water, reeds.
+/home/whx/Dataset/semi-aves/trainval_images/49/6.jpg	water, branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/49/7.jpg	A bird stands near water, surrounded by rocks and grass.
+/home/whx/Dataset/semi-aves/trainval_images/49/11.jpg	A bird stands against a blurred, reflective water background.
+/home/whx/Dataset/semi-aves/trainval_images/49/2.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/49/26.jpg	A bird stands on a wooden dock near water.
+/home/whx/Dataset/semi-aves/trainval_images/49/8.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/49/27.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/50/28.jpg	snowy, dry grass, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/50/5.jpg	bare branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/50/21.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/50/14.jpg	The background is a textured, gray surface.
+/home/whx/Dataset/semi-aves/trainval_images/50/24.jpg	bare branches, red berries, clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/50/30.jpg	dry grass and branches.
+/home/whx/Dataset/semi-aves/trainval_images/50/9.jpg	Forked yellow flowers, white fence.
+/home/whx/Dataset/semi-aves/trainval_images/50/1.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/51/20.jpg	Cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/51/5.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/51/10.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/51/25.jpg	metal structure, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/51/27.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/51/18.jpg	The background is a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/51/9.jpg	Rocky, snowy terrain.
+/home/whx/Dataset/semi-aves/trainval_images/51/7.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/52/21.jpg	A bird perched on branches against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/52/6.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/52/34.jpg	Lichen-covered branches.
+/home/whx/Dataset/semi-aves/trainval_images/52/5.jpg	Green and orange foliage.
+/home/whx/Dataset/semi-aves/trainval_images/52/15.jpg	The background is blurred, with muted greens and browns.
+/home/whx/Dataset/semi-aves/trainval_images/52/14.jpg	A bird perched on orange flowers with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/52/1.jpg	pine needles.
+/home/whx/Dataset/semi-aves/trainval_images/52/36.jpg	pine needles
+/home/whx/Dataset/semi-aves/trainval_images/53/25.jpg	pond with grass and wood.
+/home/whx/Dataset/semi-aves/trainval_images/53/4.jpg	A bird in green water.
+/home/whx/Dataset/semi-aves/trainval_images/53/17.jpg	A bird stands on a rock in a calm, sunlit pond surrounded by trees.
+/home/whx/Dataset/semi-aves/trainval_images/53/34.jpg	water, grass, reflections.
+/home/whx/Dataset/semi-aves/trainval_images/53/32.jpg	A bird is in a pond with green vegetation and rocks.
+/home/whx/Dataset/semi-aves/trainval_images/53/0.jpg	calm water, distant rocks, clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/53/20.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/53/30.jpg	The background of the bird is a rippling blue water surface.
+/home/whx/Dataset/semi-aves/trainval_images/54/18.jpg	a bird in snowy grass.
+/home/whx/Dataset/semi-aves/trainval_images/54/22.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/54/31.jpg	A bird rests on a nest amidst trees and water.
+/home/whx/Dataset/semi-aves/trainval_images/54/30.jpg	A bird swims in calm water with reeds.
+/home/whx/Dataset/semi-aves/trainval_images/54/9.jpg	calm water.
+/home/whx/Dataset/semi-aves/trainval_images/54/6.jpg	water, reeds, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/54/16.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/54/24.jpg	trees, water, sky.
+/home/whx/Dataset/semi-aves/trainval_images/55/20.jpg	pond, trees, reeds.
+/home/whx/Dataset/semi-aves/trainval_images/55/4.jpg	muddy ground, water, rocks.
+/home/whx/Dataset/semi-aves/trainval_images/55/32.jpg	water, shore, sunlight.
+/home/whx/Dataset/semi-aves/trainval_images/55/11.jpg	grass, trees, path, structures.
+/home/whx/Dataset/semi-aves/trainval_images/55/5.jpg	Golf course with trees and people.
+/home/whx/Dataset/semi-aves/trainval_images/55/24.jpg	Graveyard with tombstones.
+/home/whx/Dataset/semi-aves/trainval_images/55/33.jpg	Blurred, brown, natural.
+/home/whx/Dataset/semi-aves/trainval_images/55/28.jpg	dry grass, trees, water.
+/home/whx/Dataset/semi-aves/trainval_images/56/20.jpg	Green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/56/19.jpg	dry grass, sparse vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/56/6.jpg	Clear sky, green shrubs.
+/home/whx/Dataset/semi-aves/trainval_images/56/32.jpg	Cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/56/18.jpg	dry grass, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/56/8.jpg	Green field.
+/home/whx/Dataset/semi-aves/trainval_images/56/13.jpg	dry grass, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/56/9.jpg	dry reeds, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/57/2.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/57/20.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/57/13.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/57/5.jpg	A bird stands amidst greenery near a calm body of water.
+/home/whx/Dataset/semi-aves/trainval_images/57/9.jpg	green trees.
+/home/whx/Dataset/semi-aves/trainval_images/57/31.jpg	A bird stands near a pond with lily pads and greenery.
+/home/whx/Dataset/semi-aves/trainval_images/57/17.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/57/30.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/58/3.jpg	Tree branches and blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/58/15.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/58/16.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/58/4.jpg	Overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/58/28.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/58/27.jpg	The background is a cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/58/35.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/58/39.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/59/34.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/59/28.jpg	rocky, forested background.
+/home/whx/Dataset/semi-aves/trainval_images/59/29.jpg	Green grass, trees, open field.
+/home/whx/Dataset/semi-aves/trainval_images/59/0.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/59/12.jpg	bare branches, muted colors
+/home/whx/Dataset/semi-aves/trainval_images/59/26.jpg	green ivy.
+/home/whx/Dataset/semi-aves/trainval_images/59/10.jpg	Grassy field, trees, fence, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/59/5.jpg	A bird perched on bare branches against a pale sky.
+/home/whx/Dataset/semi-aves/trainval_images/60/9.jpg	dry grass, bare ground.
+/home/whx/Dataset/semi-aves/trainval_images/60/16.jpg	bare branches, gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/60/0.jpg	bare branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/60/26.jpg	The background is sandy.
+/home/whx/Dataset/semi-aves/trainval_images/60/21.jpg	The background of the bird is a clear, light blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/60/14.jpg	A bird stands near a plate with a blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/60/19.jpg	Green grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/60/27.jpg	dry ground, grass, blurred.
+/home/whx/Dataset/semi-aves/trainval_images/61/3.jpg	water, snow, branches.
+/home/whx/Dataset/semi-aves/trainval_images/61/22.jpg	pebbles, blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/61/37.jpg	The background of the bird is a gravel surface.
+/home/whx/Dataset/semi-aves/trainval_images/61/8.jpg	A bird is perched in a snowy, wooded area with evergreen trees.
+/home/whx/Dataset/semi-aves/trainval_images/61/40.jpg	Grass and fallen leaves.
+/home/whx/Dataset/semi-aves/trainval_images/61/39.jpg	green trees, road, grass.
+/home/whx/Dataset/semi-aves/trainval_images/61/38.jpg	green foliage, trees, path.
+/home/whx/Dataset/semi-aves/trainval_images/61/16.jpg	dry branches, green grass.
+/home/whx/Dataset/semi-aves/trainval_images/62/17.jpg	A bird perched on green leaves against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/62/25.jpg	wet sand, water.
+/home/whx/Dataset/semi-aves/trainval_images/62/34.jpg	green foliage, branches.
+/home/whx/Dataset/semi-aves/trainval_images/62/11.jpg	A bird is perched on a branch surrounded by green foliage and red flowers.
+/home/whx/Dataset/semi-aves/trainval_images/62/5.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/62/7.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/62/15.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/62/0.jpg	The background is a blurred mix of brown branches and green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/63/11.jpg	blurry, gray, tree.
+/home/whx/Dataset/semi-aves/trainval_images/63/34.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/63/21.jpg	Grassy field, trees, overcast.
+/home/whx/Dataset/semi-aves/trainval_images/63/33.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/63/29.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/63/14.jpg	A bird against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/63/7.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/63/10.jpg	A bird perches on a high structure against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/64/31.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/64/21.jpg	A bird perched on a post with greenery and water in the background.
+/home/whx/Dataset/semi-aves/trainval_images/64/15.jpg	bare trees, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/64/7.jpg	A bird perched on a wire against a cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/64/22.jpg	dense forest, clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/64/13.jpg	A bird perched on a wire against a gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/64/10.jpg	Blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/64/17.jpg	dry, earthy, grassy.
+/home/whx/Dataset/semi-aves/trainval_images/65/17.jpg	A bird perched on a tree branch with a clear blue sky and distant hills in the background.
+/home/whx/Dataset/semi-aves/trainval_images/65/14.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/65/3.jpg	dry grass, dead plants.
+/home/whx/Dataset/semi-aves/trainval_images/65/30.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/65/2.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/65/25.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/65/16.jpg	green plants, dirt ground.
+/home/whx/Dataset/semi-aves/trainval_images/65/20.jpg	The background is blurred, light-colored.
+/home/whx/Dataset/semi-aves/trainval_images/66/11.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/66/5.jpg	tree branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/66/16.jpg	The background consists of tree branches and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/66/24.jpg	green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/66/6.jpg	green leaves, tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/66/9.jpg	The background is a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/66/22.jpg	blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/66/21.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/67/23.jpg	Grass.
+/home/whx/Dataset/semi-aves/trainval_images/67/5.jpg	Grassy field with red plants.
+/home/whx/Dataset/semi-aves/trainval_images/67/22.jpg	Grassy bank, water.
+/home/whx/Dataset/semi-aves/trainval_images/67/29.jpg	A bird stands on grass with a blurred water and distant land in the background.
+/home/whx/Dataset/semi-aves/trainval_images/67/31.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/67/14.jpg	Grassy field with shadows.
+/home/whx/Dataset/semi-aves/trainval_images/67/19.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/67/2.jpg	Grass, water.
+/home/whx/Dataset/semi-aves/trainval_images/68/27.jpg	icy water, dark trees.
+/home/whx/Dataset/semi-aves/trainval_images/68/3.jpg	A bird in a marshy area with reeds and water.
+/home/whx/Dataset/semi-aves/trainval_images/68/28.jpg	water, pole, rocks
+/home/whx/Dataset/semi-aves/trainval_images/68/19.jpg	blurry, dark, indistinct.
+/home/whx/Dataset/semi-aves/trainval_images/68/16.jpg	water, shore, branches.
+/home/whx/Dataset/semi-aves/trainval_images/68/18.jpg	calm water.
+/home/whx/Dataset/semi-aves/trainval_images/68/12.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/68/5.jpg	dry, brown vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/69/4.jpg	dry grass and branches.
+/home/whx/Dataset/semi-aves/trainval_images/69/8.jpg	muddy ground
+/home/whx/Dataset/semi-aves/trainval_images/69/13.jpg	dry, sandy, twigs.
+/home/whx/Dataset/semi-aves/trainval_images/69/6.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/69/18.jpg	blurred, out of focus, natural setting.
+/home/whx/Dataset/semi-aves/trainval_images/69/23.jpg	A bird perched on a tree branch against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/69/1.jpg	dry, blurred, brown.
+/home/whx/Dataset/semi-aves/trainval_images/69/15.jpg	dry grass and plants.
+/home/whx/Dataset/semi-aves/trainval_images/70/21.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/70/12.jpg	Grassy, wetland.
+/home/whx/Dataset/semi-aves/trainval_images/70/22.jpg	muddy ground
+/home/whx/Dataset/semi-aves/trainval_images/70/20.jpg	water, distant land, green trees.
+/home/whx/Dataset/semi-aves/trainval_images/70/11.jpg	Wavy water.
+/home/whx/Dataset/semi-aves/trainval_images/70/27.jpg	water and trees
+/home/whx/Dataset/semi-aves/trainval_images/70/16.jpg	sand and water.
+/home/whx/Dataset/semi-aves/trainval_images/70/5.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/71/34.jpg	bare branches, muted colors.
+/home/whx/Dataset/semi-aves/trainval_images/71/2.jpg	blurry, brown, branches.
+/home/whx/Dataset/semi-aves/trainval_images/71/33.jpg	bare branches, muted colors.
+/home/whx/Dataset/semi-aves/trainval_images/71/5.jpg	The background is blurred, with a mix of light and green tones.
+/home/whx/Dataset/semi-aves/trainval_images/71/16.jpg	blurred, tree-like.
+/home/whx/Dataset/semi-aves/trainval_images/71/6.jpg	A bird on a tiled surface with a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/71/17.jpg	blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/71/23.jpg	Blurred grass and branches.
+/home/whx/Dataset/semi-aves/trainval_images/72/5.jpg	water, plants, reflections.
+/home/whx/Dataset/semi-aves/trainval_images/72/8.jpg	A bird stands on a rocky shore with water and greenery in the background.
+/home/whx/Dataset/semi-aves/trainval_images/72/38.jpg	Ripples in water.
+/home/whx/Dataset/semi-aves/trainval_images/72/28.jpg	Green grass, water.
+/home/whx/Dataset/semi-aves/trainval_images/72/15.jpg	Grassy bank, water.
+/home/whx/Dataset/semi-aves/trainval_images/72/24.jpg	water, blurred leaves.
+/home/whx/Dataset/semi-aves/trainval_images/72/27.jpg	Grass and water.
+/home/whx/Dataset/semi-aves/trainval_images/72/25.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/73/10.jpg	green leaves, brown branches.
+/home/whx/Dataset/semi-aves/trainval_images/73/20.jpg	tree branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/73/28.jpg	pine needles and branches.
+/home/whx/Dataset/semi-aves/trainval_images/73/8.jpg	pine tree branches and needles.
+/home/whx/Dataset/semi-aves/trainval_images/73/39.jpg	The background of the bird is a mix of blurred green and brown tones, suggesting a forested area.
+/home/whx/Dataset/semi-aves/trainval_images/73/31.jpg	A bird perched on a pine branch with green needles.
+/home/whx/Dataset/semi-aves/trainval_images/73/13.jpg	dry, blurred, natural.
+/home/whx/Dataset/semi-aves/trainval_images/73/7.jpg	pine tree branches and needles.
+/home/whx/Dataset/semi-aves/trainval_images/74/27.jpg	bare branches, muted colors.
+/home/whx/Dataset/semi-aves/trainval_images/74/19.jpg	tree branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/74/17.jpg	bare trees, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/74/13.jpg	bare trees, dry grass.
+/home/whx/Dataset/semi-aves/trainval_images/74/3.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/74/21.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/74/9.jpg	wooden fence, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/74/8.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/75/15.jpg	dry, blurred, beige.
+/home/whx/Dataset/semi-aves/trainval_images/75/24.jpg	bird in yard with car and fountain.
+/home/whx/Dataset/semi-aves/trainval_images/75/0.jpg	bare branches.
+/home/whx/Dataset/semi-aves/trainval_images/75/12.jpg	dry, brown, brush.
+/home/whx/Dataset/semi-aves/trainval_images/75/16.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/75/14.jpg	The background is blurred green.
+/home/whx/Dataset/semi-aves/trainval_images/75/18.jpg	tree branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/75/32.jpg	Green, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/76/0.jpg	The background is a blurred mix of green and brown foliage.
+/home/whx/Dataset/semi-aves/trainval_images/76/20.jpg	Green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/76/19.jpg	A bird is perched on green leaves against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/76/7.jpg	Green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/76/26.jpg	green foliage, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/76/8.jpg	a bird on a wire against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/76/6.jpg	Green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/76/5.jpg	Green leaves, branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/77/9.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/77/4.jpg	green foliage, tree trunk, purple flowers.
+/home/whx/Dataset/semi-aves/trainval_images/77/17.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/77/6.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/77/8.jpg	Green grass, trees, fence.
+/home/whx/Dataset/semi-aves/trainval_images/77/30.jpg	yellow flowers, green trees, barbed wire.
+/home/whx/Dataset/semi-aves/trainval_images/77/18.jpg	gray sky
+/home/whx/Dataset/semi-aves/trainval_images/77/26.jpg	Blurred grass and sky.
+/home/whx/Dataset/semi-aves/trainval_images/78/28.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/78/10.jpg	Snowy ground with scattered seeds.
+/home/whx/Dataset/semi-aves/trainval_images/78/22.jpg	pebbled ground
+/home/whx/Dataset/semi-aves/trainval_images/78/15.jpg	Snowy ground, bare trees.
+/home/whx/Dataset/semi-aves/trainval_images/78/13.jpg	A bird perched on a branch with green foliage and blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/78/27.jpg	dry leaves, twigs, stone, pot.
+/home/whx/Dataset/semi-aves/trainval_images/78/3.jpg	rocks, water, concrete.
+/home/whx/Dataset/semi-aves/trainval_images/78/24.jpg	A bird in a snowy background.
+/home/whx/Dataset/semi-aves/trainval_images/79/6.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/79/18.jpg	tree branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/79/12.jpg	concrete ground with scattered leaves.
+/home/whx/Dataset/semi-aves/trainval_images/79/23.jpg	bare branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/79/9.jpg	green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/79/3.jpg	tree branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/79/0.jpg	A bird perched on green leaves against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/79/22.jpg	wooden structure, sunlight.
+/home/whx/Dataset/semi-aves/trainval_images/80/0.jpg	green foliage, tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/80/18.jpg	Blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/80/30.jpg	Green, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/80/21.jpg	Green foliage, purple flowers.
+/home/whx/Dataset/semi-aves/trainval_images/80/24.jpg	blurry water.
+/home/whx/Dataset/semi-aves/trainval_images/80/23.jpg	A bird is perched on a branch amidst green foliage and dried grass.
+/home/whx/Dataset/semi-aves/trainval_images/80/20.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/80/4.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/81/4.jpg	Clear blue sky, bare branches.
+/home/whx/Dataset/semi-aves/trainval_images/81/32.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/81/23.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/81/18.jpg	blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/81/25.jpg	tree with green and red leaves.
+/home/whx/Dataset/semi-aves/trainval_images/81/9.jpg	bare trees, barbed wire.
+/home/whx/Dataset/semi-aves/trainval_images/81/13.jpg	Green leaves, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/81/16.jpg	tree branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/82/21.jpg	A bird perches on bare branches against a backdrop of green trees.
+/home/whx/Dataset/semi-aves/trainval_images/82/11.jpg	Clear blue sky, power lines, and tower.
+/home/whx/Dataset/semi-aves/trainval_images/82/24.jpg	A bird perched on a brick structure with a window and sky in the background.
+/home/whx/Dataset/semi-aves/trainval_images/82/16.jpg	A bird on a concrete surface with shadows.
+/home/whx/Dataset/semi-aves/trainval_images/82/10.jpg	Grass, dirt, shadows.
+/home/whx/Dataset/semi-aves/trainval_images/82/0.jpg	The background is blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/82/3.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/82/14.jpg	water and concrete
+/home/whx/Dataset/semi-aves/trainval_images/83/29.jpg	Green grass and branches.
+/home/whx/Dataset/semi-aves/trainval_images/83/11.jpg	The background is blurred, with soft green and brown tones.
+/home/whx/Dataset/semi-aves/trainval_images/83/9.jpg	gray sky
+/home/whx/Dataset/semi-aves/trainval_images/83/17.jpg	The background is a pale, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/83/12.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/83/10.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/83/25.jpg	dry grass.
+/home/whx/Dataset/semi-aves/trainval_images/83/23.jpg	mangrove roots, water, leaves.
+/home/whx/Dataset/semi-aves/trainval_images/84/31.jpg	tree trunk, leaves
+/home/whx/Dataset/semi-aves/trainval_images/84/3.jpg	tree branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/84/20.jpg	A bird perched on a tree branch against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/84/12.jpg	The background of the bird is a grassy field with a dirt path and trees.
+/home/whx/Dataset/semi-aves/trainval_images/84/28.jpg	Gravel, grass, and parked cars.
+/home/whx/Dataset/semi-aves/trainval_images/84/6.jpg	tree trunk, branches, cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/84/17.jpg	tree trunk, green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/84/0.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/85/8.jpg	A bird perched on a log against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/85/20.jpg	Green, blurred foliage.
+/home/whx/Dataset/semi-aves/trainval_images/85/19.jpg	A bird perched on a feeder, surrounded by trees and greenery.
+/home/whx/Dataset/semi-aves/trainval_images/85/23.jpg	Green leaves and moss.
+/home/whx/Dataset/semi-aves/trainval_images/85/27.jpg	green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/85/26.jpg	The background is blurred, with green and brown tones.
+/home/whx/Dataset/semi-aves/trainval_images/85/16.jpg	blurred, brown, branches.
+/home/whx/Dataset/semi-aves/trainval_images/85/6.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/86/30.jpg	A bird perched on a branch with green leaves and a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/86/14.jpg	A bird perched on a branch against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/86/19.jpg	A bird perched on a tree branch surrounded by green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/86/27.jpg	A bird in a tree with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/86/16.jpg	A bird in green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/86/13.jpg	a bird in a tree with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/86/23.jpg	A bird perched on a tree branch with green foliage and grass in the background.
+/home/whx/Dataset/semi-aves/trainval_images/86/22.jpg	The background features rocks and a leafy branch.
+/home/whx/Dataset/semi-aves/trainval_images/87/9.jpg	bare branches, muted green.
+/home/whx/Dataset/semi-aves/trainval_images/87/22.jpg	The background is blurred.
+/home/whx/Dataset/semi-aves/trainval_images/87/5.jpg	Overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/87/14.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/87/19.jpg	bare branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/87/21.jpg	Overcast sky, power lines, building roof.
+/home/whx/Dataset/semi-aves/trainval_images/87/16.jpg	bare branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/87/6.jpg	Clear blue sky, bare trees.
+/home/whx/Dataset/semi-aves/trainval_images/88/11.jpg	tree bark
+/home/whx/Dataset/semi-aves/trainval_images/88/16.jpg	Lichen-covered branches.
+/home/whx/Dataset/semi-aves/trainval_images/88/0.jpg	tree trunk, blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/88/21.jpg	a bird on rocks.
+/home/whx/Dataset/semi-aves/trainval_images/88/12.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/88/18.jpg	blurry green trees.
+/home/whx/Dataset/semi-aves/trainval_images/88/13.jpg	tree trunk, blurred branches.
+/home/whx/Dataset/semi-aves/trainval_images/88/25.jpg	woodland floor with twigs and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/89/21.jpg	Branches and sky.
+/home/whx/Dataset/semi-aves/trainval_images/89/4.jpg	dry grass, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/89/31.jpg	bare branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/89/23.jpg	The background is blurred, showing a mix of dark and light tones.
+/home/whx/Dataset/semi-aves/trainval_images/89/7.jpg	Blurred, brown, out-of-focus.
+/home/whx/Dataset/semi-aves/trainval_images/89/20.jpg	branch with moss, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/89/28.jpg	bare branches, clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/89/9.jpg	bright, blurred, white.
+/home/whx/Dataset/semi-aves/trainval_images/90/20.jpg	bare trees, cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/90/0.jpg	dry grass.
+/home/whx/Dataset/semi-aves/trainval_images/90/13.jpg	The background is plain white.
+/home/whx/Dataset/semi-aves/trainval_images/90/23.jpg	tree branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/90/27.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/90/4.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/90/24.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/90/12.jpg	Bare tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/91/17.jpg	dry grass.
+/home/whx/Dataset/semi-aves/trainval_images/91/11.jpg	A bird perched on a wooden fence with a house, solar panels, and bushes in the background.
+/home/whx/Dataset/semi-aves/trainval_images/91/4.jpg	green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/91/0.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/91/33.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/91/29.jpg	Green and blurred.
+/home/whx/Dataset/semi-aves/trainval_images/91/8.jpg	tree branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/91/25.jpg	rocky, leafy.
+/home/whx/Dataset/semi-aves/trainval_images/92/22.jpg	bare branches, snowy.
+/home/whx/Dataset/semi-aves/trainval_images/92/13.jpg	bare branches, muted colors.
+/home/whx/Dataset/semi-aves/trainval_images/92/21.jpg	blurry green and white.
+/home/whx/Dataset/semi-aves/trainval_images/92/17.jpg	green leaves, branches.
+/home/whx/Dataset/semi-aves/trainval_images/92/9.jpg	The background is plain white.
+/home/whx/Dataset/semi-aves/trainval_images/92/4.jpg	bare branches, muted colors.
+/home/whx/Dataset/semi-aves/trainval_images/92/14.jpg	concrete ground with scattered debris.
+/home/whx/Dataset/semi-aves/trainval_images/92/8.jpg	The background is a mix of soil, twigs, and scattered leaves.
+/home/whx/Dataset/semi-aves/trainval_images/93/31.jpg	bare branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/93/10.jpg	tree branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/93/29.jpg	blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/93/32.jpg	The background is blurred, with a mix of dark and light tones.
+/home/whx/Dataset/semi-aves/trainval_images/93/2.jpg	green wall
+/home/whx/Dataset/semi-aves/trainval_images/93/8.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/93/16.jpg	bare branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/93/3.jpg	bare branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/94/27.jpg	Grassy field with tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/94/4.jpg	A bird perched on a rusty metal structure against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/94/22.jpg	Clear blue sky, tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/94/34.jpg	A bird perched on wires against a reddish-brown wall.
+/home/whx/Dataset/semi-aves/trainval_images/94/28.jpg	A bird is perched on a branch surrounded by green leaves and twigs.
+/home/whx/Dataset/semi-aves/trainval_images/94/0.jpg	bare branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/94/5.jpg	bare trees, snowy.
+/home/whx/Dataset/semi-aves/trainval_images/94/16.jpg	metal structure, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/95/22.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/95/5.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/95/2.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/95/12.jpg	A bird perched on branches against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/95/8.jpg	A bird perched on a tree branch against a blue sky with scattered clouds.
+/home/whx/Dataset/semi-aves/trainval_images/95/9.jpg	A bird perched in a tree with green foliage and bare branches.
+/home/whx/Dataset/semi-aves/trainval_images/95/6.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/95/16.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/96/7.jpg	A bird on a tree trunk with blurred green background.
+/home/whx/Dataset/semi-aves/trainval_images/96/10.jpg	Dry grass and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/96/8.jpg	branchy, blurred, natural.
+/home/whx/Dataset/semi-aves/trainval_images/96/2.jpg	The background is blurred, with soft, light colors.
+/home/whx/Dataset/semi-aves/trainval_images/96/21.jpg	The background of the bird is a clear blue sky with tree branches and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/96/16.jpg	A bird perched on a tree branch with a blurred green background.
+/home/whx/Dataset/semi-aves/trainval_images/96/11.jpg	rocks, water, greenery.
+/home/whx/Dataset/semi-aves/trainval_images/96/14.jpg	tree branches, blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/97/3.jpg	bare trees, forest.
+/home/whx/Dataset/semi-aves/trainval_images/97/5.jpg	tree branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/97/9.jpg	bare branches, snowy sky.
+/home/whx/Dataset/semi-aves/trainval_images/97/20.jpg	bare trees, clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/97/23.jpg	bare trees, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/97/22.jpg	Snow-covered trees.
+/home/whx/Dataset/semi-aves/trainval_images/97/17.jpg	green grass, tree branches, leaves.
+/home/whx/Dataset/semi-aves/trainval_images/97/8.jpg	A bird is perched on a branch in a forest with bare trees.
+/home/whx/Dataset/semi-aves/trainval_images/98/12.jpg	A bird is perched on a tree trunk with green foliage and rocks in the background.
+/home/whx/Dataset/semi-aves/trainval_images/98/20.jpg	Green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/98/24.jpg	A bird perched on a tree branch with green leaves and a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/98/8.jpg	A bird in a hand, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/98/13.jpg	Fence, grass, trees.
+/home/whx/Dataset/semi-aves/trainval_images/98/18.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/98/26.jpg	Tree branches with red berries.
+/home/whx/Dataset/semi-aves/trainval_images/98/6.jpg	The background is blurred and gray.
+/home/whx/Dataset/semi-aves/trainval_images/99/30.jpg	bare, hilly, overcast.
+/home/whx/Dataset/semi-aves/trainval_images/99/25.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/99/8.jpg	tree branches and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/99/27.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/99/19.jpg	A bird perched on a branch against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/99/10.jpg	white background.
+/home/whx/Dataset/semi-aves/trainval_images/99/22.jpg	Green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/99/7.jpg	A bird perched on tree branches against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/100/8.jpg	dry leaves, twigs, dirt.
+/home/whx/Dataset/semi-aves/trainval_images/100/19.jpg	The background is a mix of green and brown reeds.
+/home/whx/Dataset/semi-aves/trainval_images/100/22.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/100/7.jpg	green foliage, dirt path.
+/home/whx/Dataset/semi-aves/trainval_images/100/21.jpg	Green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/100/0.jpg	blurry, muted colors.
+/home/whx/Dataset/semi-aves/trainval_images/100/29.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/100/12.jpg	A bird is perched on a branch near a body of water.
+/home/whx/Dataset/semi-aves/trainval_images/101/22.jpg	The background is a pale, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/101/29.jpg	dry reeds
+/home/whx/Dataset/semi-aves/trainval_images/101/17.jpg	a bird on a wire against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/101/27.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/101/9.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/101/7.jpg	A bird perches on bare branches with a green building and sky in the background.
+/home/whx/Dataset/semi-aves/trainval_images/101/2.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/101/35.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/102/10.jpg	Blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/102/28.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/102/9.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/102/19.jpg	green foliage, building.
+/home/whx/Dataset/semi-aves/trainval_images/102/8.jpg	The background is a plain, light blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/102/14.jpg	Bamboo forest.
+/home/whx/Dataset/semi-aves/trainval_images/102/16.jpg	Green field.
+/home/whx/Dataset/semi-aves/trainval_images/102/5.jpg	Blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/103/4.jpg	dirt, twigs, leaves.
+/home/whx/Dataset/semi-aves/trainval_images/103/24.jpg	water, leaves, branches.
+/home/whx/Dataset/semi-aves/trainval_images/103/29.jpg	Blurred green grass.
+/home/whx/Dataset/semi-aves/trainval_images/103/22.jpg	tree branches, green leaves, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/103/14.jpg	dry branches and twigs.
+/home/whx/Dataset/semi-aves/trainval_images/103/11.jpg	green leaves, branches.
+/home/whx/Dataset/semi-aves/trainval_images/103/9.jpg	The background is blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/103/12.jpg	The background is a mix of green foliage and blurred branches.
+/home/whx/Dataset/semi-aves/trainval_images/104/7.jpg	The background is a dark, starry night sky.
+/home/whx/Dataset/semi-aves/trainval_images/104/3.jpg	Green, blurred, grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/104/24.jpg	Green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/104/6.jpg	mossy ground, twigs, leaves.
+/home/whx/Dataset/semi-aves/trainval_images/104/28.jpg	The background is blurred, suggesting a natural, outdoor setting.
+/home/whx/Dataset/semi-aves/trainval_images/104/22.jpg	dark, blurred, green, bright light.
+/home/whx/Dataset/semi-aves/trainval_images/104/10.jpg	A bird perched on a twig in a grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/104/2.jpg	Green grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/105/3.jpg	blurred, natural setting.
+/home/whx/Dataset/semi-aves/trainval_images/105/7.jpg	wooden deck, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/105/13.jpg	The background is blurred, with muted earth tones and green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/105/11.jpg	Wire cage, wooden structure, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/105/16.jpg	A bird perched on a wooden fence, surrounded by green foliage and trees.
+/home/whx/Dataset/semi-aves/trainval_images/105/31.jpg	bare branches, spider web.
+/home/whx/Dataset/semi-aves/trainval_images/105/5.jpg	dry, barren ground, dead branches.
+/home/whx/Dataset/semi-aves/trainval_images/105/1.jpg	bare branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/106/1.jpg	The background is a gray wall with a metal railing.
+/home/whx/Dataset/semi-aves/trainval_images/106/26.jpg	Green foliage, tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/106/20.jpg	A bird perched on a branch against a blue sky with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/106/0.jpg	dry branches and twigs.
+/home/whx/Dataset/semi-aves/trainval_images/106/25.jpg	Decaying wood and grass.
+/home/whx/Dataset/semi-aves/trainval_images/106/7.jpg	tree branches, grass, dirt.
+/home/whx/Dataset/semi-aves/trainval_images/106/22.jpg	dry leaves, wood chips
+/home/whx/Dataset/semi-aves/trainval_images/106/31.jpg	tree branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/107/32.jpg	Leaves and twigs.
+/home/whx/Dataset/semi-aves/trainval_images/107/23.jpg	green foliage, blurred.
+/home/whx/Dataset/semi-aves/trainval_images/107/17.jpg	The background is a blurred mix of green and brown leaves.
+/home/whx/Dataset/semi-aves/trainval_images/107/27.jpg	The background of the bird is a mix of green foliage and brown leaves.
+/home/whx/Dataset/semi-aves/trainval_images/107/24.jpg	green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/107/20.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/107/15.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/107/10.jpg	A bird in a leafy, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/108/17.jpg	Green, blurred, natural.
+/home/whx/Dataset/semi-aves/trainval_images/108/7.jpg	Green grass and yellow flowers.
+/home/whx/Dataset/semi-aves/trainval_images/108/11.jpg	tree branches, leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/108/3.jpg	pebbled ground
+/home/whx/Dataset/semi-aves/trainval_images/108/32.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/108/12.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/108/29.jpg	Green field.
+/home/whx/Dataset/semi-aves/trainval_images/108/15.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/109/15.jpg	Grass and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/109/13.jpg	blurred, tree branches, green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/109/25.jpg	pine tree branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/109/6.jpg	green foliage, rocks
+/home/whx/Dataset/semi-aves/trainval_images/109/8.jpg	concrete, leaves, grass.
+/home/whx/Dataset/semi-aves/trainval_images/109/24.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/109/10.jpg	Green foliage and branches.
+/home/whx/Dataset/semi-aves/trainval_images/109/28.jpg	The background is a blurred green forest.
+/home/whx/Dataset/semi-aves/trainval_images/110/17.jpg	Green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/110/18.jpg	Clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/110/12.jpg	A bird perched on tree branches with green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/110/6.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/110/14.jpg	The background is a plain, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/110/22.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/110/8.jpg	The background is a clear, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/110/10.jpg	Green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/111/16.jpg	A bird in a tree with berries.
+/home/whx/Dataset/semi-aves/trainval_images/111/19.jpg	Green leaves, white sky.
+/home/whx/Dataset/semi-aves/trainval_images/111/3.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/111/6.jpg	A bird is perched on a hand against a backdrop of green grass, trees, and a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/111/2.jpg	A bird perched on a branch with green leaves and red stems.
+/home/whx/Dataset/semi-aves/trainval_images/111/1.jpg	Green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/111/0.jpg	A bird perched on green leaves against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/111/20.jpg	Green, blurred, outdoor setting.
+/home/whx/Dataset/semi-aves/trainval_images/112/17.jpg	Grassy area with tree stump.
+/home/whx/Dataset/semi-aves/trainval_images/112/12.jpg	bare branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/112/14.jpg	bare branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/112/20.jpg	Branches and green buds.
+/home/whx/Dataset/semi-aves/trainval_images/112/11.jpg	bare branches, yellow flowers.
+/home/whx/Dataset/semi-aves/trainval_images/112/7.jpg	wooded area with trees and greenery.
+/home/whx/Dataset/semi-aves/trainval_images/112/26.jpg	Foggy, dark, blurred.
+/home/whx/Dataset/semi-aves/trainval_images/112/6.jpg	bare branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/113/24.jpg	A bird perched on a bare branch against a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/113/20.jpg	A bird perched on a tree against a gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/113/4.jpg	The background is blurred.
+/home/whx/Dataset/semi-aves/trainval_images/113/0.jpg	The background of the bird is a blurred, earthy landscape with a dirt path.
+/home/whx/Dataset/semi-aves/trainval_images/113/22.jpg	The background is a blurred, light-colored surface.
+/home/whx/Dataset/semi-aves/trainval_images/113/12.jpg	green foliage, thistle, flowers.
+/home/whx/Dataset/semi-aves/trainval_images/113/23.jpg	A bird perched on bare branches against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/113/17.jpg	A bird in flight against a pale blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/114/1.jpg	Green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/114/18.jpg	Green, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/114/12.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/114/8.jpg	The background is blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/114/4.jpg	A bird perched on a tree branch with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/114/2.jpg	Cactus, twigs, and dry ground.
+/home/whx/Dataset/semi-aves/trainval_images/114/14.jpg	The background is a mix of green foliage and brown leaves.
+/home/whx/Dataset/semi-aves/trainval_images/114/9.jpg	green foliage, tree trunk, ground.
+/home/whx/Dataset/semi-aves/trainval_images/115/0.jpg	The background is a plain, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/115/1.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/115/17.jpg	Blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/115/23.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/115/16.jpg	A bird perched on a branch against a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/115/4.jpg	Tall grass and plants.
+/home/whx/Dataset/semi-aves/trainval_images/115/21.jpg	A bird stands on a brick wall with trees and foliage in the background.
+/home/whx/Dataset/semi-aves/trainval_images/115/8.jpg	Green, blurred, water.
+/home/whx/Dataset/semi-aves/trainval_images/116/7.jpg	tall grass, trees.
+/home/whx/Dataset/semi-aves/trainval_images/116/27.jpg	The background is blurred, suggesting a water body.
+/home/whx/Dataset/semi-aves/trainval_images/116/2.jpg	The background is blurred with green and brown tones.
+/home/whx/Dataset/semi-aves/trainval_images/116/6.jpg	water, grass, branch.
+/home/whx/Dataset/semi-aves/trainval_images/116/0.jpg	Green field, trees, grass.
+/home/whx/Dataset/semi-aves/trainval_images/116/15.jpg	A bird perched on a branch, background is water and reeds.
+/home/whx/Dataset/semi-aves/trainval_images/116/20.jpg	gray sky
+/home/whx/Dataset/semi-aves/trainval_images/116/4.jpg	rocky, sandy, salt-streaked.
+/home/whx/Dataset/semi-aves/trainval_images/117/23.jpg	The background of the bird includes sandy ground, some green plants, and a blurred natural setting.
+/home/whx/Dataset/semi-aves/trainval_images/117/8.jpg	water and mud.
+/home/whx/Dataset/semi-aves/trainval_images/117/21.jpg	sand, debris, seaweed.
+/home/whx/Dataset/semi-aves/trainval_images/117/6.jpg	shallow water, sandy bottom.
+/home/whx/Dataset/semi-aves/trainval_images/117/26.jpg	water and rocks
+/home/whx/Dataset/semi-aves/trainval_images/117/14.jpg	muddy water and rocks.
+/home/whx/Dataset/semi-aves/trainval_images/117/12.jpg	water, seaweed, reflection.
+/home/whx/Dataset/semi-aves/trainval_images/117/10.jpg	calm water, shells, sand.
+/home/whx/Dataset/semi-aves/trainval_images/118/20.jpg	dry, sparse vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/118/8.jpg	Green, blurred foliage.
+/home/whx/Dataset/semi-aves/trainval_images/118/27.jpg	Blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/118/28.jpg	A bird perched on a branch against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/118/25.jpg	A bird perched on reeds.
+/home/whx/Dataset/semi-aves/trainval_images/118/7.jpg	Barbed wire, blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/118/23.jpg	Green bushes.
+/home/whx/Dataset/semi-aves/trainval_images/118/1.jpg	dry, sandy ground with sparse vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/119/18.jpg	tree branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/119/24.jpg	tree branches, green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/119/5.jpg	a bird against a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/119/11.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/119/13.jpg	A bird perched on a branch against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/119/19.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/119/17.jpg	The background is a gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/119/16.jpg	A bird perched on a tree branch with green foliage in the background.
+/home/whx/Dataset/semi-aves/trainval_images/120/1.jpg	pond, reeds, palm trees, sky.
+/home/whx/Dataset/semi-aves/trainval_images/120/11.jpg	The background of the bird is a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/120/17.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/120/13.jpg	Green trees and grass.
+/home/whx/Dataset/semi-aves/trainval_images/120/6.jpg	wetland, water, grass.
+/home/whx/Dataset/semi-aves/trainval_images/120/18.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/120/14.jpg	Grassy, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/120/10.jpg	water, horizon
+/home/whx/Dataset/semi-aves/trainval_images/121/2.jpg	Cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/121/22.jpg	muddy water, grass, reflection.
+/home/whx/Dataset/semi-aves/trainval_images/121/8.jpg	Rocky, mossy, water.
+/home/whx/Dataset/semi-aves/trainval_images/121/23.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/121/19.jpg	Rocky, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/121/25.jpg	The background is blurred green.
+/home/whx/Dataset/semi-aves/trainval_images/121/28.jpg	water and rocks.
+/home/whx/Dataset/semi-aves/trainval_images/121/26.jpg	rocky, sparse vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/122/11.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/122/6.jpg	The background is rocky.
+/home/whx/Dataset/semi-aves/trainval_images/122/9.jpg	Rocky, ocean.
+/home/whx/Dataset/semi-aves/trainval_images/122/1.jpg	Water and mossy rock.
+/home/whx/Dataset/semi-aves/trainval_images/122/29.jpg	wet sand, scattered debris.
+/home/whx/Dataset/semi-aves/trainval_images/122/32.jpg	Rocks, water, sand.
+/home/whx/Dataset/semi-aves/trainval_images/122/27.jpg	rocky shore with seaweed.
+/home/whx/Dataset/semi-aves/trainval_images/122/13.jpg	A bird stands on a rocky, waterlogged surface with a blurred, blue background.
+/home/whx/Dataset/semi-aves/trainval_images/123/1.jpg	The background is blurred with green foliage and a hint of a building.
+/home/whx/Dataset/semi-aves/trainval_images/123/26.jpg	Grass, trees, fence.
+/home/whx/Dataset/semi-aves/trainval_images/123/20.jpg	Grass and fallen leaves.
+/home/whx/Dataset/semi-aves/trainval_images/123/2.jpg	The background is a blurred, natural setting with water and vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/123/16.jpg	The background is a clear, light blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/123/15.jpg	A bird perches on a branch against a sandy, dotted backdrop.
+/home/whx/Dataset/semi-aves/trainval_images/123/22.jpg	Grass and sidewalk.
+/home/whx/Dataset/semi-aves/trainval_images/123/11.jpg	green foliage, paved road, building.
+/home/whx/Dataset/semi-aves/trainval_images/124/3.jpg	Green foliage, branches.
+/home/whx/Dataset/semi-aves/trainval_images/124/10.jpg	water, rocks, log.
+/home/whx/Dataset/semi-aves/trainval_images/124/1.jpg	green leaves, branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/124/4.jpg	A bird stands in a marshy area with green vegetation and a log.
+/home/whx/Dataset/semi-aves/trainval_images/124/17.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/124/26.jpg	dry grass, green vegetation, water.
+/home/whx/Dataset/semi-aves/trainval_images/124/14.jpg	Water and greenery.
+/home/whx/Dataset/semi-aves/trainval_images/124/21.jpg	muddy field with sparse vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/125/4.jpg	rocky, grassy, water.
+/home/whx/Dataset/semi-aves/trainval_images/125/12.jpg	A bird against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/125/24.jpg	A bird soars against a blue sky with wispy clouds.
+/home/whx/Dataset/semi-aves/trainval_images/125/22.jpg	A bird soars against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/125/14.jpg	field, trees, mist.
+/home/whx/Dataset/semi-aves/trainval_images/125/0.jpg	The background is a clear, light blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/125/16.jpg	A bird perched on a tree branch in a forested area.
+/home/whx/Dataset/semi-aves/trainval_images/125/8.jpg	a bird in a gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/126/2.jpg	green leaves, branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/126/8.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/126/10.jpg	Green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/126/25.jpg	Green foliage and tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/126/9.jpg	tree branches, green leaves, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/126/1.jpg	Tree branches with red berries.
+/home/whx/Dataset/semi-aves/trainval_images/126/12.jpg	a bird in a tropical setting with palm leaves.
+/home/whx/Dataset/semi-aves/trainval_images/126/20.jpg	green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/127/23.jpg	a bird on a branch with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/127/8.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/127/10.jpg	tree branches and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/127/27.jpg	The background is a blurred, neutral-toned rock.
+/home/whx/Dataset/semi-aves/trainval_images/127/4.jpg	A bird perched on a tree branch with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/127/26.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/127/12.jpg	A bird perched on a stick near water.
+/home/whx/Dataset/semi-aves/trainval_images/127/3.jpg	A bird is perched on a branch surrounded by green leaves and twigs.
+/home/whx/Dataset/semi-aves/trainval_images/128/21.jpg	Blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/128/9.jpg	bare branches, soft focus.
+/home/whx/Dataset/semi-aves/trainval_images/128/3.jpg	Green leaves and berries.
+/home/whx/Dataset/semi-aves/trainval_images/128/13.jpg	rusty metal fence, trees
+/home/whx/Dataset/semi-aves/trainval_images/128/7.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/128/16.jpg	pine tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/128/6.jpg	Branches, leaves, flowers.
+/home/whx/Dataset/semi-aves/trainval_images/128/10.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/129/10.jpg	bare branches, green background.
+/home/whx/Dataset/semi-aves/trainval_images/129/16.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/129/12.jpg	tree branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/129/18.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/129/15.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/129/3.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/129/4.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/129/14.jpg	The background of the bird is a ground covered with dry leaves and small rocks.
+/home/whx/Dataset/semi-aves/trainval_images/130/16.jpg	A bird stands on sandy ground with sparse vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/130/17.jpg	water and sand.
+/home/whx/Dataset/semi-aves/trainval_images/130/23.jpg	wetland, water, grass.
+/home/whx/Dataset/semi-aves/trainval_images/130/18.jpg	muddy ground
+/home/whx/Dataset/semi-aves/trainval_images/130/22.jpg	Muddy, greenish wetland.
+/home/whx/Dataset/semi-aves/trainval_images/130/26.jpg	The background is sandy with scattered debris.
+/home/whx/Dataset/semi-aves/trainval_images/130/25.jpg	muddy, wet ground, blurred water.
+/home/whx/Dataset/semi-aves/trainval_images/130/0.jpg	The background of the bird is sandy and textured.
+/home/whx/Dataset/semi-aves/trainval_images/131/26.jpg	Tree bark.
+/home/whx/Dataset/semi-aves/trainval_images/131/9.jpg	tree trunk, branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/131/23.jpg	mossy tree trunk
+/home/whx/Dataset/semi-aves/trainval_images/131/5.jpg	Tree branches and blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/131/6.jpg	tree trunk, branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/131/11.jpg	tree bark.
+/home/whx/Dataset/semi-aves/trainval_images/131/12.jpg	A bird on a tree trunk with a blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/131/16.jpg	a bird on a textured surface.
+/home/whx/Dataset/semi-aves/trainval_images/132/10.jpg	Green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/132/3.jpg	Green leaves, tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/132/13.jpg	The background is blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/132/11.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/132/4.jpg	The background is blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/132/18.jpg	A bird perched on a mossy branch, surrounded by blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/132/2.jpg	green leaves, branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/132/1.jpg	A bird perched on a bare branch with a red and white background.
+/home/whx/Dataset/semi-aves/trainval_images/133/9.jpg	Ocean, shoreline, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/133/25.jpg	Rocky shoreline, water.
+/home/whx/Dataset/semi-aves/trainval_images/133/20.jpg	A bird in rippling water.
+/home/whx/Dataset/semi-aves/trainval_images/133/17.jpg	sand dunes, seagulls, clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/133/10.jpg	Grass, concrete, shadow.
+/home/whx/Dataset/semi-aves/trainval_images/133/13.jpg	A bird perched on rocks against a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/133/26.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/133/22.jpg	beach, sand, water, cars, people, sunset.
+/home/whx/Dataset/semi-aves/trainval_images/134/11.jpg	A bird on a cracked yellow line.
+/home/whx/Dataset/semi-aves/trainval_images/134/8.jpg	A bird perched on a tree branch with green foliage and a cloudy sky in the background.
+/home/whx/Dataset/semi-aves/trainval_images/134/10.jpg	A bird perched on a leafy branch with a clear sky in the background.
+/home/whx/Dataset/semi-aves/trainval_images/134/23.jpg	Green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/134/16.jpg	A bird is perched on a branch surrounded by green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/134/22.jpg	Green leaves and pink flowers.
+/home/whx/Dataset/semi-aves/trainval_images/134/0.jpg	A bird perched on a branch with green foliage in the background.
+/home/whx/Dataset/semi-aves/trainval_images/134/21.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/135/3.jpg	A bird perched on a tree branch with green foliage and blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/135/4.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/135/10.jpg	trees, wall, sky.
+/home/whx/Dataset/semi-aves/trainval_images/135/23.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/135/26.jpg	a bird perched on a tree branch with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/135/24.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/135/18.jpg	green foliage, sunlight.
+/home/whx/Dataset/semi-aves/trainval_images/135/2.jpg	dark, grassy, blurred.
+/home/whx/Dataset/semi-aves/trainval_images/136/14.jpg	dry grass field.
+/home/whx/Dataset/semi-aves/trainval_images/136/8.jpg	blurry, out-of-focus, water.
+/home/whx/Dataset/semi-aves/trainval_images/136/15.jpg	gray, overcast.
+/home/whx/Dataset/semi-aves/trainval_images/136/26.jpg	water, trees, branches.
+/home/whx/Dataset/semi-aves/trainval_images/136/11.jpg	Ripples on blue water.
+/home/whx/Dataset/semi-aves/trainval_images/136/12.jpg	blue water.
+/home/whx/Dataset/semi-aves/trainval_images/136/2.jpg	water with patches of green.
+/home/whx/Dataset/semi-aves/trainval_images/136/18.jpg	water and reeds.
+/home/whx/Dataset/semi-aves/trainval_images/137/1.jpg	Marshy wetland with grasses and water.
+/home/whx/Dataset/semi-aves/trainval_images/137/4.jpg	muddy ground, water, log.
+/home/whx/Dataset/semi-aves/trainval_images/137/23.jpg	dry, sandy ground.
+/home/whx/Dataset/semi-aves/trainval_images/137/16.jpg	dirt, twigs, grass.
+/home/whx/Dataset/semi-aves/trainval_images/137/15.jpg	water and mud
+/home/whx/Dataset/semi-aves/trainval_images/137/18.jpg	muddy, cracked ground
+/home/whx/Dataset/semi-aves/trainval_images/137/8.jpg	Grass, water, rocks.
+/home/whx/Dataset/semi-aves/trainval_images/137/7.jpg	muddy wetland.
+/home/whx/Dataset/semi-aves/trainval_images/138/22.jpg	wetland, grass, water.
+/home/whx/Dataset/semi-aves/trainval_images/138/18.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/138/10.jpg	green vegetation, water, log.
+/home/whx/Dataset/semi-aves/trainval_images/138/11.jpg	A bird stands in shallow water with green grass.
+/home/whx/Dataset/semi-aves/trainval_images/138/20.jpg	A bird stands on grass near water, with a distant shoreline and sky in the background.
+/home/whx/Dataset/semi-aves/trainval_images/138/21.jpg	The bird is set against a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/138/12.jpg	Grassy field with water.
+/home/whx/Dataset/semi-aves/trainval_images/138/9.jpg	water, grass, trees.
+/home/whx/Dataset/semi-aves/trainval_images/139/15.jpg	The background is blurred, with indistinct shapes and colors.
+/home/whx/Dataset/semi-aves/trainval_images/139/20.jpg	Ferns and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/139/11.jpg	Green leaves, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/139/18.jpg	Branches, leaves, sky.
+/home/whx/Dataset/semi-aves/trainval_images/139/17.jpg	green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/139/5.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/139/0.jpg	a bird on gravel with sparse vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/139/2.jpg	The background is blurred and neutral.
+/home/whx/Dataset/semi-aves/trainval_images/140/8.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/140/21.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/140/7.jpg	Reeds and water.
+/home/whx/Dataset/semi-aves/trainval_images/140/18.jpg	muddy water, green algae.
+/home/whx/Dataset/semi-aves/trainval_images/140/4.jpg	algae-covered water.
+/home/whx/Dataset/semi-aves/trainval_images/140/3.jpg	water, algae, reflection.
+/home/whx/Dataset/semi-aves/trainval_images/140/5.jpg	pond with reeds and plants.
+/home/whx/Dataset/semi-aves/trainval_images/140/13.jpg	Reeds and water.
+/home/whx/Dataset/semi-aves/trainval_images/141/23.jpg	The background is blurred with green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/141/19.jpg	The background is a blurred mix of green foliage and tree trunks.
+/home/whx/Dataset/semi-aves/trainval_images/141/1.jpg	tree branches, green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/141/3.jpg	The background is a tree with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/141/17.jpg	Grass, rocks, and dirt.
+/home/whx/Dataset/semi-aves/trainval_images/141/8.jpg	Blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/141/21.jpg	A bird perched on a tree branch with blurred green foliage in the background.
+/home/whx/Dataset/semi-aves/trainval_images/141/6.jpg	A bird perched on a mossy branch with green leaves in the background.
+/home/whx/Dataset/semi-aves/trainval_images/142/8.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/142/2.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/142/20.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/142/18.jpg	The background of the bird is a blurred, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/142/16.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/142/23.jpg	Coconut tree.
+/home/whx/Dataset/semi-aves/trainval_images/142/19.jpg	The background of the bird is a clear blue sky with green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/142/6.jpg	A bird perched on a tree branch with green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/143/20.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/143/26.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/143/5.jpg	Green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/143/16.jpg	tree trunks, grass, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/143/13.jpg	green leaves and berries.
+/home/whx/Dataset/semi-aves/trainval_images/143/0.jpg	The background is a concrete surface with scattered leaves.
+/home/whx/Dataset/semi-aves/trainval_images/143/18.jpg	Green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/143/11.jpg	Green leaves, gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/144/15.jpg	dirt and debris
+/home/whx/Dataset/semi-aves/trainval_images/144/22.jpg	The background is blurred and gray.
+/home/whx/Dataset/semi-aves/trainval_images/144/9.jpg	A bird is perched on a branch surrounded by green leaves and tree bark.
+/home/whx/Dataset/semi-aves/trainval_images/144/7.jpg	The background is sandy.
+/home/whx/Dataset/semi-aves/trainval_images/144/6.jpg	blurred, out of focus.
+/home/whx/Dataset/semi-aves/trainval_images/144/19.jpg	Desert landscape.
+/home/whx/Dataset/semi-aves/trainval_images/144/26.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/144/23.jpg	dry, leafless branches.
+/home/whx/Dataset/semi-aves/trainval_images/145/13.jpg	Green, blurred, natural.
+/home/whx/Dataset/semi-aves/trainval_images/145/14.jpg	pine branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/145/24.jpg	The background is blurred with green and brown tones.
+/home/whx/Dataset/semi-aves/trainval_images/145/11.jpg	The background is a pale, snowy sky.
+/home/whx/Dataset/semi-aves/trainval_images/145/18.jpg	pine tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/145/6.jpg	pine branches, muted background.
+/home/whx/Dataset/semi-aves/trainval_images/145/15.jpg	tree branches, green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/145/2.jpg	green pine branches.
+/home/whx/Dataset/semi-aves/trainval_images/146/8.jpg	dry grass and dirt.
+/home/whx/Dataset/semi-aves/trainval_images/146/13.jpg	A bird perched on a branch against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/146/6.jpg	The background is blurred with warm, golden tones.
+/home/whx/Dataset/semi-aves/trainval_images/146/0.jpg	Green grass, dewy.
+/home/whx/Dataset/semi-aves/trainval_images/146/17.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/146/12.jpg	Green foliage, reeds.
+/home/whx/Dataset/semi-aves/trainval_images/146/16.jpg	Green, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/146/15.jpg	Green reeds and dried grass.
+/home/whx/Dataset/semi-aves/trainval_images/147/2.jpg	A bird on a stone ledge near water.
+/home/whx/Dataset/semi-aves/trainval_images/147/12.jpg	Green leaves and sunlight.
+/home/whx/Dataset/semi-aves/trainval_images/147/19.jpg	The background is blurred with green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/147/16.jpg	A bird on a white pipe with a tiled roof in the background.
+/home/whx/Dataset/semi-aves/trainval_images/147/18.jpg	A bird perched on a branch with green leaves and blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/147/21.jpg	Banana leaves and sky.
+/home/whx/Dataset/semi-aves/trainval_images/147/13.jpg	tree branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/147/1.jpg	A bird perched on a branch with green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/148/11.jpg	Red dirt, dry grass, scattered leaves.
+/home/whx/Dataset/semi-aves/trainval_images/148/14.jpg	dry grass, dirt, sparse vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/148/0.jpg	dirt ground, scattered debris.
+/home/whx/Dataset/semi-aves/trainval_images/148/6.jpg	A bird perched on green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/148/9.jpg	The background is a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/148/19.jpg	A bird perched on a branch with a clear blue sky and green leaves in the background.
+/home/whx/Dataset/semi-aves/trainval_images/148/3.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/148/13.jpg	dirt and small rocks.
+/home/whx/Dataset/semi-aves/trainval_images/149/9.jpg	a bird on sandy ground.
+/home/whx/Dataset/semi-aves/trainval_images/149/16.jpg	muddy, wet ground.
+/home/whx/Dataset/semi-aves/trainval_images/149/10.jpg	Green grass and water.
+/home/whx/Dataset/semi-aves/trainval_images/149/17.jpg	Wetland grasses and water.
+/home/whx/Dataset/semi-aves/trainval_images/149/18.jpg	muddy, wet ground, water.
+/home/whx/Dataset/semi-aves/trainval_images/149/21.jpg	rocks and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/149/13.jpg	muddy wetland with sparse vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/149/8.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/150/16.jpg	tall grass, water.
+/home/whx/Dataset/semi-aves/trainval_images/150/13.jpg	water, plants, reflection.
+/home/whx/Dataset/semi-aves/trainval_images/150/18.jpg	A bird stands in shallow water with grassy bank and mud in background.
+/home/whx/Dataset/semi-aves/trainval_images/150/9.jpg	water and shore.
+/home/whx/Dataset/semi-aves/trainval_images/150/14.jpg	muddy water, driftwood, shoreline.
+/home/whx/Dataset/semi-aves/trainval_images/150/17.jpg	muddy water, grass.
+/home/whx/Dataset/semi-aves/trainval_images/150/2.jpg	water, grass, birds.
+/home/whx/Dataset/semi-aves/trainval_images/150/8.jpg	water and shrubs.
+/home/whx/Dataset/semi-aves/trainval_images/151/15.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/151/21.jpg	blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/151/5.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/151/20.jpg	green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/151/6.jpg	green, blurred, forest.
+/home/whx/Dataset/semi-aves/trainval_images/151/9.jpg	Green, blurred, forest.
+/home/whx/Dataset/semi-aves/trainval_images/151/0.jpg	Green foliage, blurred.
+/home/whx/Dataset/semi-aves/trainval_images/151/7.jpg	green forest background.
+/home/whx/Dataset/semi-aves/trainval_images/152/23.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/152/21.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/152/18.jpg	Overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/152/1.jpg	A bird perched on a branch against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/152/11.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/152/13.jpg	tree branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/152/12.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/152/9.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/153/21.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/153/22.jpg	The background is a plain, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/153/0.jpg	The background is a plain, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/153/2.jpg	A bird in water with splashes.
+/home/whx/Dataset/semi-aves/trainval_images/153/19.jpg	A bird stands on a rock against a reddish-brown, sandy background.
+/home/whx/Dataset/semi-aves/trainval_images/153/20.jpg	The background is a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/153/12.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/153/8.jpg	dry, open landscape.
+/home/whx/Dataset/semi-aves/trainval_images/154/14.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/154/8.jpg	Green foliage, wooden pole, wire fence.
+/home/whx/Dataset/semi-aves/trainval_images/154/11.jpg	bare branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/154/16.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/154/10.jpg	The background is a blurred mix of blue sky and tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/154/12.jpg	A bird perched on branches with green leaves and a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/154/22.jpg	dirt, grass, flowers.
+/home/whx/Dataset/semi-aves/trainval_images/154/17.jpg	tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/155/3.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/155/15.jpg	A bird soars against a clear blue sky with a few wispy clouds.
+/home/whx/Dataset/semi-aves/trainval_images/155/11.jpg	A bird stands on a gravel surface with a blurred, dry, and barren landscape in the background.
+/home/whx/Dataset/semi-aves/trainval_images/155/4.jpg	Grassy field with power lines.
+/home/whx/Dataset/semi-aves/trainval_images/155/13.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/155/20.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/155/0.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/155/5.jpg	A bird soars against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/156/8.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/156/11.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/156/4.jpg	The background is a white wall with some dirt and debris.
+/home/whx/Dataset/semi-aves/trainval_images/156/18.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/156/9.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/156/13.jpg	The background of the bird is a white wall with some discoloration and dirt.
+/home/whx/Dataset/semi-aves/trainval_images/156/23.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/156/16.jpg	white wall
+/home/whx/Dataset/semi-aves/trainval_images/157/9.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/157/13.jpg	Water and rocks.
+/home/whx/Dataset/semi-aves/trainval_images/157/8.jpg	water, ducks, dark.
+/home/whx/Dataset/semi-aves/trainval_images/157/22.jpg	snowy field, bare trees.
+/home/whx/Dataset/semi-aves/trainval_images/157/10.jpg	bare trees, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/157/15.jpg	cloudy sky
+/home/whx/Dataset/semi-aves/trainval_images/157/6.jpg	Green field, distant houses, trees.
+/home/whx/Dataset/semi-aves/trainval_images/157/18.jpg	gray sky
+/home/whx/Dataset/semi-aves/trainval_images/158/12.jpg	muddy, grassy, water.
+/home/whx/Dataset/semi-aves/trainval_images/158/22.jpg	rocky shore, blue water.
+/home/whx/Dataset/semi-aves/trainval_images/158/13.jpg	A bird stands on a field with scattered posts.
+/home/whx/Dataset/semi-aves/trainval_images/158/2.jpg	A bird swims in rippling blue water.
+/home/whx/Dataset/semi-aves/trainval_images/158/20.jpg	A bird in water with algae.
+/home/whx/Dataset/semi-aves/trainval_images/158/4.jpg	A bird with a red beak and white feathers stands in water with a sandy, sunlit background.
+/home/whx/Dataset/semi-aves/trainval_images/158/6.jpg	water
+/home/whx/Dataset/semi-aves/trainval_images/158/18.jpg	Water and reeds.
+/home/whx/Dataset/semi-aves/trainval_images/159/7.jpg	rocky, sandy beach.
+/home/whx/Dataset/semi-aves/trainval_images/159/0.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/159/3.jpg	Green grass and blurred plants.
+/home/whx/Dataset/semi-aves/trainval_images/159/8.jpg	The background of the bird includes a sandy beach, grassy areas, and distant hills under a cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/159/4.jpg	rocks, blurred, natural.
+/home/whx/Dataset/semi-aves/trainval_images/159/19.jpg	Rocky, mossy terrain.
+/home/whx/Dataset/semi-aves/trainval_images/159/12.jpg	Ocean.
+/home/whx/Dataset/semi-aves/trainval_images/159/1.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/160/12.jpg	Green grass.
+/home/whx/Dataset/semi-aves/trainval_images/160/20.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/160/5.jpg	The background is a blurred sky.
+/home/whx/Dataset/semi-aves/trainval_images/160/0.jpg	Cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/160/2.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/160/13.jpg	dry, sandy landscape.
+/home/whx/Dataset/semi-aves/trainval_images/160/1.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/160/6.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/161/17.jpg	The background is blurred, with warm tones.
+/home/whx/Dataset/semi-aves/trainval_images/161/13.jpg	The background features green foliage and a sandy ground.
+/home/whx/Dataset/semi-aves/trainval_images/161/11.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/161/1.jpg	A bird perched on a tree branch surrounded by green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/161/20.jpg	A bird perched on a branch against a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/161/3.jpg	dry grass, rocks
+/home/whx/Dataset/semi-aves/trainval_images/161/24.jpg	muddy ground, rocks
+/home/whx/Dataset/semi-aves/trainval_images/161/23.jpg	The background is blurred, with muted browns and greens.
+/home/whx/Dataset/semi-aves/trainval_images/162/3.jpg	The background is a pale sky.
+/home/whx/Dataset/semi-aves/trainval_images/162/8.jpg	dirt path, greenery.
+/home/whx/Dataset/semi-aves/trainval_images/162/19.jpg	green foliage, branches.
+/home/whx/Dataset/semi-aves/trainval_images/162/5.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/162/15.jpg	Green, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/162/1.jpg	Green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/162/12.jpg	Green, blurred foliage.
+/home/whx/Dataset/semi-aves/trainval_images/162/20.jpg	A bird perched on a branch with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/163/20.jpg	A bird soars over calm blue water.
+/home/whx/Dataset/semi-aves/trainval_images/163/2.jpg	Ocean waves.
+/home/whx/Dataset/semi-aves/trainval_images/163/12.jpg	Ocean, ship, fog.
+/home/whx/Dataset/semi-aves/trainval_images/163/3.jpg	A bird in the water.
+/home/whx/Dataset/semi-aves/trainval_images/163/14.jpg	The background is a blurred expanse of water.
+/home/whx/Dataset/semi-aves/trainval_images/163/9.jpg	Ocean and sky.
+/home/whx/Dataset/semi-aves/trainval_images/163/10.jpg	Rippling water.
+/home/whx/Dataset/semi-aves/trainval_images/163/8.jpg	A bird against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/164/15.jpg	Water and grass.
+/home/whx/Dataset/semi-aves/trainval_images/164/12.jpg	Green grass.
+/home/whx/Dataset/semi-aves/trainval_images/164/3.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/164/19.jpg	dry grass, muddy water.
+/home/whx/Dataset/semi-aves/trainval_images/164/17.jpg	dirt, grass, water.
+/home/whx/Dataset/semi-aves/trainval_images/164/2.jpg	A bird soars against a pale, cloudy sky.
+/home/whx/Dataset/semi-aves/trainval_images/164/6.jpg	Dry grass.
+/home/whx/Dataset/semi-aves/trainval_images/164/9.jpg	dry grass
+/home/whx/Dataset/semi-aves/trainval_images/165/6.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/165/5.jpg	A bird perched on a branch with a blurred green background.
+/home/whx/Dataset/semi-aves/trainval_images/165/8.jpg	Blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/165/17.jpg	The background is a mix of muted orange and brown tones, with some green and yellow hues.
+/home/whx/Dataset/semi-aves/trainval_images/165/11.jpg	dry grass and plants.
+/home/whx/Dataset/semi-aves/trainval_images/165/15.jpg	dry grass
+/home/whx/Dataset/semi-aves/trainval_images/165/4.jpg	dry, bare branches.
+/home/whx/Dataset/semi-aves/trainval_images/165/7.jpg	dry, brown branches.
+/home/whx/Dataset/semi-aves/trainval_images/166/20.jpg	tree, branches, leaves, sky.
+/home/whx/Dataset/semi-aves/trainval_images/166/17.jpg	The background is blurred and neutral.
+/home/whx/Dataset/semi-aves/trainval_images/166/6.jpg	dry, brown, leafy ground.
+/home/whx/Dataset/semi-aves/trainval_images/166/19.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/166/10.jpg	Blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/166/15.jpg	Green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/166/3.jpg	The background is a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/166/0.jpg	The background is blurred and light-colored.
+/home/whx/Dataset/semi-aves/trainval_images/167/21.jpg	A bird perched on a tree branch with blurred foliage in the background.
+/home/whx/Dataset/semi-aves/trainval_images/167/11.jpg	The background consists of green grass and fallen leaves.
+/home/whx/Dataset/semi-aves/trainval_images/167/8.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/167/1.jpg	Grass and dirt.
+/home/whx/Dataset/semi-aves/trainval_images/167/17.jpg	The background is blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/167/14.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/167/9.jpg	The background is a plain, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/167/12.jpg	Grassy field with scattered leaves.
+/home/whx/Dataset/semi-aves/trainval_images/168/3.jpg	Green grass.
+/home/whx/Dataset/semi-aves/trainval_images/168/7.jpg	green foliage, brown ground.
+/home/whx/Dataset/semi-aves/trainval_images/168/16.jpg	Grassy field.
+/home/whx/Dataset/semi-aves/trainval_images/168/8.jpg	green foliage, grass, dirt.
+/home/whx/Dataset/semi-aves/trainval_images/168/20.jpg	Grass, mud, water.
+/home/whx/Dataset/semi-aves/trainval_images/168/22.jpg	A bird stands near water with grass.
+/home/whx/Dataset/semi-aves/trainval_images/168/13.jpg	A bird stands on a muddy bank with a blurred background of water and sky.
+/home/whx/Dataset/semi-aves/trainval_images/168/4.jpg	rocks, water, vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/169/4.jpg	pebbles and sand.
+/home/whx/Dataset/semi-aves/trainval_images/169/8.jpg	gravelly ground
+/home/whx/Dataset/semi-aves/trainval_images/169/6.jpg	dry, sandy ground.
+/home/whx/Dataset/semi-aves/trainval_images/169/13.jpg	ocean waves.
+/home/whx/Dataset/semi-aves/trainval_images/169/1.jpg	sand, blurred, water.
+/home/whx/Dataset/semi-aves/trainval_images/169/18.jpg	The background of the bird is a sandy, blurred landscape.
+/home/whx/Dataset/semi-aves/trainval_images/169/16.jpg	dry, barren ground with dead branches.
+/home/whx/Dataset/semi-aves/trainval_images/169/9.jpg	water, reflection, green algae.
+/home/whx/Dataset/semi-aves/trainval_images/170/16.jpg	A bird with a yellow beak and black head against a blurred yellow background.
+/home/whx/Dataset/semi-aves/trainval_images/170/4.jpg	dry branches, leaves.
+/home/whx/Dataset/semi-aves/trainval_images/170/13.jpg	dry, leafless trees, sandy ground.
+/home/whx/Dataset/semi-aves/trainval_images/170/8.jpg	The background consists of dry leaves, twigs, and a sandy ground.
+/home/whx/Dataset/semi-aves/trainval_images/170/24.jpg	dirt, rocks, plants.
+/home/whx/Dataset/semi-aves/trainval_images/170/15.jpg	The background is blurred, with hints of green and brown.
+/home/whx/Dataset/semi-aves/trainval_images/170/9.jpg	A bird perched on a tree branch against a blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/170/23.jpg	dry, brown, vegetation.
+/home/whx/Dataset/semi-aves/trainval_images/171/15.jpg	blurred greenery and rocks.
+/home/whx/Dataset/semi-aves/trainval_images/171/6.jpg	A bird perched on a branch against a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/171/18.jpg	The background is a blurred green forest.
+/home/whx/Dataset/semi-aves/trainval_images/171/11.jpg	Green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/171/9.jpg	Green foliage and grass.
+/home/whx/Dataset/semi-aves/trainval_images/171/7.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/171/3.jpg	Grassy background.
+/home/whx/Dataset/semi-aves/trainval_images/171/5.jpg	A bird perched on a wooden post in front of a chain-link fence.
+/home/whx/Dataset/semi-aves/trainval_images/172/5.jpg	The background is a dense, leafy bush.
+/home/whx/Dataset/semi-aves/trainval_images/172/19.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/172/14.jpg	A bird perched on a tree branch with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/172/4.jpg	green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/172/1.jpg	A bird perched on a branch surrounded by green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/172/8.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/172/18.jpg	The background is a blurred green forest.
+/home/whx/Dataset/semi-aves/trainval_images/172/17.jpg	a bird on a wire against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/173/4.jpg	Tree branches and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/173/6.jpg	A bird perched on a branch with green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/173/10.jpg	A bird in a tree with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/173/15.jpg	tree branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/173/7.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/173/5.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/173/1.jpg	tree branches, lichen, sunlight.
+/home/whx/Dataset/semi-aves/trainval_images/173/2.jpg	Clear blue sky, green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/174/4.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/174/8.jpg	Green, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/174/7.jpg	A bird perched on a cactus, with blurred greenery and branches in the background.
+/home/whx/Dataset/semi-aves/trainval_images/174/2.jpg	a bird on cactus.
+/home/whx/Dataset/semi-aves/trainval_images/174/10.jpg	blurry, gray, out-of-focus.
+/home/whx/Dataset/semi-aves/trainval_images/174/17.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/174/11.jpg	clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/174/0.jpg	Cactus.
+/home/whx/Dataset/semi-aves/trainval_images/175/5.jpg	A bird perched on a tree branch against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/175/3.jpg	A bird soars against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/175/7.jpg	The background is a blurred, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/175/9.jpg	The background is a blurred sky and distant landscape.
+/home/whx/Dataset/semi-aves/trainval_images/175/16.jpg	The background is a plain, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/175/8.jpg	The background is a plain, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/175/14.jpg	The background is a plain, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/175/10.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/176/9.jpg	Green grass and reeds.
+/home/whx/Dataset/semi-aves/trainval_images/176/13.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/176/10.jpg	The background is a blurred, light-colored sky.
+/home/whx/Dataset/semi-aves/trainval_images/176/0.jpg	Green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/176/16.jpg	A bird in grassy wetland.
+/home/whx/Dataset/semi-aves/trainval_images/176/18.jpg	tall green grass.
+/home/whx/Dataset/semi-aves/trainval_images/176/4.jpg	Tall grass.
+/home/whx/Dataset/semi-aves/trainval_images/176/19.jpg	tall green reeds.
+/home/whx/Dataset/semi-aves/trainval_images/177/7.jpg	Tall grass, water.
+/home/whx/Dataset/semi-aves/trainval_images/177/2.jpg	Grassy, earthy, natural.
+/home/whx/Dataset/semi-aves/trainval_images/177/20.jpg	water.
+/home/whx/Dataset/semi-aves/trainval_images/177/8.jpg	Water and grass.
+/home/whx/Dataset/semi-aves/trainval_images/177/10.jpg	green reeds, brown water.
+/home/whx/Dataset/semi-aves/trainval_images/177/17.jpg	Rocks, water, grass.
+/home/whx/Dataset/semi-aves/trainval_images/177/9.jpg	Grassy wetland.
+/home/whx/Dataset/semi-aves/trainval_images/177/11.jpg	water, reflections.
+/home/whx/Dataset/semi-aves/trainval_images/178/16.jpg	A bird stands on a pebbled shore near water.
+/home/whx/Dataset/semi-aves/trainval_images/178/12.jpg	Foggy, white background.
+/home/whx/Dataset/semi-aves/trainval_images/178/0.jpg	The background is blurred, with muted greens and grays.
+/home/whx/Dataset/semi-aves/trainval_images/178/3.jpg	A bird soars against a clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/178/10.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/178/11.jpg	Snowy, rocky terrain.
+/home/whx/Dataset/semi-aves/trainval_images/178/2.jpg	cloudy sky
+/home/whx/Dataset/semi-aves/trainval_images/178/1.jpg	A bird stands on a pebbled shore with rippling water in the background.
+/home/whx/Dataset/semi-aves/trainval_images/179/8.jpg	green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/179/4.jpg	Green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/179/18.jpg	green foliage, trees.
+/home/whx/Dataset/semi-aves/trainval_images/179/1.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/179/11.jpg	plain, light-colored surface.
+/home/whx/Dataset/semi-aves/trainval_images/179/2.jpg	The background is blurred, with soft green and gray tones.
+/home/whx/Dataset/semi-aves/trainval_images/179/16.jpg	Green and blurred.
+/home/whx/Dataset/semi-aves/trainval_images/179/17.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/180/3.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/180/9.jpg	Green, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/180/10.jpg	green leaves
+/home/whx/Dataset/semi-aves/trainval_images/180/7.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/180/8.jpg	Blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/180/15.jpg	Tall grass.
+/home/whx/Dataset/semi-aves/trainval_images/180/0.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/180/5.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/181/0.jpg	wetland, grass, water.
+/home/whx/Dataset/semi-aves/trainval_images/181/2.jpg	bare branches, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/181/15.jpg	The background of the bird consists of dry leaves, twigs, and green grass.
+/home/whx/Dataset/semi-aves/trainval_images/181/6.jpg	A bird perched on a railing with a blurred background of greenery and structures.
+/home/whx/Dataset/semi-aves/trainval_images/181/5.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/181/11.jpg	a bird on cobblestones.
+/home/whx/Dataset/semi-aves/trainval_images/181/10.jpg	Grassy field with tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/181/3.jpg	The background is a clear, light blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/182/3.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/182/10.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/182/8.jpg	A bird in flight against a white sky with green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/182/0.jpg	mountains.
+/home/whx/Dataset/semi-aves/trainval_images/182/15.jpg	A bird in flight against a backdrop of tree branches and sky.
+/home/whx/Dataset/semi-aves/trainval_images/182/5.jpg	The background is a blurred, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/182/1.jpg	Green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/182/12.jpg	Green, blurred foliage.
+/home/whx/Dataset/semi-aves/trainval_images/183/5.jpg	Green foliage and branches.
+/home/whx/Dataset/semi-aves/trainval_images/183/9.jpg	A bird perched on a branch with a blurred blue background.
+/home/whx/Dataset/semi-aves/trainval_images/183/14.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/183/2.jpg	Blurred, natural, earthy tones.
+/home/whx/Dataset/semi-aves/trainval_images/183/12.jpg	Grassy field with yellow flowers.
+/home/whx/Dataset/semi-aves/trainval_images/183/10.jpg	Green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/183/17.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/183/18.jpg	The background is blurred grass and earth.
+/home/whx/Dataset/semi-aves/trainval_images/184/15.jpg	tree branches, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/184/13.jpg	A bird perched on a branch with green foliage in the background.
+/home/whx/Dataset/semi-aves/trainval_images/184/12.jpg	The background is blurred and gray.
+/home/whx/Dataset/semi-aves/trainval_images/184/4.jpg	green foliage, tree branches.
+/home/whx/Dataset/semi-aves/trainval_images/184/3.jpg	tree branches, leaves, sky.
+/home/whx/Dataset/semi-aves/trainval_images/184/10.jpg	a bird in a tree with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/184/14.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/184/8.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/185/2.jpg	Blurred greenery and dirt.
+/home/whx/Dataset/semi-aves/trainval_images/185/0.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/185/9.jpg	Banana leaves.
+/home/whx/Dataset/semi-aves/trainval_images/185/8.jpg	A bird on a wire against a blurred sky.
+/home/whx/Dataset/semi-aves/trainval_images/185/1.jpg	green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/185/14.jpg	Green, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/185/3.jpg	bare branches, hazy sky.
+/home/whx/Dataset/semi-aves/trainval_images/185/11.jpg	The background is a plain, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/186/13.jpg	The background consists of soil, leaves, and small plants.
+/home/whx/Dataset/semi-aves/trainval_images/186/8.jpg	A bird perched on a branch with greenery and a pathway in the background.
+/home/whx/Dataset/semi-aves/trainval_images/186/0.jpg	The background is a tree with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/186/4.jpg	The background is a light, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/186/16.jpg	A bird in a leafy tree.
+/home/whx/Dataset/semi-aves/trainval_images/186/14.jpg	Green foliage, dirt, and scattered leaves.
+/home/whx/Dataset/semi-aves/trainval_images/186/17.jpg	A bird perched on a tree branch with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/186/12.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/187/15.jpg	The background is a pale, overcast sky.
+/home/whx/Dataset/semi-aves/trainval_images/187/4.jpg	a bird on a wire against a gray wall.
+/home/whx/Dataset/semi-aves/trainval_images/187/12.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/187/11.jpg	Green foliage, barbed wire.
+/home/whx/Dataset/semi-aves/trainval_images/187/1.jpg	green foliage, branches.
+/home/whx/Dataset/semi-aves/trainval_images/187/14.jpg	tree branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/187/5.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/187/13.jpg	Green leaves and branches.
+/home/whx/Dataset/semi-aves/trainval_images/188/17.jpg	green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/188/11.jpg	The background is blurred green.
+/home/whx/Dataset/semi-aves/trainval_images/188/0.jpg	Lush green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/188/9.jpg	green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/188/4.jpg	A bird in a lush, green forest.
+/home/whx/Dataset/semi-aves/trainval_images/188/7.jpg	A bird perched on a tree branch with blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/188/10.jpg	A bird perched on a tree branch with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/188/2.jpg	The background is a blurred green forest.
+/home/whx/Dataset/semi-aves/trainval_images/189/4.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/189/2.jpg	blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/189/17.jpg	Green and blurred.
+/home/whx/Dataset/semi-aves/trainval_images/189/10.jpg	blurred green and brown.
+/home/whx/Dataset/semi-aves/trainval_images/189/13.jpg	blurred green and blue.
+/home/whx/Dataset/semi-aves/trainval_images/189/3.jpg	Green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/189/7.jpg	The background is a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/189/5.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/190/11.jpg	The background is a blurred green.
+/home/whx/Dataset/semi-aves/trainval_images/190/9.jpg	Green foliage, wall.
+/home/whx/Dataset/semi-aves/trainval_images/190/5.jpg	The background is blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/190/2.jpg	Water and greenery.
+/home/whx/Dataset/semi-aves/trainval_images/190/13.jpg	green railing, leafy tree.
+/home/whx/Dataset/semi-aves/trainval_images/190/12.jpg	concrete wall, pipes, dark.
+/home/whx/Dataset/semi-aves/trainval_images/190/6.jpg	A bird perched on a tree branch with green leaves and yellow flowers.
+/home/whx/Dataset/semi-aves/trainval_images/190/7.jpg	A bird perched on a branch with green foliage in the background.
+/home/whx/Dataset/semi-aves/trainval_images/191/12.jpg	tree trunk, branches, sky.
+/home/whx/Dataset/semi-aves/trainval_images/191/3.jpg	bare branches, foggy.
+/home/whx/Dataset/semi-aves/trainval_images/191/9.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/191/2.jpg	A bird perched on a tree branch with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/191/4.jpg	tree branch, sky.
+/home/whx/Dataset/semi-aves/trainval_images/191/16.jpg	snow-covered tree trunk
+/home/whx/Dataset/semi-aves/trainval_images/191/10.jpg	A bird perched on a tree branch with pine needles and branches in the background.
+/home/whx/Dataset/semi-aves/trainval_images/191/14.jpg	Tree trunk with branches.
+/home/whx/Dataset/semi-aves/trainval_images/192/0.jpg	A bird perched on a branch in a green, leafy environment.
+/home/whx/Dataset/semi-aves/trainval_images/192/17.jpg	green leaves, white sky.
+/home/whx/Dataset/semi-aves/trainval_images/192/18.jpg	green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/192/4.jpg	blurred green and brown.
+/home/whx/Dataset/semi-aves/trainval_images/192/6.jpg	A bird perched on a branch amidst green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/192/11.jpg	The background is a blurred natural setting with greenery.
+/home/whx/Dataset/semi-aves/trainval_images/192/8.jpg	The background is blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/192/1.jpg	green foliage, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/193/14.jpg	A bird perched on a tree branch with green foliage and a rocky ground.
+/home/whx/Dataset/semi-aves/trainval_images/193/0.jpg	The background is a blurred mix of green leaves and a light sky.
+/home/whx/Dataset/semi-aves/trainval_images/193/12.jpg	pine branches, green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/193/6.jpg	pine branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/193/9.jpg	A bird in a tree with branches and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/193/10.jpg	Blurred green and brown.
+/home/whx/Dataset/semi-aves/trainval_images/193/13.jpg	blurred, tree, branch, light.
+/home/whx/Dataset/semi-aves/trainval_images/193/4.jpg	tree branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/194/11.jpg	A bird perched on a branch with blurred foliage and tree trunks.
+/home/whx/Dataset/semi-aves/trainval_images/194/13.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/194/6.jpg	The background is plain white.
+/home/whx/Dataset/semi-aves/trainval_images/194/9.jpg	bare branches, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/194/7.jpg	dry grass, snow patches.
+/home/whx/Dataset/semi-aves/trainval_images/194/0.jpg	dry reeds
+/home/whx/Dataset/semi-aves/trainval_images/194/1.jpg	bare branches, light sky.
+/home/whx/Dataset/semi-aves/trainval_images/194/12.jpg	A bird perched on a branch with blurred green foliage and blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/195/1.jpg	green leaves, branches.
+/home/whx/Dataset/semi-aves/trainval_images/195/0.jpg	A bird in a tree with bare branches and green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/195/17.jpg	Green trees and grass.
+/home/whx/Dataset/semi-aves/trainval_images/195/13.jpg	a bird on a wire against a clear sky.
+/home/whx/Dataset/semi-aves/trainval_images/195/15.jpg	A bird perched on a tree branch with blurred green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/195/9.jpg	green foliage, tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/195/2.jpg	Green leaves, sunlight, building.
+/home/whx/Dataset/semi-aves/trainval_images/195/8.jpg	The background is a plain, light gray sky.
+/home/whx/Dataset/semi-aves/trainval_images/196/16.jpg	The background is a blurred mix of light and dark, with hints of green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/196/11.jpg	Green leaves, blurred background.
+/home/whx/Dataset/semi-aves/trainval_images/196/8.jpg	The background is blurred, with a mix of white and brown tones.
+/home/whx/Dataset/semi-aves/trainval_images/196/4.jpg	Green, blurred foliage.
+/home/whx/Dataset/semi-aves/trainval_images/196/12.jpg	Green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/196/9.jpg	The background is blurred, with dark and light areas.
+/home/whx/Dataset/semi-aves/trainval_images/196/10.jpg	Green, blurred leaves.
+/home/whx/Dataset/semi-aves/trainval_images/196/5.jpg	Green, blurred.
+/home/whx/Dataset/semi-aves/trainval_images/197/15.jpg	A bird perched on green foliage with a wooden structure in the background.
+/home/whx/Dataset/semi-aves/trainval_images/197/7.jpg	Clear blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/197/14.jpg	The background is a blurred sky with green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/197/12.jpg	The background is blurred, with tree branches and foliage.
+/home/whx/Dataset/semi-aves/trainval_images/197/9.jpg	The background is blurred, with soft, warm tones.
+/home/whx/Dataset/semi-aves/trainval_images/197/3.jpg	green leaves, blue sky.
+/home/whx/Dataset/semi-aves/trainval_images/197/1.jpg	The background is blurred greenery.
+/home/whx/Dataset/semi-aves/trainval_images/197/8.jpg	tree branches and leaves.
+/home/whx/Dataset/semi-aves/trainval_images/198/14.jpg	Green leaves.
+/home/whx/Dataset/semi-aves/trainval_images/198/5.jpg	The background of the bird shows a nighttime forest scene with trees and underbrush.
+/home/whx/Dataset/semi-aves/trainval_images/198/3.jpg	green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/198/19.jpg	A bird in a forest setting with green foliage and branches.
+/home/whx/Dataset/semi-aves/trainval_images/198/0.jpg	grass, concrete, person, book.
+/home/whx/Dataset/semi-aves/trainval_images/198/25.jpg	The background is blurred with green foliage.
+/home/whx/Dataset/semi-aves/trainval_images/198/24.jpg	The background is a mix of dark and light brown, with some wood and shadows.
+/home/whx/Dataset/semi-aves/trainval_images/198/6.jpg	dark, blurred, indistinct.
+/home/whx/Dataset/semi-aves/trainval_images/199/11.jpg	Rocky coastline, turquoise water.
+/home/whx/Dataset/semi-aves/trainval_images/199/4.jpg	A bird in a sandy burrow.
+/home/whx/Dataset/semi-aves/trainval_images/199/10.jpg	The background of the bird is a mix of dry grass and small rocks.
+/home/whx/Dataset/semi-aves/trainval_images/199/13.jpg	dry grass, dirt
+/home/whx/Dataset/semi-aves/trainval_images/199/0.jpg	a bird on sand.
+/home/whx/Dataset/semi-aves/trainval_images/199/9.jpg	Grass, rocks, dirt.
+/home/whx/Dataset/semi-aves/trainval_images/199/6.jpg	Rocky, wet, water.
+/home/whx/Dataset/semi-aves/trainval_images/199/12.jpg	dry, rocky ground

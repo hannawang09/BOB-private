@@ -1,0 +1,801 @@
+image	response
+/home/whx/Dataset/semi-aves/trainval_images/0/8.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/0/36.jpg	a bird stands alert, perched on moss.
+/home/whx/Dataset/semi-aves/trainval_images/0/4.jpg	a bird stands on sandy beach, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/0/16.jpg	a bird stands on the wet sand.
+/home/whx/Dataset/semi-aves/trainval_images/1/7.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/1/31.jpg	a bird soars.
+/home/whx/Dataset/semi-aves/trainval_images/1/28.jpg	a bird is in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/1/30.jpg	a bird soars.
+/home/whx/Dataset/semi-aves/trainval_images/2/41.jpg	a bird stands on the ground.
+/home/whx/Dataset/semi-aves/trainval_images/2/24.jpg	a bird perched on barbed wire.
+/home/whx/Dataset/semi-aves/trainval_images/2/13.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/2/6.jpg	a bird perched in a hole.
+/home/whx/Dataset/semi-aves/trainval_images/3/31.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/3/1.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/3/24.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/3/27.jpg	a bird stands upright.
+/home/whx/Dataset/semi-aves/trainval_images/4/38.jpg	a bird stands on the ground near water.
+/home/whx/Dataset/semi-aves/trainval_images/4/0.jpg	a bird stands on water, perched.
+/home/whx/Dataset/semi-aves/trainval_images/4/28.jpg	a bird stands on lily pads, head lowered.
+/home/whx/Dataset/semi-aves/trainval_images/4/17.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/5/46.jpg	a bird perched on a rock.
+/home/whx/Dataset/semi-aves/trainval_images/5/14.jpg	a bird stands upright.
+/home/whx/Dataset/semi-aves/trainval_images/5/37.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/5/6.jpg	a bird preening.
+/home/whx/Dataset/semi-aves/trainval_images/6/20.jpg	a bird stands in water, legs spread, head down.
+/home/whx/Dataset/semi-aves/trainval_images/6/1.jpg	a bird stands with head raised, legs extended.
+/home/whx/Dataset/semi-aves/trainval_images/6/34.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/6/0.jpg	a bird stands in water, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/7/24.jpg	a bird perched on a wire.
+/home/whx/Dataset/semi-aves/trainval_images/7/13.jpg	a bird perched on edge.
+/home/whx/Dataset/semi-aves/trainval_images/7/27.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/7/1.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/8/33.jpg	a bird is perched on the ground.
+/home/whx/Dataset/semi-aves/trainval_images/8/14.jpg	a bird soars with wings spread wide.
+/home/whx/Dataset/semi-aves/trainval_images/8/28.jpg	a bird perched on a post.
+/home/whx/Dataset/semi-aves/trainval_images/8/31.jpg	a bird is swimming.
+/home/whx/Dataset/semi-aves/trainval_images/9/35.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/9/14.jpg	a bird perched on a feeder.
+/home/whx/Dataset/semi-aves/trainval_images/9/22.jpg	a bird perched on a wire.
+/home/whx/Dataset/semi-aves/trainval_images/9/29.jpg	a bird is hovering near a flower.
+/home/whx/Dataset/semi-aves/trainval_images/10/18.jpg	a bird stands in water, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/10/1.jpg	a bird stands in water, head down.
+/home/whx/Dataset/semi-aves/trainval_images/10/26.jpg	a bird perched, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/10/35.jpg	a bird stands still.
+/home/whx/Dataset/semi-aves/trainval_images/11/41.jpg	a bird soars.
+/home/whx/Dataset/semi-aves/trainval_images/11/6.jpg	a bird perched, head down.
+/home/whx/Dataset/semi-aves/trainval_images/11/11.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/11/40.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/12/18.jpg	a bird swimming, head slightly raised.
+/home/whx/Dataset/semi-aves/trainval_images/12/7.jpg	a bird floating on water.
+/home/whx/Dataset/semi-aves/trainval_images/12/21.jpg	a bird swimming calmly.
+/home/whx/Dataset/semi-aves/trainval_images/12/32.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/13/27.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/13/32.jpg	a bird perched on a nest.
+/home/whx/Dataset/semi-aves/trainval_images/13/42.jpg	a bird in flight.
+/home/whx/Dataset/semi-aves/trainval_images/13/12.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/14/19.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/14/18.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/14/31.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/14/25.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/15/2.jpg	a bird stands on rocks.
+/home/whx/Dataset/semi-aves/trainval_images/15/30.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/15/15.jpg	a bird perched on a rock.
+/home/whx/Dataset/semi-aves/trainval_images/15/25.jpg	a bird perched, facing left.
+/home/whx/Dataset/semi-aves/trainval_images/16/26.jpg	a bird is standing on sand, head lowered.
+/home/whx/Dataset/semi-aves/trainval_images/16/11.jpg	a bird stands on wet mud, beak down.
+/home/whx/Dataset/semi-aves/trainval_images/16/23.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/16/35.jpg	a bird in flight.
+/home/whx/Dataset/semi-aves/trainval_images/17/23.jpg	a bird stands in water, head lowered.
+/home/whx/Dataset/semi-aves/trainval_images/17/5.jpg	a bird stands on sand, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/17/28.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/17/32.jpg	a bird stands in water, head lowered.
+/home/whx/Dataset/semi-aves/trainval_images/18/6.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/18/10.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/18/33.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/18/25.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/19/11.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/19/15.jpg	a bird stands in water, head down.
+/home/whx/Dataset/semi-aves/trainval_images/19/23.jpg	a bird stands in water, head down, beak in water.
+/home/whx/Dataset/semi-aves/trainval_images/19/0.jpg	a bird in flight, wings spread, head tilted.
+/home/whx/Dataset/semi-aves/trainval_images/20/30.jpg	a bird perched
+/home/whx/Dataset/semi-aves/trainval_images/20/2.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/20/19.jpg	a bird perched, wings slightly spread.
+/home/whx/Dataset/semi-aves/trainval_images/20/25.jpg	a bird is perched, head down, feeding.
+/home/whx/Dataset/semi-aves/trainval_images/21/10.jpg	a bird perched
+/home/whx/Dataset/semi-aves/trainval_images/21/14.jpg	a bird stands on the ground.
+/home/whx/Dataset/semi-aves/trainval_images/21/0.jpg	a bird perched on wire.
+/home/whx/Dataset/semi-aves/trainval_images/21/12.jpg	a bird perched, head tilted.
+/home/whx/Dataset/semi-aves/trainval_images/22/34.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/22/35.jpg	a bird is swimming.
+/home/whx/Dataset/semi-aves/trainval_images/22/14.jpg	a bird stands in grass, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/22/25.jpg	a bird wading in water.
+/home/whx/Dataset/semi-aves/trainval_images/23/32.jpg	a bird stands on sand, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/23/22.jpg	a bird stands upright.
+/home/whx/Dataset/semi-aves/trainval_images/23/36.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/23/29.jpg	a bird soars.
+/home/whx/Dataset/semi-aves/trainval_images/24/17.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/24/35.jpg	a bird stands on railing, facing left.
+/home/whx/Dataset/semi-aves/trainval_images/24/38.jpg	a bird stands on seaweed.
+/home/whx/Dataset/semi-aves/trainval_images/24/0.jpg	a bird stands on a rock.
+/home/whx/Dataset/semi-aves/trainval_images/25/24.jpg	a bird perched on rocks.
+/home/whx/Dataset/semi-aves/trainval_images/25/32.jpg	a bird stands alert on muddy ground.
+/home/whx/Dataset/semi-aves/trainval_images/25/8.jpg	a bird perched on reed, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/25/33.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/26/35.jpg	a bird swimming, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/26/13.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/26/27.jpg	a bird floats calmly.
+/home/whx/Dataset/semi-aves/trainval_images/26/3.jpg	a bird swimming
+/home/whx/Dataset/semi-aves/trainval_images/27/30.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/27/23.jpg	a bird is resting on a rocky surface.
+/home/whx/Dataset/semi-aves/trainval_images/27/36.jpg	a bird stands with a fish in its beak.
+/home/whx/Dataset/semi-aves/trainval_images/27/35.jpg	a bird is floating on water.
+/home/whx/Dataset/semi-aves/trainval_images/28/12.jpg	a bird perched on tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/28/32.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/28/26.jpg	a bird perched vertically on tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/28/31.jpg	a bird perched on tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/29/26.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/29/11.jpg	a bird gliding low over water.
+/home/whx/Dataset/semi-aves/trainval_images/29/13.jpg	a bird perched on a rock.
+/home/whx/Dataset/semi-aves/trainval_images/29/0.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/30/34.jpg	a bird stands on the ground.
+/home/whx/Dataset/semi-aves/trainval_images/30/39.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/30/21.jpg	a bird stands alert, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/30/29.jpg	a bird stands on grass, head raised.
+/home/whx/Dataset/semi-aves/trainval_images/31/1.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/31/14.jpg	a bird perched on a light fixture.
+/home/whx/Dataset/semi-aves/trainval_images/31/11.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/31/5.jpg	a bird perched on branch, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/32/35.jpg	a bird is lying down.
+/home/whx/Dataset/semi-aves/trainval_images/32/16.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/32/2.jpg	a bird stands in water.
+/home/whx/Dataset/semi-aves/trainval_images/32/4.jpg	a bird lying down.
+/home/whx/Dataset/semi-aves/trainval_images/33/5.jpg	a bird perched on reed.
+/home/whx/Dataset/semi-aves/trainval_images/33/1.jpg	a bird perched on a wire.
+/home/whx/Dataset/semi-aves/trainval_images/33/28.jpg	a bird perched, head down, feeding.
+/home/whx/Dataset/semi-aves/trainval_images/33/0.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/34/17.jpg	a bird is swimming.
+/home/whx/Dataset/semi-aves/trainval_images/34/15.jpg	standing, head down.
+/home/whx/Dataset/semi-aves/trainval_images/34/7.jpg	a bird is preening.
+/home/whx/Dataset/semi-aves/trainval_images/34/11.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/35/22.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/35/18.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/35/4.jpg	a bird is swimming.
+/home/whx/Dataset/semi-aves/trainval_images/35/10.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/36/10.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/36/16.jpg	a bird perched on a stump.
+/home/whx/Dataset/semi-aves/trainval_images/36/33.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/36/17.jpg	a bird perched on a wire.
+/home/whx/Dataset/semi-aves/trainval_images/37/18.jpg	a bird stands on the ground near water.
+/home/whx/Dataset/semi-aves/trainval_images/37/29.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/37/20.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/37/31.jpg	a bird stands on rocks near water.
+/home/whx/Dataset/semi-aves/trainval_images/38/30.jpg	a bird perched on a wire.
+/home/whx/Dataset/semi-aves/trainval_images/38/7.jpg	a bird perched, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/38/1.jpg	a bird perched, wings slightly spread.
+/home/whx/Dataset/semi-aves/trainval_images/38/19.jpg	a bird soars.
+/home/whx/Dataset/semi-aves/trainval_images/39/12.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/39/10.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/39/13.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/39/25.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/40/12.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/40/16.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/40/6.jpg	a bird soars over the ocean.
+/home/whx/Dataset/semi-aves/trainval_images/40/32.jpg	a bird lying on ground, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/41/13.jpg	a bird stands on snow, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/41/38.jpg	a bird perched vertically on tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/41/27.jpg	a bird perched vertically on tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/41/1.jpg	a bird perched on tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/42/14.jpg	a bird soars with outstretched wings.
+/home/whx/Dataset/semi-aves/trainval_images/42/1.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/42/25.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/42/9.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/43/2.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/43/10.jpg	a bird perched on antenna.
+/home/whx/Dataset/semi-aves/trainval_images/43/28.jpg	a bird perched, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/43/32.jpg	a bird perched on a stone.
+/home/whx/Dataset/semi-aves/trainval_images/44/27.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/44/34.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/44/14.jpg	a bird stands upright.
+/home/whx/Dataset/semi-aves/trainval_images/44/33.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/45/28.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/45/14.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/45/1.jpg	a bird is swimming.
+/home/whx/Dataset/semi-aves/trainval_images/45/25.jpg	a bird floats calmly.
+/home/whx/Dataset/semi-aves/trainval_images/46/36.jpg	a bird is standing on the grass.
+/home/whx/Dataset/semi-aves/trainval_images/46/20.jpg	a bird perched on rocks.
+/home/whx/Dataset/semi-aves/trainval_images/46/42.jpg	a bird stands on ground, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/46/40.jpg	a bird perched on wire.
+/home/whx/Dataset/semi-aves/trainval_images/47/13.jpg	a bird swimming
+/home/whx/Dataset/semi-aves/trainval_images/47/1.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/47/23.jpg	a bird floating.
+/home/whx/Dataset/semi-aves/trainval_images/47/9.jpg	a bird stands on ice.
+/home/whx/Dataset/semi-aves/trainval_images/48/8.jpg	a bird is perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/48/13.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/48/3.jpg	a bird swimming
+/home/whx/Dataset/semi-aves/trainval_images/48/19.jpg	a bird swimming
+/home/whx/Dataset/semi-aves/trainval_images/49/4.jpg	a bird stands in water, head lowered.
+/home/whx/Dataset/semi-aves/trainval_images/49/19.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/49/10.jpg	a bird stands in water, legs submerged.
+/home/whx/Dataset/semi-aves/trainval_images/49/26.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/50/16.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/50/8.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/50/0.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/50/35.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/51/2.jpg	a bird is crouched low to the ground.
+/home/whx/Dataset/semi-aves/trainval_images/51/13.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/51/29.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/51/10.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/52/32.jpg	a bird perched on a hand.
+/home/whx/Dataset/semi-aves/trainval_images/52/2.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/52/24.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/52/12.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/53/22.jpg	a bird perched on the bank.
+/home/whx/Dataset/semi-aves/trainval_images/53/6.jpg	a bird: standing, wings slightly spread.
+/home/whx/Dataset/semi-aves/trainval_images/53/13.jpg	a bird floats calmly.
+/home/whx/Dataset/semi-aves/trainval_images/53/27.jpg	a bird swimming
+/home/whx/Dataset/semi-aves/trainval_images/54/12.jpg	a bird stands still, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/54/31.jpg	a bird is resting on a nest.
+/home/whx/Dataset/semi-aves/trainval_images/54/6.jpg	a bird stands gracefully in water.
+/home/whx/Dataset/semi-aves/trainval_images/54/24.jpg	a bird stands gracefully on water.
+/home/whx/Dataset/semi-aves/trainval_images/55/18.jpg	a bird is standing in water.
+/home/whx/Dataset/semi-aves/trainval_images/55/32.jpg	a bird is taking off.
+/home/whx/Dataset/semi-aves/trainval_images/55/31.jpg	a bird is standing on ice, beak near water.
+/home/whx/Dataset/semi-aves/trainval_images/55/1.jpg	a bird swimming
+/home/whx/Dataset/semi-aves/trainval_images/56/20.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/56/39.jpg	a bird soars with outstretched wings.
+/home/whx/Dataset/semi-aves/trainval_images/56/25.jpg	a bird soars with outstretched wings.
+/home/whx/Dataset/semi-aves/trainval_images/56/18.jpg	a bird stands still.
+/home/whx/Dataset/semi-aves/trainval_images/57/1.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/57/10.jpg	a bird perched, neck extended upwards.
+/home/whx/Dataset/semi-aves/trainval_images/57/12.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/57/20.jpg	a bird perched, head raised.
+/home/whx/Dataset/semi-aves/trainval_images/58/36.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/58/8.jpg	a bird soars with outstretched wings.
+/home/whx/Dataset/semi-aves/trainval_images/58/21.jpg	a bird soars with outstretched wings.
+/home/whx/Dataset/semi-aves/trainval_images/58/27.jpg	a bird perched on a tree branch.
+/home/whx/Dataset/semi-aves/trainval_images/59/13.jpg	a bird perched on branch, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/59/17.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/59/6.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/59/24.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/60/18.jpg	a bird perched on a fence.
+/home/whx/Dataset/semi-aves/trainval_images/60/12.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/60/29.jpg	a bird stands alert, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/60/27.jpg	a bird stands on ground, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/61/34.jpg	a bird stands alert, perched on forest floor.
+/home/whx/Dataset/semi-aves/trainval_images/61/31.jpg	a bird perched, head slightly raised.
+/home/whx/Dataset/semi-aves/trainval_images/61/15.jpg	a bird stands with wings slightly spread.
+/home/whx/Dataset/semi-aves/trainval_images/61/4.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/62/2.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/62/5.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/62/8.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/62/10.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/63/10.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/63/35.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/63/13.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/63/18.jpg	a bird in flight.
+/home/whx/Dataset/semi-aves/trainval_images/64/21.jpg	a bird perched on a post.
+/home/whx/Dataset/semi-aves/trainval_images/64/16.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/64/23.jpg	a bird perched on a post.
+/home/whx/Dataset/semi-aves/trainval_images/64/7.jpg	a bird perched on wire.
+/home/whx/Dataset/semi-aves/trainval_images/65/18.jpg	a bird is perched with wings slightly spread.
+/home/whx/Dataset/semi-aves/trainval_images/65/15.jpg	a bird perched on a wire.
+/home/whx/Dataset/semi-aves/trainval_images/65/32.jpg	a bird perched
+/home/whx/Dataset/semi-aves/trainval_images/65/8.jpg	a bird perched on feeder.
+/home/whx/Dataset/semi-aves/trainval_images/66/18.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/66/17.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/66/24.jpg	a bird perched, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/66/3.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/67/20.jpg	a bird stands in grass, head slightly turned.
+/home/whx/Dataset/semi-aves/trainval_images/67/2.jpg	a bird stands upright.
+/home/whx/Dataset/semi-aves/trainval_images/67/26.jpg	a bird stands alert in grass.
+/home/whx/Dataset/semi-aves/trainval_images/67/4.jpg	a bird stands on sand, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/68/12.jpg	a bird is resting with its head tucked into its body.
+/home/whx/Dataset/semi-aves/trainval_images/68/27.jpg	a bird is swimming with its head turned to the side.
+/home/whx/Dataset/semi-aves/trainval_images/68/25.jpg	a bird swims calmly.
+/home/whx/Dataset/semi-aves/trainval_images/68/4.jpg	a bird is swimming with its head down.
+/home/whx/Dataset/semi-aves/trainval_images/69/26.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/69/4.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/69/10.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/69/3.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/70/19.jpg	a bird is swimming.
+/home/whx/Dataset/semi-aves/trainval_images/70/18.jpg	a bird floats calmly on water.
+/home/whx/Dataset/semi-aves/trainval_images/70/25.jpg	a bird floats calmly on water.
+/home/whx/Dataset/semi-aves/trainval_images/70/12.jpg	a bird stands in shallow water.
+/home/whx/Dataset/semi-aves/trainval_images/71/4.jpg	a bird perched on a rope.
+/home/whx/Dataset/semi-aves/trainval_images/71/36.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/71/35.jpg	a bird stands on ground, legs spread.
+/home/whx/Dataset/semi-aves/trainval_images/71/14.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/72/36.jpg	a bird in flight, wings spread, legs extended.
+/home/whx/Dataset/semi-aves/trainval_images/72/5.jpg	a bird stands with long legs, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/72/17.jpg	a bird stands in water, head lowered.
+/home/whx/Dataset/semi-aves/trainval_images/72/23.jpg	a bird stands in water, legs spread, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/73/18.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/73/36.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/73/34.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/73/7.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/74/29.jpg	a bird perched on a pole, open beak.
+/home/whx/Dataset/semi-aves/trainval_images/74/17.jpg	a bird perched on a pole.
+/home/whx/Dataset/semi-aves/trainval_images/74/6.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/74/2.jpg	a bird perched, wings slightly spread.
+/home/whx/Dataset/semi-aves/trainval_images/75/18.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/75/0.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/75/5.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/75/26.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/76/3.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/76/26.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/76/28.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/76/25.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/77/1.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/77/6.jpg	a bird perched on wire.
+/home/whx/Dataset/semi-aves/trainval_images/77/7.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/77/25.jpg	a bird perched on fence.
+/home/whx/Dataset/semi-aves/trainval_images/78/26.jpg	a bird stands on snow.
+/home/whx/Dataset/semi-aves/trainval_images/78/10.jpg	a bird stands in snow, pecking at seeds.
+/home/whx/Dataset/semi-aves/trainval_images/78/7.jpg	a bird perched on a fence.
+/home/whx/Dataset/semi-aves/trainval_images/78/28.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/79/5.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/79/21.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/79/7.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/79/23.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/80/6.jpg	a bird perched on barbed wire.
+/home/whx/Dataset/semi-aves/trainval_images/80/27.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/80/24.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/80/18.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/81/16.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/81/30.jpg	a bird perched on a branch, holding an insect in its beak.
+/home/whx/Dataset/semi-aves/trainval_images/81/20.jpg	a bird perched on tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/81/6.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/82/6.jpg	a bird stands on grass.
+/home/whx/Dataset/semi-aves/trainval_images/82/20.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/82/10.jpg	a bird stands on the ground, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/82/1.jpg	a bird stands with wings slightly spread.
+/home/whx/Dataset/semi-aves/trainval_images/83/1.jpg	a bird stands on snow, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/83/0.jpg	a bird perched on bench.
+/home/whx/Dataset/semi-aves/trainval_images/83/18.jpg	a bird perched on a post.
+/home/whx/Dataset/semi-aves/trainval_images/83/20.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/84/28.jpg	a bird perched on a person's hand.
+/home/whx/Dataset/semi-aves/trainval_images/84/25.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/84/20.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/84/4.jpg	a bird perched on tree, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/85/2.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/85/29.jpg	a bird perched on mossy rock.
+/home/whx/Dataset/semi-aves/trainval_images/85/10.jpg	a bird perched at birdhouse opening.
+/home/whx/Dataset/semi-aves/trainval_images/85/19.jpg	a bird perched, feeding.
+/home/whx/Dataset/semi-aves/trainval_images/86/14.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/86/3.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/86/8.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/86/6.jpg	a bird perched on a drinking fountain.
+/home/whx/Dataset/semi-aves/trainval_images/87/25.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/87/19.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/87/24.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/87/28.jpg	a bird perched on a pole.
+/home/whx/Dataset/semi-aves/trainval_images/88/17.jpg	a bird perched on tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/88/27.jpg	a bird perched on a fence.
+/home/whx/Dataset/semi-aves/trainval_images/88/22.jpg	a bird perched, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/88/15.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/89/22.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/89/16.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/89/11.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/89/13.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/90/9.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/90/6.jpg	a bird perched, feeding.
+/home/whx/Dataset/semi-aves/trainval_images/90/7.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/90/11.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/91/5.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/91/17.jpg	a bird perched, head tilted upwards.
+/home/whx/Dataset/semi-aves/trainval_images/91/28.jpg	a bird perched, head tilted upwards.
+/home/whx/Dataset/semi-aves/trainval_images/91/21.jpg	a bird perched, head tilted, beak open.
+/home/whx/Dataset/semi-aves/trainval_images/92/7.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/92/12.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/92/9.jpg	a bird perched, facing left.
+/home/whx/Dataset/semi-aves/trainval_images/92/1.jpg	a bird perched on grass.
+/home/whx/Dataset/semi-aves/trainval_images/93/20.jpg	a bird perched on a feeder.
+/home/whx/Dataset/semi-aves/trainval_images/93/11.jpg	a bird perched on tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/93/19.jpg	a bird perched on a feeder.
+/home/whx/Dataset/semi-aves/trainval_images/93/15.jpg	a bird perched on a feeder.
+/home/whx/Dataset/semi-aves/trainval_images/94/21.jpg	a bird standing in water.
+/home/whx/Dataset/semi-aves/trainval_images/94/6.jpg	a bird is perched on the ground.
+/home/whx/Dataset/semi-aves/trainval_images/94/34.jpg	a bird perched on a wire.
+/home/whx/Dataset/semi-aves/trainval_images/94/5.jpg	a bird perched, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/95/7.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/95/0.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/95/12.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/95/2.jpg	a bird perched on wire, facing right.
+/home/whx/Dataset/semi-aves/trainval_images/96/8.jpg	a bird perched, head down, pecking.
+/home/whx/Dataset/semi-aves/trainval_images/96/17.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/96/2.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/96/23.jpg	a bird perched, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/97/4.jpg	a bird perched on tree branch.
+/home/whx/Dataset/semi-aves/trainval_images/97/1.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/97/0.jpg	a bird perched on a log.
+/home/whx/Dataset/semi-aves/trainval_images/97/18.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/98/25.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/98/26.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/98/12.jpg	a bird perched on ground.
+/home/whx/Dataset/semi-aves/trainval_images/98/16.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/99/30.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/99/9.jpg	a bird perched on nest.
+/home/whx/Dataset/semi-aves/trainval_images/99/6.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/99/20.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/100/2.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/100/16.jpg	a bird stands on the ground.
+/home/whx/Dataset/semi-aves/trainval_images/100/30.jpg	a bird perched on a log.
+/home/whx/Dataset/semi-aves/trainval_images/100/21.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/101/12.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/101/10.jpg	a bird perched on a stump.
+/home/whx/Dataset/semi-aves/trainval_images/101/22.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/101/21.jpg	perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/102/6.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/102/32.jpg	a bird perched on a wire.
+/home/whx/Dataset/semi-aves/trainval_images/102/18.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/102/8.jpg	a bird perched, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/103/28.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/103/6.jpg	a bird stands on the ground.
+/home/whx/Dataset/semi-aves/trainval_images/103/4.jpg	a bird stands on the ground.
+/home/whx/Dataset/semi-aves/trainval_images/103/17.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/104/25.jpg	a bird perched on a post.
+/home/whx/Dataset/semi-aves/trainval_images/104/1.jpg	a bird perched on a wire.
+/home/whx/Dataset/semi-aves/trainval_images/104/26.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/104/11.jpg	a bird perched on fence.
+/home/whx/Dataset/semi-aves/trainval_images/105/28.jpg	a bird stands on ground, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/105/30.jpg	a bird is camouflaged among leaves and twigs.
+/home/whx/Dataset/semi-aves/trainval_images/105/20.jpg	a bird perched on a feeder.
+/home/whx/Dataset/semi-aves/trainval_images/105/27.jpg	a bird is perched on the ground.
+/home/whx/Dataset/semi-aves/trainval_images/106/22.jpg	a bird perched on a log.
+/home/whx/Dataset/semi-aves/trainval_images/106/30.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/106/18.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/106/27.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/107/14.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/107/11.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/107/20.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/107/28.jpg	a bird stands in grass.
+/home/whx/Dataset/semi-aves/trainval_images/108/10.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/108/3.jpg	a bird stands on ground, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/108/15.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/108/16.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/109/25.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/109/3.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/109/22.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/109/15.jpg	a bird is perched on grass.
+/home/whx/Dataset/semi-aves/trainval_images/110/25.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/110/13.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/110/17.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/110/8.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/111/18.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/111/15.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/111/0.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/111/13.jpg	a bird perched, holding twig.
+/home/whx/Dataset/semi-aves/trainval_images/112/28.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/112/12.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/112/6.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/112/9.jpg	a bird perched on ground.
+/home/whx/Dataset/semi-aves/trainval_images/113/15.jpg	a bird stands upright.
+/home/whx/Dataset/semi-aves/trainval_images/113/0.jpg	a bird perched on a post.
+/home/whx/Dataset/semi-aves/trainval_images/113/25.jpg	a bird perched on a fence post.
+/home/whx/Dataset/semi-aves/trainval_images/113/20.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/114/13.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/114/18.jpg	a bird perched on wire.
+/home/whx/Dataset/semi-aves/trainval_images/114/0.jpg	a bird stands on ground, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/114/1.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/115/22.jpg	a bird stands upright.
+/home/whx/Dataset/semi-aves/trainval_images/115/11.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/115/18.jpg	a bird stands tall, neck extended.
+/home/whx/Dataset/semi-aves/trainval_images/115/4.jpg	a bird stands tall, neck extended.
+/home/whx/Dataset/semi-aves/trainval_images/116/8.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/116/16.jpg	a bird perched on a rock.
+/home/whx/Dataset/semi-aves/trainval_images/116/17.jpg	a bird stands upright on a surface.
+/home/whx/Dataset/semi-aves/trainval_images/116/25.jpg	a bird swimming, head slightly raised.
+/home/whx/Dataset/semi-aves/trainval_images/117/18.jpg	a bird stands on the beach.
+/home/whx/Dataset/semi-aves/trainval_images/117/12.jpg	a bird stands in water.
+/home/whx/Dataset/semi-aves/trainval_images/117/5.jpg	a bird stands on muddy ground.
+/home/whx/Dataset/semi-aves/trainval_images/117/19.jpg	a bird stands on sand, looking down.
+/home/whx/Dataset/semi-aves/trainval_images/118/2.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/118/7.jpg	a bird perched on barbed wire.
+/home/whx/Dataset/semi-aves/trainval_images/118/15.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/118/0.jpg	a bird perched, head slightly turned.
+/home/whx/Dataset/semi-aves/trainval_images/119/5.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/119/16.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/119/10.jpg	a bird perched, head tucked.
+/home/whx/Dataset/semi-aves/trainval_images/119/20.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/120/14.jpg	a bird perched on grass.
+/home/whx/Dataset/semi-aves/trainval_images/120/7.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/120/19.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/120/10.jpg	a bird stands in shallow water.
+/home/whx/Dataset/semi-aves/trainval_images/121/15.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/121/21.jpg	a bird is standing on grass.
+/home/whx/Dataset/semi-aves/trainval_images/121/7.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/121/22.jpg	a bird stands on the shore.
+/home/whx/Dataset/semi-aves/trainval_images/122/26.jpg	a bird is foraging.
+/home/whx/Dataset/semi-aves/trainval_images/122/21.jpg	a bird stands on rocks, legs spread, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/122/17.jpg	a bird perched on a rock.
+/home/whx/Dataset/semi-aves/trainval_images/122/14.jpg	a bird stands in shallow water.
+/home/whx/Dataset/semi-aves/trainval_images/123/1.jpg	a bird perched, head raised.
+/home/whx/Dataset/semi-aves/trainval_images/123/2.jpg	a bird perched on driftwood.
+/home/whx/Dataset/semi-aves/trainval_images/123/24.jpg	a bird stands on a leaf-covered ground.
+/home/whx/Dataset/semi-aves/trainval_images/123/16.jpg	a bird perched, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/124/20.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/124/28.jpg	a bird stands still, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/124/11.jpg	a bird stands on a branch, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/124/5.jpg	a bird stands still, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/125/16.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/125/24.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/125/25.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/125/28.jpg	a bird soars with wings spread wide.
+/home/whx/Dataset/semi-aves/trainval_images/126/6.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/126/9.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/126/22.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/126/17.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/127/11.jpg	a bird perched on a post.
+/home/whx/Dataset/semi-aves/trainval_images/127/5.jpg	a bird perched, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/127/22.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/127/23.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/128/14.jpg	a bird perched on a hand.
+/home/whx/Dataset/semi-aves/trainval_images/128/19.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/128/2.jpg	a bird perched on rock.
+/home/whx/Dataset/semi-aves/trainval_images/128/3.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/129/19.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/129/16.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/129/18.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/129/12.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/130/5.jpg	a bird stands on pebbles, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/130/4.jpg	a bird is camouflaged among rocks.
+/home/whx/Dataset/semi-aves/trainval_images/130/8.jpg	a bird stands upright.
+/home/whx/Dataset/semi-aves/trainval_images/130/13.jpg	a bird stands on sand, facing left.
+/home/whx/Dataset/semi-aves/trainval_images/131/6.jpg	a bird perched vertically on tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/131/18.jpg	a bird perched on tree trunk.
+/home/whx/Dataset/semi-aves/trainval_images/131/23.jpg	a bird perched on moss.
+/home/whx/Dataset/semi-aves/trainval_images/131/24.jpg	a bird perched on tree branch.
+/home/whx/Dataset/semi-aves/trainval_images/132/25.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/132/1.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/132/15.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/132/21.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/133/12.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/133/22.jpg	a bird stands on wet sand.
+/home/whx/Dataset/semi-aves/trainval_images/133/20.jpg	a bird floating calmly on water.
+/home/whx/Dataset/semi-aves/trainval_images/133/11.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/134/12.jpg	a bird is perched, wings slightly spread.
+/home/whx/Dataset/semi-aves/trainval_images/134/16.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/134/5.jpg	a bird perched, feeding.
+/home/whx/Dataset/semi-aves/trainval_images/134/17.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/135/23.jpg	a bird stands on grass, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/135/1.jpg	a bird stands on grass, tail extended.
+/home/whx/Dataset/semi-aves/trainval_images/135/16.jpg	a bird perched on branch, tail extended.
+/home/whx/Dataset/semi-aves/trainval_images/135/2.jpg	a bird stands on grass, tail extended.
+/home/whx/Dataset/semi-aves/trainval_images/136/25.jpg	a bird stands upright.
+/home/whx/Dataset/semi-aves/trainval_images/136/8.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/136/20.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/136/3.jpg	a bird perched, tail extended.
+/home/whx/Dataset/semi-aves/trainval_images/137/8.jpg	a bird stands alert, perched on grass.
+/home/whx/Dataset/semi-aves/trainval_images/137/23.jpg	a bird stands on sandy ground.
+/home/whx/Dataset/semi-aves/trainval_images/137/2.jpg	a bird stands on muddy ground.
+/home/whx/Dataset/semi-aves/trainval_images/137/4.jpg	a bird stands on muddy ground.
+/home/whx/Dataset/semi-aves/trainval_images/138/24.jpg	a bird standing still.
+/home/whx/Dataset/semi-aves/trainval_images/138/19.jpg	a bird stands in water, beak dipped.
+/home/whx/Dataset/semi-aves/trainval_images/138/21.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/138/22.jpg	a bird stands in water, head down, beak open.
+/home/whx/Dataset/semi-aves/trainval_images/139/2.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/139/15.jpg	a bird is resting on a hand.
+/home/whx/Dataset/semi-aves/trainval_images/139/8.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/139/13.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/140/25.jpg	a bird swimming
+/home/whx/Dataset/semi-aves/trainval_images/140/28.jpg	a bird is swimming with a chick.
+/home/whx/Dataset/semi-aves/trainval_images/140/13.jpg	a bird stands on a rock.
+/home/whx/Dataset/semi-aves/trainval_images/140/12.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/141/5.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/141/10.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/141/14.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/141/4.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/142/19.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/142/15.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/142/6.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/142/3.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/143/13.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/143/19.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/143/17.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/143/3.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/144/21.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/144/9.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/144/8.jpg	a bird perched on wooden structure.
+/home/whx/Dataset/semi-aves/trainval_images/144/7.jpg	a bird stands on sandy ground.
+/home/whx/Dataset/semi-aves/trainval_images/145/12.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/145/26.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/145/18.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/145/0.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/146/6.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/146/16.jpg	a bird perched on a post.
+/home/whx/Dataset/semi-aves/trainval_images/146/14.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/146/18.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/147/0.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/147/20.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/147/19.jpg	a bird perched on a wire fence.
+/home/whx/Dataset/semi-aves/trainval_images/147/7.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/148/8.jpg	a bird stands on grass, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/148/6.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/148/5.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/148/9.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/149/4.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/149/17.jpg	a bird stands in shallow water, legs spread, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/149/6.jpg	a bird stands in shallow water, head down.
+/home/whx/Dataset/semi-aves/trainval_images/149/8.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/150/9.jpg	a bird stands in water, legs extended.
+/home/whx/Dataset/semi-aves/trainval_images/150/18.jpg	a bird stands in water, legs spread, head slightly lowered.
+/home/whx/Dataset/semi-aves/trainval_images/150/8.jpg	a bird stands on the ground.
+/home/whx/Dataset/semi-aves/trainval_images/150/14.jpg	a bird stands in shallow water.
+/home/whx/Dataset/semi-aves/trainval_images/151/6.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/151/20.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/151/12.jpg	a bird perched on rope.
+/home/whx/Dataset/semi-aves/trainval_images/151/16.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/152/13.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/152/3.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/152/24.jpg	a bird perched, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/152/6.jpg	a bird perched, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/153/18.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/153/12.jpg	a bird perched, head raised.
+/home/whx/Dataset/semi-aves/trainval_images/153/6.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/153/9.jpg	a bird stands on ground, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/154/3.jpg	a bird perched on a hand.
+/home/whx/Dataset/semi-aves/trainval_images/154/0.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/154/19.jpg	a bird perched, head tilted upwards.
+/home/whx/Dataset/semi-aves/trainval_images/154/18.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/155/9.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/155/21.jpg	a bird soars with outstretched wings.
+/home/whx/Dataset/semi-aves/trainval_images/155/23.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/155/20.jpg	a bird perched on a rock.
+/home/whx/Dataset/semi-aves/trainval_images/156/4.jpg	a bird is not visible in the image.
+/home/whx/Dataset/semi-aves/trainval_images/156/2.jpg	a bird perched on roof.
+/home/whx/Dataset/semi-aves/trainval_images/156/16.jpg	a bird is perched.
+/home/whx/Dataset/semi-aves/trainval_images/156/11.jpg	a bird perched on wire.
+/home/whx/Dataset/semi-aves/trainval_images/157/18.jpg	a bird in flight.
+/home/whx/Dataset/semi-aves/trainval_images/157/9.jpg	a bird in flight.
+/home/whx/Dataset/semi-aves/trainval_images/157/13.jpg	a bird stands on rocks, facing right.
+/home/whx/Dataset/semi-aves/trainval_images/157/16.jpg	a bird stands on rocks, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/158/21.jpg	a bird is swimming.
+/home/whx/Dataset/semi-aves/trainval_images/158/11.jpg	a bird swims calmly.
+/home/whx/Dataset/semi-aves/trainval_images/158/16.jpg	a bird swimming.
+/home/whx/Dataset/semi-aves/trainval_images/158/10.jpg	a bird swimming calmly.
+/home/whx/Dataset/semi-aves/trainval_images/159/0.jpg	a bird perched on a rock.
+/home/whx/Dataset/semi-aves/trainval_images/159/3.jpg	a bird perched, facing left.
+/home/whx/Dataset/semi-aves/trainval_images/159/14.jpg	a bird standing on rock.
+/home/whx/Dataset/semi-aves/trainval_images/159/17.jpg	a bird perched on rock.
+/home/whx/Dataset/semi-aves/trainval_images/160/11.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/160/9.jpg	a bird soars with wings spread wide.
+/home/whx/Dataset/semi-aves/trainval_images/160/17.jpg	a bird stands alert, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/160/12.jpg	a bird stands with head turned, beak open.
+/home/whx/Dataset/semi-aves/trainval_images/161/10.jpg	a bird standing in shallow water.
+/home/whx/Dataset/semi-aves/trainval_images/161/23.jpg	a bird stands alert.
+/home/whx/Dataset/semi-aves/trainval_images/161/21.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/161/18.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/162/15.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/162/3.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/162/12.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/162/18.jpg	a bird perched on a wooden surface.
+/home/whx/Dataset/semi-aves/trainval_images/163/6.jpg	a bird lies on its back, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/163/17.jpg	a bird soars low over calm water.
+/home/whx/Dataset/semi-aves/trainval_images/163/0.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/163/8.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/164/19.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/164/16.jpg	a bird with open beak, looking to the side.
+/home/whx/Dataset/semi-aves/trainval_images/164/6.jpg	a bird stands alert in grass.
+/home/whx/Dataset/semi-aves/trainval_images/164/14.jpg	a bird stands alert, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/165/16.jpg	a bird perched, head down.
+/home/whx/Dataset/semi-aves/trainval_images/165/13.jpg	a bird perched among branches.
+/home/whx/Dataset/semi-aves/trainval_images/165/9.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/165/11.jpg	a bird not visible.
+/home/whx/Dataset/semi-aves/trainval_images/166/5.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/166/14.jpg	a bird perched on a wire.
+/home/whx/Dataset/semi-aves/trainval_images/166/19.jpg	a bird perched on branch, head tilted.
+/home/whx/Dataset/semi-aves/trainval_images/166/21.jpg	a bird perched on flowers.
+/home/whx/Dataset/semi-aves/trainval_images/167/16.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/167/6.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/167/11.jpg	a bird stands on grass, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/167/0.jpg	a bird stands on grass, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/168/21.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/168/12.jpg	a bird stands alert, legs spread, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/168/18.jpg	a bird stands alert, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/168/13.jpg	a bird stands alert, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/169/12.jpg	a bird is pecking at the ground.
+/home/whx/Dataset/semi-aves/trainval_images/169/10.jpg	a bird stands on one leg.
+/home/whx/Dataset/semi-aves/trainval_images/169/2.jpg	a bird stands alert in grass.
+/home/whx/Dataset/semi-aves/trainval_images/169/15.jpg	a bird perched on log.
+/home/whx/Dataset/semi-aves/trainval_images/170/23.jpg	a bird perched, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/170/7.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/170/20.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/170/9.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/171/0.jpg	a bird perched on wire.
+/home/whx/Dataset/semi-aves/trainval_images/171/13.jpg	a bird perched on a beam.
+/home/whx/Dataset/semi-aves/trainval_images/171/4.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/171/12.jpg	a bird perched on edge.
+/home/whx/Dataset/semi-aves/trainval_images/172/8.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/172/5.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/172/2.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/172/0.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/173/11.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/173/8.jpg	a bird perched on tree trunk, head tilted.
+/home/whx/Dataset/semi-aves/trainval_images/173/13.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/173/9.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/174/4.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/174/14.jpg	a bird perched on wire, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/174/8.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/174/15.jpg	a bird perched on wire, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/175/5.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/175/14.jpg	a bird perched, head raised.
+/home/whx/Dataset/semi-aves/trainval_images/175/1.jpg	a bird soars with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/175/4.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/176/16.jpg	a bird perched, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/176/3.jpg	a bird perched, head raised.
+/home/whx/Dataset/semi-aves/trainval_images/176/13.jpg	a bird perched vertically.
+/home/whx/Dataset/semi-aves/trainval_images/176/2.jpg	a bird stands alert, wings slightly spread.
+/home/whx/Dataset/semi-aves/trainval_images/177/11.jpg	a bird stands in water, neck extended.
+/home/whx/Dataset/semi-aves/trainval_images/177/2.jpg	a bird stands alert, head turned to the side.
+/home/whx/Dataset/semi-aves/trainval_images/177/14.jpg	a bird stands still, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/177/0.jpg	a bird stands on a rock, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/178/5.jpg	a bird soars with wings spread wide.
+/home/whx/Dataset/semi-aves/trainval_images/178/16.jpg	a bird spreads its wings.
+/home/whx/Dataset/semi-aves/trainval_images/178/20.jpg	a bird soars with outstretched wings.
+/home/whx/Dataset/semi-aves/trainval_images/178/2.jpg	a bird in flight, wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/179/12.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/179/20.jpg	a bird perched on a branch, facing a flower.
+/home/whx/Dataset/semi-aves/trainval_images/179/8.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/179/19.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/180/9.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/180/6.jpg	a bird perched on a stem.
+/home/whx/Dataset/semi-aves/trainval_images/180/16.jpg	a bird perched, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/180/18.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/181/7.jpg	a bird stands still.
+/home/whx/Dataset/semi-aves/trainval_images/181/10.jpg	a bird stands on grass.
+/home/whx/Dataset/semi-aves/trainval_images/181/4.jpg	a bird perched, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/181/1.jpg	a bird perched, wings slightly spread.
+/home/whx/Dataset/semi-aves/trainval_images/182/2.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/182/16.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/182/11.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/182/7.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/183/18.jpg	a bird is perched on a hand, showing its wing.
+/home/whx/Dataset/semi-aves/trainval_images/183/2.jpg	a bird perched on edge.
+/home/whx/Dataset/semi-aves/trainval_images/183/6.jpg	a bird perched on a hand.
+/home/whx/Dataset/semi-aves/trainval_images/183/5.jpg	a bird perched, head raised.
+/home/whx/Dataset/semi-aves/trainval_images/184/17.jpg	a bird perched on a hand.
+/home/whx/Dataset/semi-aves/trainval_images/184/8.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/184/11.jpg	a bird spreads its wings.
+/home/whx/Dataset/semi-aves/trainval_images/184/9.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/185/11.jpg	a bird perched on wire.
+/home/whx/Dataset/semi-aves/trainval_images/185/3.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/185/6.jpg	a bird perched on wire.
+/home/whx/Dataset/semi-aves/trainval_images/185/8.jpg	a bird perched on a wire.
+/home/whx/Dataset/semi-aves/trainval_images/186/12.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/186/5.jpg	a bird perched among leaves.
+/home/whx/Dataset/semi-aves/trainval_images/186/15.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/186/17.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/187/8.jpg	a bird perched on a flower.
+/home/whx/Dataset/semi-aves/trainval_images/187/10.jpg	a bird perched.
+/home/whx/Dataset/semi-aves/trainval_images/187/7.jpg	a bird perched on branch, head turned.
+/home/whx/Dataset/semi-aves/trainval_images/187/4.jpg	a bird perched on wire.
+/home/whx/Dataset/semi-aves/trainval_images/188/7.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/188/0.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/188/12.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/188/5.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/189/13.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/189/7.jpg	a bird perched on wire.
+/home/whx/Dataset/semi-aves/trainval_images/189/8.jpg	a bird is hovering near a flower.
+/home/whx/Dataset/semi-aves/trainval_images/189/3.jpg	a bird perched on wire, head slightly tilted.
+/home/whx/Dataset/semi-aves/trainval_images/190/2.jpg	a bird perched on a pipe.
+/home/whx/Dataset/semi-aves/trainval_images/190/5.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/190/14.jpg	a bird stands on a ledge, holding a leaf in its beak.
+/home/whx/Dataset/semi-aves/trainval_images/190/9.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/191/4.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/191/8.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/191/7.jpg	a bird perched on branch, head tilted.
+/home/whx/Dataset/semi-aves/trainval_images/191/15.jpg	a bird perched on a utility pole.
+/home/whx/Dataset/semi-aves/trainval_images/192/5.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/192/4.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/192/17.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/192/14.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/193/11.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/193/4.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/193/12.jpg	a bird perched on branch.
+/home/whx/Dataset/semi-aves/trainval_images/193/6.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/194/7.jpg	a bird is standing.
+/home/whx/Dataset/semi-aves/trainval_images/194/3.jpg	a bird is standing on the ground.
+/home/whx/Dataset/semi-aves/trainval_images/194/11.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/194/15.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/195/9.jpg	a bird perched in a tree hole.
+/home/whx/Dataset/semi-aves/trainval_images/195/2.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/195/3.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/195/15.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/196/12.jpg	a bird in flight, wings spread, tail extended.
+/home/whx/Dataset/semi-aves/trainval_images/196/10.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/196/7.jpg	a bird perched, tail extended.
+/home/whx/Dataset/semi-aves/trainval_images/196/1.jpg	a bird perched, feeding.
+/home/whx/Dataset/semi-aves/trainval_images/197/5.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/197/1.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/197/0.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/197/12.jpg	a bird perched on a branch.
+/home/whx/Dataset/semi-aves/trainval_images/198/0.jpg	a bird is perched on a person's hand.
+/home/whx/Dataset/semi-aves/trainval_images/198/6.jpg	a bird perched, eyes glowing.
+/home/whx/Dataset/semi-aves/trainval_images/198/1.jpg	a bird perched on a rail.
+/home/whx/Dataset/semi-aves/trainval_images/198/7.jpg	a bird lying on its back with wings spread.
+/home/whx/Dataset/semi-aves/trainval_images/199/14.jpg	a bird lying down.
+/home/whx/Dataset/semi-aves/trainval_images/199/5.jpg	a bird stands upright.
+/home/whx/Dataset/semi-aves/trainval_images/199/10.jpg	a bird stands upright.
+/home/whx/Dataset/semi-aves/trainval_images/199/4.jpg	a bird is resting in a burrow.

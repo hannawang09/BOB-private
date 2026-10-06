@@ -33,6 +33,8 @@ def get_pipe(model, lora_path, device, is_tqdm):
     pipe = StableDiffusionPipeline.from_pretrained(
         model,
         torch_dtype=torch.float16,
+        safety_checker=None,
+        requires_safety_checker=False
     )
     pipe = pipe.to(device)
     pipe.set_progress_bar_config(disable=not is_tqdm)

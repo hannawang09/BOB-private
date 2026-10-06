@@ -77,7 +77,8 @@ class Dataset(Dataset):
 
     def __init__(
         self,
-        fewshot_data_dir,
+        fewshot_file_path,
+        data_root,
         tokenizer,
         caption_dir,
         template,
@@ -93,9 +94,9 @@ class Dataset(Dataset):
         self.caption_dir = caption_dir  
         self.template = template
         self.classnames = classnames
-        self.fewshot_data_dir = Path(fewshot_data_dir)
-        if not self.fewshot_data_dir.exists():
-            raise ValueError("Instance images root doesn't exists.")
+        self.fewshot_file_path = fewshot_file_path
+        self.data_root = data_root
+
 
         (
             self.instance_images_path,
@@ -144,19 +145,26 @@ class Dataset(Dataset):
 
         instance_images_path = []
         instance_prompts = []
-        for cls_idx, classname in enumerate(self.classnames):
-            data_dir = ospj(self.fewshot_data_dir, classname)
-            images_path = [ospj(data_dir, fname) for fname in os.listdir(data_dir)]
-            images_path.sort(key=natural_keys)
+        with open(self.fewshot_file_path, 'r') as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                img_path, label, _ = line.split(' ')
 
-            background_captions += [background[path] for path in images_path]
-            pose_captions += [pose[path] for path in images_path]
+                if img_path not in background:
+                    print(f"[Warning] No background caption for {img_path}, skipping.")
+                    continue
+                if img_path not in pose:
+                    print(f"[Warning] No pose caption for {img_path}, skipping.")
+                    continue
 
-            # put template and dataset name in __getitem__ function
-            prompts = [classname] * len(images_path)
+                classname = self.classnames[int(label)]
 
-            instance_images_path += images_path
-            instance_prompts += prompts
+                instance_images_path.append(ospj(self.data_root, img_path))
+                instance_prompts.append(classname)
+                background_captions.append(background[img_path])
+                pose_captions.append(pose[img_path])
 
         num_instance_images = len(instance_images_path)
 
@@ -262,7 +270,6 @@ def main(args):
     accelerator = Accelerator(
         gradient_accumulation_steps=args.gradient_accumulation_steps,
         mixed_precision=args.mixed_precision,
-        log_with=args.report_to,
         project_config=accelerator_project_config,
     )
 
@@ -536,7 +543,8 @@ def main(args):
 
     # Dataset and DataLoaders creation:
     train_dataset = Dataset(
-        fewshot_data_dir=args.data_path,
+        fewshot_file_path=args.fewshot_file_path,
+        data_root=args.data_root,
         tokenizer=tokenizer,
         caption_dir=args.caption_path,
         size=args.resolution,
@@ -803,4 +811,6 @@ def main(args):
 
 if __name__ == "__main__":
     args = parse_args()
+    # from argparse import Namespace
+    # args = Namespace(is_tqdm=True, logging_dir='logs', resolution=512, rank=16, revision=None, variant=None, seed=None, center_crop=False, train_batch_size=8, num_train_epochs=400, checkpointing_steps=50000, checkpoints_total_limit=1, resume_from_checkpoint=None, gradient_accumulation_steps=1, gradient_checkpointing=False, learning_rate=0.0001, scale_lr=False,lr_scheduler='cosine', lr_warmup_steps=100, lr_num_cycles=1, lr_power=1.0, dataloader_num_workers=8, use_8bit_adam=False, adam_beta1=0.9, adam_beta2=0.999, adam_weight_decay=0.01, adam_epsilon=1e-08, max_grad_norm=1.0, allow_tf32=False, report_to='all', mixed_precision=None, local_rank=-1, enable_xformers_memory_efficient_attention=False, tokenizer_max_length=None, text_encoder_use_attention_mask=False, yaml_file='../yaml/mollusca_4shot.yaml', pretrained_model_name_or_path='sd-legacy/stable-diffusion-v1-5', lora_path='../lora/species196_mollusca_4shot', data_root='/home/user/Dataset/species196/species196_mollusca', fewshot_file_path='/media/user/Data/Synthesis4VSR-private/data_resource/species196_mollusca/fewshot4_seed1.txt', caption_path='/media/user/Data/BeyondObjects/captions/species196_mollusca_4shot', template='a mollusk photo of a {} in the {} background with the {} pose', classnames=['Achatina fulica', 'Acusta despecta', 'Cepaea hortensis', 'Cernuella virgata', 'Euglandina rosea', 'Otala lactea', 'Theba pisana'])
     main(args)

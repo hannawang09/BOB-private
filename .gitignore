@@ -7,3 +7,5 @@ dataset/real_datasets
 lora/
 syn_data/
 classification/clip_models
+temp.py
+.vscode/

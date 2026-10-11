@@ -1,0 +1,56 @@
+data_root: '/home/user/Dataset/fungitastic-m'
+fewshot_file_path: '/media/user/Data/Synthesis4VSR-private/data_resource/fungitastic-m/fewshot8_seed1.txt'
+caption_path: /media/user/Data/BeyondObjects/captions/fungitastic-m_8shot
+synthetic_path: ../syn_data/fungitastic-m_8shot
+lora_path: ../lora/fungitastic-m_8shot
+template: "a fungus photo of a {} in the {} background with the {} pose"
+dataset: species196_weeds
+num_synth: 100
+model: sd-legacy/stable-diffusion-v1-5
+classnames:
+  ['Amanita huijsmanii F.Massart & Rouzeau', 'Russula subfoetens W.G.Sm.', 'Amanita olivaceogrisea Kalamees', 'Mycena picta (Fr.) Harmaja', 
+  'Russula mustelina Fr.', 'Amanita regalis (Fr.) Michael', 'Mycena smithiana Kühner', 'Mycena polyadelpha (Lasch) Kühner', 
+  'Clitocybe subspadicea (J.E.Lange) Bon & Chevassut', 'Mycena pelliculosa Quél.', 'Russula alnetorum Romagn.', 'Russula anthracina Romagn.', 
+  'Mycena pseudopicta (J.E.Lange) Kühner', 'Russula aquosa Leclair', 'Russula clavipes Velen.', 'Mycena bulbosa (Cejp) Kühner', 
+  'Russula globispora (J.Blum) Bon', 'Russula rhodopus Zvára', 'Mycena maculata P.Karst.', 'Agaricus depauperatus (F.H.Møller) Pilát', 
+  'Russula melzeri Zvára', 'Mycena xantholeuca Kühner', 'Russula maculata Quél.', 'Russula puellula Ebbesen, F.H.Møller & Jul.Schäff.', 
+  'Russula laeta Jul.Schäff.', 'Russula insignis Quél.', 'Agaricus bisporus (J.Lange) Pilat', 'Russula seperina Dupain', 'Russula faustiana Sarnari', 
+  'Clitocybe nitrophila Bon', 'Mycena clavicularis (Fr.) Gillet', 'Amanita lividopallescens (Boud.) Kühner & Romagn.', 'Mycena aurantiomarginata (Fr.) Quél.', 
+  'Russula aurea Pers.', 'Russula farinipes Romell', 'Singerocybe phaeophthalma (Pers.) Harmaja', 'Mycena capillaripes Peck', 'Russula vinosa Lindblad', 
+  'Russula pelargonia Niolle', 'Russula acrifolia Romagn.', 'Russula roseoaurantia Sarnari', 'Mycena vulgaris (Pers.) P.Kumm.', 
+  'Russula carpini R.Girard & Heinem.', 'Russula gracillima Jul.Schäff.', 'Russula subrubens (J.E.Lange) Bon', 'Russula melliolens Quél.', 
+  'Mycena silvae-nigrae Maas Geest. & Schwöbel', 'Russula curtipes F.H.Møller & Jul.Schäff.', 'Mycena rosella (Fr.) P.Kumm.', 'Agaricus bohusii Bon', 
+  'Mycena erubescens Höhn.', 'Russula luteotacta Rea', 'Russula atrorubens Quél.', 'Russula brunneoviolacea Crawshay', 'Mycena luteovariegata Harder & Laessøe', 
+  'Russula viscida Kudřna', 'Russula laccata Huijsman', 'Russula sororia Fr.', 'Agaricus brunneolus (J.E.Lange) Pilát', 
+  'Agaricus cupreobrunneus (Jul.Schäff. & Steer) Pilát', 'Agaricus crocodilinus Murrill', 'Amanita franchetii (Boud.) Fayod', 'Russula illota Romagn.', 
+  'Russula caerulea Fr.', 'Mycena belliae (Johnston) P.D.Orton', 'Mycena juniperina Aronsen', 'Russula cuprea (Krombh.) J.E.Lange', 'Russula grisea Fr.', 
+  'Infundibulicybe costata (Kühner & Romagn.) Harmaja', 'Mycena clavularis (Batsch) Sacc.', 'Amanita vaginata (Bull. ex Fr.) Vittad.', 
+  'Mycena pterigena (Fr.) P.Kumm.', 'Mycena citrinomarginata Gillet', 'Clitocybe agrestis Harmaja', 'Agaricus litoralis (Wakef. & A.Pearson) Pilát',
+   'Russula faginea Romagn.', 'Mycena stylobates (Pers.) P.Kumm.', 'Mycena purpureofusca (Peck) Sacc.', 'Russula pseudointegra Arnould & Goris', 
+   'Clitocybe vibecina (Fr.) Quél.', 'Agaricus subperonatus (J.E.Lange) Singer', 'Agaricus moelleri Wasser', 'Russula silvestris (Singer) Reumaux', 
+   'Russula veternosa Fr.', 'Mycena chlorantha (Fr.) P.Kumm.', 'Russula sanguinea Fr.', 'Russula odorata Romagn.', 'Mycena stipata Maas Geest. & Schwöbel', 
+   'Mycena renati Quél.', 'Agaricus langei (F.H.Møller & Jul.Schäff.) Maire', 'Russula integra (L.) Fr.', 'Mycena amicta (Fr.) Quél.', 
+   'Mycena cinerella (P.Karst.) P.Karst.', 'Russula adusta (Pers.) Fr.', 'Amanita submembranacea (Bon) Gröger', 'Russula decolorans (Fr.) Fr.', 
+   'Boletus pinophilus Pilát & Dermek', 'Russula delica Fr.', 'Russula puellaris Fr.', 'Russula graveolens Romell', 'Mycena flavescens Velen.', 
+   'Agaricus dulcidulus Schulzer', 'Russula romellii Maire', 'Russula ionochlora Romagn.', 'Amanita crocea (Quél.) Singer', 
+   'Amanita ceciliae (Berk. & Broome) Bas', 'Russula versicolor Jul.Schäff.', 'Russula nauseosa (Pers.) Fr.', 'Mycena zephirus (Fr.) P.Kumm.', 
+   'Russula velutipes Velen.', 'Russula sardonia Fr.', 'Mycena filopes (Bull.) P.Kumm.', 'Mycena abramsii (Murrill) Murrill', 'Agaricus bernardii (Quél.) Sacc.', 
+   'Russula nitida (Pers.) Fr.', 'Mycena rubromarginata (Fr.) P.Kumm.', 'Russula densifolia Secr. ex Gillet', 'Mycena meliigena (Berk. & Cooke) Sacc.', 
+   'Russula amoenolens Romagn.', 'Russula parazurea Jul.Schäff.', 'Russula betularum Hora', 'Russula emetica (Schaeff.) Pers.', 'Agaricus sylvaticus Schaeff.', 
+   'Agaricus essettei Bon', 'Russula heterophylla (Fr.) Fr.', 'Mycena acicula (Schaeff.) P.Kumm.', 'Russula cessans A.Pearson', 
+   'Russula velenovskyi Melzer & Zvára', 'Clitocybe phyllophila (Pers.) P.Kumm.', 'Russula grata Britzelm.', 'Russula risigallina (Batsch) Sacc.', 
+   'Mycena olivaceomarginata (Massee) Massee', 'Clitocybe rivulosa (Pers.) P.Kumm.', 'Clitocybe odora (Bull.) P.Kumm.', 'Amanita gemmata (Fr.) Bertill.', 
+   'Russula fellea (Fr.) Fr.', 'Russula aeruginea Lindblad ex Fr.', 'Mycena tenerrima (Berk.) Sacc.', 'Russula virescens (Schaeff.) Fr.', 
+   'Mycena arcangeliana Bres.', 'Russula chloroides (Krombh.) Bres.', 'Russula mairei Singer', 'Mycena metata (Secr. ex Fr.) Quél.', 'Russula fragilis Fr.', 
+   'Mycena aetites (Fr.) Quél.', 'Clitocybe nebularis (Batsch) P.Kumm.', 'Russula claroflava Grove', 'Agaricus sylvicola (Vittad.) Peck', 
+   'Clitocybe metachroa (Fr.) P.Kumm.', 'Russula undulata Velen.', 'Russula violeipes Quél.', 'Russula foetens (Pers.) Fr.', 'Russula solaris Ferd. & Winge', 
+   'Russula queletii Fr.', 'Mycena leptocephala (Pers.) Gillet', 'Mycena inclinata (Fr.) Quél.', 'Russula olivacea (Schaeff.) Fr.', 
+   'Russula depallens (Pers.) Fr.', 'Mycena sanguinolenta (Alb. & Schwein.) P.Kumm.', 'Mycena pseudocorticola Kühner', 'Mycena polygramma (Bull.) Gray', 
+   'Russula recondita Melera & Ostellari', 'Amanita virosa Bertill.', 'Russula lepida Fr.', 'Amanita porphyria Alb. & Schwein.', 
+   'Russula xerampelina (Schaeff.) Fr.', 'Mycena galopus (Pers.) P.Kumm.', 'Agaricus bitorquis (Quél.) Sacc.', 'Russula paludosa Britzelm.', 
+   'Mycena pelianthina (Fr.) Quél.', 'Mycena vitilis (Fr.) Quél.', 'Mycena tintinnabulum (Paulet) Quél.', 'Amanita citrina Pers.', 
+   'Mycena epipterygia (Scop.) Gray', 'Boletus reticulatus Schaeff.', 'Agaricus impudicus (Rea) Pilát', 'Russula cyanoxantha (Schaeff.) Fr.', 
+   'Russula vesca Fr.', 'Amanita phalloides (Vaill. ex Fr.) Link', 'Agaricus arvensis Schaeff.', 'Amanita pantherina (DC.) Krombh.', 'Agaricus augustus Fr.', 
+   'Agaricus campestris L.', 'Clitocybe fragrans Sowerby', 'Mycena haematopus (Pers.) P.Kumm.', 'Mycena crocata (Schrad.) P.Kumm.', 
+   'Agaricus xanthodermus Genev.', 'Russula nigricans Fr.', 'Mycena rosea Gramberg', 'Russula ochroleuca Fr.', 'Amanita fulva Fr.', 
+   'Amanita rubescens (Pers.) Gray', 'Clitocybe nebularis (Batsch) Quél.', 'Mycena galericulata (Scop.) Gray', 'Amanita muscaria (L.) Lam.', 'Boletus edulis Bull.']

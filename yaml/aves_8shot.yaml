@@ -1,0 +1,41 @@
+data_root: '/home/user/Dataset/semi-aves'
+fewshot_file_path: '/media/user/Data/Synthesis4VSR-private/data_resource/semi-aves/fewshot8_seed1.txt'
+caption_path: /media/user/Data/BeyondObjects/captions/semi-aves_8shot
+synthetic_path: ../syn_data/semi-aves_8shot
+lora_path: ../lora/semi-aves_8shot
+template: "a bird photo of a {} in the {} background with the {} pose"
+dataset: semi-aves
+num_synth: 100
+model: sd-legacy/stable-diffusion-v1-5
+classnames:
+  ['Charadrius semipalmatus', 'Tachycineta thalassina', 'Stelgidopteryx serripennis', 'Cassiculus melanicterus', 'Jacana spinosa', 'Haematopus bachmani', 
+  'Phoenicopterus ruber', 'Phoenicurus phoenicurus', 'Pelecanus occidentalis', 'Archilochus alexandri', 'Pelecanus conspicillatus', 'Falco tinnunculus', 
+  'Tachybaptus novaehollandiae', 'Petrochelidon pyrrhonota', 'Falco peregrinus', 'Oenanthe oenanthe', 'Calidris pusilla', 'Calidris alpina', 
+  'Streptopelia chinensis', 'Limosa fedoa', 'Anthochaera carunculata', 'Columba livia', 'Phalaropus lobatus', 'Thalasseus sandvicensis', 'Larus canus', 
+  'Motacilla cinerea', 'Aechmophorus occidentalis', 'Larus glaucescens', 'Dendrocopos major', 'Rissa tridactyla', 'Molothrus aeneus', 'Entomyzon cyanotis', 
+  'Alopochen aegyptiaca', 'Lonchura punctulata', 'Anas platyrhynchos', 'Aythya australis', 'Dicrurus macrocercus', 'Anser albifrons', 'Buteo regalis', 
+  'Haliaeetus leucocephalus', 'Morus bassanus', 'Certhia familiaris', 'Rostrhamus sociabilis', 'Cracticus torquatus', 'Passerina amoena', 'Aythya fuligula', 
+  'Chondestes grammacus', 'Fulica atra', 'Mergus merganser', 'Egretta thula', 'Pyrrhula pyrrhula', 'Aquila chrysaetos', 'Setophaga townsendi', 
+  'Cygnus atratus', 'Cygnus buccinator', 'Branta canadensis', 'Circus hudsonius', 'Anhinga anhinga', 'Buteo jamaicensis', 'Pica pica', 'Corvus frugilegus', 
+  'Bonasa umbellus', 'Myiozetetes similis', 'Progne subis', 'Megaceryle alcyon', 'Molothrus ater', 'Piranga rubra', 'Vanellus chilensis', 'Cygnus olor', 
+  'Passerculus sandwichensis', 'Chroicocephalus philadelphia', 'Setophaga palmarum', 'Himantopus himantopus', 'Setophaga occidentalis', 'Buteo lineatus', 
+  'Zonotrichia leucophrys', 'Saltator coerulescens', 'Tyrannus vociferans', 'Junco hyemalis', 'Pitangus sulphuratus', 'Sylvia communis', 
+  'Melanerpes erythrocephalus', 'Rhipidura leucophrys', 'Quiscalus major', 'Sphyrapicus varius', 'Sitta europaea', 'Cyanocorax yncas', 'Corvus brachyrhynchos', 
+  'Sitta canadensis', 'Cyanistes caeruleus', 'Colaptes auratus', 'Baeolophus inornatus', 'Erithacus rubecula', 'Poecile carolinensis', 'Passer domesticus', 
+  'Sphecotheres vieilloti', 'Mniotilta varia', 'Dryocopus pileatus', 'Prunella modularis', 'Megarynchus pitangua', 'Melospiza georgiana', 'Agelaius phoeniceus', 
+  'Lanius cristatus', 'Catharus ustulatus', 'Ammodramus savannarum', 'Thryothorus ludovicianus', 'Troglodytes aedon', 'Setophaga caerulescens', 
+  'Neochmia temporalis', 'Setophaga citrina', 'Myiodynastes luteiventris', 'Setophaga discolor', 'Pipilo erythrophthalmus', 'Pica nuttalli', 
+  'Toxostoma longirostre', 'Ardea melanocephala', 'Microcarbo africanus', 'Charadrius wilsonia', 'Spizella breweri', 'Patagioenas flavirostris', 
+  'Chlidonias hybrida', 'Sterna paradisaea', 'Calidris virgata', 'Acridotheres cristatellus', 'Tigrisoma lineatum', 'Ciconia nigra', 'Oriolus chinensis', 
+  'Chloroceryle amazona', 'Sylvia curruca', 'Pernis ptilorhynchus', 'Charadrius alexandrinus', 'Certhia brachydactyla', 'Myiodynastes maculatus', 
+  'Larus pacificus', 'Treron vernans', 'Urocissa erythroryncha', 'Microcarbo pygmeus', 'Elseyornis melanops', 'Mycteria leucocephala', 'Gerygone igata', 
+  'Fulica cristata', 'Turdus leucomelas', 'Brotogeris jugularis', 'Pycnonotus aurigaster', 'Lagonosticta senegala', 'Poecile hudsonicus', 'Ploceus velatus', 
+  'Ploceus cucullatus', 'Plocepasser mahali', 'Calidris ruficollis', 'Tringa stagnatilis', 'Empidonax virescens', 'Polemaetus bellicosus', 
+  'Lamprotornis superbus', 'Jynx torquilla', 'Buteo rufinus', 'Cecropis daurica', 'Anser fabalis', 'Coscoroba coscoroba', 'Anthus petrosus', 
+  'Torgos tracheliotos', 'Lamprotornis nitens', 'Habia fuscicauda', 'Calonectris diomedea', 'Vanellus senegallus', 'Polioptila californica', 
+  'Cinnyris asiaticus', 'Saltator aurantiirostris', 'Burhinus vermiculatus', 'Charadrius collaris', 'Cyanocorax beecheii', 'Myiozetetes cayanensis', 
+  'Dicrurus leucophaeus', 'Phoeniculus purpureus', 'Colaptes chrysoides', 'Lophaetus occipitalis', 'Ixobrychus minutus', 'Ardea goliath', 
+  'Stercorarius longicaudus', 'Aethopyga siparaja', 'Prinia subflava', 'Fluvicola nengeta', 'Lophoceros alboterminatus', 'Vireo atricapilla', 
+  'Halcyon senegalensis', 'Stelgidopteryx ruficollis', 'Ortalis cinereiceps', 'Forpus conspicillatus', 'Trogon rufus', 'Anthracothorax nigricollis', 
+  'Rhipidura javanica', 'Dendrocopos syriacus', 'Eucometis penicillata', 'Poecile sclateri', 'Emberiza rustica', 'Colaptes punctigula', 'Ocreatus underwoodii', 
+  'Prionops plumatus', 'Antrostomus vociferus', 'Spheniscus magellanicus']

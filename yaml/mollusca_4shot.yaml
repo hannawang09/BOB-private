@@ -1,0 +1,11 @@
+data_root: '/home/user/Dataset/species196/species196_mollusca'
+fewshot_file_path: '/media/user/Data/Synthesis4VSR-private/data_resource/species196_mollusca/fewshot4_seed1.txt'
+caption_path: /media/user/Data/BeyondObjects/captions/species196_mollusca_4shot
+synthetic_path: ../syn_data/species196_mollusca_4shot
+lora_path: ../lora/species196_mollusca_4shot
+template: "a mollusk photo of a {} in the {} background with the {} pose"
+dataset: species196_mollusca
+num_synth: 100
+model: sd-legacy/stable-diffusion-v1-5
+classnames:
+  ['Achatina fulica', 'Acusta despecta', 'Cepaea hortensis', 'Cernuella virgata', 'Euglandina rosea', 'Otala lactea', 'Theba pisana']

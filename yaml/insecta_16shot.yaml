@@ -1,0 +1,24 @@
+data_root: '/home/user/Dataset/species196/species196_insecta'
+fewshot_file_path: '/media/user/Data/Synthesis4VSR-private/data_resource/species196_insecta/fewshot16_seed1.txt'
+caption_path: /media/user/Data/BeyondObjects/captions/species196_insecta_16shot
+synthetic_path: ../syn_data/species196_insecta_16shot
+lora_path: ../lora/species196_insecta_16shot
+template: "an insect photo of a {} in the {} background with the {} pose"
+dataset: species196_insecta
+num_synth: 100
+model: sd-legacy/stable-diffusion-v1-5
+classnames:
+  ['Acanthocinus carinulatus', 'Acanthoscelides obtectus', 'Acleris variana', 'Agrilus spp.', 'Aleurodicus dispersus', 
+  'Anastrepha', 'Aonidiella comperei', 'Apate monachus', 'Arhopalus syriacus', 'Bactrocera', 'Batocera spp.', 'Bruchus spp.', 
+  'Cacoecimorpha pronubana', 'Callosobruchus spp.', 'Ceratitis', 'Ceroplastes rusci', 'Chionaspis pinifoliae', 
+  'Choristoneura fumiferana', 'Conotrachelus', 'Contarinia sorghicola', 'Coptotermes spp.', 'Cryptophlebia leucotreta', 
+  'Cryptorrhynchus lapathi', 'Ctenopseustis obliquana', 'Curculio elephas', 'Deudorix isocrates', 'Diabrotica', 'Diaphania nitidalis', 
+  'Diaprepes abbreviata', 'Diatraea saccharalis', 'Dryocoetes confusus', 'Eriosoma lanigerum', 'Eulecanium gigantea', 'Gonipterus scutellatus', 
+  'Helicoverpa zea', 'Hemerocampa leucostigma', 'Hoplocerambyx spinicornis', 'Hylobius pales', 'Hylotrupes bajulus', 'Hylurgus ligniperda', 
+  'Hyphantria cunea', 'Incisitermes minor', 'Leptinotarsa decemlineata', 'Liriomyza trifolii', 'Lissorhoptrus oryzophilus', 
+  'Listronotus bonariensis', 'Lobesia botrana', 'Monochamus spp.', 'Naupactus leucoloma', 'Neoclytus acuminatus', 'Opogona sacchari', 
+  'Pantomorus cervinus', 'Pharaxonotha kirschi', 'Phoracantha semipunctata', 'Pissodes', 'Planococ', 'Planococcus lilacius', 
+  'Popillia japonica', 'Prays citri', 'Ptinus tectus', 'Reticulitermes lucifugus', 'Rhagoletis spp.', 'Saperda spp.', 
+  'Scyphophorus acupunctatus', 'Sirex noctilio', 'Solenopsis invicta', 'Spodoptera littoralis', 'Stathmopoda skelloni', 
+  'Taeniothrips inconsequens', 'Tetropium spp.', 'Thaumetopoea pityocampa', 'Toxotrypana curvicauda', 'Tribolium destructor', 
+  'Trogoderma spp.', 'Vesperus', 'Viteus vitifoliae', 'Xyleborus spp.', 'Xylotrechus rusticus']
